@@ -1259,6 +1259,8 @@ https://au7live.tooliserver.com/live/470_0.m3u8?session=&location=
 https://au7live.tooliserver.com/live/381_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",ALJadeed
 http://163.172.28.43:9090/stream/37451954/c4db1a778d2f53ceecb4b55e26723f3b/6290-.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",ALJadeed
+https://blogs.livehdchanel.live/jadeed/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxzvqA" group-title="لبنانLEBANON",Tele Liban SD
 https://au7live.tooliserver.com/live/383_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="لبنانLEBANON",LBN-ALAAN HD
@@ -1269,8 +1271,6 @@ https://nbntv.me:8443/nbntv/index.m3u8
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV_LEBANON TV
 http://185.9.2.25/MCNC_MTV_LEBANON/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3iHZoPJ" group-title="لبنانLEBANON",aljadeed TV
-http://62.210.247.238/jadeed/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",Otv
 http://62.210.247.238/otv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name=" tvg-country="" tvg-language="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="لبنانLEBANON",Tele Liban
