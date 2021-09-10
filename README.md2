@@ -1280,11 +1280,13 @@ https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="11 لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37Tn8JR" group-title="11 لبنانLEBANON",MTV_LEBANON TV
-http://185.9.2.25/MCNC_MTV_LEBANON/tracks-v1a1/mono.m3u8
+https://blogs.livehdchanel.live/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3iHZoPJ" group-title="11 لبنانLEBANON",aljadeed TV
-http://62.210.247.238/jadeed/tracks-v1a1/mono.m3u8
+https://blogs.livehdchanel.live/jadeed1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3iHZoPJ" group-title="11 لبنانLEBANON",aljadeed TV+
+http://163.172.28.43:9090/stream/44666990/c36095b0f3b29e0b4766073c64cded33/6290-.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3gfXkMN" group-title="11 لبنانLEBANON",Otv
-http://62.210.247.238/otv/tracks-v1a1/mono.m3u8
+https://iptv-all.lanesh4d0w.codes/lebanon/otv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",كيف احصل على الكود
@@ -1630,6 +1632,10 @@ https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv (الدقة التلقائية)
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv (الدقة التلقائية)+
+https://iptv-all.lanesh4d0w.codes/saudiarabia/aldafrah
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hiyWdT" group-title="26 الامارات EMIRATES",DUB-Ajman
+https://iptv-all.lanesh4d0w.codes/emirates/ajman
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Citruss TV (الدقة التلقائية)
 http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Yas TV (الدقة التلقائية)
