@@ -31,20 +31,12 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Eng
-http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Eng
-http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN PREMIUM 1 LOW
 http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN PREMIUM 2 LOW
 http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN PREMIUM 3 LOW
 http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Premium HD
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Premium HD
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 LOW
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 LOW
