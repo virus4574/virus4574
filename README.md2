@@ -39,32 +39,208 @@ https://stitcher.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u
 http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN PREMIUM 2 LOW
 http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
+#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA 1
+http://xcwsnl28.mrnova.online/live/60459_.m3u8?token=beddd1d657cb4e9b975cac7921f28606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="1 بين سبور BEIN SPORT", Bein Sports premium 1 HD  
-http://3.amanrouf.xyz/live/6161655/index.m3u8
+http://58.amanrouf.xyz/live/6161655/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="1 بين سبور BEIN SPORT", Bein Sports premium 1 FHD  
+http://xcwsnl28.mrnova.online/live/60050_.m3u8?token=beddd1d657cb4e9b975cac7921f28606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports premium 2 HD
-http://16.amanrouf.xyz/live/616194987/index.m3u8
+http://49.amanrouf.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports premium 2 FHD  
+http://xcwsnl28.mrnova.online/live/60051_.m3u8?token=beddd1d657cb4e9b975cac7921f28606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports premium 3 HD
-http://2.amanrouf.xyz/live/6151278887/index.m3u8
+http://56.amanrouf.xyz/live/6151278887/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports premium 3 FHD  
+http://xcwsnl28.mrnova.online/live/60052_.m3u8?token=beddd1d657cb4e9b975cac7921f28606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports HD
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD 
-http://13.amanrouf.xyz/live/918454578/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 2 HD 
-http://14.amanrouf.xyz/live/69854211/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 3 HD 
-http://3.amanrouf.xyz/live/645587700/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 4 HD 
-http://6.amanrouf.xyz/live/9787488847/index.m3u8
-#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA AR 1
-http://10.alysineoura.xyz/live/9962564400/index.m3u8
-#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA AR 1+
-http://11.alysineoura.xyz/live/9962564400/index.m3u8
-#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA AR 2
-http://17.alysineoura.xyz/live/880025552/index.m3u8
-#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA AR 2+
-http://10.alysineoura.xyz/live/880025552/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD+
+http://23.88.39.74:80/live/918454578/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 Premium FHD
+http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 Premium FHD
+http://xcwsnl28.mrnova.online/live/60081_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 Premium FHD
+http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 FHD
+http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 FHD
+http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 FHD
+http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 4 FHD
+http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 5 FHD
+http://xcwsnl28.mrnova.online/live/60087_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 6 FHD
+http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 7 FHD
+http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=
+
+
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 Premium HD
+http://xcwsnl28.mrnova.online/live/60060_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 Premium HD
+http://xcwsnl28.mrnova.online/live/60061_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 Premium HD
+http://xcwsnl28.mrnova.online/live/60062_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 HD
+http://xcwsnl28.mrnova.online/live/60063_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 HD
+http://xcwsnl28.mrnova.online/live/60064_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 HD
+http://xcwsnl28.mrnova.online/live/60065_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 4 HD
+http://xcwsnl28.mrnova.online/live/60066_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 5 HD
+http://xcwsnl28.mrnova.online/live/60067_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 6 HD
+http://xcwsnl28.mrnova.online/live/60068_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 7 HD
+http://xcwsnl28.mrnova.online/live/60069_.m3u8?token=
+
+
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 Premium SD
+http://xcwsnl28.mrnova.online/live/60030_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 Premium SD
+http://xcwsnl28.mrnova.online/live/60031_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 Premium SD
+http://xcwsnl28.mrnova.online/live/60032_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 SD
+http://xcwsnl28.mrnova.online/live/60033_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 SD
+http://xcwsnl28.mrnova.online/live/60034_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 SD
+http://xcwsnl28.mrnova.online/live/60035_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 4 SD
+http://xcwsnl28.mrnova.online/live/60036_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 5 SD
+http://xcwsnl28.mrnova.online/live/60037_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 6 SD
+http://xcwsnl28.mrnova.online/live/60038_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 7 SD
+http://xcwsnl28.mrnova.online/live/60039_.m3u8?token=
+
+
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT",beiN_Sports 1 Premium LOW
+http://xcwsnl28.mrnova.online/live/60000_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT",beiN_Sports 2 Premium LOW
+http://xcwsnl28.mrnova.online/live/60001_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT",beiN_Sports 3 Premium LOW
+http://xcwsnl28.mrnova.online/live/60002_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 1 LOW
+http://xcwsnl28.mrnova.online/live/60003_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 2 LOW
+http://xcwsnl28.mrnova.online/live/60004_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 3 LOW
+http://xcwsnl28.mrnova.online/live/60005_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 4 LOW
+http://xcwsnl28.mrnova.online/live/60006_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 5 LOW
+http://xcwsnl28.mrnova.online/live/60007_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 6 LOW
+http://xcwsnl28.mrnova.online/live/60008_.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="1 بين سبور BEIN SPORT" ,beiN_Sports 7 LOW
+http://xcwsnl28.mrnova.online/live/60009_.m3u8?token=
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6161655/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/88824257/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/97848484/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/616194987/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/79481245/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/122233888/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6151278887/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/17988558/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/819797877/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/918454578/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/978488877/index.m3u8
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/31009988/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/69854211/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/10011244/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/4798998070/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/645587700/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/161988840/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/551818447/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/0103088447/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/131326625/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 HD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 SD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/115451004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 LOW
+http://55.banrhfour.xyz.global.prod.fastly.net/live/181818444/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 HD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 SD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/788550011/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 LOW
+http://55.banrhfour.xyz.global.prod.fastly.net/live/9883322/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 HD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 SD
+http://55.banrhfour.xyz.global.prod.fastly.net/live/100666696/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 LOW
+http://55.banrhfour.xyz.global.prod.fastly.net/live/130306224/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/9962564400/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/880025552/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/500025558/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/5151400337/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/0417877700/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/998222554/index.m3u8
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports News
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/62464521/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/33523510/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/14066007/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/79247621/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/652177700/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/68525202/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/0417877700/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 HD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/62464521/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 SD
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/32842140/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 LOW
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/2433016410/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 LOW
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 LOW
@@ -12279,3 +12455,432 @@ http://65.21.32.185:80/airmaxtvproalX78/cSFLfFbGvG/1017
 http://65.21.32.185:80/airmaxtvproalX78/cSFLfFbGvG/1018
 #EXTINF:-1 tvg-id="" tvg-name="ARABIC |   Ennahar TV" tvg-logo="" group-title="18 الجزائرALGERIEN",ARABIC |   Ennahar TV
 http://65.21.32.185:80/airmaxtvproalX78/cSFLfFbGvG/1019
+
+
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",1 tvg-name=Mekameleen TV
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Misr Quran Kareem
+http://xcwsnl28.mrnova.online/live/60169_.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Oula EG HD
+http://xcwsnl28.mrnova.online/live/60170_.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Althanya
+http://xcwsnl28.mrnova.online/live/60171_.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Masriyah HD
+http://xcwsnl28.mrnova.online/live/60172_.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Maspero Zaman
+http://xcwsnl28.mrnova.online/live/60173_.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",DMC HD
+http://xcwsnl28.mrnova.online/live/60174_.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",DMC DRAMA
+http://xcwsnl28.mrnova.online/live/60175_.m3u8?token=
+#EXTINF:0 tvg-id="cbc" group-title="15 المصرية Egypt",CBC
+http://xcwsnl28.mrnova.online/live/60176_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CBC Extra News HD
+http://xcwsnl28.mrnova.online/live/60177_.m3u8?token=
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="15 المصرية Egypt",CBC Drama
+http://xcwsnl28.mrnova.online/live/60178_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CBC Sofra
+http://xcwsnl28.mrnova.online/live/60179_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ON E HD
+http://xcwsnl28.mrnova.online/live/60180_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ON Drama
+http://xcwsnl28.mrnova.online/live/60181_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Al Hayat HD
+http://xcwsnl28.mrnova.online/live/60184_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Hayat Drama
+http://xcwsnl28.mrnova.online/live/60185_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Kahera Wal Nas
+http://xcwsnl28.mrnova.online/live/60186_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Kahera Wal Nas 2
+http://xcwsnl28.mrnova.online/live/60187_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Sada El Balad
+http://xcwsnl28.mrnova.online/live/60188_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Sada ALbalad 2
+http://xcwsnl28.mrnova.online/live/60189_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Sada El Balad Drama
+http://xcwsnl28.mrnova.online/live/60190_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mehwar HD
+http://xcwsnl28.mrnova.online/live/60191_.m3u8?token=
+#EXTINF:0 tvg-id="DreamTV.tr" group-title="15 المصرية Egypt",Dream TV
+http://xcwsnl28.mrnova.online/live/60192_.m3u8?token=
+#EXTINF:0 tvg-id="Ten.es" group-title="15 المصرية Egypt",Ten
+http://xcwsnl28.mrnova.online/live/60193_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",LTC
+http://xcwsnl28.mrnova.online/live/60194_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al-Nahar One
+http://xcwsnl28.mrnova.online/live/60195_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al-Nahar Drama
+http://xcwsnl28.mrnova.online/live/60196_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Shams TV
+http://xcwsnl28.mrnova.online/live/60197_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Hadath Alyoum
+http://xcwsnl28.mrnova.online/live/60198_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ALSeha Waljamal
+http://xcwsnl28.mrnova.online/live/60199_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mdeeh
+http://xcwsnl28.mrnova.online/live/60200_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile TV
+http://xcwsnl28.mrnova.online/live/60201_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile Family
+http://xcwsnl28.mrnova.online/live/60202_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile Life
+http://xcwsnl28.mrnova.online/live/60203_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile Cinema
+http://xcwsnl28.mrnova.online/live/60204_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile Comedy
+http://xcwsnl28.mrnova.online/live/60205_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile Culture
+http://xcwsnl28.mrnova.online/live/60206_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nile Drama
+http://xcwsnl28.mrnova.online/live/60207_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Apple Aflam
+http://xcwsnl28.mrnova.online/live/60208_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Apple Alyoum
+http://xcwsnl28.mrnova.online/live/60209_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Apple Comedy
+http://xcwsnl28.mrnova.online/live/60210_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Apple Cinema
+http://xcwsnl28.mrnova.online/live/60211_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Apple Musalslat
+http://xcwsnl28.mrnova.online/live/60212_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Apple Hekayat
+http://xcwsnl28.mrnova.online/live/60213_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Tok Tok Aflam
+http://xcwsnl28.mrnova.online/live/60214_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Tok Tok Cima
+http://xcwsnl28.mrnova.online/live/60215_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Star Cinema 1
+http://xcwsnl28.mrnova.online/live/60218_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Star Cinema 2
+http://xcwsnl28.mrnova.online/live/60219_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",PNC Drama
+http://xcwsnl28.mrnova.online/live/60220_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",PNC Drama 2
+http://xcwsnl28.mrnova.online/live/60221_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",PNC Film
+http://xcwsnl28.mrnova.online/live/60222_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",PNC Food
+http://xcwsnl28.mrnova.online/live/60223_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",PNC Today
+http://xcwsnl28.mrnova.online/live/60224_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Family Drama
+http://xcwsnl28.mrnova.online/live/60225_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Family Hikayat
+http://xcwsnl28.mrnova.online/live/60226_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Family Musalslat
+http://xcwsnl28.mrnova.online/live/60227_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Family Cinema
+http://xcwsnl28.mrnova.online/live/60228_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Sa3a Al youm
+http://xcwsnl28.mrnova.online/live/60229_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Sa3aa Comedy
+http://xcwsnl28.mrnova.online/live/60230_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Sa3aa Musalsalat
+http://xcwsnl28.mrnova.online/live/60231_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Sa3aa Drama
+http://xcwsnl28.mrnova.online/live/60232_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Sa3aa Classic
+http://xcwsnl28.mrnova.online/live/60233_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Sa3aa Cinema
+http://xcwsnl28.mrnova.online/live/60234_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Shasha Musalslat
+http://xcwsnl28.mrnova.online/live/60235_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Shasha Classic
+http://xcwsnl28.mrnova.online/live/60236_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Shasha Cinema
+http://xcwsnl28.mrnova.online/live/60237_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Shasha Food
+http://xcwsnl28.mrnova.online/live/60238_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL Shasha Film
+http://xcwsnl28.mrnova.online/live/60239_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Zilzal Classic
+http://xcwsnl28.mrnova.online/live/60240_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Zilzal Al Youm
+http://xcwsnl28.mrnova.online/live/60241_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Zilzal Musalsalat
+http://xcwsnl28.mrnova.online/live/60242_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Zilzal Cinema
+http://xcwsnl28.mrnova.online/live/60243_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",7besha  Action
+http://xcwsnl28.mrnova.online/live/60244_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Shababik Drama
+http://xcwsnl28.mrnova.online/live/60245_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",M Cinema
+http://xcwsnl28.mrnova.online/live/60246_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Film Tube
+http://xcwsnl28.mrnova.online/live/60247_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Cima Tube
+http://xcwsnl28.mrnova.online/live/60248_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Classic Tube
+http://xcwsnl28.mrnova.online/live/60249_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Cinema Tube
+http://xcwsnl28.mrnova.online/live/60250_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Drama Tube
+http://xcwsnl28.mrnova.online/live/60251_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mosalsalat Tube
+http://xcwsnl28.mrnova.online/live/60252_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Show Aflam
+http://xcwsnl28.mrnova.online/live/60253_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Show Drama
+http://xcwsnl28.mrnova.online/live/60254_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Show Hakayat
+http://xcwsnl28.mrnova.online/live/60255_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Show Mosalslat
+http://xcwsnl28.mrnova.online/live/60256_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Show Cinema
+http://xcwsnl28.mrnova.online/live/60257_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ORPIT Hekayat
+http://xcwsnl28.mrnova.online/live/60258_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ORPIT AL Youm
+http://xcwsnl28.mrnova.online/live/60259_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ORPIT Movies
+http://xcwsnl28.mrnova.online/live/60260_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ORPIT Cinema
+http://xcwsnl28.mrnova.online/live/60261_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ORPIT Drama
+http://xcwsnl28.mrnova.online/live/60262_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Dolly Musalsalat
+http://xcwsnl28.mrnova.online/live/60263_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Dolly Drama
+http://xcwsnl28.mrnova.online/live/60264_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Dolly Cinema
+http://xcwsnl28.mrnova.online/live/60265_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EgyBest Comedy
+http://xcwsnl28.mrnova.online/live/60266_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EgyBest Drama
+http://xcwsnl28.mrnova.online/live/60267_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EgyBest Today
+http://xcwsnl28.mrnova.online/live/60268_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EgyBest Aflam
+http://xcwsnl28.mrnova.online/live/60269_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EgyBest Cima
+http://xcwsnl28.mrnova.online/live/60270_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EgyBest Cinema
+http://xcwsnl28.mrnova.online/live/60271_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Otlob Today
+http://xcwsnl28.mrnova.online/live/60272_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Otlob Cinema
+http://xcwsnl28.mrnova.online/live/60273_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Otlob Aflam
+http://xcwsnl28.mrnova.online/live/60274_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Otlob Drama
+http://xcwsnl28.mrnova.online/live/60275_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Otlob Zaman
+http://xcwsnl28.mrnova.online/live/60276_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Otlob Hekayat
+http://xcwsnl28.mrnova.online/live/60277_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Yoom Drama
+http://xcwsnl28.mrnova.online/live/60278_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Yoom Hekayat
+http://xcwsnl28.mrnova.online/live/60279_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Ar; AL Yoom Comedy
+http://xcwsnl28.mrnova.online/live/60280_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Ar; AL Yoom Aflam
+http://xcwsnl28.mrnova.online/live/60281_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Yoom Cinema
+http://xcwsnl28.mrnova.online/live/60282_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al Yoom Zaman
+http://xcwsnl28.mrnova.online/live/60283_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",4G Classic
+http://xcwsnl28.mrnova.online/live/60284_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",4G Cima
+http://xcwsnl28.mrnova.online/live/60285_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",4G Drama
+http://xcwsnl28.mrnova.online/live/60286_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Queen Aflam
+http://xcwsnl28.mrnova.online/live/60287_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Queen TV
+http://xcwsnl28.mrnova.online/live/60288_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Cinema Pro
+http://xcwsnl28.mrnova.online/live/60289_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Cinema Pro Classic
+http://xcwsnl28.mrnova.online/live/60290_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Cima TV
+http://xcwsnl28.mrnova.online/live/60291_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Oscar TV
+http://xcwsnl28.mrnova.online/live/60292_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Movies
+http://xcwsnl28.mrnova.online/live/60293_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Box Movies
+http://xcwsnl28.mrnova.online/live/60294_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Top Movies
+http://xcwsnl28.mrnova.online/live/60295_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mix Hollywood
+http://xcwsnl28.mrnova.online/live/60296_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mix Bel Araby
+http://xcwsnl28.mrnova.online/live/60297_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Belody Aflam
+http://xcwsnl28.mrnova.online/live/60298_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Belody Plus
+http://xcwsnl28.mrnova.online/live/60299_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",HollyWood Horror
+http://xcwsnl28.mrnova.online/live/60300_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Njoom HollyWood
+http://xcwsnl28.mrnova.online/live/60301_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Drama Alwan
+http://xcwsnl28.mrnova.online/live/60302_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Hekaya Hendy TV
+http://xcwsnl28.mrnova.online/live/60303_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Masr Om ELDonia
+http://xcwsnl28.mrnova.online/live/60304_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Sowt AL Arab TV
+http://xcwsnl28.mrnova.online/live/60305_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Sha3beyat
+http://xcwsnl28.mrnova.online/live/60306_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",EL Moleed
+http://xcwsnl28.mrnova.online/live/60307_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mazzika
+http://xcwsnl28.mrnova.online/live/60308_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Nogoum FM
+http://xcwsnl28.mrnova.online/live/60309_.m3u8?token=
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Ya Hala SD
+http://xcwsnl28.mrnova.online/live/60172_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Ya Hala Al Oula SD
+http://xcchui2.mrnova.online/live/60173_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Yahala Cinema SD
+http://xcchui2.mrnova.online/live/60174_.m3u8?token=
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="11او اس انOSN",Cinema 1 SD
+http://xcchui2.mrnova.online/live/60175_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Cinema 2 SD
+http://xcchui2.mrnova.online/live/60176_.m3u8?token=
+#EXTINF:0 tvg-id="tv1000-action" group-title="11او اس انOSN",Action SD
+http://xcchui2.mrnova.online/live/60177_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies First SD
+http://xcchui2.mrnova.online/live/60178_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies SD
+http://xcchui2.mrnova.online/live/60179_.m3u8?token=
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="11او اس انOSN",Nickelodeon SD
+http://xcchui2.mrnova.online/live/60180_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies Kids SD
+http://xcchui2.mrnova.online/live/60181_.m3u8?token=
+#EXTINF:0 tvg-id="disney" group-title="11او اس انOSN",Disney SD
+http://xcchui2.mrnova.online/live/60182_.m3u8?token=
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="11او اس انOSN",Disney Junior SD
+http://xcchui2.mrnova.online/live/60183_.m3u8?token=
+#EXTINF:0 tvg-id="nick-jr" group-title="11او اس انOSN",Nick Jr SD
+http://xcchui2.mrnova.online/live/60184_.m3u8?token=
+#EXTINF:0 tvg-id="Kidzone.blt" group-title="11او اس انOSN",Kid Zone TV SD
+http://xcchui2.mrnova.online/live/60185_.m3u8?token=
+#EXTINF:0 tvg-id="natgeowild" group-title="11او اس انOSN",Nat Geo Wild SD
+http://xcchui2.mrnova.online/live/60186_.m3u8?token=
+#EXTINF:0 tvg-id="natgeo" group-title="11او اس انOSN",Nat Geo SD
+http://xcchui2.mrnova.online/live/60187_.m3u8?token=
+#EXTINF:0 tvg-id="NatGeoPeople.in" group-title="11او اس انOSN",Nat Geo People SD
+http://xcchui2.mrnova.online/live/60188_.m3u8?token=
+#EXTINF:0 tvg-id="id-extra" group-title="11او اس انOSN",Discovery ID SD
+http://xcchui2.mrnova.online/live/60189_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Ya Hala HD
+http://xcchui2.mrnova.online/live/60190_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Ya Hala Al Oula HD
+http://xcchui2.mrnova.online/live/60191_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Yahala Cinema HD
+http://xcchui2.mrnova.online/live/60192_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Series Channel
+http://xcchui2.mrnova.online/live/60193_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Al Yawm
+http://xcchui2.mrnova.online/live/60194_.m3u8?token=
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="11او اس انOSN",Cinema 1
+http://xcwsnl28.mrnova.online/live/60216_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Cinema 2
+http://xcwsnl28.mrnova.online/live/60217_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Fann
+http://xcchui2.mrnova.online/live/60197_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies Disney HD
+http://xcchui2.mrnova.online/live/60198_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Series +2
+http://xcchui2.mrnova.online/live/60199_.m3u8?token=
+#EXTINF:0 tvg-id="disneychannel.de" group-title="11او اس انOSN",Disney HD
+http://xcchui2.mrnova.online/live/60200_.m3u8?token=
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="11او اس انOSN",Disney Junior HD
+http://xcchui2.mrnova.online/live/60201_.m3u8?token=
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="11او اس انOSN",Nick Jr HD
+http://xcchui2.mrnova.online/live/60202_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Kid Zone TV HD
+http://xcchui2.mrnova.online/live/60203_.m3u8?token=
+#EXTINF:0 tvg-id="BabyTV.fr" group-title="11او اس انOSN",Baby TV HD
+http://xcchui2.mrnova.online/live/60204_.m3u8?token=
+#EXTINF:0 tvg-id="wild-hd" group-title="11او اس انOSN",Nat Geo Wild HD
+http://xcchui2.mrnova.online/live/60205_.m3u8?token=
+#EXTINF:0 tvg-id="natgeo_hd" group-title="11او اس انOSN",Nat Geo HD
+http://xcchui2.mrnova.online/live/60206_.m3u8?token=
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="11او اس انOSN",Nat Geo People HD
+http://xcchui2.mrnova.online/live/60207_.m3u8?token=
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="11او اس انOSN",Discovery HD
+http://xcchui2.mrnova.online/live/60208_.m3u8?token=
+#EXTINF:0 tvg-id="discov_sci" group-title="11او اس انOSN",Discovery Science HD
+http://xcchui2.mrnova.online/live/60209_.m3u8?token=
+#EXTINF:0 tvg-id="id-extra" group-title="11او اس انOSN",Discovery ID HD
+http://xcchui2.mrnova.online/live/60210_.m3u8?token=
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="11او اس انOSN",History HD
+http://xcchui2.mrnova.online/live/60211_.m3u8?token=
+#EXTINF:0 tvg-id="Living.al" group-title="11او اس انOSN",Living HD
+http://xcchui2.mrnova.online/live/60212_.m3u8?token=
+#EXTINF:0 tvg-id="E!.pl" group-title="11او اس انOSN",E! Entertainment HD
+http://xcchui2.mrnova.online/live/60213_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies First HD
+http://xcchui2.mrnova.online/live/60214_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies First +2 HD
+http://xcchui2.mrnova.online/live/60215_.m3u8?token=
+#EXTINF:0 tvg-id="Action.ca" group-title="11او اس انOSN",Action HD
+http://xcchui2.mrnova.online/live/60216_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Enigma HD
+http://xcchui2.mrnova.online/live/60217_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies HD
+http://xcchui2.mrnova.online/live/60218_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Series HD
+http://xcchui2.mrnova.online/live/60219_.m3u8?token=
+#EXTINF:0 tvg-id="Woman.svn" group-title="11او اس انOSN",Woman HD
+http://xcchui2.mrnova.online/live/60220_.m3u8?token=
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="11او اس انOSN",Comedy HD
+http://xcchui2.mrnova.online/live/60221_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies Kids HD
+http://xcchui2.mrnova.online/live/60222_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Movies Family HD
+http://xcchui2.mrnova.online/live/60223_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Series First HD
+http://xcchui2.mrnova.online/live/60224_.m3u8?token=
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="11او اس انOSN",Star Movies HD
+http://xcchui2.mrnova.online/live/60225_.m3u8?token=
+#EXTINF:0 tvg-id="StarWorldHD.in" group-title="11او اس انOSN",Star World HD
+http://xcchui2.mrnova.online/live/60226_.m3u8?token=
+#EXTINF:0 tvg-id="vh1-europe" group-title="11او اس انOSN",VH1
+http://xcchui2.mrnova.online/live/60227_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",NEWS
+http://xcchui2.mrnova.online/live/60228_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Music Now
+http://xcchui2.mrnova.online/live/60229_.m3u8?token=
+#EXTINF:0 tvg-id="history2-rus" group-title="11او اس انOSN",H2 HD
+http://xcchui2.mrnova.online/live/60230_.m3u8?token=
+#EXTINF:0 tvg-id="nickelod-hd" group-title="11او اس انOSN",Nickelodeon HD
+http://xcchui2.mrnova.online/live/60231_.m3u8?token=
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="11او اس انOSN",MTV Live HD
+http://xcchui2.mrnova.online/live/60232_.m3u8?token=
+#EXTINF:0 tvg-id="fashion" group-title="11او اس انOSN",Fashion TV HD
+http://xcchui2.mrnova.online/live/60233_.m3u8?token=
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="11او اس انOSN",Sky News HD
+http://xcchui2.mrnova.online/live/60234_.m3u8?token=
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="11او اس انOSN",Fox News Channel
+http://xcchui2.mrnova.online/live/60235_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Safwa
+http://xcchui2.mrnova.online/live/60236_.m3u8?token=
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="11او اس انOSN",TLC HD
+http://xcchui2.mrnova.online/live/60237_.m3u8?token=
+#EXTINF:0 tvg-id="Crime-InvestigationHD.us" group-title="11او اس انOSN",CI HD
+http://xcchui2.mrnova.online/live/60238_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",Mezze
+http://xcchui2.mrnova.online/live/60239_.m3u8?token=
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="11او اس انOSN",Nick Toons
+http://xcchui2.mrnova.online/live/60240_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",MIX HD
+http://xcchui2.mrnova.online/live/60241_.m3u8?token=
+
+
+
