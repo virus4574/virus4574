@@ -186,195 +186,195 @@ http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 6
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Bein Xtra 1" tvg-group="NEWبين سبور BEIN SPORT",Bein Xtra 1
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",Bein Xtra 1
 http://xcwsnl28.mrnova.online/live/60459_.m3u8?token=
-#EXTINF:-1 tvg-name="Bein Xtra 2" tvg-group="NEWبين سبور BEIN SPORT",Bein Xtra 2
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",Bein Xtra 2
 http://xcwsnl28.mrnova.online/live/60460_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-PREMIUM-1-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 MINI 512K
 http://xcwsnl28.mrnova.online/live/60000_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-PREMIUM-2-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 MINI 512K
 http://xcwsnl28.mrnova.online/live/60001_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-PREMIUM-3-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 MINI 512K
 http://xcwsnl28.mrnova.online/live/60002_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-1-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 MINI 512K
 http://xcwsnl28.mrnova.online/live/60003_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-2-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 MINI 512K
 http://xcwsnl28.mrnova.online/live/60004_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-3-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 MINI 512K
 http://xcwsnl28.mrnova.online/live/60005_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-4-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 MINI 512K
 http://xcwsnl28.mrnova.online/live/60006_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-5-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 MINI 512K
 http://xcwsnl28.mrnova.online/live/60007_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-6-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 MINI 512K
 http://xcwsnl28.mrnova.online/live/60008_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-7-MINI-512K.png?type=icon" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 MINI 512K
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 MINI 512K
 http://xcwsnl28.mrnova.online/live/60009_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 LOW 1M
 http://xcwsnl28.mrnova.online/live/60010_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 LOW 1M
 http://xcwsnl28.mrnova.online/live/60011_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 LOW 1M
 http://xcwsnl28.mrnova.online/live/60012_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 LOW 1M
 http://xcwsnl28.mrnova.online/live/60013_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 LOW 1M
 http://xcwsnl28.mrnova.online/live/60014_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 LOW 1M
 http://xcwsnl28.mrnova.online/live/60015_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 LOW 1M
 http://xcwsnl28.mrnova.online/live/60016_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 LOW 1M
 http://xcwsnl28.mrnova.online/live/60017_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 LOW 1M
 http://xcwsnl28.mrnova.online/live/60018_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 LOW 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 LOW 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 LOW 1M
 http://xcwsnl28.mrnova.online/live/60019_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 SD 2M
 http://xcwsnl28.mrnova.online/live/60020_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 SD 2M
 http://xcwsnl28.mrnova.online/live/60021_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 SD 2M
 http://xcwsnl28.mrnova.online/live/60022_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 SD 2M
 http://xcwsnl28.mrnova.online/live/60023_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 SD 2M
 http://xcwsnl28.mrnova.online/live/60024_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 SD 2M
 http://xcwsnl28.mrnova.online/live/60025_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 SD 2M
 http://xcwsnl28.mrnova.online/live/60026_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 SD 2M
 http://xcwsnl28.mrnova.online/live/60027_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 SD 2M
 http://xcwsnl28.mrnova.online/live/60028_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 SD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 SD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 SD 2M
 http://xcwsnl28.mrnova.online/live/60029_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 NANO 2M
 http://xcwsnl28.mrnova.online/live/60030_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 NANO 2M
 http://xcwsnl28.mrnova.online/live/60031_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 NANO 2M
 http://xcwsnl28.mrnova.online/live/60032_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 NANO 2M
 http://xcwsnl28.mrnova.online/live/60033_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 NANO 2M
 http://xcwsnl28.mrnova.online/live/60034_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 NANO 2M
 http://xcwsnl28.mrnova.online/live/60035_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 NANO 2M
 http://xcwsnl28.mrnova.online/live/60036_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 NANO 2M
 http://xcwsnl28.mrnova.online/live/60037_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 NANO 2M
 http://xcwsnl28.mrnova.online/live/60038_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 NANO 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 NANO 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 NANO 2M
 http://xcwsnl28.mrnova.online/live/60039_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 4K 4M
 http://xcwsnl28.mrnova.online/live/60040_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 4K 4M
 http://xcwsnl28.mrnova.online/live/60041_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 4K 4M
 http://xcwsnl28.mrnova.online/live/60042_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 4K 4M
 http://xcwsnl28.mrnova.online/live/60043_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 4K 4M
 http://xcwsnl28.mrnova.online/live/60044_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 4K 4M
 http://xcwsnl28.mrnova.online/live/60045_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 4K 4M
 http://xcwsnl28.mrnova.online/live/60046_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 4K 4M
 http://xcwsnl28.mrnova.online/live/60047_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 4K 4M
 http://xcwsnl28.mrnova.online/live/60048_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 4K 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 4K 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 4K 4M
 http://xcwsnl28.mrnova.online/live/60049_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60050_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60051_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60052_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60053_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60054_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60055_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60056_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60057_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60058_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 PURE 4/8M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 PURE 4/8M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 PURE 4/8M
 http://xcwsnl28.mrnova.online/live/60059_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60060_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60061_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60062_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60063_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60064_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60065_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60066_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60067_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60068_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 H265 HQ 1M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 H265 HQ 1M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 H265 HQ 1M
 http://xcwsnl28.mrnova.online/live/60069_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 H265 HD 2M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 H265 HD 2M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 H265 HD 2M
 http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 1 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 1 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 2 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 2 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60081_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN PREMIUM 3 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN PREMIUM 3 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 1 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 1 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 1 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 2 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 2 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 2 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 3 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 3 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 3 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 4 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 4 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 4 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 5 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 5 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 5 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60087_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 6 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 6 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 6 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=
-#EXTINF:-1 tvg-name="BEIN SPORT 7 H265 FHD 4M" tvg-group="NEWبين سبور BEIN SPORT",BEIN SPORT 7 H265 FHD 4M
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",BEIN SPORT 7 H265 FHD 4M
 http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=
-#EXTINF:-1 tvg-name="Bein Xtra 1" tvg-group="NEWبين سبور BEIN SPORT",Bein Xtra 1
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",Bein Xtra 1
 http://xcwsnl28.mrnova.online/live/60459_.m3u8?token=
-#EXTINF:-1 tvg-name="Bein Xtra 2" tvg-group="NEWبين سبور BEIN SPORT",Bein Xtra 2
+#EXTINF:0 tvg-id="ext" group-title="NEWبين سبور BEIN SPORT",Bein Xtra 2
 http://xcwsnl28.mrnova.online/live/60460_.m3u8?token=
-
 #EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",كيف احصل على الكود
