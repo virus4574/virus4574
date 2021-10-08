@@ -1771,10 +1771,12 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
 https://au7live.tooliserver.com/live/149075_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="العراق IRAQ",IRQ-IRAQIA الاخبارية
 https://au7live.tooliserver.com/live/149074_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="العراق IRAQ",AlahadTV
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paPPZX" group-title="العراق IRAQ",IRQ-الفرات
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="العراق IRAQ",IRQ-AL-RASHEED TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Future
+https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist_w125001985_b900000.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq 24
+https://113483.global.ssl.fastly.net/edge-en/ngrp:live_31b220e0e20611eab1b9cfce247e5d5f_all/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",iNEWS
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
