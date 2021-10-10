@@ -537,29 +537,6 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",one HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="Kabel.de" group-title="DEUTSCH",kabel eins HD
-http://5.146.116.76:8001/1:0:19:7D67:141:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="Kabel.de" group-title="DEUTSCH",kabel eins
-http://5.146.116.76:8001/1:0:1:2F4A:A1:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="DEUTSCH",kabel eins classics HD
-http://5.146.116.76:8001/1:0:19:98BD:187:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="DEUTSCH",kabel eins classics
-http://5.146.116.76:8001/1:0:1:3338:83:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="KabelEinsDoku.de" group-title="DEUTSCH",kabel eins Doku
-http://5.146.116.76:8001/1:0:1:46C5:B5:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="Pro7.de" group-title="DEUTSCH",ProSieben HD
-http://5.146.116.76:8001/1:0:19:7D66:141:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="Pro7.de" group-title="DEUTSCH",ProSieben
-http://5.146.116.76:8001/1:0:1:2F47:A1:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ProSieben Maxx HD
-http://5.146.116.76:8001/1:0:19:7D69:141:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DEUTSCH",ProSieben MAXX
-http://5.146.116.76:8001/1:0:1:2F51:A1:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ProSieben Fun HD
-http://5.146.116.76:8001/1:0:19:94D5:187:270F:FFFF0000:0:0:0
-#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="DEUTSCH",ProSieben FUN
-http://5.146.116.76:8001/1:0:1:75A3:AB:270F:FFFF0000:0:0:0
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",Radio Bremen TV HD
 https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",NDR Niedersachsen
