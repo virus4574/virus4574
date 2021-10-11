@@ -509,18 +509,43 @@ https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Natural TV
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DEUTSCH TV
 https://bit.ly/3pWtmPO
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/zu5gaQU.png" group-title="DEUTSCH",ONE Ⓖ
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/fojjpeg.png" group-title="DEUTSCH",ARTE Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/kRq4CIF.png" group-title="DEUTSCH",Das Erste Ⓖ
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2r7GK0L.png" group-title="DEUTSCH",3sat Ⓖ
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png" group-title="DEUTSCH",WDR Ⓖ
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png" group-title="DEUTSCH",SWR Ⓖ
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/sr.png" group-title="DEUTSCH",SR Ⓖ
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/hr.png" group-title="DEUTSCH",HR Ⓖ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png" group-title="DEUTSCH",RBB Berlin Ⓖ
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png" group-title="DEUTSCH",RBB Brandenburg Ⓖ
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="DEUTSCH",Nick Ⓖ
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Kabel Eins HD
-http://31.220.41.86:8081/live/de-kabel1.stream/playlist.m3u8
+http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6067/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF HD(مشغل GSE)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF info HD(مشغل GSE)
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF neo HD(مشغل GSE)
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL
 https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
 #EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL west
