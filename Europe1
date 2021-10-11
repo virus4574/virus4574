@@ -691,8 +691,6 @@ https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Chemnitz Fernsehen
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="rheinmaintv.de" group-title="DEUTSCH",rheinmaintv
@@ -715,30 +713,18 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="DeutschesMusikFernsehen.de" group-title="DEUTSCH",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:0 tvg-id="KTV.de" group-title="DEUTSCH",K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",health.tv
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:0 tvg-id="QVC.uk" group-title="DEUTSCH",QVC
 http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:0 tvg-id="QVCPlus.us" group-title="DEUTSCH",QVC PLUS
 http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",QVC Beauty & Style
-http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:0 tvg-id="ServusHD.de" group-title="DEUTSCH",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",eoTV HD
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
 #EXTINF:0 tvg-id="MTVGermany.de" group-title="DEUTSCH",MTV Germany
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",health.tv
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",QVC Beauty & Style
-http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Baden TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Chemnitz Fernsehen
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Switzerland TV
