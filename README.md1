@@ -133,6 +133,15 @@ http://88.barouhn.xyz.global.prod.fastly.net/live/32842140/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports FR 3 LOW
 http://88.barouhn.xyz.global.prod.fastly.net/live/2433016410/index.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR:Beinsport1
+http://xcchui2.mrnova.online/live/60435_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR:Beinsport2
+http://xcchui2.mrnova.online/live/60436_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR:Beinsport3
+http://xcchui2.mrnova.online/live/60437_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR:Beinsport4
+http://xcchui2.mrnova.online/live/60438_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 
 #EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
