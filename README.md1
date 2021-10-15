@@ -1222,19 +1222,19 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
-https://au7live.tooliserver.com/live/149010_0.m3u8?session=&location=
+https://au7live.tooliserver.com/live/149010_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 SD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety FHD
-https://au7live.tooliserver.com/live/149017_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety SD
+https://au7live.tooliserver.com/live/149017_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
-https://au7live.tooliserver.com/live/149013_0.m3u8?session=&location=
+https://au7live.tooliserver.com/live/149013_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=&location=
+https://au7live.tooliserver.com/live/149015_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr SD
@@ -1315,17 +1315,19 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 FHD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 FHD
-
+https://au7live.tooliserver.com/live/149010_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 FHD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 FHD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety FHD
+https://au7live.tooliserver.com/live/149017_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action FHD
-
+https://au7live.tooliserver.com/live/149013_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max FHD
-
+https://au7live.tooliserver.com/live/149015_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr FHD
