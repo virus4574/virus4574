@@ -1495,13 +1495,14 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398mERs" group-title="16 المغربMAROCCO",tamazight tv8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398Qbur" group-title="16 المغربMAROCCO",Medi1tv Maghreb
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist.m3u8
+http://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_b978000_DVR_slar.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBNR24" group-title="16 المغربMAROCCO",Medi 1 TV Arabic
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHd6D6" group-title="16 المغربMAROCCO",M 24 HD
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TpEk1" group-title="16 المغربMAROCCO",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBNR24" group-title="16 المغربMAROCCO",Medi 1 TV Arabic
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="17 تونسTUNISIE",17 تونسTUNISIE
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="17 تونسTUNISIE",TUNISIE راديو جوهرة
