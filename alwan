@@ -8,6 +8,22 @@
 
 ياحيوانات بيكفي سرقه
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="باقة وياك VIP",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="باقة وياك VIP",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
 http://xcchui2.mrnova.online/live/60817_.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 2
