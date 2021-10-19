@@ -1567,64 +1567,32 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنانLEBANON",LBN-ldc lebanon 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBT0Zi" group-title="لبنانLEBANON",Newv SD
-https://master.starmena-cloud.com/hls/newv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="لبنانLEBANON",LBN-Future TV SD
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD
-https://manar.live/iptv/chunklist.m3u8
+https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MLitCk" group-title="لبنانLEBANON",LBN- AL-IMAN-TV SD
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD
 https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="لبنانLEBANON",LBN-ALAAN HD+
-https://stream-01.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xsBUTv53ZPjQ6ykZxlxbn-o)/dm/3/x74wje5/s/live-3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="لبنانLEBANON",Aeeshalaan SD
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="لبنانLEBANON",LBN-ALWIFAK TV SD
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yMt1nF" group-title="لبنانLEBANON",Sawt El Mada
 https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN FHD
-https://or148.tooliserver.com/live/148003_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنانLEBANON",LBC int FHD
-https://au7live.tooliserver.com/live/469_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="لبنانLEBANON",Future FHD
-https://au7live.tooliserver.com/live/700_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TY9eSV" group-title="لبنانLEBANON",OTV FHD
-https://au7live.tooliserver.com/live/117_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gZD15w" group-title="لبنانLEBANON",MTV Leb FHD
-https://au7live.tooliserver.com/live/470_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gZD15w" group-title="لبنانLEBANON",MTV Leb
 https://blogs.livehdchanel.live/mtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",ALJadeed FHD
-https://au7live.tooliserver.com/live/381_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",ALJadeed+
-https://blogs.livehdchanel.live/jadeed1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxzvqA" group-title="لبنانLEBANON",Tele Liban SD
-https://au7live.tooliserver.com/live/383_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="لبنانLEBANON",LBN-ALAAN HD
-https://au7live.tooliserver.com/live/149152_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV_LEBANON TV
-https://blogs.livehdchanel.live/mtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",Otv
-https://iptv-all.lanesh4d0w.codes/lebanon/otv
-#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name=" tvg-country="" tvg-language="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="لبنانLEBANON",Tele Liban
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
