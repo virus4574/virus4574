@@ -1084,8 +1084,6 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi SD
 https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية++
-https://au7live.tooliserver.com/live/149178_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman الوثائقية
@@ -1254,7 +1252,7 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
-https://au7live.tooliserver.com/live/149010_2.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 SD
@@ -1262,11 +1260,11 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety SD
-https://au7live.tooliserver.com/live/149017_2.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
-https://au7live.tooliserver.com/live/149013_2.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
-https://au7live.tooliserver.com/live/149015_2.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr SD
@@ -1353,13 +1351,13 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 FHD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety FHD
-https://au7live.tooliserver.com/live/149017_0.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action FHD
-https://au7live.tooliserver.com/live/149013_0.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max FHD
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr FHD
@@ -1402,36 +1400,6 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="أم بي سيMBC",|MBC| Panorama HD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
-#EXTINF:0 tvg-id="MBC1.net" group-title="أم بي سيMBC",MBC FHD
-https://au7live.tooliserver.com/live/149009_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBC2.net" group-title="أم بي سيMBC",MBC 2 FHD
-https://au7live.tooliserver.com/live/149010_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBC3.net" group-title="أم بي سيMBC",MBC 3 FHD
-https://au7live.tooliserver.com/live/149011_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBC4.net" group-title="أم بي سيMBC",MBC 4 FHD
-https://au7live.tooliserver.com/live/149012_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBCAction.net" group-title="أم بي سيMBC",MBC ACTION FHD
-https://au7live.tooliserver.com/live/149013_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="أم بي سيMBC",MBC Bollywood FHD
-https://au7live.tooliserver.com/live/149014_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBCMax.net" group-title="أم بي سيMBC",MBC MAX FHD
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",mbc + DRAMA FHD
-https://au7live.tooliserver.com/live/149016_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",mbc + variety FHD
-https://au7live.tooliserver.com/live/149017_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC IRAQ FHD
-https://au7live.tooliserver.com/live/149018_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC 5 SD
-https://or148.tooliserver.com/live/149291_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="أم بي سيMBC",MBC DRAMA FHD
-https://or148.tooliserver.com/live/149295_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC MASR 1 SD
-https://au7live.tooliserver.com/live/149296_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC MASR 2 SD
-https://au7live.tooliserver.com/live/149297_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",Wanasah
-https://au7live.tooliserver.com/live/Wanasah/Wanasah.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="روتانا ROTANA",كيف احصل على الكود
@@ -1484,35 +1452,14 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="روتانا ROTANA",Rotana+ 
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana COMEDY FHD
-https://or148.tooliserver.com/live/701_0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana CINMA EGY
-https://or148.tooliserver.com/live/148043_0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana CINMA FHD
-https://or148.tooliserver.com/live/148044_0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana CLASSIC FHD
-https://or148.tooliserver.com/live/148045_0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana clip FHD
-https://or148.tooliserver.com/live/148046_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana DRAMA FHD
-https://or148.tooliserver.com/live/148047_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana KH FHD
-https://or148.tooliserver.com/live/148048_0.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana MUSIC FHD
-https://or148.tooliserver.com/live/148049_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="روتانا ROTANA",Rotana Lbchd
-https://au7live.tooliserver.com/live/699_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="سوريةSyria",سوريةSyria
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xUG5Yl" group-title="سوريةSyria",SYR LANA HD
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="سوريةSyria",SYR-LANA HD
-https://au7live.tooliserver.com/live/149096_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="سوريةSyria",SYR-Lana Plus HD +
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",SYR-SAMA SYRIA SD
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS SD
