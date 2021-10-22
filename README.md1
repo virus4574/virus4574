@@ -174,30 +174,195 @@ http://xcchui2.mrnova.online/live/60437_.m3u8?token=895f557054aa4d5abcedbbf64b46
 http://xcchui2.mrnova.online/live/60438_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 1 HD
-http://xcwsnl28.mrnova.online:80/live/60080_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 2 HD
-http://xcwsnl28.mrnova.online:80/live/60081_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 3 HD
-http://xcwsnl28.mrnova.online:80/live/60072_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1
-http://xcwsnl28.mrnova.online:80/live/60073_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2
-http://xcwsnl28.mrnova.online:80/live/60074_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3
-http://xcwsnl28.mrnova.online:80/live/60075_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4
-http://xcwsnl28.mrnova.online:80/live/60076_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5
-http://xcwsnl28.mrnova.online:80/live/60077_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6
-http://xcwsnl28.mrnova.online:80/live/60078_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7
-http://xcwsnl28.mrnova.online:80/live/60079_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Extera1
-http://xcwsnl28.mrnova.online:80/live/60459_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Ug6uagWt.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Extera2
-http://xcwsnl28.mrnova.online:80/live/60460_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",Bein Xtra 1
+http://xcwsnl28.mrnova.online/live/60459_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",Bein Xtra 2
+http://xcwsnl28.mrnova.online/live/60460_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 MINI 512K
+http://xcwsnl28.mrnova.online/live/60000_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 MINI 512K
+http://xcwsnl28.mrnova.online/live/60001_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 MINI 512K
+http://xcwsnl28.mrnova.online/live/60002_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 MINI 512K
+http://xcwsnl28.mrnova.online/live/60003_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 MINI 512K
+http://xcwsnl28.mrnova.online/live/60004_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 MINI 512K
+http://xcwsnl28.mrnova.online/live/60005_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 MINI 512K
+http://xcwsnl28.mrnova.online/live/60006_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 MINI 512K
+http://xcwsnl28.mrnova.online/live/60007_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 MINI 512K
+http://xcwsnl28.mrnova.online/live/60008_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 MINI 512K
+http://xcwsnl28.mrnova.online/live/60009_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 LOW 1M
+http://xcwsnl28.mrnova.online/live/60010_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 LOW 1M
+http://xcwsnl28.mrnova.online/live/60011_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 LOW 1M
+http://xcwsnl28.mrnova.online/live/60012_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 LOW 1M
+http://xcwsnl28.mrnova.online/live/60013_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 LOW 1M
+http://xcwsnl28.mrnova.online/live/60014_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 LOW 1M
+http://xcwsnl28.mrnova.online/live/60015_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 LOW 1M
+http://xcwsnl28.mrnova.online/live/60016_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 LOW 1M
+http://xcwsnl28.mrnova.online/live/60017_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 LOW 1M
+http://xcwsnl28.mrnova.online/live/60018_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 LOW 1M
+http://xcwsnl28.mrnova.online/live/60019_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 SD 2M
+http://xcwsnl28.mrnova.online/live/60020_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 SD 2M
+http://xcwsnl28.mrnova.online/live/60021_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 SD 2M
+http://xcwsnl28.mrnova.online/live/60022_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 SD 2M
+http://xcwsnl28.mrnova.online/live/60023_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 SD 2M
+http://xcwsnl28.mrnova.online/live/60024_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 SD 2M
+http://xcwsnl28.mrnova.online/live/60025_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 SD 2M
+http://xcwsnl28.mrnova.online/live/60026_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 SD 2M
+http://xcwsnl28.mrnova.online/live/60027_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 SD 2M
+http://xcwsnl28.mrnova.online/live/60028_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 SD 2M
+http://xcwsnl28.mrnova.online/live/60029_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 NANO 2M
+http://xcwsnl28.mrnova.online/live/60030_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 NANO 2M
+http://xcwsnl28.mrnova.online/live/60031_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 NANO 2M
+http://xcwsnl28.mrnova.online/live/60032_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 NANO 2M
+http://xcwsnl28.mrnova.online/live/60033_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 NANO 2M
+http://xcwsnl28.mrnova.online/live/60034_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 NANO 2M
+http://xcwsnl28.mrnova.online/live/60035_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 NANO 2M
+http://xcwsnl28.mrnova.online/live/60036_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 NANO 2M
+http://xcwsnl28.mrnova.online/live/60037_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 NANO 2M
+http://xcwsnl28.mrnova.online/live/60038_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 NANO 2M
+http://xcwsnl28.mrnova.online/live/60039_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 4K 4M
+http://xcwsnl28.mrnova.online/live/60040_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 4K 4M
+http://xcwsnl28.mrnova.online/live/60041_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 4K 4M
+http://xcwsnl28.mrnova.online/live/60042_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 4K 4M
+http://xcwsnl28.mrnova.online/live/60043_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 4K 4M
+http://xcwsnl28.mrnova.online/live/60044_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 4K 4M
+http://xcwsnl28.mrnova.online/live/60045_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 4K 4M
+http://xcwsnl28.mrnova.online/live/60046_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 4K 4M
+http://xcwsnl28.mrnova.online/live/60047_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 4K 4M
+http://xcwsnl28.mrnova.online/live/60048_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 4K 4M
+http://xcwsnl28.mrnova.online/live/60049_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60050_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60051_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60052_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60053_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60054_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60055_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60056_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60057_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60058_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 PURE 4/8M
+http://xcwsnl28.mrnova.online/live/60059_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60060_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60061_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60062_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60063_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60064_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60065_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60066_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60067_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60068_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 H265 HQ 1M
+http://xcwsnl28.mrnova.online/live/60069_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 H265 HD 2M
+http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 1 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 2 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60081_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN PREMIUM 3 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 1 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 2 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 3 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 4 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 5 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60087_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 6 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT 7 H265 FHD 4M
+http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",Bein Xtra 1
+http://xcwsnl28.mrnova.online/live/60459_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",Bein Xtra 2
+http://xcwsnl28.mrnova.online/live/60460_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 
 #EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
@@ -213,6 +378,304 @@ https://bit.ly/34ooolI
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة المدفوعة GOBX",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+
+#EXTINF:-1 tvg-name="[SD] ReelPX Comedy SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-ReelPX-Comedy-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] ReelPX Comedy SD
+http://xcwsnl28.mrnova.online/live/60530_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Reel PX Family SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Reel-PX-Family.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Reel PX Family SD
+http://xcwsnl28.mrnova.online/live/60473_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Reel PX Cinema SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Reel-PX-Cinema-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Reel PX Cinema SD
+http://xcwsnl28.mrnova.online/live/60525_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Reel PX Action SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Reel-PX-Action-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Reel PX Action SD
+http://xcwsnl28.mrnova.online/live/60524_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] ReelPX Unlimited SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-ReelPX-Unlimited-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] ReelPX Unlimited SD
+http://xcwsnl28.mrnova.online/live/60531_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Filmbox SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Filmbox-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Filmbox SD
+http://xcwsnl28.mrnova.online/live/60547_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Comedy TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Comedy-TV-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Comedy TV SD
+http://xcwsnl28.mrnova.online/live/60535_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Tiji SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Tiji-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Tiji SD
+https://xccdn1.mrnova.online/live/149448_1.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] fix & fox SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-fix-&-fox-SD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] fix & fox SD
+http://xcwsnl28.mrnova.online/live/60527_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] La3b wa Jaad SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-La3b-wa-Jaad-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] La3b wa Jaad SD
+http://xcwsnl28.mrnova.online/live/60516_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Gulli Bil Arabie SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Gulli-Bil-Arabie-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Gulli Bil Arabie SD
+http://xcwsnl28.mrnova.online/live/60517_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Gametoon SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Gametoon.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Gametoon SD
+http://xcwsnl28.mrnova.online/live/60545_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Planet Earth SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Planet-Earth-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Planet Earth SD
+http://xcwsnl28.mrnova.online/live/60523_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Doc Bil Arabie SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Doc-Bil-Arabie-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Doc Bil Arabie SD
+http://xcwsnl28.mrnova.online/live/60515_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Duck TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Duck-TV-SD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Duck TV SD
+https://xccdn1.mrnova.online/live/149455_1.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] AWE SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-AWE-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] AWE SD
+http://xcwsnl28.mrnova.online/live/60533_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Cars TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Cars-TV-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Cars TV SD
+http://xcwsnl28.mrnova.online/live/60534_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] FashionBox SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-FashionBox-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] FashionBox SD
+http://xcwsnl28.mrnova.online/live/60541_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] 360TuneBox SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-360TuneBox.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] 360TuneBox SD
+http://xcwsnl28.mrnova.online/live/60494_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] DOCUBOX SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-DOCUBOX-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] DOCUBOX SD
+http://xcwsnl28.mrnova.online/live/60540_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Fast&FunBox SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Fast&FunBox-SD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Fast&FunBox SD
+http://xcwsnl28.mrnova.online/live/60542_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Fight Network SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Fight-Network-SD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Fight Network SD
+http://xcwsnl28.mrnova.online/live/60519_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] FightBox SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-FightBox-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] FightBox SD
+http://xcwsnl28.mrnova.online/live/60543_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] FilmBox Art House SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-FilmBox-Art-House-SD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] FilmBox Art House SD
+http://xcwsnl28.mrnova.online/live/60544_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] GMA Life TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-GMA-Life-TV-SD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] GMA Life TV SD
+http://xcwsnl28.mrnova.online/live/60532_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Horse TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Horse-TV-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Horse TV SD
+http://xcwsnl28.mrnova.online/live/60536_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Motorvision Channel SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Motorvision-Channel-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Motorvision Channel SD
+http://xcwsnl28.mrnova.online/live/60520_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Music Always SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Music-Always-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Music Always SD
+http://xcwsnl28.mrnova.online/live/60521_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Music Tropical SD" tvg-group="باقة المدفوعة GOBX",[SD] Music Tropical SD
+http://xcwsnl28.mrnova.online/live/60522_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Nautical SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Nautical-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Nautical SD
+http://xcwsnl28.mrnova.online/live/60537_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Recipe TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Recipe-TV-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Recipe TV SD
+http://xcwsnl28.mrnova.online/live/60538_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] TDC Arabic SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-TDC-Arabic.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] TDC Arabic SD
+http://xcwsnl28.mrnova.online/live/60546_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Trace Sport Stars SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Trace-Sport-Stars-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Trace Sport Stars SD
+http://xcwsnl28.mrnova.online/live/60528_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Trace Urban SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Trace-Urban-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Trace Urban SD
+http://xcwsnl28.mrnova.online/live/60529_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] Woman TV SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-Woman-TV-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] Woman TV SD
+http://xcwsnl28.mrnova.online/live/60526_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="[SD] ZooMoo SD" tvg-logo="http://mynetworks.info/api/posters/[SD]-ZooMoo-HD.png?type=icon" tvg-group="باقة المدفوعة GOBX",[SD] ZooMoo SD
+http://xcwsnl28.mrnova.online/live/60548_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+
+
+
+#EXTINF:-1 tvg-name="NOVA QURAAN HD" tvg-group="NOVA_CHANNELS",NOVA QURAAN HD
+http://xcwsnl28.mrnova.online/live/20000_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA CINEMA 1 HD" tvg-group="NOVA_CHANNELS",NOVA CINEMA 1 HD
+http://xcwsnl28.mrnova.online/live/20001_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA CINEMA 2 HD" tvg-group="NOVA_CHANNELS",NOVA CINEMA 2 HD
+http://xcwsnl28.mrnova.online/live/20002_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA CLASSIC 1 HD" tvg-group="NOVA_CHANNELS",NOVA CLASSIC 1 HD
+http://xcwsnl28.mrnova.online/live/20003_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA CLASSIC2 SOM3A HD" tvg-group="NOVA_CHANNELS",NOVA CLASSIC2 SOM3A HD
+http://xcwsnl28.mrnova.online/live/20004_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA MASRAH MASR HD" tvg-group="NOVA_CHANNELS",NOVA MASRAH MASR HD
+http://xcwsnl28.mrnova.online/live/20005_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA KIDS HD" tvg-group="NOVA_CHANNELS",NOVA KIDS HD
+http://xcwsnl28.mrnova.online/live/20014_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA KIDS 2 TOM&JERRY" tvg-group="NOVA_CHANNELS",NOVA KIDS 2 TOM&JERRY
+http://xcwsnl28.mrnova.online/live/20015_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA ACTION 1 HD" tvg-group="NOVA_CHANNELS",NOVA ACTION 1 HD
+http://xcwsnl28.mrnova.online/live/20006_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA ACTION 2 HD" tvg-group="NOVA_CHANNELS",NOVA ACTION 2 HD
+http://xcwsnl28.mrnova.online/live/20007_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HORROR 1 HD" tvg-group="NOVA_CHANNELS",NOVA HORROR 1 HD
+http://xcwsnl28.mrnova.online/live/20011_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HORROR 2 HD" tvg-group="NOVA_CHANNELS",NOVA HORROR 2 HD
+http://xcwsnl28.mrnova.online/live/20012_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA MOVIES 1 HD" tvg-group="NOVA_CHANNELS",NOVA MOVIES 1 HD
+http://xcwsnl28.mrnova.online/live/20008_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA MOVIES 2 HD" tvg-group="NOVA_CHANNELS",NOVA MOVIES 2 HD
+http://xcwsnl28.mrnova.online/live/20009_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA WAR HD" tvg-group="NOVA_CHANNELS",NOVA WAR HD
+http://xcwsnl28.mrnova.online/live/20010_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HENDY 1 HD" tvg-group="NOVA_CHANNELS",NOVA HENDY 1 HD
+http://xcwsnl28.mrnova.online/live/20013_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA THOR H265" tvg-group="NOVA_VIP_H265",NOVA THOR H265
+http://xcwsnl28.mrnova.online/live/20017_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA X-MEN H265" tvg-group="NOVA_VIP_H265",NOVA X-MEN H265
+http://xcwsnl28.mrnova.online/live/20018_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA ZOMBIE H265" tvg-group="NOVA_VIP_H265",NOVA ZOMBIE H265
+http://xcwsnl28.mrnova.online/live/20019_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA ZORRO H265" tvg-group="NOVA_VIP_H265",NOVA ZORRO H265
+http://xcwsnl28.mrnova.online/live/20020_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA BATMAN H265" tvg-group="NOVA_VIP_H265",NOVA BATMAN H265
+http://xcwsnl28.mrnova.online/live/20022_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA SUPER MAN H265" tvg-group="NOVA_VIP_H265",NOVA SUPER MAN H265
+http://xcwsnl28.mrnova.online/live/20023_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA Spider Man H265" tvg-group="NOVA_VIP_H265",NOVA Spider Man H265
+http://xcwsnl28.mrnova.online/live/20024_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA IRON MAN H265" tvg-group="NOVA_VIP_H265",NOVA IRON MAN H265
+http://xcwsnl28.mrnova.online/live/20025_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HULK H265" tvg-group="NOVA_VIP_H265",NOVA HULK H265
+http://xcwsnl28.mrnova.online/live/20026_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA FANTASTIC H265" tvg-group="NOVA_VIP_H265",NOVA FANTASTIC H265
+http://xcwsnl28.mrnova.online/live/20027_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA DRACULA H265" tvg-group="NOVA_VIP_H265",NOVA DRACULA H265
+http://xcwsnl28.mrnova.online/live/20028_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA PREDATOR H265" tvg-group="NOVA_VIP_H265",NOVA PREDATOR H265
+http://xcwsnl28.mrnova.online/live/20029_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA STAR WARS H265" tvg-group="NOVA_VIP_H265",NOVA STAR WARS H265
+http://xcwsnl28.mrnova.online/live/20030_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA TRANSFORMERS H265" tvg-group="NOVA_VIP_H265",NOVA TRANSFORMERS H265
+http://xcwsnl28.mrnova.online/live/20031_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA Dinosaurat H265" tvg-group="NOVA_VIP_H265",NOVA Dinosaurat H265
+http://xcwsnl28.mrnova.online/live/20032_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA CINEMA H265" tvg-group="NOVA_VIP_H265",NOVA CINEMA H265
+http://xcwsnl28.mrnova.online/live/20033_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA AFLAM H265" tvg-group="NOVA_VIP_H265",NOVA AFLAM H265
+http://xcwsnl28.mrnova.online/live/20034_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA CLASSIC H265" tvg-group="NOVA_VIP_H265",NOVA CLASSIC H265
+http://xcwsnl28.mrnova.online/live/20035_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA COMEDY H265" tvg-group="NOVA_VIP_H265",NOVA COMEDY H265
+http://xcwsnl28.mrnova.online/live/20036_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HISTORY H265" tvg-group="NOVA_VIP_H265",NOVA HISTORY H265
+http://xcwsnl28.mrnova.online/live/20037_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HORROR H265" tvg-group="NOVA_VIP_H265",NOVA HORROR H265
+http://xcwsnl28.mrnova.online/live/20038_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA MIX H265" tvg-group="NOVA_VIP_H265",NOVA MIX H265
+http://xcwsnl28.mrnova.online/live/20039_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA MOVIE H265" tvg-group="NOVA_VIP_H265",NOVA MOVIE H265
+http://xcwsnl28.mrnova.online/live/20040_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA YASSIN ELTOHAMY" tvg-group="NOVA_MUSIC",NOVA YASSIN ELTOHAMY
+http://xcwsnl28.mrnova.online/live/20041_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Relax Music" tvg-group="NOVA_MUSIC",Relax Music
+http://xcwsnl28.mrnova.online/live/20042_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MOHAMED FOUAD" tvg-group="NOVA_MUSIC",MOHAMED FOUAD
+http://xcwsnl28.mrnova.online/live/20043_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="AMR DIAB" tvg-group="NOVA_MUSIC",AMR DIAB
+http://xcwsnl28.mrnova.online/live/20225_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="AMR DIAB 2021" tvg-group="NOVA_MUSIC",AMR DIAB 2021
+http://xcwsnl28.mrnova.online/live/20044_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Mayada Hinnawi" tvg-group="NOVA_MUSIC",Mayada Hinnawi
+http://xcwsnl28.mrnova.online/live/20045_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Tamer Ashour" tvg-group="NOVA_MUSIC",Tamer Ashour
+http://xcwsnl28.mrnova.online/live/20046_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Ahmed Saad" tvg-group="NOVA_MUSIC",Ahmed Saad
+http://xcwsnl28.mrnova.online/live/20047_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Wael Jassar" tvg-group="NOVA_MUSIC",Wael Jassar
+http://xcwsnl28.mrnova.online/live/20048_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Classic old" tvg-group="NOVA_MUSIC",Classic old
+http://xcwsnl28.mrnova.online/live/20049_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA ASALA" tvg-group="NOVA_MUSIC",NOVA ASALA
+http://xcwsnl28.mrnova.online/live/20050_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA ELISSIA" tvg-group="NOVA_MUSIC",NOVA ELISSIA
+http://xcwsnl28.mrnova.online/live/20051_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA BAHAA SULTAN" tvg-group="NOVA_MUSIC",NOVA BAHAA SULTAN
+http://xcwsnl28.mrnova.online/live/20052_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA MOHAMED MOUNER" tvg-group="NOVA_MUSIC",NOVA MOHAMED MOUNER
+http://xcwsnl28.mrnova.online/live/20053_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA SHREIN" tvg-group="NOVA_MUSIC",NOVA SHREIN
+http://xcwsnl28.mrnova.online/live/20054_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA EHAB TAWFIK" tvg-group="NOVA_MUSIC",NOVA EHAB TAWFIK
+http://xcwsnl28.mrnova.online/live/20055_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA Hassan El Asmar" tvg-group="NOVA_MUSIC",NOVA Hassan El Asmar
+http://xcwsnl28.mrnova.online/live/20056_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA TAMER HOSNY" tvg-group="NOVA_MUSIC",NOVA TAMER HOSNY
+http://xcwsnl28.mrnova.online/live/20057_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA AHMED SHEBA" tvg-group="NOVA_MUSIC",NOVA AHMED SHEBA
+http://xcwsnl28.mrnova.online/live/20058_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOVA HANY SHAKER" tvg-group="NOVA_MUSIC",NOVA HANY SHAKER
+http://xcwsnl28.mrnova.online/live/20059_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="ADEL EMAM" tvg-group="NOVA_STARS",ADEL EMAM
+http://xcwsnl28.mrnova.online/live/20060_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="AHMED HELMY" tvg-group="NOVA_STARS",AHMED HELMY
+http://xcwsnl28.mrnova.online/live/20061_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="AHMED ELSQA" tvg-group="NOVA_STARS",AHMED ELSQA
+http://xcwsnl28.mrnova.online/live/20062_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="AHMED ZAKY" tvg-group="NOVA_STARS",AHMED ZAKY
+http://xcwsnl28.mrnova.online/live/20063_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="ISMAEL YASSEN" tvg-group="NOVA_STARS",ISMAEL YASSEN
+http://xcwsnl28.mrnova.online/live/20064_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAHMOUD ABDL AZIZ" tvg-group="NOVA_STARS",MAHMOUD ABDL AZIZ
+http://xcwsnl28.mrnova.online/live/20065_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MOHAMED HENEDY" tvg-group="NOVA_STARS",MOHAMED HENEDY
+http://xcwsnl28.mrnova.online/live/20066_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MOHAMED RAMADAN" tvg-group="NOVA_STARS",MOHAMED RAMADAN
+http://xcwsnl28.mrnova.online/live/20067_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MOHAMED SAAD" tvg-group="NOVA_STARS",MOHAMED SAAD
+http://xcwsnl28.mrnova.online/live/20068_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NOUR EL SHREEF" tvg-group="NOVA_STARS",NOUR EL SHREEF
+http://xcwsnl28.mrnova.online/live/20069_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NETFLIX COMEDY" tvg-group="MiX_Live_Club",NETFLIX COMEDY
+http://xcwsnl28.mrnova.online/live/20090_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NETFLIX DRAMA" tvg-group="MiX_Live_Club",NETFLIX DRAMA
+http://xcwsnl28.mrnova.online/live/20091_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NETFLIX HORROR" tvg-group="MiX_Live_Club",NETFLIX HORROR
+http://xcwsnl28.mrnova.online/live/20092_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NETFLIX ROMANSY" tvg-group="MiX_Live_Club",NETFLIX ROMANSY
+http://xcwsnl28.mrnova.online/live/20093_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="NETFLIX KIDS" tvg-group="MiX_Live_Club",NETFLIX KIDS
+http://xcwsnl28.mrnova.online/live/20094_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="JAMES BOND" tvg-group="MiX_Live_Club",JAMES BOND
+http://xcwsnl28.mrnova.online/live/20095_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="STAR FANTASY" tvg-group="MiX_Live_Club",STAR FANTASY
+http://xcwsnl28.mrnova.online/live/20096_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="PANORAMA ACTION HD" tvg-group="MiX_Live_Club",PANORAMA ACTION HD
+http://xcwsnl28.mrnova.online/live/20097_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="TOP MOVIES HD" tvg-group="MiX_Live_Club",TOP MOVIES HD
+http://xcwsnl28.mrnova.online/live/20098_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="BEOUT MOVIES ACTION 1" tvg-group="MiX_Live_Club",BEOUT MOVIES ACTION 1
+http://xcwsnl28.mrnova.online/live/20099_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="BEOUT MOVIES ACTION 2" tvg-group="MiX_Live_Club",BEOUT MOVIES ACTION 2
+http://xcwsnl28.mrnova.online/live/20100_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="BEOUT MOVIES 1" tvg-group="MiX_Live_Club",BEOUT MOVIES 1
+http://xcwsnl28.mrnova.online/live/20101_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="BEOUT MOVIES 2" tvg-group="MiX_Live_Club",BEOUT MOVIES 2
+http://xcwsnl28.mrnova.online/live/20102_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY KIDS" tvg-group="MiX_Live_Club",FAMLY KIDS
+http://xcwsnl28.mrnova.online/live/20103_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY KIDS 2" tvg-group="MiX_Live_Club",FAMLY KIDS 2
+http://xcwsnl28.mrnova.online/live/20104_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY MASRHYAT" tvg-group="MiX_Live_Club",FAMLY MASRHYAT
+http://xcwsnl28.mrnova.online/live/20105_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY MASRHYAT 2" tvg-group="MiX_Live_Club",FAMLY MASRHYAT 2
+http://xcwsnl28.mrnova.online/live/20106_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY MOVIES" tvg-group="MiX_Live_Club",FAMLY MOVIES
+http://xcwsnl28.mrnova.online/live/20107_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY MOVIES 2" tvg-group="MiX_Live_Club",FAMLY MOVIES 2
+http://xcwsnl28.mrnova.online/live/20108_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="FAMLY HISTORY 2" tvg-group="MiX_Live_Club",FAMLY HISTORY 2
+http://xcwsnl28.mrnova.online/live/20109_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAX CINEMA" tvg-group="MiX_Live_Club",MAX CINEMA
+http://xcwsnl28.mrnova.online/live/20110_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAX COMEDY" tvg-group="MiX_Live_Club",MAX COMEDY
+http://xcwsnl28.mrnova.online/live/20111_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAX DRAMA" tvg-group="MiX_Live_Club",MAX DRAMA
+http://xcwsnl28.mrnova.online/live/20112_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAX  FANTAST" tvg-group="MiX_Live_Club",MAX  FANTAST
+http://xcwsnl28.mrnova.online/live/20113_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAX ACTION" tvg-group="MiX_Live_Club",MAX ACTION
+http://xcwsnl28.mrnova.online/live/20114_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MAX KIDS" tvg-group="MiX_Live_Club",MAX KIDS
+http://xcwsnl28.mrnova.online/live/20115_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="SHOF CINEMA 1 HD" tvg-group="MiX_Live_Club",SHOF CINEMA 1 HD
+http://xcwsnl28.mrnova.online/live/20116_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="SHOF CINEMA 2HD" tvg-group="MiX_Live_Club",SHOF CINEMA 2HD
+http://xcwsnl28.mrnova.online/live/20117_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="SHOF ACTION HD" tvg-group="MiX_Live_Club",SHOF ACTION HD
+http://xcwsnl28.mrnova.online/live/20118_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="SHOF MAX HD" tvg-group="MiX_Live_Club",SHOF MAX HD
+http://xcwsnl28.mrnova.online/live/20119_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play Arabic Hd" tvg-group="PLAY_CHANNELS",Play Arabic Hd
+http://xcwsnl28.mrnova.online/live/20070_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play classic Hd" tvg-group="PLAY_CHANNELS",Play classic Hd
+http://xcwsnl28.mrnova.online/live/20071_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="PLAY Comedy HD" tvg-group="PLAY_CHANNELS",PLAY Comedy HD
+http://xcwsnl28.mrnova.online/live/20072_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play Action HD" tvg-group="PLAY_CHANNELS",Play Action HD
+http://xcwsnl28.mrnova.online/live/20073_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="PLAY Drama HD" tvg-group="PLAY_CHANNELS",PLAY Drama HD
+http://xcwsnl28.mrnova.online/live/20074_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="PLAY Horror HD" tvg-group="PLAY_CHANNELS",PLAY Horror HD
+http://xcwsnl28.mrnova.online/live/20075_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play sci fi HD" tvg-group="PLAY_CHANNELS",Play sci fi HD
+http://xcwsnl28.mrnova.online/live/20076_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play Thriller HD" tvg-group="PLAY_CHANNELS",Play Thriller HD
+http://xcwsnl28.mrnova.online/live/20077_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play Masr7yat HD" tvg-group="PLAY_CHANNELS",Play Masr7yat HD
+http://xcwsnl28.mrnova.online/live/20078_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="PLAY Family HD" tvg-group="PLAY_CHANNELS",PLAY Family HD
+http://xcwsnl28.mrnova.online/live/20079_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="PLAY Dublaj HD" tvg-group="PLAY_CHANNELS",PLAY Dublaj HD
+http://xcwsnl28.mrnova.online/live/20080_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Play KIDs Song HD" tvg-group="PLAY_CHANNELS",Play KIDs Song HD
+http://xcwsnl28.mrnova.online/live/20081_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="BEIN_MOVIES",Bein Movies 1 HD
 http://xcchui2.mrnova.online/live/60129_.m3u8?token=
@@ -1278,7 +1741,7 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
-
+http://xcwsnl28.mrnova.online/live/60507_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 SD
@@ -1286,11 +1749,11 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety SD
-
+http://xcwsnl28.mrnova.online/live/60514_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
-
+http://xcwsnl28.mrnova.online/live/60510_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
-
+http://xcwsnl28.mrnova.online/live/60512_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr SD
@@ -1303,7 +1766,6 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="أم بي سيMBC",|MBC| Bollywood SD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="أم بي سيMBC",|MBC| Panorama SD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 LOW
@@ -1564,6 +2026,32 @@ https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-name="NBN Lebanon HD" tvg-group="لبنانLEBANON",NBN Lebanon HD
+http://xcwsnl28.mrnova.online/live/60340_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="MTV Lebanon HD" tvg-group="لبنانLEBANON",MTV Lebanon HD
+http://xcwsnl28.mrnova.online/live/60341_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="LBC International HD" tvg-group="لبنانLEBANON",LBC International HD
+http://xcwsnl28.mrnova.online/live/60342_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="OTV Lebanon HD" tvg-group="لبنانLEBANON",OTV Lebanon HD
+http://xcwsnl28.mrnova.online/live/60343_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="LBC HD" tvg-group="لبنانLEBANON",LBC HD
+http://xcwsnl28.mrnova.online/live/60344_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Tele Lebanon" tvg-group="لبنانLEBANON",Tele Lebanon
+http://xcwsnl28.mrnova.online/live/60345_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Jadeed HD" tvg-group="لبنانLEBANON",Jadeed HD
+http://xcwsnl28.mrnova.online/live/60346_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Future TV" tvg-group="لبنانLEBANON",Future TV
+http://xcwsnl28.mrnova.online/live/60347_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="AL Manar" tvg-group="لبنانLEBANON",AL Manar
+http://xcwsnl28.mrnova.online/live/60348_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="One" tvg-group="لبنانLEBANON",One
+http://xcwsnl28.mrnova.online/live/60349_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Hawacom HD" tvg-group="لبنانLEBANON",Hawacom HD
+http://xcwsnl28.mrnova.online/live/60350_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Aghani HD" tvg-group="لبنانLEBANON",Aghani HD
+http://xcwsnl28.mrnova.online/live/60351_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 tvg-name="Arabica HD" tvg-group="لبنانLEBANON",Arabica HD
+http://xcwsnl28.mrnova.online/live/60352_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
