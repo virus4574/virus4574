@@ -35,6 +35,11 @@ https://d8dc07td0jqi6.cloudfront.net/out/v1/5d705be099be4e50a608f81e1359f4ff/ind
 https://d2l35fhhery68r.cloudfront.net/out/v1/e76a0ac3ca3248faa9ab0ef76ba8694b/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",5تعمل وقت المبارات المهمه+
 https://d2l35fhhery68r.cloudfront.net/out/v1/e76a0ac3ca3248faa9ab0ef76ba8694b/index_2.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Xtra 1
+http://xcchui2.mrnova.online/live/60242_.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Xtra 2
+http://xcchui2.mrnova.online/live/60244_.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", Bein Sports 1 HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", Bein Sports 1 HD+
@@ -172,12 +177,6 @@ http://xcchui2.mrnova.online/live/60436_.m3u8?token=895f557054aa4d5abcedbbf64b46
 http://xcchui2.mrnova.online/live/60437_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR:Beinsport4
 http://xcchui2.mrnova.online/live/60438_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",Bein Xtra 1
-http://xcchui2.mrnova.online/live/60242_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",Bein Xtra 2
-http://xcchui2.mrnova.online/live/60244_.m3u8?token=
 
 #EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
