@@ -358,11 +358,11 @@ https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4cr2gol.png" group-title="TURKEY",Euro D HD
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4cr2gol.png" group-title="TURKEY",Euro D HD
-https://mn-nl.mncdn.com/blutv_eurod/smil:eurod_sd.smil/chunklist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",DiyanetTV
-https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/chunklist.m3u8
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",DiyanetTV+
-http://79.124.14.198:8088/play/a093
+https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",MERKEZ TV
