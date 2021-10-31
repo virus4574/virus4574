@@ -343,19 +343,17 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="YabanTV.tr" group-title="TURKEY",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xBVt2" group-title="TURKEY",TV8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD
 http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
-https://av.livestreamlive.xyz/hls/star.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV SD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4cr2gol.png" group-title="TURKEY",Euro D HD
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4cr2gol.png" group-title="TURKEY",Euro D HD
