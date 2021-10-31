@@ -344,15 +344,9 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xBVt2" group-title="TURKEY",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD
-http://yayin2.tvizlehd.com/tv8720.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD+
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD++
-http://yayin2.tvizlehd.com/tv8720.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD+++
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5 (مشغل GSE)
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist.m3u8
+http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
 https://av.livestreamlive.xyz/hls/star.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
