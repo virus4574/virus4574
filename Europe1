@@ -300,7 +300,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="TURKEY",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="TURKEY",TRT Cocuk
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="TURKEY",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTKurdi.tr" group-title="TURKEY",TRT Kurdi
@@ -313,35 +313,36 @@ https://tv-trtturk.live.trt.com.tr/master.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="UcankusTV.tr" group-title="TURKEY",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Bein Sports Haber
 http://yayin2.tvizlehd.com/beinsporthaber.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Bein Sports Haber+
-https://av.livestreamlive.xyz/hls/bein.m3u8
+http://antalya.tvizlehd.com/live/beinsporthaber.m3u8
 https://59c7ea6bec1c6.streamlock.net/live/beinsporthaber.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
-http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
-http://yayin2.tvizlehd.com/atv720.m3u8
+http://azerbaijan1.livetv.az/turkey/atv_turk_sd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)
-https://av.livestreamlive.xyz/hls/show.m3u8
+http://antalya.tvizlehd.com/live/showtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)+
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)++
-http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show Türk(مشغل GSE)
-https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Fox Türkiye(مشغل GSE)
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Fox Türkiye(مشغل GSE)+
-https://av.livestreamlive.xyz/hls/fox.m3u8
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Kanal D(مشغل GSE)
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Kanal D(مشغل GSE)+
-https://av.livestreamlive.xyz/hls/kanald.m3u8
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Kanal 7(مشغل GSE)
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
+http://iptvmasterlink.dyndns.org:8080/Entry/kanal7hd_yeni/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Kanal 7
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Kanal 7+
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 tvg-id="YabanTV.tr" group-title="TURKEY",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-id="YabanTV.tr" group-title="TURKEY",Yaban TV+
+http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xBVt2" group-title="TURKEY",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD
