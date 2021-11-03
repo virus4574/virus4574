@@ -346,7 +346,9 @@ http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xBVt2" group-title="TURKEY",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD
-http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 
+http://antalya.tvizlehd.com/live/tv8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
