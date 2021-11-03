@@ -1155,9 +1155,9 @@ https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="العراق IRAQ",IRQ-Babylon
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35HX9El" group-title="العراق IRAQ",IRQ-IRAQIA الرياضية
-https://au7live.tooliserver.com/live/149075_0.m3u8?session=&location=
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="العراق IRAQ",IRQ-IRAQIA الاخبارية
-https://au7live.tooliserver.com/live/149074_0.m3u8?session=&location=
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Future
 https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist_w125001985_b900000.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq 24
@@ -1219,6 +1219,8 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1" tvg-country="TN" tvg-language="Arabic" tvg-logo="Arabic" group-title="تونسTUNISIE",Watania 1 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie1.m3u8
+#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1" tvg-country="TN" tvg-language="Arabic" tvg-logo="Arabic" group-title="تونسTUNISIE",Watania 1 
+http://free.fullspeed.tv/query?url=https://www.youtube.com/c/WataniaReplay/live
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title="تونسTUNISIE",Watania 2 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
@@ -1236,9 +1238,9 @@ http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sQEUH9" group-title="ليبياLIBYA",LIB-Libya 218
-https://218tv.akamaized.net/edge/live_3fd9440026a711eca011ed5ece276ef4/tracks-v1a1/mono.m3u8
+https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3fd9440026a711eca011ed5ece276ef4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3614VcQ" group-title="ليبياLIBYA",LIB-Libya News
-https://218tv.akamaized.net/edge/live_3982873027cc11ec86950df2beca5773/tracks-v1a1/mono.m3u8
+https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iOOVA5" group-title="ليبياLIBYA",LIB-Libya Alahrar
 https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mdx7SX" group-title="ليبياLIBYA",LIB-Libya Channel
@@ -1325,18 +1327,6 @@ http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="البحرين Bahrain",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ocNpsi" group-title="البحرين Bahrain",Bahrain Sports 2+
-https://or.tooliserver.com/live/Bahrain_Sport_2_HD/Bahrain_Sport_2_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gbra6fM.png" group-title="البحرين Bahrain", Bahrain HD
-https://au7live.tooliserver.com/live/60154_0.m3u8?session=&location=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXU99F2.png" group-title="البحرين Bahrain", Bahrain International HD
-https://au7live.tooliserver.com/live/60151_0.m3u8?session=&location=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XQqbefm.png" group-title="البحرين Bahrain",Bahrain Quran
-https://au7live.tooliserver.com/live/60173_0.m3u8?session=&location=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoM9wxm.png" group-title="البحرين Bahrain",Bahrain Sports 1 HD
-https://au7live.tooliserver.com/live/60152_0.m3u8?session=&location=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/obaWGYQ.png" group-title="البحرين Bahrain",Bahrain Sports 2 HD
-https://au7live.tooliserver.com/live/60153_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="سلطنة عمان Oman",Oman TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="سلطنة عمان Oman",Oman TV
@@ -1405,7 +1395,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="الامارات EMIRATES",DUB-Al Wousta HD 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="الامارات EMIRATES",DUB-Aldafrahtv 
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Citruss TV 
 http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Yas TV 
@@ -1422,8 +1412,6 @@ https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/395hNAB" group-title="اليمن Yemen",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xLnq" group-title="اليمن Yemen",قناة السعيدة
-http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xnR3Vr" group-title="اليمن Yemen",Belqees TV
 https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sNWfAe" group-title="اليمن Yemen",Yemen TV
