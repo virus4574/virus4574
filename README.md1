@@ -1123,10 +1123,6 @@ https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TSwYIe" group-title="العراق IRAQ",AletejahTV
 https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="العراق IRAQ",IRQ-Babylon
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35HX9El" group-title="العراق IRAQ",IRQ-IRAQIA الرياضية
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="العراق IRAQ",IRQ-IRAQIA الاخبارية
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Future
@@ -1208,10 +1204,6 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sQEUH9" group-title="ليبياLIBYA",LIB-Libya 218
-https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3fd9440026a711eca011ed5ece276ef4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3614VcQ" group-title="ليبياLIBYA",LIB-Libya News
-https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iOOVA5" group-title="ليبياLIBYA",LIB-Libya Alahrar
 https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mdx7SX" group-title="ليبياLIBYA",LIB-Libya Channel
