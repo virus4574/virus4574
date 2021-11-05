@@ -909,6 +909,10 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="11 لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37Tn8JR" group-title="11 لبنانLEBANON",mtv lebanon hd
+http://212.224.98.204:2200/TR/mtvlebanonhd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed
+http://212.224.98.205:2200/TR/aljadeedhd-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",كيف احصل على الكود
