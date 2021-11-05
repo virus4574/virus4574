@@ -1177,11 +1177,6 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1" tvg-country="TN" tvg-language="Arabic" tvg-logo="Arabic" group-title="تونسTUNISIE",Watania 1 (400p)
-#EXTVLCOPT:http-user-agent=TNAgexpl212C
-http://217.182.137.206/tunisie1.m3u8
-#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1" tvg-country="TN" tvg-language="Arabic" tvg-logo="Arabic" group-title="تونسTUNISIE",Watania 1 
-http://free.fullspeed.tv/query?url=https://www.youtube.com/c/WataniaReplay/live
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title="تونسTUNISIE",Watania 2 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
