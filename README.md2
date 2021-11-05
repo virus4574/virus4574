@@ -656,7 +656,7 @@ http://212.224.98.205:2200/EX/MBC_Variety_HD-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD
 http://212.224.98.213:2200/TN/mbcaction-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max SD
-http://212.224.98.204:2200/TN/mbcmax-ar/tracks-v1a1/mono.m3u8?token=
+http://212.224.98.208:2200/TN/mbcmax-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="8 أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="8 أم بي سيMBC",|MBC| Masr SD
