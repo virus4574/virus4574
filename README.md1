@@ -864,7 +864,9 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
-https://www.elahmad.com/tv/hls/app.php?id=95
+http://www.elahmad.com/tv/hls/app.php?id=95
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2
+http://62.210.248.192:25461/load/tnco3r8b1pl/6406.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 SD
