@@ -403,6 +403,19 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="رياضية SPORT",AL: Super Sport 1 HD
+http://stream.com-iptv.com:8080/SS1HD/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",AL: Super Sport 2 HD
+http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",AL: Super Sport 3 HD
+http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",AL: Super Sport 4 HD
+http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",AL: Super Sport 5 HD
+http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",AL: Super Sport 6 HD
+http://stream.com-iptv.com:8080/SS6HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="رياضية SPORT",SKYSPORT 1 DE
 http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6Mjk6NDggQU0maGFzaF92YWx1ZT1FT1VCWlk0VXJHMmxuSHBLelBBbi9nPT0mdmFsaWRtaW51dGVzPTIw
