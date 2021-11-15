@@ -39,7 +39,8 @@ https://d2l35fhhery68r.cloudfront.net/out/v1/e76a0ac3ca3248faa9ab0ef76ba8694b/in
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Xtra 1
 
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Xtra 2
-
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/TG2eNPO.png",beIN Sports News
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/2296.ts
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 PREMIUM HD
 http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 PREMIUM SD
@@ -234,6 +235,22 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 
+
+#EXTINF:0 tvg-id="ext" group-title="باقة ART",▂ ▄ ▅ ▆☆ باقة ART ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة ART",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:-1   group-title="باقة ART",AR: ART AFLAM 1
+http://62.210.248.192:25461/load/tnco3r8b1pl/6393.m3u8
+#EXTINF:-1   group-title="باقة ART",AR: ART AFLAM 2
+http://62.210.248.192:25461/load/tnco3r8b1pl/6394.m3u8
+#EXTINF:-1   group-title="باقة ART",AR: ART CINEMA
+http://62.210.248.192:25461/load/tnco3r8b1pl/6395.m3u8
+#EXTINF:-1   group-title="باقة ART",AR: ART HEKAYAT
+http://62.210.248.192:25461/load/tnco3r8b1pl/6397.m3u8
+#EXTINF:-1   group-title="باقة ART",AR: ART HEKAYAT 2
+http://62.210.248.192:25461/load/tnco3r8b1pl/6396.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="باقة Apple",▂ ▄ ▅ ▆☆ باقة Apple ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -864,9 +881,9 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
-http://www.elahmad.com/tv/hls/app.php?id=95
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2
 http://62.210.248.192:25461/load/tnco3r8b1pl/6406.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2
+http://www.elahmad.com/tv/hls/app.php?id=95
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 SD
@@ -874,6 +891,7 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety SD
+http://62.210.248.192:25461/load/tnco3r8b1pl/6487.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq SD
@@ -1076,6 +1094,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="سوريةSyria",SYRIA DRAMA SD
 http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="سوريةSyria",SYRIA DRAMA HD
+http://62.210.248.192:25461/load/tnco3r8b1pl/6280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",SYRIA TV SD
 http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1577667525.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",SYR-AL EKHBARIYA SD
@@ -1150,6 +1170,8 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed
 http://93.184.1.247/Aljadeed/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed+
+http://62.210.248.192:25461/load/tnco3r8b1pl/6290.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
