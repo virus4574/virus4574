@@ -354,6 +354,75 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="رياضية SPORT",Eleven Sports 2 (PL)
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="WWE.ca" group-title="رياضية SPORT",WWE Network
+http://iptv.jinggo-zone.ga:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="رياضية SPORT",CBS Sports Network
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7324/index.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="رياضية SPORT",BT Sport 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="رياضية SPORT",BT Sport ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="رياضية SPORT",Free Sports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="رياضية SPORT",Sky Sports Action
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7340/index.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="رياضية SPORT",Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="رياضية SPORT",Sky Sports F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="رياضية SPORT",Sky Sports Main Event
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="رياضية SPORT",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",On Sports
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="Sky1.uk" group-title="رياضية SPORT",Sky 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0 tvg-id="Sky2.uk" group-title="رياضية SPORT",Sky 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="رياضية SPORT",Canal+ Sport
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="رياضية SPORT",Canal+ Sport 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6055/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="رياضية SPORT",Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="رياضية SPORT",Eleven Sports 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="رياضية SPORT",Polsat Sport Fight
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7311/index.m3u8
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="رياضية SPORT",Polsat Sport Premium 1
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7304/index.m3u8
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="رياضية SPORT",Polsat Sport Premium 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7305/index.m3u8
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="رياضية SPORT",TVP Sport
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="رياضية SPORT",Canal+ Sport
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2502/index.m3u8
+#EXTINF:0 tvg-id="Infosport.fr" group-title="رياضية SPORT",Infosport+
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2544/index.m3u8
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="رياضية SPORT",L'Equipe
+http://callofliberty.fr/stream/LEQUIPE/index.m3u8
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="رياضية SPORT",Digi Sport 1
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2523/index.m3u8
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="رياضية SPORT",Digi Sport 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2522/index.m3u8
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="رياضية SPORT",Digi Sport 3
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2524/index.m3u8
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="رياضية SPORT",Digi Sport 4
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2538/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="رياضية SPORT",Eurosport 1
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6992/index.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="رياضية SPORT",Eurosport 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6993/index.m3u8
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
