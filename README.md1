@@ -355,6 +355,8 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="رياضية SPORT",Eleven Sports 2 (PL)
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",SPORTTV_2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="WWE.ca" group-title="رياضية SPORT",WWE Network
