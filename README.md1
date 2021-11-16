@@ -261,6 +261,16 @@ http://213.162.202.5:4000/play/a09l/index.m3u8
 #EXTINF:-1 tvg-id="AppleToday.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="باقة Apple",Apple Today (576p)
 http://213.162.202.5:4000/play/a09k/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="باقة OTLOB",▂ ▄ ▅ ▆☆ باقة OTLOB ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة OTLOB",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",▂ ▄ ▅ ▆☆ باقة EGYBEST ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
 #EXTINF:-1 tvg-id="ext" group-title="نتفليكسNETFLIX",NETFLIX CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext" group-title="نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
@@ -1449,6 +1459,36 @@ http://41.224.63.108:7788/play/a02g
 http://41.224.63.108:7788/play/a02d
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",ON Drama
 http://41.224.63.108:7788/play/a02f
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL OSTORA
+http://213.162.202.5:4000/play/a09c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALPRINCE DRAMA
+http://213.162.202.5:4000/play/a09m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",BELODY AFLAM
+http://213.162.202.5:4000/play/a09e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CIMA ALIBABA
+http://213.162.202.5:4000/play/a097/index.m3u8
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="المصرية Egypt",CINEMA 1
+http://213.162.202.5:4000/play/a0a2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CINEMA 2
+http://213.162.202.5:4000/play/a09t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CINEMA TUBE
+http://213.162.202.5:4000/play/a0a4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",DR. ABO ELNASR
+http://213.162.202.5:4000/play/a099/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Energy FM
+http://213.162.202.5:4000/play/a073/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",HALABA TV
+http://213.162.202.5:4000/play/a09z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",HEKAYA TV
+http://213.162.202.5:4000/play/a09i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Zamalek Sports
+http://213.162.202.5:4000/play/a070/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc
+http://213.162.202.5:4000/play/a06y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc drama
+http://213.162.202.5:4000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
