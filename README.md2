@@ -352,6 +352,111 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="4 رياضية SPORT",Eleven Sports 2 (PL)
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",SPORTTV_1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",SPORTTV_2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",SPORTTV_3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",SPORTTV_4
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",SPORTTV_5
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",Supersport1
+http://93.157.62.180:80/Supersport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",Supersport2
+http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",Supersport3
+http://93.157.62.180:80/Supersport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="4 رياضية SPORT",SUPER SPORT 1 HD AL
+http://93.157.62.180:80/Supersport1/playlist.m3u8
+#EXTINF:-1 group-title="4 رياضية SPORT",SUPER SPORT 2 HD AL
+http://93.157.62.180:80/Supersport2/playlist.m3u8
+#EXTINF:-1 group-title="4 رياضية SPORT",SUPER SPORT 3 HD AL
+http://93.157.62.180:80/Supersport3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",btsport1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",btsport2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",skysports5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="WWE.ca" group-title="4 رياضية SPORT",WWE Network
+http://iptv.jinggo-zone.ga:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="4 رياضية SPORT",CBS Sports Network
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7324/index.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="4 رياضية SPORT",BT Sport 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="4 رياضية SPORT",BT Sport ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="4 رياضية SPORT",Free Sports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="4 رياضية SPORT",Sky Sports Action
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7340/index.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="4 رياضية SPORT",Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="4 رياضية SPORT",Sky Sports F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="4 رياضية SPORT",Sky Sports Main Event
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="4 رياضية SPORT",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",On Sports
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="Sky1.uk" group-title="4 رياضية SPORT",Sky 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0 tvg-id="Sky2.uk" group-title="4 رياضية SPORT",Sky 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="4 رياضية SPORT",Canal+ Sport
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="4 رياضية SPORT",Canal+ Sport 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6055/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="4 رياضية SPORT",Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="4 رياضية SPORT",Eleven Sports 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="4 رياضية SPORT",⚽satanta sports1 rusia
+https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-id=" " group-title="4 رياضية SPORT",⚽Setanta Sports 2
+https://95-213-224-186.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 tvg-id=" " group-title="4 رياضية SPORT",Setanta Sport Ukraine
+https://95-213-224-179.livesports24.online/setantaukraine.m3u8
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="4 رياضية SPORT",Polsat Sport Fight
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7311/index.m3u8
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="4 رياضية SPORT",Polsat Sport Premium 1
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7304/index.m3u8
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="4 رياضية SPORT",Polsat Sport Premium 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7305/index.m3u8
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="4 رياضية SPORT",TVP Sport
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="4 رياضية SPORT",Canal+ Sport
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2502/index.m3u8
+#EXTINF:0 tvg-id="Infosport.fr" group-title="4 رياضية SPORT",Infosport+
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2544/index.m3u8
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="4 رياضية SPORT",L'Equipe
+http://callofliberty.fr/stream/LEQUIPE/index.m3u8
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="4 رياضية SPORT",Digi Sport 1
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2523/index.m3u8
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="4 رياضية SPORT",Digi Sport 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2522/index.m3u8
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="4 رياضية SPORT",Digi Sport 3
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2524/index.m3u8
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="4 رياضية SPORT",Digi Sport 4
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2538/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="4 رياضية SPORT",Eurosport 1
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6992/index.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="4 رياضية SPORT",Eurosport 2
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6993/index.m3u8
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -867,12 +972,18 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://pkr.cinepex.tv:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="8 أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="8 أم بي سيMBC",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 SD
-http://www.elahmad.com/tv/hls/app.php?id=95
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 SD+
 http://62.210.248.192:25461/load/tnco3r8b1pl/6406.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2+
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62475
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2++
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80274
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2+++
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62476
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="8 أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="8 أم بي سيMBC",|MBC| 4 SD
@@ -881,10 +992,22 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety SD
 http://62.210.248.192:25461/load/tnco3r8b1pl/6487.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety SD+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80268
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety SD++
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62485
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD
-
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62483
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80270
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD++
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62484
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max SD
-
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62481
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max SD+
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80264
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max SD++
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62482
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="8 أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="8 أم بي سيMBC",|MBC| Masr SD
