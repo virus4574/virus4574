@@ -1309,11 +1309,11 @@ https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",mtv lebanon hd
-https://livestreams.tooli-tv.com/live/470_0.m3u8?session=&location=
+https://livestreams.tooli-tv.com/live/470_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",OTV FHD
-https://livestreams.tooli-tv.com/live/117_0.m3u8?session=&location=
+https://livestreams.tooli-tv.com/live/117_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed
-https://livestreams.tooli-tv.com/live/381_0.m3u8?session=&location=
+https://livestreams.tooli-tv.com/live/381_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed
 http://93.184.1.247/Aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed+
@@ -1324,8 +1324,6 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="فلسطينPALESTINE",بيت لحم مباشر
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="فلسطينPALESTINE",بيت لحم مباشر+
-http://stream2.blue.ps:1935/live/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 1
 http://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alfajertv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 2
@@ -1544,6 +1542,10 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://bit.ly/3DoAVXd" group-title="تونسTUNISIE",Watania 1
+https://livestreams.tooli-tv.com/live/148194_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://bit.ly/3cgeDuK" group-title="تونسTUNISIE",Watania 2
+https://livestreams.tooli-tv.com/live/148195_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title="تونسTUNISIE",Watania 2 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
@@ -1551,7 +1553,7 @@ http://217.182.137.206/tunisie2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="الجزائرALGERIEN",algeria 3
-https://livestreams.tooli-tv.com/live/70000_0.m3u8?session=&location=
+https://livestreams.tooli-tv.com/live/70000_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="الجزائرALGERIEN",Ennahar TV (240p)
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="الجزائرALGERIEN",Ennahar TV (360p)
