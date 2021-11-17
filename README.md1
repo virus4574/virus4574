@@ -291,6 +291,11 @@ http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3FlzKZ2" group-title="رياضية SPORT",KSA Sports 1 
+https://livestreams.tooli-tv.com/live/149084_1.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/30DbanM" group-title="رياضية SPORT",KSA Sports 2
+https://livestreams.tooli-tv.com/live/149085_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="AlKassFive.qa" tvg-name="Al Kass Five" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="رياضية SPORT",Al Kass Five
 https://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="Al Kass Four" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="رياضية SPORT",Al Kass Four
@@ -1312,6 +1317,8 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 https://livestreams.tooli-tv.com/live/470_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",OTV FHD
 https://livestreams.tooli-tv.com/live/117_1.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="لبنانLEBANON",Tele Liban
+https://livestreams.tooli-tv.com/live/383_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed
 https://livestreams.tooli-tv.com/live/381_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed
@@ -1390,6 +1397,8 @@ https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Vgp3" group-title="فلسطينPALESTINE",PAL-Hebron TV
 https://streaming.zaytonatube.com:8081/newhebron/newheb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="فلسطينPALESTINE",PAL-Palestinee سبورت
+https://livestreams.tooli-tv.com/live/148054_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="الاردنJORDAN",الاردنJORDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",كيف احصل على الكود
@@ -1578,14 +1587,15 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c7
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="السودانSUDAN",Sudan TV+
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="السودانSUDAN",Sudan TV
-http://217.182.137.206/sudantv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iDLGes" group-title="السودانSUDAN",Sudan 24 TV
-http://217.182.137.206/sudania24.m3u8
+https://livestreams.tooli-tv.com/live/60133_1.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iDLGes" group-title="السودانSUDAN",Sudan سبورت
+https://livestreams.tooli-tv.com/live/60132_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iDLGes" group-title="السودانSUDAN",Sudan موسيقى
+https://livestreams.tooli-tv.com/live/60137_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9MXfZ" group-title="السودانSUDAN",Sudan drama TV
-http://217.182.137.206/sudan_drama.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="السودانSUDAN",Sudan TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="السودانSUDAN",Sudan Bukra
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
@@ -1646,6 +1656,10 @@ http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="البحرين Bahrain",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="البحرين Bahrain",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/uiulhEg.jpg" group-title="البحرين Bahrain",Bahrain International
+https://livestreams.tooli-tv.com/live/60151_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="سلطنة عمان Oman",Oman TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="سلطنة عمان Oman",Oman TV
