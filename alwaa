@@ -253,6 +253,12 @@ https://m3u-editor.com/serve/airmaxtv1/430892797
 https://m3u-editor.com/serve/airmaxtv1/430892798
 #EXTINF: -1 tvg-name="Aflamy Horror" tvg-logo="https://i.ibb.co/p45S9fZ/aflami.png" group-title="باقه OXN", Aflamy Horror
 https://m3u-editor.com/serve/airmaxtv1/430892799
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+
+
 #EXTINF: -1 tvg-name="SSC SPORT 1 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="SSC SPORT", SSC SPORT 1 4k
 https://m3u-editor.com/serve/airmaxtv1/430892800
 #EXTINF: -1 tvg-name="SSC SPORT 2 4k" tvg-logo="https://sport.al-mar4K.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="SSC SPORT", SSC SPORT 2 4k
@@ -751,8 +757,6 @@ http://213.162.202.5:4000/play/a09w/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
-https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2YAXDvF" group-title="SSC SPORT",SSC SPORT 7 FHD
 https://d1j4cmta14s81k.cloudfront.net/out/v1/3e47c55046264bf5a3bf8b1dac173b07/index.m3u8
