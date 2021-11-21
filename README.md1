@@ -1206,6 +1206,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://livestreams.tooli-tv.com/live/149017_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
 https://livestreams.tooli-tv.com/live/149013_2.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD+
+https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
 https://livestreams.tooli-tv.com/live/149015_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq SD
@@ -1238,6 +1240,9 @@ https://livestreams.tooli-tv.com/live/149017_0.m3u8?session=&location=
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action FHD
 https://livestreams.tooli-tv.com/live/149013_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action FHD+
+https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_1.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max FHD
 https://livestreams.tooli-tv.com/live/149015_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq FHD
@@ -1270,6 +1275,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://livestreams.tooli-tv.com/live/149017_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action HD
 https://livestreams.tooli-tv.com/live/149013_1.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action HD+
+https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max HD
 https://livestreams.tooli-tv.com/live/149015_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq HD
@@ -1290,18 +1297,14 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 LOW
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 LOW
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 LOW
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="أم بي سيMBC",|MBC| 4 LOW
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="أم بي سيMBC",|MBC| 5 LOW
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action LOW
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max LOW
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action LOW+
+https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq LOW
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr LOW
@@ -1318,8 +1321,6 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="أم بي سيMBC",MY-MBC 1 
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="أم بي سيMBC",MY-MBC 2 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="أم بي سيMBC",MY-MBC 3 
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="أم بي سيMBC",MY-MBC 4 
@@ -1328,10 +1329,8 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="أم بي سيMBC",MY-MBC IRAQ 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="أم بي سيMBC",MY-MBC Max 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="أم بي سيMBC",MY-MBC ACTION 
-https://channelsarabia.xyz/streams/38_.m3u8
+https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="أم بي سيMBC",MY-MBC Bolleywod 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg" group-title="أم بي سيMBC",MY-MBC Drama 
@@ -1350,7 +1349,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="روتانا ROTANA",كيف احصل على الكود
