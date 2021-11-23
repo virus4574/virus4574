@@ -130,6 +130,10 @@ http://213.162.202.5:4000/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 7 SD
+https://akamai2-mx.cdn.booyah.live/hls/251188/97582635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 7 HD
+https://akamai2-mx.cdn.booyah.live/hls/251188/97582635.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
