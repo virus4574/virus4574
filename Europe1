@@ -496,10 +496,6 @@ https://live.al-zahratv.com/live/playlist2/index.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Beşiktaş Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",BRT 1 (Kıbrıs)
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",BRT 2
-http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",BRT 2 (Turkish)
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Cay TV (720p)
