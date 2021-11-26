@@ -732,6 +732,15 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Футбол 1 [Not 24/7]
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTDq3Rr.png" group-title="رياضية SPORT",K Sport 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ghJKRS.png" group-title="رياضية SPORT",K Sport 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKzlzpt.png" group-title="رياضية SPORT",K Sport 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cixvG3V.png" group-title="رياضية SPORT",K Sport 4
+http://93.157.62.180/KSport4/index.m3u8
+
 #EXTM3U
 #EXTINF:0 tvg-id="setanta-sport-ua" group-title="رياضية SPORT,Setanta Sports Ukraine HD
 https://95-213-172-213.livesports24.online/setantaukraine.m3u8
