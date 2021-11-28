@@ -26,6 +26,13 @@ https://d46nttfxswrub.cloudfront.net/out/v1/a3dc7712572d4d2da0153e39944d9682/ind
 https://d2d2yjsow645ud.cloudfront.net/out/v1/157554d9499f4b7682c0269938b24498/index.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 PREMIUM fHD
 http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
