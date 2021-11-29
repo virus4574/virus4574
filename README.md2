@@ -29,215 +29,120 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889148
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 4تعمل وقت المبارات المهمه+
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM HD
-http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM HD
-http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM HD
-http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 HD
-http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 HD
-http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 HD
-http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 HD
-http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 HD
-http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 HD
-http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 HD
-http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF: -1 group-title = "1 بين سبور BEIN SPORT" tvg-logo = "https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png", RMC Sports 1 HD
+http://62.210.246.140:8081/yacinetv/RmcSport1/chunks.m3u8
+#EXTINF: -1 group-title = "1 بين سبور BEIN SPORT" tvg-logo = "https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png", RMC Sports 2 HD
+http://62.210.246.140:8081/yacinetv/RmcSport2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 FR
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2499/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 FR
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 FR
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2501/index.m3u8
+
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/sTe2Wwj.png",[$]BEIN SPORTS NEWS HD
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/2141
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/TaHm3Dl.png",[$]BEIN SPORTS HD
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://23.88.39.74/live/918454578001/index.m3u8?olty
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://23.88.39.74/live/69854211/index.m3u8?olty
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+http://23.88.39.74/live/1515000000/index.m3u8?
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD FR
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD FR
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD FR
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/6161655001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/88824257001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/97848484001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/6161949870/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/794812450/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/1222338880/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/61512788870/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/179885580/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/8197978770/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/918454578001/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/978488877001/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/31009988001/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/10011244/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/4798998070/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/161988840/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/0103088447/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/131326625/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/115451004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/181818444/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/788550011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/9883322/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/100666696/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/130306224/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/996256440/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/8800255521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/77000254/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/51514003371/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/9982225541/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports News
-http://88.barouhn.xyz.global.prod.fastly.net/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/33523510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/14066007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/79247621/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/652177700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/68525202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 HD
-http://88.barouhn.xyz.global.prod.fastly.net/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 SD
-http://88.barouhn.xyz.global.prod.fastly.net/live/32842140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 LOW
-http://88.barouhn.xyz.global.prod.fastly.net/live/2433016410/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/6161655001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/88824257001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/97848484001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/6161949870/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/794812450/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/1222338880/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/61512788870/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/179885580/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/8197978770/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/918454578001/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/978488877001/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/31009988001/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/69854211/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/10011244/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/4798998070/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/645587700/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/161988840/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/9787488847/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/0103088447/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/131326625/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/115451004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/181818444/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/788550011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/9883322/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/100666696/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/130306224/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/996256440/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/8800255521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/77000254/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/51514003371/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/9982225541/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports News
-http://1.yacinelivetv.com.global.prod.fastly.net/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/33523510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/14066007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/79247621/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/652177700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/68525202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 HD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 SD
-http://1.yacinelivetv.com.global.prod.fastly.net/live/32842140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 LOW
-http://1.yacinelivetv.com.global.prod.fastly.net/live/2433016410/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 PREMIUM fHD
+http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 PREMIUM fHD
+http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 PREMIUM fHD
+http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 fHD
+http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 fHD
+http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 fHD
+http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 fHD
+http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 fHD
+http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 fHD
+http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 fHD
+http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/890c35bc-cb08-11e9-9f16-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD
+http://api.magiaiptv.com/live/800349/713534/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/956d8d4c-cb08-11e9-8f41-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 2 HD
+http://api.magiaiptv.com/live/800349/713534/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a0f1e3fc-cb08-11e9-842d-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 3 HD
+http://api.magiaiptv.com/live/800349/713534/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/aac09324-cb08-11e9-8dba-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 4 HD
+http://api.magiaiptv.com/live/800349/713534/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b5361356-cb08-11e9-bd00-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 5 HD
+http://api.magiaiptv.com/live/800349/713534/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/bff73626-cb08-11e9-9ed5-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 6 HD
+http://api.magiaiptv.com/live/800349/713534/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/16163660-22eb-46fd-908c-01cab1efab41" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein English 1 HD
+http://api.magiaiptv.com/live/800349/713534/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9db42b73-15e7-4e46-9b87-fa89b762d43e" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein English 2 HD
+http://api.magiaiptv.com/live/800349/713534/m3_JljAFmCUV13gjSLMGt3D6n8q7Lt_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b0d889a5-81be-474b-b865-0a10ce552ba9" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein English 3 HD
+http://api.magiaiptv.com/live/800349/713534/m3_GCcBFnck0TR7e19gmg_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9705d83f-f09b-41a0-af71-7561cff40916" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein premium 1 HD
+http://api.magiaiptv.com/live/800349/713534/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/77fa254a-6d26-430a-a2d5-25a2297cf38d" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein premium 2 HD
+http://api.magiaiptv.com/live/800349/713534/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7c595137-5f8f-4abf-bdc3-a9dfddb3bae8" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein premium 3 HD
+http://api.magiaiptv.com/live/800349/713534/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/890c35bc-cb08-11e9-9f16-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 1 HD
+http://api.magiaiptv.com/live/800349/713534/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/956d8d4c-cb08-11e9-8f41-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 2 HD
+http://api.magiaiptv.com/live/800349/713534/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a0f1e3fc-cb08-11e9-842d-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 3 HD
+http://api.magiaiptv.com/live/800349/713534/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/aac09324-cb08-11e9-8dba-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 4 HD
+http://api.magiaiptv.com/live/800349/713534/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b5361356-cb08-11e9-bd00-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 5 HD
+http://api.magiaiptv.com/live/800349/713534/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/bff73626-cb08-11e9-9ed5-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 6 HD
+http://api.magiaiptv.com/live/800349/713534/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ca551df4-cb08-11e9-b272-003048de22c4" parent-code="" group-title="1 بين سبور BEIN SPORT", Bein Sports 7 HD
+http://api.magiaiptv.com/live/800349/713534/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p
+
 
 #EXTINF:0 tvg-id="ext" group-title="1VIPباقة وياك",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
