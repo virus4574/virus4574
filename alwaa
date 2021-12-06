@@ -69,6 +69,24 @@ http://airmaxtv2022.online:80/bbeeiinnairMAXtv/3Lut2kLxFI/92
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 7 FHD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed FHD
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed SD
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra FHD
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="SSC SPORT",SSC SPORT 1 4k
 http://airmaxtv2022.online:80/ssssccairMAXtv/yWsil00Rvo/361
 #EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 4k" tvg-logo="https://sport.al-mar4K.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="SSC SPORT",SSC SPORT 2 4k
@@ -785,20 +803,3 @@ https://livestreams.tooli-tv.com/live/149454_0.m3u8?session=&location=
 https://livestreams.tooli-tv.com/live/149460_0.m3u8?session=&location=
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
-https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 7 FHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed FHD
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed SD
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra FHD
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
