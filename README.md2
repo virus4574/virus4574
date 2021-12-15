@@ -50,10 +50,11 @@ http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Sports/7a965c3d9047abef48a2c2ee5371769f.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports HD 11",Bein Sports HD 11
 http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Premium 1 (720)
-http://b.banourahga.xyz/live/61616550018/index.m3u8
+http://b.banourahga.xyz/live/61616550012/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Premium 1
-http://b.banourahga.xyz/live/888242570018/index.m3u8
+http://b.banourahga.xyz/live/888242570012/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Premium 2 (720)
 http://b.banourahga.xyz/live/6161949878/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Premium 2
@@ -62,80 +63,54 @@ http://b.banourahga.xyz/live/794812458/index.m3u8
 http://b.banourahga.xyz/live/61512788878/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Premium 3
 http://b.banourahga.xyz/live/179885588/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 HD
-http://1.banglokora.xyz/live/918454578001/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 SD
-http://1.banglokora.xyz/live/978488877001/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 LOW
-http://1.banglokora.xyz/live/31009988001/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 1 (720)
+http://b.banourahga.xyz/live/918454578005/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 1
+http://b.banourahga.xyz/live/978488877005/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 2 (720)
 http://1.banglokora.xyz/live/69854211/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 SD
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 2
 http://1.banglokora.xyz/live/10011244/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 LOW
-http://1.banglokora.xyz/live/4798998070/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 3 (720)
 http://1.banglokora.xyz/live/645587700/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 SD
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 3
 http://1.banglokora.xyz/live/161988840/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 LOW
-http://1.banglokora.xyz/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 4 (720)
 http://1.banglokora.xyz/live/9787488847/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 SD
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 4
 http://1.banglokora.xyz/live/0103088447/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 LOW
-http://1.banglokora.xyz/live/131326625/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 HD
-http://f10.anfalrou.xyz/live/live/610303030/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 SD
-http://f10.anfalrou.xyz/live/live/115451004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 LOW
-http://f10.anfalrou.xyz/live/live/181818444/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 HD
-http://f10.anfalrou.xyz/live/live/1515000000/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 SD
-http://f10.anfalrou.xyz/live/live/788550011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 LOW
-http://f10.anfalrou.xyz/live/live/9883322/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 HD
-http://f10.anfalrou.xyz/live/live/791001144/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 SD
-http://f10.anfalrou.xyz/live/live/100666696/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 LOW
-http://f10.anfalrou.xyz/live/live/130306224/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 HD
-http://1.banglokora.xyz/live/996256440/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 HD
-http://1.banglokora.xyz/live/8800255521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 SD
-http://1.banglokora.xyz/live/77000254/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 SD
-http://1.banglokora.xyz/live/51514003371/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 1 LOW
-http://1.banglokora.xyz/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Xtra 2 LOW
-http://1.banglokora.xyz/live/9982225541/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports News
-http://1.banglokora.xyz/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 5 (720)
+http://b.banourahga.xyz/live/610303030/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 5
+http://b.banourahga.xyz/live/115451004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 6 (720)
+http://55.frehafroha.xyz/live/1515000000/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 6
+http://55.frehafroha.xyz/live/788550011/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 7 (720)
+http://55.frehafroha.xyz/live/791001144/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sports 7
+http://55.frehafroha.xyz/live/100666696/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 1 FR (720)
 http://1.banglokora.xyz/live/33523510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 SD
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="1 بين سبور BEIN SPORT",Bein Sports 1 FR
 http://1.banglokora.xyz/live/14066007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 1 LOW
-http://1.banglokora.xyz/live/79247621/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 2 FR (720)
 http://1.banglokora.xyz/live/652177700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 SD
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="1 بين سبور BEIN SPORT",Bein Sports 2 FR
 http://1.banglokora.xyz/live/68525202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 2 LOW
-http://1.banglokora.xyz/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports 3 FR (720)
 http://1.banglokora.xyz/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 SD
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="1 بين سبور BEIN SPORT",Bein Sports 3 FR
 http://1.banglokora.xyz/live/32842140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports FR 3 LOW
-http://1.banglokora.xyz/live/2433016410/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Xtra 1 (720)
+http://1.banglokora.xyz/live/9962564400/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Xtra 1
+http://1.banglokora.xyz/live/500025558/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Xtra 2 (720)
+http://1.banglokora.xyz/live/8800255521/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Xtra 2
+http://1.banglokora.xyz/live/51514003371/index.m3u8
 
 
 #EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/QqXTalC.png",[$]BEIN SPORTS XTRA 1HD[AR]
