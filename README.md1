@@ -1480,6 +1480,8 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="العراق IRAQ",Al Sumaria
 http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=sumari
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3EhFIZU" group-title="العراق IRAQ",Samarra
+http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
@@ -1497,7 +1499,7 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="العراق IRAQ",IRQ-IRAQIA الفضائية
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="العراق IRAQ",IRQ-AL Maaref
@@ -1513,11 +1515,11 @@ https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TSwYIe" group-title="العراق IRAQ",AletejahTV
 https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="العراق IRAQ",IRQ-IRAQIA الاخبارية
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Future
-https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist_w125001985_b900000.m3u8
+https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq 24
-https://113483.global.ssl.fastly.net/edge-en/ngrp:live_31b220e0e20611eab1b9cfce247e5d5f_all/index.m3u8
+https://113483.global.ssl.fastly.net/5f3cfdbf6b37750084f33584/live_85f477f0316211ec86649bcb0bc233d9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",iNEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 
