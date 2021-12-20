@@ -1353,13 +1353,13 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنانLEBANON",LBN-ldc lebanon 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="لبنانLEBANON",Al Ittihad SD
-https://live.alittihad.tv/ittihad/index.m3u8
+https://live.alittihad.tv/ittihad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="لبنانLEBANON",LBN-Future TV SD
-https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MLitCk" group-title="لبنانLEBANON",LBN- AL-IMAN-TV SD
@@ -1371,7 +1371,7 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yMt1nF" group-title="لبنانLEBANON",Sawt El Mada
-https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
