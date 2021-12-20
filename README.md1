@@ -1301,31 +1301,31 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xUG5Yl" group-title="سوريةSyria",SYR LANA HD
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",SYR-SAMA SYRIA SD
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="سوريةSyria",SYRIA DRAMA SD
-http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="سوريةSyria",SYRIA DRAMA HD
 http://62.210.248.192:25461/load/tnco3r8b1pl/6280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",SYRIA TV SD
-http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1577667525.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",SYR-AL EKHBARIYA SD
-http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="سوريةSyria",SYR-SOURYANA SD
-http://82.137.248.16:1935/Souryana/stream19042021/chunklist_w265952236.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريةSyria",SYR-Education TV SD
-http://82.137.248.16:1935/SEdu/stream19042021/chunklist_w1906671677.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="سوريةSyria",SYR-Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="سوريةSyria",Ugarit TV
-http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hcSrF6" group-title="سوريةSyria",ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD+
@@ -1340,14 +1340,10 @@ http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="سوريةSyria",DimshqLive FM
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-F:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="سوريةSyria",ShababLive FM
-http://82.137.248.16:1935/RShabab/RShababLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",All TV
-http://185.96.70.242:1935/live/alltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Minbij TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -1502,8 +1498,6 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="العراق IRAQ",IRQ-AL Maaref
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="العراق IRAQ",IRQ-Imam Hussein TV 2
 http://ar.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="العراق IRAQ",Zagros
@@ -1764,8 +1758,6 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="الامارات EMIRATES",DUB-Aldafrahtv 
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Citruss TV 
-http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="اليمن Yemen",Yemen tv
