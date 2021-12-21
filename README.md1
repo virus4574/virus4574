@@ -1380,6 +1380,8 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 http://93.184.1.247/Aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed+
 http://62.210.248.192:25461/load/tnco3r8b1pl/6290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed++
+http://185.9.2.25/MCNC_AL_JADEED/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
@@ -1456,6 +1458,8 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV FHD
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV FHD+
+https://tv.taghtia.com/serve/youtube/roya-tv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="الاردنJORDAN",JR-Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x7yDZU" group-title="الاردنJORDAN",JR-Jordan sport TV
@@ -1539,6 +1543,11 @@ http://41.224.63.108:7788/play/a02g
 http://41.224.63.108:7788/play/a02d
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",ON Drama
 http://41.224.63.108:7788/play/a02f
+
+#EXTINF:0 group-title="المصرية Egypt" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
+http://185.9.2.25/MCNC_DMC/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
+#EXTINF:0 group-title="المصرية Egypt" tvg-name="dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
+http://185.9.2.25/MCNC_DMC_DRAMA/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
