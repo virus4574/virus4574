@@ -36,20 +36,6 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 4تعمل وقت المبارات المهمه+
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
 
-
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//1192a86c980b980f4cc95ca116aac011.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports HD 4",Bein Sports HD 4
-http://58.65.194.14:1935/live/BoomerangHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//e1f287e1fe4b8ff35fc9834add5748fc.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports HD 12 English",Bein Sports HD 12 English
-http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//e66db5fde6a174e0786ea588014de6ae.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports HD 2",Bein Sports HD 2
-http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//3a4b684128816c9190877bb605fc1370.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports HD",Bein Sports HD
-http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//44f739ee5e5da43a6f623cc0eb22a2f8.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports 3",Bein Sports 3
-http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Sports/7a965c3d9047abef48a2c2ee5371769f.png" group-title="1 بين سبور BEIN SPORT" tvg-name="Bein Sports HD 11",Bein Sports HD 11
-http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
-
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports Premium 1 (720)
 http://b.banourahga.xyz/live/61616550012/index.m3u8
@@ -320,20 +306,17 @@ http://142.112.39.133:8080/catv.mp4
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4 رياضية SPORT",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1
-https://iptv-all.lanesh4d0w.repl.co/saudiarabia/ksasport1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2
-https://iptv-all.lanesh4d0w.repl.co/saudiarabia/ksasport2
+
 #EXTINF:-1 tvg-id="AlKassFive.qa" tvg-name="Al Kass Five" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="4 رياضية SPORT",Al Kass Five
-https://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alkass5
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass5a.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="Al Kass Four" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="4 رياضية SPORT",Al Kass Four
-https://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alkass4
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass4a.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlKassOne.qa" tvg-name="Al Kass One" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="4 رياضية SPORT",Al Kass One
-https://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alkass1
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlKassOnline.qa" tvg-name="Al Kass Online" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" group-title="4 رياضية SPORT",Al Kass Online
-https://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alkassonline
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="4 رياضية SPORT",Al Kass Two
-https://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alkass2
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkas2b.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 2
@@ -360,8 +343,6 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="4 رياضية SPORT",KTV Sport FHD
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x7yDZU" group-title="4 رياضية SPORT",JR-Jordan sport TV
-https://livestreams.tooli-tv.com/live/149077_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/925452512408293376/xHZe-67F_400x400.jpg" group-title="4 رياضية SPORT",1البحرين الرياضية
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="4 رياضية SPORT",Oman SPORT
@@ -370,6 +351,10 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="4 رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4 رياضية SPORT",ONTIME SPORTS
+http://41.224.63.108:7788/play/a02e
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4 رياضية SPORT",ONTIME SPORTS2
+http://41.224.63.108:7788/play/a02c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="4 رياضية SPORT",Viasat Sport | SD
 http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",TVP Sport POL
@@ -415,6 +400,12 @@ http://93.157.62.180:80/Supersport1/playlist.m3u8
 http://93.157.62.180:80/Supersport2/playlist.m3u8
 #EXTINF:-1 group-title="4 رياضية SPORT",SUPER SPORT 3 HD AL
 http://93.157.62.180:80/Supersport3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="4 رياضية SPORT", Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="4 رياضية SPORT", Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/Trump_Donald/eleven_sports_1_355/5/5/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",btsport1
@@ -768,6 +759,164 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 1 [Not 24/7]
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTDq3Rr.png" group-title="4 رياضية SPORT",K Sport 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ghJKRS.png" group-title="4 رياضية SPORT",K Sport 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKzlzpt.png" group-title="4 رياضية SPORT",K Sport 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cixvG3V.png" group-title="4 رياضية SPORT",K Sport 4
+http://93.157.62.180/KSport4/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="setanta-sport-ua" group-title="4 رياضية SPORT",Setanta Sports Ukraine HD
+https://95-213-172-213.livesports24.online/setantaukraine.m3u8
+#EXTINF:0 tvg-id="setanta-sport-ua" group-title="4 رياضية SPORT",Setanta Sports Ukraine HD
+https://95-213-224-187.livesports24.online/setantaukraine.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="4 رياضية SPORT",Setanta Sports 2
+https://95-213-172-213.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="4 رياضية SPORT",Setanta Sports 2 HD
+https://95-213-224-187.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",Беларусь 5 HD
+https://95-213-172-213.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",Беларусь 5
+https://95-213-224-187.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="futbol-ukr" group-title="4 رياضية SPORT",Футбол 1
+https://95-213-172-213.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="futbol-ukr" group-title="4 رياضية SPORT",Футбол 1 HD
+https://95-213-224-187.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="futbol-plus" group-title="4 رياضية SPORT",Футбол 2 UA
+https://95-213-172-213.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="futbol-plus" group-title="4 رياضية SPORT",Футбол 2 HD
+https://95-213-224-187.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="4 رياضية SPORT",Футбол 3 HD
+https://95-213-172-213.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 3 HD UA
+https://95-213-224-187.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="sport1" group-title="4 رياضية SPORT",Sport 1
+http://iptv.prosto.tv:7000/ch113/video.m3u8
+#EXTINF:0 tvg-id="sport1" group-title="4 رياضية SPORT",Sport 1
+https://95-213-224-187.livesports24.online/sport1ua.m3u8
+#EXTINF:0 tvg-id="sport2" group-title="4 رياضية SPORT",Sport 2
+http://iptv.prosto.tv:7000/ch115/video.m3u8
+#EXTINF:0 tvg-id="sport2" group-title="4 رياضية SPORT",Sport 2
+http://iptv.prosto.tv:7000/ch115/video.m3u8?telegramm=yossotv
+#EXTINF:0 tvg-id="sportivny" group-title="4 رياضية SPORT",Спортивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",MostVideo.TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0 tvg-id="xsport" group-title="4 رياضية SPORT",XSPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:0 tvg-id="xsport" group-title="4 رياضية SPORT",XSPORT HD
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Qazsport KZ
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Red Booll
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",UFC HD
+http://118.47.168.157:8080/play/a0211/index.m3u8
+#EXTINF:0 tvg-id="start" group-title="4 رياضية SPORT",Старт HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 tvg-id="start" group-title="4 رياضية SPORT",Старт HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 1 HD [UA] [HQ]
+https://185-107-80-245.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 1HD [UA] [HQ]
+https://95-213-224-186.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 1 HD [UA] [HQ]
+https://185-198-56-58.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 1 HD [UA] [HQ]
+https://46-166-139-70.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 2 HD [UA] [HQ]
+https://185-107-80-245.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 3 HD [UA] [HQ]
+https://185-107-80-245.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",ФУТБОЛ 2 HD [UA] [HQ]
+https://46-166-139-70.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 3 HD [UA] [HQ]
+https://95-213-224-186.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",ФУТБОЛ 2 HD [UA] [HQ]
+https://185-198-56-58.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",ФУТБОЛ 3 HD [UA] [HQ]
+https://185-198-56-58.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 2 HD [UA] [HQ]
+https://95-213-224-186.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 3 HD [UA] [HQ]
+https://46-166-139-70.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",Беларусь 5 [FHD]
+https://46-166-139-70.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="sport1" group-title="4 رياضية SPORT",Спорт 1 Украина [SD]
+https://46-166-139-70.livesports24.online/sport1ua.m3u8
+#EXTINF:0 tvg-id="sport1" group-title="4 رياضية SPORT",Спорт 1 Украина [SD]
+https://95-213-224-186.livesports24.online/sport1ua.m3u8
+#EXTINF:0 tvg-id="futbol" group-title="4 رياضية SPORT",Футбол [SD]
+https://185-107-80-245.livesports24.online/footballrus.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Футбол 1 HD [UA] [HQ]
+https://77-247-178-24.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",ФУТБОЛ 2 HD [UA] [HQ]
+https://77-247-178-24.livesports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",ФУТБОЛ 3 HD [UA] [HQ]
+https://77-247-178-24.livesports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",Беларусь 5 [FHD]
+https://77-247-178-24.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Спорт 1 [укр] [SD]
+https://77-247-178-24.livesports24.online/sport1ua.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",СТАРТ [ИГРА] [FHD]
+https://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="4 رياضية SPORT",Setanta Sports 2 [FHD]
+https://77-247-178-24.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-id="setanta-sport-ua" group-title="4 رياضية SPORT",Setanta Sports Ukraine [FHD]
+https://77-247-178-24.livesports24.online/setantaukraine.m3u8
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="4 رياضية SPORT",CANAL+SPORT [HD]
+http://62.112.9.63:88/canal+_sport/index.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Racing [HQ]
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Canal+ Sport Polska [HD]
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="EdgeSport.nl" group-title="4 رياضية SPORT",Edge Sport [FHD]
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Racing [SD-]
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",World Of Free Sports TV [HD]
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Bellator MMA [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",GLORY Kickboxing [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",TritonFight [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="FoxSports.it" group-title="4 رياضية SPORT",FOX Sports HD [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",PGA TOUR [HD]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 tvg-id="futbol" group-title="4 رياضية SPORT",Футбол [SD]
+https://77-247-178-24.livesports24.online/footballrus.m3u8
+#EXTINF:0 tvg-id="futbol" group-title="4 رياضية SPORT",Футбол [SD]
+https://95-213-224-175.livesports24.online/footballrus.m3u8
+#EXTINF:0 tvg-id="futbol" group-title="4 رياضية SPORT",Футбол [SD]
+https://95-213-224-186.livesports24.online/footballrus.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Viasat Sport [RU] [HQ]
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",Setanta Sport Ukraine [FHD]
+https://185-107-80-245.livesports24.online/setantaukraine.m3u8
+#EXTINF:0 tvg-id="Sky1.uk" group-title="4 رياضية SPORT",sky1 [HD]
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0 tvg-id="Sky2.uk" group-title="4 رياضية SPORT",sky2 [HD]
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",Беларусь 5 [FHD]
+https://95-213-224-175.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",Беларусь 5 [FHD]
+https://95-213-172-221.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="belarus5" group-title="4 رياضية SPORT",БЕЛАРУСЬ 5 [FHD]
+https://95-213-224-180.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",1+1 Sport [HD]
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4 رياضية SPORT",СТАРТ [ПОЕДИНОК] [FHD]
+http://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="5 الاخبارNEWS",الاخبارNEWS
+https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext" group-title="5 الاخبارNEWS",الاخبارNEWS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="5 الاخبارNEWS",كيف احصل على الكود
@@ -784,10 +933,6 @@ https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="5 الاخبارNEWS",AL ARABIYA 
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="5 الاخبارNEWS",AL ARABIYA SD
-https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="5 الاخبارNEWS",AL HADATH 
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="5 الاخبارNEWS",AL HADATH 
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="5 الاخبارNEWS",AL HADATH SD
@@ -800,8 +945,6 @@ https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tctp9" group-title="5 الاخبارNEWS",SKY NEWS ARABIC 
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tctp9" group-title="5 الاخبارNEWS",SKY NEWS ARABIC +
-https://or.tooliserver.com/live/Sky_News_Arabia/Sky_News_Arabia.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="5 الاخبارNEWS",BBC ARABIC 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="5 الاخبارNEWS",BBC ARABIC +
@@ -841,13 +984,15 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L5rfe6" group-title="5 الاخبارNEWS",Alsharq
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3czkuwF" group-title="5 الاخبارNEWS",IraqiaNew TV HD
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MIwe4K" group-title="5 الاخبارNEWS",IRQ-AL Hurra HD
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rdcg0X" group-title="5 الاخبارNEWS",IRQ-AL Hurra IRAQIA HD
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rdcg0X" group-title="5 الاخبارNEWS",IRQ-AL Hurra IRAQIA SD+
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="6 الوثائقية documentary",الوثائقية documentary
+https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="6 الوثائقية documentary",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="6 الوثائقية documentary",National Geographic Abu Dhabi 
@@ -860,18 +1005,9 @@ https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="6 الوثائقية documentary",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Discovery" tvg-logo="" group-title="6 الوثائقية documentary",|AR| Discovery
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/526
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Nat_Geo_Peopl" tvg-logo="" group-title="6 الوثائقية documentary",|AR| OSN Nat_Geo_Peopl
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/527
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Nat-Geo-Wild HD" tvg-logo="" group-title="6 الوثائقية documentary",|AR| OSN Nat-Geo-Wild HD
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/528
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Animal Planet HD" tvg-logo="" group-title="6 الوثائقية documentary",|AR| OSN Animal Planet HD
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/529
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AlJazeera DOC" tvg-logo="" group-title="6 الوثائقية documentary",|AR| AlJazeera DOC
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/530
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nat Geo Abu Dhabi" tvg-logo="" group-title="6 الوثائقية documentary",|AR| Nat Geo Abu Dhabi
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/531
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="6 الوثائقية documentary",Animaux
+https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09bef7eb-2ec0-11ec-9d20-0242ac110003
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810030.jpg" group-title="6 الوثائقية documentary", NATGEO WILD HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021028.png" group-title="6 الوثائقية documentary", OUTDOOR CHANNEL
@@ -898,6 +1034,8 @@ http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bbcent.stream/playlist.m3u8
 #EXTINF:-1 group-title="6 الوثائقية documentary", DESTINATION AMERICA
 http://stream.tvtap.live:8081/live/us-destination.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pe1cAf" group-title="6 الوثائقية documentary",OUTDOOR Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NVrJV7" group-title="6 الوثائقية documentary",BBC LifeStyle
@@ -984,6 +1122,7 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="7 أطفال Children",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
+
 #EXTINF: -1 tvg-id="BOM.Asia" tvg-name="Boomerang" tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286010596.png" group-title="7 أطفال Children", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 #EXTINF: -1 group-title="7 أطفال Children", Marvel HQ
@@ -1022,34 +1161,24 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://pkr.cinepex.tv:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="8 أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="8 أم بي سيMBC",MBC HD
+https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="8 أم بي سيMBC",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 SD+
-https://livestreams.tooli-tv.com/live/149009_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 SD
-https://livestreams.tooli-tv.com/live/149010_2.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 SD+
-http://58.65.194.14:1935/live/MBC2HD.stream/playlist.m3u8
+http://airmaxtv2022.online:80/mmbbccair/dwWCHG1SKa/747
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="8 أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="8 أم بي سيMBC",|MBC| 4 SD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="8 أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety SD
-https://livestreams.tooli-tv.com/live/149017_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD
-https://livestreams.tooli-tv.com/live/149013_2.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD+
-https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action SD++
-http://58.65.194.14:1935/live/MBC-Action-HD.stream/playlist.m3u8
+http://airmaxtv2022.online:80/mmbbccair/dwWCHG1SKa/750
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max SD
-https://livestreams.tooli-tv.com/live/149015_2.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max SD+
-http://58.65.194.14:1935/live/MBCMax.stream/playlist.m3u8
+http://airmaxtv2022.online:80/mmbbccair/dwWCHG1SKa/748
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="8 أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="8 أم بي سيMBC",|MBC| Masr SD
@@ -1064,29 +1193,16 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="8 أم بي سيMBC",|MBC| Panorama SD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 FHD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 FHD+
-https://livestreams.tooli-tv.com/live/149009_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 FHD
-https://livestreams.tooli-tv.com/live/149010_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="8 أم بي سيMBC",|MBC| 3 FHD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="8 أم بي سيMBC",|MBC| 4 FHD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety FHD
-https://livestreams.tooli-tv.com/live/149017_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="8 أم بي سيMBC",|MBC| 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action FHD
-https://livestreams.tooli-tv.com/live/149013_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action FHD+
 https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_1.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max FHD
-https://livestreams.tooli-tv.com/live/149015_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="8 أم بي سيMBC",|MBC| Iraq FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="8 أم بي سيMBC",|MBC| Masr FHD
@@ -1101,28 +1217,16 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="8 أم بي سيMBC",|MBC| Panorama FHD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 HD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 HD+
-https://livestreams.tooli-tv.com/live/149009_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 HD
-https://livestreams.tooli-tv.com/live/149010_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="8 أم بي سيMBC",|MBC| 3 HD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="8 أم بي سيMBC",|MBC| 4 HD
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="8 أم بي سيMBC",|MBC| 5 HD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety HD
-https://livestreams.tooli-tv.com/live/149017_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action HD
-https://livestreams.tooli-tv.com/live/149013_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action HD+
 https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="8 أم بي سيMBC",|MBC| Max HD
-https://livestreams.tooli-tv.com/live/149015_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="8 أم بي سيMBC",|MBC| Iraq HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="8 أم بي سيMBC",|MBC| Masr HD
@@ -1137,8 +1241,6 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="8 أم بي سيMBC",|MBC| Panorama HD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 LOW
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="8 أم بي سيMBC",|MBC| 3 LOW
@@ -1147,7 +1249,7 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="8 أم بي سيMBC",|MBC| 5 LOW
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action LOW+
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="8 أم بي سيMBC",|MBC| Action LOW
 https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="8 أم بي سيMBC",|MBC| Iraq LOW
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_5.m3u8
@@ -1193,16 +1295,17 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="8 أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="9 روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="9 روتانا ROTANA",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="9 روتانا ROTANA",Rotana Cinema SD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="9 روتانا ROTANA",Rotana Cinema HD KSA SD
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="9 روتانا ROTANA",Rotana Classic SD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="9 روتانا ROTANA",Rotana Drama HD SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="9 روتانا ROTANA",Rotana Drama HD  SD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="9 روتانا ROTANA",Rotana Khalijia SD
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
@@ -1211,9 +1314,7 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="9 روتانا ROTANA",Rotana+ SD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="9 روتانا ROTANA",Rotana Comedy
-http://airmaxtv2022.online:80/aallllairPRO/1LKmEV7s2x/718
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="9 روتانا ROTANA",rotana clip FHD
-https://livestreams.tooli-tv.com/live/148046_1.m3u8?session=&location=
+http://airmaxtv2022.online:80/mmbbccair/dwWCHG1SKa/749
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="9 روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="9 روتانا ROTANA",MUS:AR-RADIO ROTANA
@@ -1234,19 +1335,19 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="9 روتانا ROTANA",Rotana+ LOW
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="9 روتانا ROTANA",Rotana Cinema (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="9 روتانا ROTANA",Rotana Cinema 
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="9 روتانا ROTANA",Rotana Cinema HD KSA (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="9 روتانا ROTANA",Rotana Cinema HD KSA 
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="9 روتانا ROTANA",Rotana Classic (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="9 روتانا ROTANA",Rotana Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="9 روتانا ROTANA",Rotana Drama HD (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="9 روتانا ROTANA",Rotana Drama HD 
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="9 روتانا ROTANA",Rotana Khalijia (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="9 روتانا ROTANA",Rotana Khalijia 
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="9 روتانا ROTANA",Rotana Kids (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="9 روتانا ROTANA",Rotana Kids 
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="9 روتانا ROTANA",Rotana+ (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="9 روتانا ROTANA",Rotana+ 
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="9 روتانا ROTANA",Rotana Lbchd (اتصالVPN)
 https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
@@ -1266,30 +1367,18 @@ https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
 https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="9 روتانا ROTANA",Rotana Music (اتصالVPN)
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="10سوريةSyria",10 سوريةSyria
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="10سوريةSyria",SYR-SAMA SYRIA SD
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xUG5Yl" group-title="10سوريةSyria",SYR LANA HD
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10سوريةSyria",SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="10سوريةSyria",SYRIA DRAMA
-http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="10سوريةSyria",SYRIA TV
-http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1646047174.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="10سوريةSyria",SYR-AL EKHBARIYA SD
-http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10سوريةSyria",SYR-SOURYANA SD
-http://82.137.248.16:1935/Souryana/stream19042021/chunklist_w265952236.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="10سوريةSyria",SYR-Education TV SD
-http://82.137.248.16:1935/SEdu/stream19042021/chunklist_w154209152.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="10سوريةSyria",SYR-Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="10سوريةSyria",SYRIA DRAMA HD
+http://62.210.248.192:25461/load/tnco3r8b1pl/6280.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10سوريةSyria",|AR| Syria Alam
-https://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10سوريةSyria",SYR-HALAB TODAY SD+
@@ -1304,62 +1393,52 @@ http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="10سوريةSyria",DimshqLive FM
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-F:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="10سوريةSyria",ShababLive FM
-http://82.137.248.16:1935/RShabab/RShababLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",All TV
-http://185.96.70.242:1935/live/alltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11 لبنانLEBANON",11 لبنانLEBANON
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11 لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="11 لبنانLEBANON",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBN-ldc lebanon SD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBN-ldc lebanon 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="11 لبنانLEBANON",Al Ittihad SD
-https://live.alittihad.tv/ittihad/index.m3u8
+https://live.alittihad.tv/ittihad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="11 لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="11 لبنانLEBANON",LBN-Future TV SD
-https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="11 لبنانLEBANON",Al Manar SD
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MLitCk" group-title="11 لبنانLEBANON",LBN- AL-IMAN-TV SD
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="11 لبنانLEBANON",LBN-AL Mayadeen SD
-http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="11 لبنانLEBANON",Aeeshalaan SD
-http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x74wje5
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="11 لبنانLEBANON",LBN-ALWIFAK TV SD
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3jgfbDH" group-title="11 لبنانLEBANON",Assirat TV SD
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="11 لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD+
+http://185.9.2.25/MCNC_NBN/video.m3u8?token=telearabiamax.tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="11 لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37Tn8JR" group-title="11 لبنانLEBANON",mtv lebanon hd
-https://livestreams.tooli-tv.com/live/470_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed
-https://livestreams.tooli-tv.com/live/381_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="11 لبنانLEBANON",OTV FHD
-https://livestreams.tooli-tv.com/live/117_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed
 http://93.184.1.247/Aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed+
 http://62.210.248.192:25461/load/tnco3r8b1pl/6290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed++
+http://185.9.2.25/MCNC_AL_JADEED/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/30LW3bD" group-title="11 لبنانLEBANON",MTV_LEBANON
+http://185.9.2.25/MCNC_MTV_LEBANON/video.m3u8?token=telearabiamax.tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3mnzAcr" group-title="11 لبنانLEBANON",tele_liban
+http://www.elahmad.com/tv/hls/tele_liban.php
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12 فلسطينPALESTINE",بيت لحم مباشر
-http://live.btv2020.com:1935/live/btv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 1
-http://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=alfajertv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",ShababFM
@@ -1424,32 +1503,30 @@ https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Vgp3" group-title="12 فلسطينPALESTINE",PAL-Hebron TV
 https://streaming.zaytonatube.com:8081/newhebron/newheb/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="13 الاردنJORDAN",13 الاردنJORDAN
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="13 الاردنJORDAN",JR-Jordan TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x7yDZU" group-title="13 الاردنJORDAN",JR-Jordan sport TV
-https://livestreams.tooli-tv.com/live/149077_1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="13 الاردنJORDAN",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="13 الاردنJORDAN",Roya TV FHD
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="13 الاردنJORDAN",JR-Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="13 الاردنJORDAN",Amman tv SD
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="13 الاردنJORDAN",Amman tv (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="13 الاردنJORDAN",Amman tv 
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="13 الاردنJORDAN",ALmamlka TV SD
 https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="13 الاردنJORDAN",ALmamlka TV (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="13 الاردنJORDAN",ALmamlka TV 
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YbRfqZ" group-title="13 الاردنJORDAN",Jasco
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="13 الاردنJORDAN",Roya TV (1080p)
-https://linkastream.co/headless?url=https://www.youtube.com/c/royatv/live
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="14 العراق IRAQ",14 العراق IRAQ
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="14 العراق IRAQ",العراق IRAQ
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="14 العراق IRAQ",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="14 العراق IRAQ",Al Sumaria
-http://iptv.repl.co/Arabic/Al_summaria/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="14 العراق IRAQ",Al Sumaria+
-http://www.elahmad.com/tv/m3u8/online_live_3_tv.m3u8?id=sumari
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=sumari
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3EhFIZU" group-title="14 العراق IRAQ",Samarra
+http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14 العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14 العراق IRAQ",قناة دجلة Dijlah TV (Backup)
@@ -1467,11 +1544,9 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="14 العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="14 العراق IRAQ",IRQ-IRAQIA الفضائية
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="14 العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="14 العراق IRAQ",IRQ-AL Maaref
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="14 العراق IRAQ",IRQ-Imam Hussein TV 2
 http://ar.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="14 العراق IRAQ",Zagros
@@ -1483,11 +1558,11 @@ https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TSwYIe" group-title="14 العراق IRAQ",AletejahTV
 https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="14 العراق IRAQ",IRQ-IRAQIA الاخبارية
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="14 العراق IRAQ",Iraq Future
-https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist_w125001985_b900000.m3u8
+https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="14 العراق IRAQ",Iraq 24
-https://113483.global.ssl.fastly.net/edge-en/ngrp:live_31b220e0e20611eab1b9cfce247e5d5f_all/index.m3u8
+https://113483.global.ssl.fastly.net/5f3cfdbf6b37750084f33584/live_85f477f0316211ec86649bcb0bc233d9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="14 العراق IRAQ",iNEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="15 المصرية Egypt",المصرية
@@ -1506,41 +1581,18 @@ http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="15 المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="15 المصرية Egypt",Misr Quran Kareem
+http://41.224.63.108:7788/play/a02g
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="15 المصرية Egypt",ON  E
 http://41.224.63.108:7788/play/a02d
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="15 المصرية Egypt",ON Drama
 http://41.224.63.108:7788/play/a02f
+#EXTINF:0 group-title="15 المصرية Egypt" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
+http://185.9.2.25/MCNC_DMC/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
+#EXTINF:0 group-title="15 المصرية Egypt" tvg-name="dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
+http://185.9.2.25/MCNC_DMC_DRAMA/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",AL OSTORA
-http://213.162.202.5:4000/play/a09c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",ALPRINCE DRAMA
-http://213.162.202.5:4000/play/a09m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",BELODY AFLAM
-http://213.162.202.5:4000/play/a09e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CIMA ALIBABA
-http://213.162.202.5:4000/play/a097/index.m3u8
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="15 المصرية Egypt",CINEMA 1
-http://213.162.202.5:4000/play/a0a2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CINEMA 2
-http://213.162.202.5:4000/play/a09t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CINEMA TUBE
-http://213.162.202.5:4000/play/a0a4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",DR. ABO ELNASR
-http://213.162.202.5:4000/play/a099/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Energy FM
-http://213.162.202.5:4000/play/a073/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",HALABA TV
-http://213.162.202.5:4000/play/a09z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",HEKAYA TV
-http://213.162.202.5:4000/play/a09i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Zamalek Sports
-http://213.162.202.5:4000/play/a070/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc
-http://213.162.202.5:4000/play/a06y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc drama
-http://213.162.202.5:4000/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="16 المغربMAROCCO",16 المغربMAROCCO 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="16 المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="16 المغربMAROCCO",AL_Aoula_InterTV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
@@ -1566,32 +1618,33 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TpEk1" group-title="16 المغربMAROCCO",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="17 تونسTUNISIE",17 تونسTUNISIE
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title=17 تونسTUNISIE",تونسTUNISIE
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="17 تونسTUNISIE",TUNISIE راديو جوهرة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title=17 تونسTUNISIE",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbp7jV" group-title="17 تونسTUNISIE",Sahel TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbp7jV" group-title=17 تونسTUNISIE",Sahel TV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="17 تونسTUNISIE",Tunimmob TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title=17 تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://bit.ly/3DoAVXd" group-title="17 تونسTUNISIE",Watania 1
-https://livestreams.tooli-tv.com/live/148194_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://bit.ly/3cgeDuK" group-title="17 تونسTUNISIE",Watania 2
-https://livestreams.tooli-tv.com/live/148195_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1" tvg-country="TN" tvg-language="Arabic" tvg-logo="Arabic" group-title="17 تونسTUNISIE",Watania 1 
-http://free.fullspeed.tv/query?url=https://www.youtube.com/c/WataniaReplay/live
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title="17 تونسTUNISIE",Watania 2 (400p)
+
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title=17 تونسTUNISIE",Watania 2 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="18 الجزائرALGERIEN",الجزائرALGERIEN
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="18 الجزائرALGERIEN",Ennahar TV (240p)
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="18 الجزائرALGERIEN",Ennahar TV (360p)
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="18 الجزائرALGERIEN",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="18 الجزائرALGERIEN",EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="19 ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="19 ليبياLIBYA",LIB-Salam TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iOOVA5" group-title="19 ليبياLIBYA",LIB-Libya Alahrar
 https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mdx7SX" group-title="19 ليبياLIBYA",LIB-Libya Channel
@@ -1604,18 +1657,38 @@ https://master.starmena-cloud.com/hls/hd.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="19 ليبياLIBYA",قناة الوسط - WTV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wOUYtu" group-title="19 ليبياLIBYA",Libya 218 News
-http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="20 السودانSUDAN",20 السودانSUDAN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="20 السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="20 السودانSUDAN",Sudan TV+
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="20 السودانSUDAN",Sudan TV
-http://217.182.137.206/sudantv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iDLGes" group-title="20 السودانSUDAN",Sudan 24 TV
-http://217.182.137.206/sudania24.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9MXfZ" group-title="20 السودانSUDAN",Sudan drama TV
-http://217.182.137.206/sudan_drama.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=10251" group-title="20 السودانSUDAN",SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/719
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN 24" tvg-logo="http://www.teledunet.com/logo.php?id=1217" group-title="20 السودانSUDAN",SUDAN 24
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/720
+#EXTINF:-1 tvg-id="" tvg-name="BLUE NILE" tvg-logo="http://www.teledunet.com/logo.php?id=10257" group-title="20 السودانSUDAN",BLUE NILE
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/721
+#EXTINF:-1 tvg-id="" tvg-name="AL HILAL SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1218" group-title="20 السودانSUDAN",AL HILAL SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/722
+#EXTINF:-1 tvg-id="" tvg-name="AL MARIKH SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1219" group-title="20 السودانSUDAN",AL MARIKH SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/723
+#EXTINF:-1 tvg-id="" tvg-name="RED SEA SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1220" group-title="20 السودانSUDAN",RED SEA SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/724
+#EXTINF:-1 tvg-id="" tvg-name="OM DURMAN SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=10266" group-title="20 السودانSUDAN",OM DURMAN SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/725
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=101349" group-title="20 السودانSUDAN",SUDAN DRAMA
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/726
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN SPORTS" tvg-logo="http://www.teledunet.com/logo.php?id=101348" group-title="20 السودانSUDAN",SUDAN SPORTS
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/727
+#EXTINF:-1 tvg-id="" tvg-name="KASSALA SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1221" group-title="20 السودانSUDAN",KASSALA SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/728
+#EXTINF:-1 tvg-id="" tvg-name="ALMADARIA SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1222" group-title="20 السودانSUDAN",ALMADARIA SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/729
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN MUSIC" tvg-logo="http://www.teledunet.com/logo.php?id=101351" group-title="20 السودانSUDAN",SUDAN MUSIC
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/730
+#EXTINF:-1 tvg-id="" tvg-name="NEELAIN SPORT SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1223" group-title="20 السودانSUDAN",NEELAIN SPORT SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/731
+#EXTINF:-1 tvg-id="" tvg-name="SOUTHERN SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1224" group-title="20 السودانSUDAN",SOUTHERN SUDAN
+http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/732
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="20 السودانSUDAN",Sudan Bukra
+http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="21 قطر Qatar",Qatar TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="21 قطر Qatar",Qatar 1 TV HD
@@ -1628,6 +1701,8 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa5msJ" group-title="22 الكويت Kuwait",Kuwait TV
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="22 الكويت Kuwait",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="22 الكويت Kuwait",Kuwait 1 TV FHD
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="22 الكويت Kuwait",Kuwait 2 TV FHD
@@ -1647,23 +1722,17 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="22 الكويت Kuwait",KTV Khallik Bilbait
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="22 الكويت Kuwait",Kuwait Alrai TV FHD
-https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="22 الكويت Kuwait",Kuwait Alrai TV +
-http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8
+https://media.streambrothers.com:1936/8724/8724/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KEJiaN" group-title="22 الكويت Kuwait",FUNOON
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="22 الكويت Kuwait",قناة atv الكويتية 1 SD
-rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nocm7n" group-title="22 الكويت Kuwait",قناه المعارف الكويتيه SD
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="22 الكويت Kuwait",Kuwait MarinaFM
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV87R9" group-title="22 الكويت Kuwait",Kuwait MarinaTv
 https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="22 الكويت Kuwait",قناة atv الكويتية 1 SD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="22 الكويت Kuwait",قناة atv الكويتية 1 SD
 https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MUJ2FX" group-title="22 الكويت Kuwait",Kuwait Scope TV
-https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV8pHJ" group-title="22 الكويت Kuwait",Kuwait Al-Sabah
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d5ZrSy" group-title="22 الكويت Kuwait",Kuwait Al-Shahed
@@ -1678,6 +1747,8 @@ http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="23 البحرين Bahrain",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="23 البحرين Bahrain",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="24 سلطنة عمان Oman",Oman TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="24 سلطنة عمان Oman",Oman TV
@@ -1692,19 +1763,11 @@ http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sLpJPk" group-title="25 السعودية Saudi-Arabia",Saudi-Arabia tv
 https://bit.ly/3pWtmPO
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="25 السعودية Saudi-Arabia",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25 السعودية Saudi-Arabia",SAU-THIKRAYAT HD
-https://iptv--iptv.repl.co/Arabic/Zikrayat/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25 السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25 السعودية Saudi-Arabia",Saudi TV 1+
-https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39RerQN" group-title="25 السعودية Saudi-Arabia",Saudi الإخبارية
-https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="25 السعودية Saudi-Arabia",sbc
-https://iptv--iptv.repl.co/Arabic/SBC/
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="25 السعودية Saudi-Arabia",Al_Ekhbaria
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="25 السعودية Saudi-Arabia",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="25 السعودية Saudi-Arabia",Iqraa Europe Africa
@@ -1714,58 +1777,41 @@ http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Md9nOO" group-title="25 السعودية Saudi-Arabia",مكة TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaf25a" group-title="25 السعودية Saudi-Arabia",Al Sunnah 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppecvzJ.png" group-title="25 السعودية Saudi-Arabia",Quran TV HD
-https://livestreams.tooli-tv.com/live/148026_0.m3u8?session=&location=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EcKTI3S.png" group-title="25 السعودية Saudi-Arabia",Sunna TV HD
-https://livestreams.tooli-tv.com/live/148024_0.m3u8?session=&location=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ISC28nL.png" group-title="25 السعودية Saudi-Arabia",iEN TV HD
-https://livestreams.tooli-tv.com/live/149469_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25 السعودية Saudi-Arabia",Saudi TV 1+
-https://livestreams.tooli-tv.com/live/148025_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25 السعودية Saudi-Arabia",SAU-THIKRAYAT+
-https://livestreams.tooli-tv.com/live/149335_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="25 السعودية Saudi-Arabia",sbc+
-https://livestreams.tooli-tv.com/live/148021_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="26 الامارات EMIRATES",26 الامارات EMIRATES (الدقة التلقائية)
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="26 الامارات EMIRATES",الامارات EMIRATES 
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398tt5G" group-title="26 الامارات EMIRATES",Dubai TV (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398tt5G" group-title="26 الامارات EMIRATES",Dubai TV 
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/31lkwkD" group-title="26 الامارات EMIRATES",Dubai One (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/31lkwkD" group-title="26 الامارات EMIRATES",Dubai One 
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c41Cp9" group-title="26 الامارات EMIRATES",DUB-NOOR DUBAI HD (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c41Cp9" group-title="26 الامارات EMIRATES",DUB-NOOR DUBAI HD 
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c34Bhz" group-title="26 الامارات EMIRATES",Sama Dubai (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c34Bhz" group-title="26 الامارات EMIRATES",Sama Dubai 
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ssSqjy" group-title="26 الامارات EMIRATES",Dubai Zaman (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ssSqjy" group-title="26 الامارات EMIRATES",Dubai Zaman 
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sS0oDA" group-title="26 الامارات EMIRATES",DUB-DUBAI Racing (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sS0oDA" group-title="26 الامارات EMIRATES",DUB-DUBAI Racing 
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7p4nW" group-title="26 الامارات EMIRATES",Abu Dhabi TV (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7p4nW" group-title="26 الامارات EMIRATES",Abu Dhabi TV 
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o99VCv" group-title="26 الامارات EMIRATES",Abu Dhabi Drama (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o99VCv" group-title="26 الامارات EMIRATES",Abu Dhabi Drama 
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="26 الامارات EMIRATES",DUB-AL Emarat HD (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="26 الامارات EMIRATES",DUB-AL Emarat HD 
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qJob6K" group-title="26 الامارات EMIRATES",sharqiya from kalba (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qJob6K" group-title="26 الامارات EMIRATES",sharqiya from kalba 
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xq48" group-title="26 الامارات EMIRATES",AL Sharjah TV (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xq48" group-title="26 الامارات EMIRATES",AL Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="26 الامارات EMIRATES",DUB-ALAN HD (الدقة التلقائية)
-https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="26 الامارات EMIRATES",DUB-Al Wousta HD (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="26 الامارات EMIRATES",DUB-Al Wousta HD 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv 
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv (الدقة التلقائية)+
-https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hiyWdT" group-title="26 الامارات EMIRATES",DUB-Ajman
-https://iptv-all.lanesh4d0w.repl.co/emirates/ajman
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Citruss TV (الدقة التلقائية)
-http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Yas TV (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Expotv TV 2020
+https://shls-expotv-prod-dub.shahid.net/out/v1/d01b0b3888284878b8898017895a5922/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="27 اليمن Yemen",Yemen tv
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="27 اليمن Yemen",كيف احصل على الكود
@@ -1778,10 +1824,9 @@ https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/395hNAB" group-title="27 اليمن Yemen",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xLnq" group-title="27 اليمن Yemen",قناة السعيدة
-http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xnR3Vr" group-title="27 اليمن Yemen",Belqees TV
 https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sNWfAe" group-title="27 اليمن Yemen",Yemen TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="28 الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="28 الصومالSomalia‎",Horn Cable TV
