@@ -323,6 +323,12 @@ https://59c7ea6bec1c6.streamlock.net/live/beinsporthaber.stream/chunklist.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
 http://azerbaijan1.livetv.az/turkey/atv_turk_sd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="" group-title="TURKEY" logo="https://bit.ly/3z1DbCc", FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:0 type="stream" channelId="" group-title="TURKEY" logo="https://bit.ly/3z1DbCc", FOX TV HD YEDEK
+http://istanbul.tvizlehd.com/live/foxtv720.m3u8
+#EXTINF:0 type="stream" channelId="" group-title="TURKEY" logo="https://bit.ly/3z1DbCc", FOX TV SD
+http://istanbul.tvizlehd.com/live/foxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)
 http://antalya.tvizlehd.com/live/showtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)+
