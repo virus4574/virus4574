@@ -10,7 +10,7 @@ https://github.com/virus457/sasa/raw/air99/sk.mp4
 #EXTINF:-1 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN SPORT
 https://bit.ly/3pWtmPO
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3gsOPP3" group-title="1 بين سبور BEIN SPORT",0تعمل وقت المبارات المهمه
-https://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alfajertv
+https://www.elahmad.com/tv/m3u8/online_live_5_tv.m3u8?id=alfajertv
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 1تعمل وقت المبارات المهمه
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889143
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 1تعمل وقت المبارات المهمه+
@@ -247,7 +247,7 @@ https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass4a.smil/chunk
 #EXTINF:-1 tvg-id="AlKassOne.qa" tvg-name="Al Kass One" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="4 رياضية SPORT",Al Kass One
 https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlKassOnline.qa" tvg-name="Al Kass Online" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" group-title="4 رياضية SPORT",Al Kass Online
-https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/playlist.m3u8
+http://www.elahmad.com/tv/m3u8/online_live_5_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="4 رياضية SPORT",Al Kass Two
 https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkas2b.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 1
@@ -1303,7 +1303,7 @@ https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xUG5Yl" group-title="10سوريةSyria",SYR LANA HD
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
+http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10سوريةSyria",SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10سوريةSyria",SYR-SYRIA PLUS 
@@ -1457,7 +1457,7 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="14 العراق IRAQ",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="14 العراق IRAQ",Al Sumaria
-http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=sumari
+http://www.elahmad.com/tv/m3u8/online_live_5_tv.m3u8?id=sumari
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3EhFIZU" group-title="14 العراق IRAQ",Samarra
 http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14 العراق IRAQ",قناة دجلة Dijlah TV
@@ -1698,6 +1698,12 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="25 السعودية Saudi-Arabia",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="25 السعودية Saudi-Arabia",sbc
+http://www.elahmad.com/tv/m3u8/online_live_5_tv.m3u8?id=sbc_tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25 السعودية Saudi-Arabia",SAU-THIKRAYAT
+http://www.elahmad.com/tv/m3u8/online_live_5_tv.m3u8?id=saudi_thikrayat
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="25 السعودية Saudi-Arabia",Al_Ekhbaria
+http://www.elahmad.com/tv/m3u8/online_live_5_tv.m3u8?id=saudi_ekhbariya
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25 السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="25 السعودية Saudi-Arabia",Al_Ekhbaria
