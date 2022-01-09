@@ -1310,13 +1310,7 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed
 http://93.184.1.247/Aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed+
-http://62.210.248.192:25461/load/tnco3r8b1pl/6290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed++
-http://185.9.2.25/MCNC_AL_JADEED/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/30LW3bD" group-title="لبنانLEBANON",MTV_LEBANON
-http://185.9.2.25/MCNC_MTV_LEBANON/video.m3u8?token=telearabiamax.tv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3mnzAcr" group-title="لبنانLEBANON",tele_liban
-http://www.elahmad.com/tv/hls/tele_liban.php
+http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8?token=3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
@@ -1472,11 +1466,6 @@ http://41.224.63.108:7788/play/a02g
 http://41.224.63.108:7788/play/a02d
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",ON Drama
 http://41.224.63.108:7788/play/a02f
-
-#EXTINF:0 group-title="المصرية Egypt" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
-http://185.9.2.25/MCNC_DMC/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
-#EXTINF:0 group-title="المصرية Egypt" tvg-name="dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
-http://185.9.2.25/MCNC_DMC_DRAMA/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
