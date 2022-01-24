@@ -1070,8 +1070,10 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/860
+http://93.184.1.247/MBC2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD+
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/860
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD++
 http://93.184.1.247/MBC2/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
@@ -1084,6 +1086,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
 http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/859
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
+http://93.184.1.247/MBC_MAX/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD+
 http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/858
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
@@ -1319,6 +1323,8 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 http://93.184.1.247/Aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="لبنانLEBANON",aljadeed+
 http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8?token=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",OTV
+http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
