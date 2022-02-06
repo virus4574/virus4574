@@ -1457,7 +1457,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOQCC0" group-title="المغربMAROCCO",AL_Aoula_laayoune TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1=4-mp4aqad=1.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE+
+https://gintna100.tulix.tv/gin_live/2mmaroc/cfd1b74dd703b50862f6124eba188d71/62007c80/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIPzCu" group-title="المغربMAROCCO",MR-ARRYADIA -3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pgxACw" group-title="المغربMAROCCO",MR-ARRABIAA HD
