@@ -1211,8 +1211,8 @@ http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="10سوريةSyria",SYRIA DRAMA HD
-http://62.210.248.192:25461/load/tnco3r8b1pl/6280.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",سما سوريا 
+http://95.217.133.45:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10سوريةSyria",SYR-HALAB TODAY SD
@@ -1231,8 +1231,6 @@ http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11 لبنانLEBANON",لبنانLEBANON
-https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="11 لبنانLEBANON",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBN-ldc lebanon SD
@@ -1261,14 +1259,8 @@ https://nbntv.me:8443/nbntv/index.m3u8
 http://185.9.2.25/MCNC_NBN/video.m3u8?token=telearabiamax.tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="11 لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed
-http://93.184.1.247/Aljadeed/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed+
-http://62.210.248.192:25461/load/tnco3r8b1pl/6290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ZWVTgE" group-title="11 لبنانLEBANON",aljadeed++
-http://185.9.2.25/MCNC_AL_JADEED/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/30LW3bD" group-title="11 لبنانLEBANON",MTV_LEBANON
-http://185.9.2.25/MCNC_MTV_LEBANON/video.m3u8?token=telearabiamax.tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="11 لبنانLEBANON",OTV
+http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3mnzAcr" group-title="11 لبنانLEBANON",tele_liban
 http://www.elahmad.com/tv/hls/tele_liban.php
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
