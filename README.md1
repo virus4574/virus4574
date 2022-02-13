@@ -1190,8 +1190,6 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="روتانا ROTANA",Rotana+ SD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="روتانا ROTANA",Rotana Comedy
-http://airmaxtv2022.online:80/mmbbccair/dwWCHG1SKa/749
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="روتانا ROTANA",MUS:AR-RADIO ROTANA
@@ -1231,7 +1229,7 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xUG5Yl" group-title="سوريةSyria",SYR LANA HD
-http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS 
@@ -1255,7 +1253,7 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",سما سوريا 
-http://95.217.133.45:8080/hls/stream.m3u8
+http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -1282,14 +1280,8 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD+
-http://185.9.2.25/MCNC_NBN/video.m3u8?token=telearabiamax.tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",OTV
-http://62.182.82.104/OTV/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uC9lE6" group-title="لبنانLEBANON",الجديد مباشر TV
-chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://stream-08.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW-iarMDhRCUX-8jUlJY90KA)/dm/3/x7ztkw7/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
@@ -1434,7 +1426,7 @@ http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="المصرية Egypt",Mekameleen مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV
-http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vuon" group-title="المصرية Egypt",ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
@@ -1454,8 +1446,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE+
-https://gintna100.tulix.tv/gin_live/2mmaroc/cfd1b74dd703b50862f6124eba188d71/62007c80/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIPzCu" group-title="المغربMAROCCO",MR-ARRYADIA -3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pgxACw" group-title="المغربMAROCCO",MR-ARRABIAA HD
@@ -1489,14 +1479,10 @@ http://217.182.137.206/tunisie2.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="الجزائرALGERIEN",Ennahar TV (240p)
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="الجزائرALGERIEN",Ennahar TV (360p)
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="الجزائرALGERIEN",EL nahar Alg
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://bit.ly/3DnUKOf" group-title="الجزائرALGERIEN",Ennahar TV
+https://test.ipslow.com/https://echorouk-live-tv.dzsecurity.net/entv/EnnaharTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الجزائرALGERIEN",EchoroukTV
-http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV
@@ -1508,41 +1494,13 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3XlSw" group-title="ليبياLIBYA",LIB-JAMAHIRIA-TV
 https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39Ug5Bs" group-title="ليبياLIBYA",LIB-AL HADATH HD
-https://master.starmena-cloud.com/hls/hd.m3u8
+https://test.ipslow.com/http://82.212.74.100:8000/live/hls/8103.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366lp3n" group-title="ليبياLIBYA",Libya februar
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="ليبياLIBYA",قناة الوسط - WTV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=10251" group-title="السودانSUDAN",SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/719
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN 24" tvg-logo="http://www.teledunet.com/logo.php?id=1217" group-title="السودانSUDAN",SUDAN 24
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/720
-#EXTINF:-1 tvg-id="" tvg-name="BLUE NILE" tvg-logo="http://www.teledunet.com/logo.php?id=10257" group-title="السودانSUDAN",BLUE NILE
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/721
-#EXTINF:-1 tvg-id="" tvg-name="AL HILAL SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1218" group-title="السودانSUDAN",AL HILAL SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/722
-#EXTINF:-1 tvg-id="" tvg-name="AL MARIKH SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1219" group-title="السودانSUDAN",AL MARIKH SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/723
-#EXTINF:-1 tvg-id="" tvg-name="RED SEA SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1220" group-title="السودانSUDAN",RED SEA SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/724
-#EXTINF:-1 tvg-id="" tvg-name="OM DURMAN SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=10266" group-title="السودانSUDAN",OM DURMAN SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/725
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=101349" group-title="السودانSUDAN",SUDAN DRAMA
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/726
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN SPORTS" tvg-logo="http://www.teledunet.com/logo.php?id=101348" group-title="السودانSUDAN",SUDAN SPORTS
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/727
-#EXTINF:-1 tvg-id="" tvg-name="KASSALA SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1221" group-title="السودانSUDAN",KASSALA SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/728
-#EXTINF:-1 tvg-id="" tvg-name="ALMADARIA SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1222" group-title="السودانSUDAN",ALMADARIA SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/729
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN MUSIC" tvg-logo="http://www.teledunet.com/logo.php?id=101351" group-title="السودانSUDAN",SUDAN MUSIC
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/730
-#EXTINF:-1 tvg-id="" tvg-name="NEELAIN SPORT SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1223" group-title="السودانSUDAN",NEELAIN SPORT SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/731
-#EXTINF:-1 tvg-id="" tvg-name="SOUTHERN SUDAN" tvg-logo="http://www.teledunet.com/logo.php?id=1224" group-title="السودانSUDAN",SOUTHERN SUDAN
-http://airmaxtv2022.online:80/aallllairMAXtv/2jLoAbKCup/732
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="السودانSUDAN",Sudan Bukra
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
@@ -1666,7 +1624,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="الامارات EMIRATES",DUB-Al Wousta HD 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="الامارات EMIRATES",DUB-Aldafrahtv 
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Expotv TV 2020
@@ -1683,9 +1641,6 @@ https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/395hNAB" group-title="اليمن Yemen",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xnR3Vr" group-title="اليمن Yemen",Belqees TV
-https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sNWfAe" group-title="اليمن Yemen",Yemen TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="الصومالSomalia‎",Horn Cable TV
