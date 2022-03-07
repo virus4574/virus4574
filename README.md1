@@ -883,9 +883,7 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنانLEBANON",LBN-ldc lebanon SD
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنانLEBANON",LBN-ldc lebanon 
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+http://149.62.183.214:8000/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
@@ -906,6 +904,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",MTV lebanon
+http://190.2.148.141/bar2402/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
