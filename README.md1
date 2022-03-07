@@ -101,6 +101,75 @@ http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="نتفليكسNETFLIX",omgseries
 http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4G",
+
+#EXTINF:-1 tvg-id="ext" group-title="باقة 4G",باقة 4G
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext" group-title="باقة 4G",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4",4G AFLAM
+http://45.94.31.190:7002/play/a0di
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4G",4G CIMA
+http://45.94.31.190:7002/play/a0ch
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4G",4G CINEMA
+http://45.94.31.190:7002/play/a0dj
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4G",4G CLASSIC
+http://45.94.31.190:7002/play/a0cj
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4G",4G DRAMA
+http://45.94.31.190:7002/play/a0ck
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة 4G",4G FILM
+http://45.94.31.190:7002/play/a0cl
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT AFLAM
+http://45.94.31.190:7002/play/a0cs
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT ALYOOM
+http://45.94.31.190:7002/play/a0ct
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT CINEMA
+http://45.94.31.190:7002/play/a0cu
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT CLASSIC
+http://45.94.31.190:7002/play/a0cv
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT DRAMA
+http://45.94.31.190:7002/play/a0cw
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BELADI TV
+http://45.94.31.190:7004/play/a0cg
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA 1
+http://45.94.31.190:7002/play/a0d1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA 2
+http://45.94.31.190:7002/play/a0d2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",Drama 3
+http://45.94.31.195:7001/play/a0c5
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA ALWAN
+http://45.94.31.190:7002/play/a0d3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM 7KAYAT
+http://45.94.31.190:7003/play/a0cz
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM AFLAM
+http://45.94.31.190:7003/play/a0cn
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM CINEMA
+http://45.94.31.190:7003/play/a0cy
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM EL YOUM
+http://45.94.31.190:7003/play/a0ck
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM TURKY
+http://45.94.31.190:7003/play/a0cx
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM ZAMAN
+http://45.94.31.190:7003/play/a0cv
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF AFLAM
+http://45.94.31.190:7003/play/a0cs
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",shoof cinema
+http://45.94.31.190:7003/play/a0cp
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF DRAMA
+http://45.94.31.190:7002/play/a0df
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MIX
+http://45.94.31.190:7003/play/a0cq
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MOSALSALAT
+http://45.94.31.190:7003/play/a0cr
+
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
@@ -324,10 +393,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Pluto TV Yoga (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0d10e186bf0007e2b100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&terminate=false&userId=
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Ring of Honor Wrestling (720p)
@@ -336,7 +401,6 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Snowy Mountains Television (1082p) [Not 24/7]
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sports Tonight (576p)
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sports TV Plus (1080p)
@@ -567,19 +631,6 @@ https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-MBC-4" tvg-logo="https://i.ibb.co/x3S79MG/MBC4.png" group-title="mbc",AR-MBC-4
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-MBC-ACTION" tvg-logo="https://i.ibb.co/pXQMsCq/MBCACTION.png" group-title="mbc",AR-MBC-ACTION
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-MBC-BOLLYWOOD" tvg-logo="https://i.ibb.co/y83BtPx/MBCBOLLYWOOD.png" group-title="mbc",AR-MBC-BOLLYWOOD
-
-#EXTINF:-1 tvg-id="" tvg-name="AR-MBC-MAX" tvg-logo="https://i.ibb.co/RvSffbt/MBCMAX.png" group-title="mbc",AR-MBC-MAX
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
@@ -790,8 +841,14 @@ http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",سما سوريا 
-http://stream5.sama-tv.net/hls/stream_high/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما
+http://45.94.31.195:7002/play/a0e1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Drama
+http://45.94.31.195:7002/play/a0dx
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria"Syria Education
+http://45.94.31.195:7002/play/a0dy
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria"Syria Satellite
+http://45.94.31.195:7002/play/a0dw
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -904,6 +961,8 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="الاردنJORDAN",ALmamlka TV 
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",,A one TV Jordan
+http://45.94.31.190:7003/play/a0bz
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YbRfqZ" group-title="الاردنJORDAN",Jasco
 http://82.212.74.100:8000/live/hls/8131.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="العراق IRAQ",العراق IRAQ
@@ -1121,10 +1180,14 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=sbc_tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc+
+https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="السعودية Saudi-Arabia",SAU-THIKRAYAT
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=saudi_thikrayat
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Saudi 24 TV 
+http://45.94.31.190:7002/play/a0a5
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Al_Ekhbaria
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=saudi_ekhbariya
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية Saudi-Arabia",Iqraa
