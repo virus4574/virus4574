@@ -1500,6 +1500,14 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 http://cdn.liveshell.net:1935/live/speda084k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",IMOVIES ACTION HD
+http://190.2.148.141/bar7664/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDCINEMA ACTION HD-1
+http://190.2.148.141/bar7625/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDCINEMA ACTION HD-2
+http://190.2.148.141/bar7626/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDCINEMA ACTION HD-3
+http://190.2.148.141/bar7627/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="راديوRadio Music",HD Radio  Music
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="راديوRadio Music",Radio Sada
