@@ -213,20 +213,6 @@ http://45.94.31.195:7002/play/a0el
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Sport
 http://45.94.31.195:7002/play/a0ek
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="باقة Almajd",Almajd 01
-http://149.62.178.65:8000/play/a04f
-#EXTINF:0 tvg-id="ext" group-title="باقة Almajd",Almajd 02
-http://149.62.178.65:8000/play/a04g
-#EXTINF:0 tvg-id="ext" group-title="باقة Almajd",Almajd 03
-http://149.62.178.65:8000/play/a04h
-#EXTINF:0 tvg-id="ext" group-title="باقة Almajd",Almajd 04
-http://149.62.178.65:8000/play/a04i
-#EXTINF:0 tvg-id="ext" group-title="باقة Almajd",Almajd 08
-http://149.62.178.65:8000/play/a04m
-#EXTINF:0 tvg-id="ext" group-title="باقة Almajd",MyTV
-http://149.62.178.65:8000/play/a04t
-
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
@@ -932,7 +918,7 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="لبنانLEBANON",LBN-ldc lebanon SD
-http://149.62.183.214:8000/play/a0db/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
@@ -941,8 +927,6 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MLitCk" group-title="لبنانLEBANON",LBN- AL-IMAN-TV SD
-https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD
 https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="لبنانLEBANON",LBN-ALWIFAK TV SD
@@ -955,24 +939,8 @@ https://nbntv.me:8443/nbntv/index.m3u8
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",MTV lebanon
 http://190.2.148.141/bar2402/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",MTV lebanon+
-http://149.62.183.214:8000/play/a0d9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",ALJADEED TV HD
-http://149.62.178.65:8000/play/a030
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC HD
-http://149.62.178.65:8000/play/a050
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International
-http://149.62.178.65:8000/play/a02z
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV Lebanon HD
-http://149.62.178.65:8000/play/a02x
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",Majan TV HD
-http://149.62.178.65:8000/play/a03e
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN
-http://149.62.178.65:8000/play/a033
-#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",OTV
-http://149.62.178.65:8000/play/a032
-#EXTINF:0 tvg-id="ONE.ca" group-title="لبنانLEBANON",One
-http://149.62.178.65:8000/play/a02y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",الجديد
+https://stream-02.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW_dN0-6tx5x0qEk2pczYIZQ)/dm/3/x7ztkw7/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
