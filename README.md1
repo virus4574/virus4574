@@ -1071,6 +1071,8 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=sumari
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3EhFIZU" group-title="العراق IRAQ",Samarra
 http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",قناة الفرات
+http://95.216.180.111:1935/live/10/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
@@ -1113,10 +1115,10 @@ https://stream-04.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4EJ81ytfb942kgX6n
 http://95.216.180.111:1935/live/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",RASHEED TV
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Sport HD
-http://190.2.148.141//bar1055/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",aliraqiya-sport
 http://95.216.180.111:1935/live/98/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Sport HD
+http://190.2.148.141//bar1055/index.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
