@@ -637,6 +637,8 @@ https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="الوثائقية documentary",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://go.nasa.gov/3qa9N9B" group-title="الوثائقية documentary",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="الوثائقية documentary",Animaux
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09bef7eb-2ec0-11ec-9d20-0242ac110003
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021028.png" group-title="الوثائقية documentary", OUTDOOR CHANNEL
@@ -671,6 +673,42 @@ https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="أطفال Children",Taha TV (360p)
 https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:0 tvg-id="FixFoxi.de" group-title="أطفال Children",Fix & Foxi
+http://zinachannels.zinamedia.net/ar-s/Fix-Foxi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Laab Wa Jad
+http://1269745506.rsc.cdn77.org/LoGdQtVZBDnW33gBlKP0EA==,1647256360/ar-s/Laabwjad/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Zoo Moo
+http://zinachannels.zinamedia.net/ar-s/ZOOMOOTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",TIJI in French
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",atfal wa mwaheb
+https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Toyor Aljanah
+http://freearabic.zinamedia.net/ar/Toyor-Aljanha/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",karamesh
+http://freearabic.zinamedia.net/ar/Karameesh/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="أطفال Children",Boomerang
+http://zinachannels.zinamedia.net/ar-s/Boomerang/index.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="أطفال Children",Nickelodeon
+http://zinachannels.zinamedia.net/ar-s/Nickelodeon/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Nick Toon
+http://zinachannels.zinamedia.net/ar-s/OSN-Nick-Toons-HD/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="أطفال Children",Nick Jr
+http://zinachannels.zinamedia.net/ar-s/Nick-jr/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="أطفال Children",Disney
+http://zinachannels.zinamedia.net/ar-s/Disney-Channels/index.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="أطفال Children",Disney Jr
+http://zinachannels.zinamedia.net/ar-s/DISNEY-JUNIOR/index.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="أطفال Children",Baby
+http://zinachannels.zinamedia.net/ar-s/BN-Baby/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",OSN KidZone
+http://zinachannels.zinamedia.net/ar-s/OSN-KIDS-ZONE/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",OSN  Kids
+http://zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Baraeem HD
+http://zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8
+#EXTINF:0 tvg-id="Jeem.qa" group-title="أطفال Children",Jeem HD
+http://zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
@@ -692,6 +730,8 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
+http://localchannels.zinamedia.net/ar-s/onc2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD
 http://airmaxtv2022.online:80/airmaxtvall/CvIlA5hi5t/1210
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="أم بي سيMBC",|MBC| 2 SD+
 http://45.94.31.190:7003/play/a0c2
@@ -705,6 +745,8 @@ http://45.94.31.195:7001/play/a0cp
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
 http://airmaxtv2022.online:80/airmaxtvall/CvIlA5hi5t/1212
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD+
+http://localchannels.zinamedia.net/ar-s/my-onc-5/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD+
 http://45.94.31.195:7001/play/a0cr
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
@@ -1022,7 +1064,7 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV FHD
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="الاردنJORDAN",JR-Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",JR-Jordan Sport HD
@@ -1039,6 +1081,10 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 http://45.94.31.190:7003/play/a0bz
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YbRfqZ" group-title="الاردنJORDAN",Jasco
 http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YbRfqZ" group-title="الاردنJORDAN",Jawhara FM
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YbRfqZ" group-title="الاردنJORDAN",Nojoum TV
+https://nojoumhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="العراق IRAQ",العراق IRAQ
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",كيف احصل على الكود
@@ -1316,6 +1362,8 @@ https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
 https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zhb7tm" group-title="الكويت Kuwait",Kuwait Al-Bawadi
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36eUl4Z" group-title="الكويت Kuwait",scope tv
+https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qIXyi7" group-title="البحرين Bahrain",Bahrain TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oa3lMb" group-title="البحرين Bahrain",Bahrain TV
@@ -1345,11 +1393,17 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=sbc_tv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc+
+http://freearabic.zinamedia.net/ar/SBC-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc+
 https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="السعودية Saudi-Arabia",SAU-THIKRAYAT
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=saudi_thikrayat
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="السعودية Saudi-Arabia",SAU-THIKRAYAT+
+http://zinachannels.zinamedia.net/ar/Thikrayat-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1+
+http://freearabic.zinamedia.net/ar/Saudi1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Saudi 24 TV 
 http://45.94.31.190:7002/play/a0a5
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Al_Ekhbaria
@@ -1391,7 +1445,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="الامارات EMIRATES",DUB-Al Wousta HD 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="الامارات EMIRATES",DUB-Aldafrahtv 
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Expotv TV 2020
