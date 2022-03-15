@@ -906,22 +906,44 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="7 أطفال Children",TIJI-in-French
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36EMkUq" group-title="7 أطفال Children",Boomerang HD
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36EMkUq" group-title="7 أطفال Children",Boomerang HD+
-http://gratuita.mrzutv.net:8080/sd66d6d65d5d5dd5d515fd5151dc5d2cd2c2dc2rfwf/sd66d6d65d5d5dd5d515fd5151dc5d2cd2c2dc2rfwf/41020
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j8F4VO" group-title="7 أطفال Children",AR Majid_Kids HD
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="7 أطفال Children",Taha TV (360p)
 https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3h6e9ZY" group-title="7 أطفال Children",Alwan kids TV
-http://82.212.74.99:8000/live/8112.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="7 أطفال Children",Disney Channel HD
-http://58.65.171.202:8000/play/7350
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="7 أطفال Children",Jim Jam
-http://58.65.171.202:8000/play/7351
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="7 أطفال Children",Nick Jr
-http://58.65.171.202:8000/play/3
+#EXTINF:0 tvg-id="FixFoxi.de" group-title="7 أطفال Children",Fix & Foxi
+http://zinachannels.zinamedia.net/ar-s/Fix-Foxi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",Laab Wa Jad
+http://1269745506.rsc.cdn77.org/LoGdQtVZBDnW33gBlKP0EA==,1647256360/ar-s/Laabwjad/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",Zoo Moo
+http://zinachannels.zinamedia.net/ar-s/ZOOMOOTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",TIJI in French
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",atfal wa mwaheb
+https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",Toyor Aljanah
+http://freearabic.zinamedia.net/ar/Toyor-Aljanha/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",karamesh
+http://freearabic.zinamedia.net/ar/Karameesh/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="7 أطفال Children",Boomerang
+http://zinachannels.zinamedia.net/ar-s/Boomerang/index.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="7 أطفال Children",Nickelodeon
+http://zinachannels.zinamedia.net/ar-s/Nickelodeon/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",Nick Toon
+http://zinachannels.zinamedia.net/ar-s/OSN-Nick-Toons-HD/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="7 أطفال Children",Nick Jr
+http://zinachannels.zinamedia.net/ar-s/Nick-jr/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="7 أطفال Children",Disney
+http://zinachannels.zinamedia.net/ar-s/Disney-Channels/index.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="7 أطفال Children",Disney Jr
+http://zinachannels.zinamedia.net/ar-s/DISNEY-JUNIOR/index.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="7 أطفال Children",Baby
+http://zinachannels.zinamedia.net/ar-s/BN-Baby/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",OSN KidZone
+http://zinachannels.zinamedia.net/ar-s/OSN-KIDS-ZONE/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",OSN  Kids
+http://zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="7 أطفال Children",Baraeem HD
+http://zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8
+#EXTINF:0 tvg-id="Jeem.qa" group-title="7 أطفال Children",Jeem HD
+http://zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="7 أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="7 أطفال Children",TRT Cocuk(Turki)
@@ -930,43 +952,12 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="7 أطفال Children",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-
-#EXTINF: -1 tvg-id="BOM.Asia" tvg-name="Boomerang" tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286010596.png" group-title="7 أطفال Children", Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
-#EXTINF: -1 group-title="7 أطفال Children", Marvel HQ
-http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
-#EXTINF: -1 group-title="7 أطفال Children", Nice JR HINDI
-http://pkr.cinepex.tv:8278/nickjrhindikdin/playlist.m3u8
-#EXTINF: -1 group-title="7 أطفال Children", Cartoon Network PAK
-https://streams.simpaisa.com:8443/pitvlive4/cartoonengnew.smil/playlist.m3u8
-#EXTINF: -1 group-title="7 أطفال Children", Disney XD
-http://stream.tvtap.live:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF: -1 group-title="7 أطفال Children", Disney XD 2
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286270390.png" group-title="7 أطفال Children", TG JUNIOR
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286270387.png" group-title="7 أطفال Children", B KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286270388.png" group-title="7 أطفال Children", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286270386.png" group-title="7 أطفال Children", 3 ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013872.png" group-title="7 أطفال Children", Supertoons
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="7 أطفال Children", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013861.png" group-title="7 أطفال Children", Cartoon Network Hindi
-http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="7 أطفال Children", Sonic Nickeloden Hindi
-http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013855.png" group-title="7 أطفال Children", Nick HINDI
-http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013856.png" group-title="7 أطفال Children", Nick Jr.
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013853.png" group-title="7 أطفال Children", Sony YAY
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013853.png" group-title="7 أطفال Children", Sony YAY  HINDI
-http://pkr.cinepex.tv:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="8 أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="8 أم بي سيMBC",كيف احصل على الكود
