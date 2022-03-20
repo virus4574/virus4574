@@ -876,11 +876,10 @@ http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",SW:STORTINGET
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",w9
+https://s7.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIyIDE6MDU6MDUgUE0maGFzaF92YWx1ZT1iTTU5bDlXMERQVmpKc0RQSmVRL29nPT0mdmFsaWRtaW51dGVzPTMw"
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="FRANCE",Alsace 20 (720p)
@@ -897,8 +896,6 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p
 http://biptv.tv:80/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="BipTV.fr" tvg-name="BipTV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="FRANCE",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-
-
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" group-title="FRANCE",Bloomberg TV Europe (720p)
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 
