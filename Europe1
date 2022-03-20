@@ -878,8 +878,6 @@ http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",w9
-https://s7.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIyIDE6MDU6MDUgUE0maGFzaF92YWx1ZT1iTTU5bDlXMERQVmpKc0RQSmVRL29nPT0mdmFsaWRtaW51dGVzPTMw"
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="FRANCE",Alsace 20 (720p)
@@ -898,8 +896,6 @@ http://biptv.tv:80/live/biptvstream_orig/index.m3u8
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" group-title="FRANCE",Bloomberg TV Europe (720p)
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-
-
 #EXTINF:-1 tvg-id="CentralTVHD.fr" tvg-name="Central TV HD" tvg-country="FR" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="FRANCE",Central TV HD [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrance.cn" tvg-name="CGTN France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yXc4j9J.png" group-title="FRANCE",CGTN France
@@ -948,15 +944,13 @@ http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-name="La Chaine Normande" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="FRANCE",La Chaîne normande (LCN) (576p)
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6International.fr" tvg-name="M6 International" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6 International (1080p)
-https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",Mezzo (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-id="MidnightPulp.fr" tvg-name="Midnight Pulp" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="FRANCE",Midnight Pulp (1080p)
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="FRANCE",Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
@@ -1408,49 +1402,21 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-#EXTINF:0 tvg-id="NRJHitsBelgique,be" group-title="FRANCE",NRJ Hits TV
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:0 tvg-id="PlayTV.lt" group-title="FRANCE",Play TV
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Radio Contact
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 tvg-id="RadioContactVision.be" group-title="FRANCE",Radio Contact Vision
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Radio TeleBoston (USA)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",RT France
-https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",RTI 1
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",RTI 2
-https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTLTVI.be" group-title="FRANCE",RTL-TVi
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele Haiti
-http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TMA
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="FRANCE",TV5Monde Info
-https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:0 tvg-id="avi" group-title="FRANCE",Afrique Média TV
-https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NEDERLAND TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="NPO1.nl" group-title="NEDERLAND",NPO 1 HD
