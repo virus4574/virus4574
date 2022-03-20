@@ -718,41 +718,39 @@ https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="أطفال Children",Taha TV (360p)
 https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:0 tvg-id="FixFoxi.de" group-title="أطفال Children",Fix & Foxi
+#EXTINF:-1  tvg-name="Fix & Foxi" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/FixFoxi.png" group-title="أطفال Children",Fix & Foxi
 http://zinachannels.zinamedia.net/ar-s/Fix-Foxi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Laab Wa Jad
-http://1269745506.rsc.cdn77.org/LoGdQtVZBDnW33gBlKP0EA==,1647256360/ar-s/Laabwjad/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Zoo Moo
+#EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://gobx.com/wp-content/uploads/2021/05/ZOOMOO.png" group-title="أطفال Children",Zoo Moo
 http://zinachannels.zinamedia.net/ar-s/ZOOMOOTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",TIJI in French
+#EXTINF:-1  tvg-name="TIJI in French" tvg-logo="https://shahidstatic4.akamaized.net//mediaObject/2021/Abd/Jan/m6-images/TIJI_THUMB/original/TIJI_THUMB.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" group-title="أطفال Children",TIJI in French
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",atfal wa mwaheb
+#EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="http://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="أطفال Children",atfal wa mwaheb
 https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Toyor Aljanah
+#EXTINF:-1 tvg-id="" tvg-name="Toyor Aljanah" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="أطفال Children",Toyor Aljanah
 http://freearabic.zinamedia.net/ar/Toyor-Aljanha/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",karamesh
+#EXTINF:-1 tvg-id="" tvg-name="karamesh" tvg-logo="https://9orao5br.com/wp-content/uploads/2021/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4-2021.jpg" group-title="أطفال Children",karamesh
 http://freearabic.zinamedia.net/ar/Karameesh/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="أطفال Children",Boomerang
+#EXTINF:-1 tvg-name="Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="أطفال Children",Boomerang 
 http://zinachannels.zinamedia.net/ar-s/Boomerang/index.m3u8
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="أطفال Children",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="أطفال Children",Nickelodeon 
 http://zinachannels.zinamedia.net/ar-s/Nickelodeon/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Nick Toon
+#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="أطفال Children",Nick Toon 
 http://zinachannels.zinamedia.net/ar-s/OSN-Nick-Toons-HD/index.m3u8
-#EXTINF:0 tvg-id="nick-jr" group-title="أطفال Children",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr " tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" group-title="أطفال Children",Nick Jr 
 http://zinachannels.zinamedia.net/ar-s/Nick-jr/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="أطفال Children",Disney
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="أطفال Children",Disney
 http://zinachannels.zinamedia.net/ar-s/Disney-Channels/index.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="أطفال Children",Disney Jr
+#EXTINF:-1 tvg-name="Disney Jr" tvg-logo="https://content.osn.com/logo/channel/cropped/DJR.png" group-title="أطفال Children",Disney Jr
 http://zinachannels.zinamedia.net/ar-s/DISNEY-JUNIOR/index.m3u8
-#EXTINF:0 tvg-id="baby-tv" group-title="أطفال Children",Baby
+#EXTINF:-1 tvg-name="Baby" tvg-logo="https://infrad.org/wp-content/uploads/2019/11/81KCYvActQL-21.png" group-title="أطفال Children",Baby
 http://zinachannels.zinamedia.net/ar-s/BN-Baby/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",OSN KidZone
+#EXTINF:-1 tvg-name="OSN KidZone" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="أطفال Children",OSN KidZone
 http://zinachannels.zinamedia.net/ar-s/OSN-KIDS-ZONE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",OSN  Kids
+#EXTINF:-1 tvg-id="" tvg-name="OSN  Kids " tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="أطفال Children",OSN  Kids 
 http://zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أطفال Children",Baraeem HD
+#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="أطفال Children",Baraeem HD
 http://zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8
-#EXTINF:0 tvg-id="Jeem.qa" group-title="أطفال Children",Jeem HD
+#EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="أطفال Children",Jeem HD
 http://zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
