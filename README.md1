@@ -348,34 +348,32 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS
-http://41.224.63.108:7788/play/a02e
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS2
-http://41.224.63.108:7788/play/a02c
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",SPORTTV_1
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",SPORTTV_2
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",SPORTTV_3
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",SPORTTV_4
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",SPORTTV_5
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",Supersport1
-http://93.157.62.180:80/Supersport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",Supersport2
-http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",Supersport3
-http://93.157.62.180:80/Supersport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="رياضية SPORT",SUPER SPORT 1 HD AL
-http://93.157.62.180:80/Supersport1/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT",SUPER SPORT 2 HD AL
-http://93.157.62.180:80/Supersport2/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT",SUPER SPORT 3 HD AL
-http://93.157.62.180:80/Supersport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",btsport2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 1 🇵🇹
+https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 2 🇵🇹
+https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 3 🇵🇹
+https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 4 🇵🇹
+https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 4 🇵🇹
+http://78.129.253.15:8030/Fuchar5/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 5 🇵🇹
+https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/bdEwdYQ.png",[$]SUPER SPORT 1HD
+https://sports.cdn-stream.com:30443/live/ss1/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/jC1wjV5.png",[$]SUPER SPORT 2HD
+https://sports.cdn-stream.com:30443/live/ss2/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/woJjeQ6.png",[$]SUPER SPORT 3HD
+https://sports.cdn-stream.com:30443/live/ss3/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/UN08IcL.png",[$]SUPER SPORT 4HD
+https://sports.cdn-stream.com:30443/live/ss4/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/5ybBN8S.png",[$]TRING SPORT 1HD
+https://sports.cdn-stream.com:30443/live/ts1/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/tQn8MRC.png",[$]TRING SPORT 2HD
+https://sports.cdn-stream.com:30443/live/ts2/playlist.m3u8|User-Agent=stream
+
 #EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",skysports5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:0 tvg-id="SkySpF1.uk" group-title="رياضية SPORT",Sky Sports F1
