@@ -387,11 +387,18 @@ http://90.71.50.160:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 4
 http://90.71.50.160:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
 
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png",🇷🇺 ●| Eurosport 1
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png",🇩🇪 ●| Eurosport 1
 http://84.200.70.178:41142/bysid/31200
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png",🇫🇷 ●| Eurosport 2
+http://212.102.60.80/Eurosport2/index.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Eurosport 1 HD
+http://bethoven.af-stream.com:1600/s/rwuemk6f/eurosport-hd/video.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Eurosport 2 HD
+http://bethoven.af-stream.com:1600/s/rwuemk6f/eurosport2-hd/video.m3u8
+
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",EUROSPORT 1 🇬🇧
+http://185.204.32.4:9981/stream/channelid/577840136
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",EUROSPORT 2 🇬🇧
 http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://uploads-ssl.webflow.com/5f857ce40779b4181e8c1602/5f85952ca25bf1e58e797123_SPARK_LOGOTYPE_ORNG_RGB.png",🇺🇸🏎️🏍 ●| Spark [Pluto]
