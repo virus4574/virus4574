@@ -374,6 +374,33 @@ https://sports.cdn-stream.com:30443/live/ts1/playlist.m3u8
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/tQn8MRC.png",[$]TRING SPORT 2HD
 https://sports.cdn-stream.com:30443/live/ts2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸🏎️ ●| DAZN F1
+http://90.71.50.160:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ●| Sky F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 1
+http://90.71.50.160:8001/1:0:19:7855:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 2
+http://90.71.50.160:8001/1:0:19:785F:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 3
+http://90.71.50.160:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 4
+http://90.71.50.160:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
+
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",FOX SPORTS
+http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Horse Racing 1
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Horse Racing 2
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Pame Stoixima DOG Racing
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Pame Stoixima DOG Racing
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
+#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",STOIXIMA RACING
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie.m3u8
 #EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",skysports5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:0 tvg-id="SkySpF1.uk" group-title="رياضية SPORT",Sky Sports F1
