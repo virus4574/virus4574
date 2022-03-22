@@ -1610,7 +1610,7 @@ https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:0 tvg-id="CanalAlphaJU.ch" group-title="Switzerland",Canal Alpha Ju
 https://edge.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Die Neue Zeit TV
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist.m3u8
 #EXTINF:0 tvg-id="iTele.fr" group-title="Switzerland",La Télé
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",MySports 1
@@ -1635,8 +1635,6 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Switzerland",Die Neue Zeit (576p)
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Dieu TV (1080p)
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Kanal 9 (1080p)
@@ -1657,8 +1655,10 @@ https://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",RTS Couleur 3 (720p)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
-
-
+#EXTINF:0 tvg-id="ext" group-title="Switzerland",Meteonews (1080p)
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Switzerland",TVO (CH) (720p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",Austria TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="Austria",Dorf TV
