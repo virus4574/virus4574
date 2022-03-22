@@ -631,9 +631,9 @@ https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Hamburg Ⓖ
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3712_av-b.m3u8
 #EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Mecklenburg-Vorpommern Ⓖ
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430232/master.m3u8
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Niedersachsen Ⓖ
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Schleswig-Holstein Ⓖ
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png" group-title="DEUTSCH",WDR Ⓖ
@@ -890,16 +890,6 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR International (720p) [Geo-blocked]
 https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Mecklenburg-Vorpommern (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Mecklenburg-Vorpommern (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Niedersachsen (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Niedersachsen (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Schleswig-Holstein (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Schleswig-Holstein (720p) [Geo-blocked]
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Weltweiter (720p) [Geo-blocked]
