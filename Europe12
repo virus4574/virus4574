@@ -1908,20 +1908,12 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Kanal 10 Asia (540p) [Not 24/7]
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Miracle Channel (360p)
-https://yjh3p.stream.miraclechannel.com/hls/miracle1_med/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Miracle Channel (576p)
-https://yjh3p.stream.miraclechannel.com/hls/miracle1_high/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Oppna Kanalen (540p)
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",OPPNA KANALEN (540p)
-http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
+https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Öppna Kanalen (540p)
-http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",SVT2 Värmland
-http://51.91.73.99:25461/sweden/PM66f7Y43H/12476
-#EXTINF:0 tvg-id="TV4.se" group-title="Sweden",TV4 (576p)
-https://lbs-aws-hls.tv4play.se/dailive/bbr-event1-p/master3404.m3u8
+https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 #EXTINF:0 tvg-id="TV4.se" group-title="Sweden",TV4 (720p)
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",TV4Nyheterna (720p)
@@ -1930,10 +1922,31 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Västmanlands TV (720p)
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Västmanlands TV (720p)
-http://83.140.64.214/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",ViP Comedy Russia (720p) [Not 24/7]
-http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Euronews English (720p) [Not 24/7]
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",FailArmy International (720p)
+https://failarmy-international-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Fuel TV (1080p)
+https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",People are Awesome Sweden (720p)
+https://jukin-peopleareawesome-2-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Action (Sweden) (720p)
+https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Comedy (Sweden) (720p)
+https://rakuten-comedy-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Documentaries (Sweden) (720p)
+https://rakuten-documentaries-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Drama (Sweden) (720p) [Not 24/7]
+https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Family (Sweden) (720p)
+https://rakuten-family-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Spotlight (Sweden) (720p)
+https://rakuten-spotlight-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Stingray Karaoke (Sweden) (1080p)
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",The Pet Collective Sweden (720p)
+https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV
 https://bit.ly/3pWtmPO
