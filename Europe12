@@ -1889,7 +1889,6 @@ https://656702029fac42c3b72b26bcb4071d0d.mediatailor.us-east-1.amazonaws.com/v1/
 https://f0cb39c8a7804fc8a6e320aad94f4f70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenTVShows/playlist.m3u8?ads.wurl_channel=437&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-CHAJ35000021Z" tvg-id="CHAJ35000021Z" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/CHAJ35000021Z_20210923T010435.png" group-title="Switzerland",Actionfilme - Rakuten TV
 https://4e3fc6758e274fa9a967ce11e50536de.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=435&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Sweden TV
 https://bit.ly/3pWtmPO
 #EXTM3U
@@ -1922,38 +1921,15 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Västmanlands TV (720p)
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Euronews English (720p) [Not 24/7]
-https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",FailArmy International (720p)
-https://failarmy-international-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Fuel TV (1080p)
 https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",People are Awesome Sweden (720p)
-https://jukin-peopleareawesome-2-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Action (Sweden) (720p)
-https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Comedy (Sweden) (720p)
-https://rakuten-comedy-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Documentaries (Sweden) (720p)
-https://rakuten-documentaries-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Drama (Sweden) (720p) [Not 24/7]
-https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Family (Sweden) (720p)
-https://rakuten-family-9-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Rakuten Spotlight (Sweden) (720p)
-https://rakuten-spotlight-9-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Stingray Karaoke (Sweden) (1080p)
 https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",The Pet Collective Sweden (720p)
-https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/fr.xml.gz"
 #EXTINF:-1 channel-id="samsung-FRAJ4500024MR" tvg-id="FRAJ4500024MR" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/FRAJ4500024MR_20210923T010513.png" group-title="FRANCE",Comédies - Rakuten TV
 https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=448&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-FRBA1000005TW" tvg-id="FRBA1000005TW" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png" group-title="FRANCE",Euronews en direct
