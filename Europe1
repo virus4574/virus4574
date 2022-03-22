@@ -629,13 +629,13 @@ https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png" group-title="DEUTSCH",MDR Thüringen Ⓖ
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Hamburg Ⓖ
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430231/master.m3u8
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3712_av-b.m3u8
 #EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Mecklenburg-Vorpommern Ⓖ
 http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430232/master.m3u8
 #EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Niedersachsen Ⓖ
 http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="DEUTSCH",NDR Schleswig-Holstein Ⓖ
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430234/master.m3u8
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png" group-title="DEUTSCH",WDR Ⓖ
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png" group-title="DEUTSCH",SWR Baden-Württemberg Ⓖ
@@ -647,17 +647,19 @@ http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 #EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/hr.png" group-title="DEUTSCH",HR Ⓖ
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="BR Nord Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png" group-title="DEUTSCH",BR Nord Ⓖ
-http://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="BR Süd Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png" group-title="DEUTSCH",BR Süd Ⓖ
-http://mcdn.br.de/bfs_sued/de/master.m3u8
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/kika.png" group-title="DEUTSCH",KiKa Ⓖ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" group-title="DEUTSCH",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" group-title="DEUTSCH",ARD Alpha Ⓖ
-http://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-name="DW Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" group-title="DEUTSCH",DW Ⓖ
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="" group-title="DEUTSCH",Deutsche Welle
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="" group-title="DEUTSCH",Deutsche Welle+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png" group-title="DEUTSCH",RBB Berlin Ⓖ
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png" group-title="DEUTSCH",RBB Brandenburg Ⓖ
@@ -668,7 +670,6 @@ https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="DEUTSCH",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF HD(مشغل GSE)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF info HD(مشغل GSE)
@@ -677,16 +678,10 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL
 https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL west
-https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
-#EXTINF:0 tvg-id="tagesschau24.de" group-title="DEUTSCH",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:0 tvg-id="phoenix.de" group-title="DEUTSCH",phoenix HD
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:0 tvg-id="3sat.de" group-title="DEUTSCH",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:0 tvg-id="3sat.de" group-title="DEUTSCH",ServusTV HD
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",WDR Koeln
@@ -697,18 +692,12 @@ https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",MDR THÜRINGEN
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-#EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",SWR BW
-https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",SR Fernsehen
 https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",FIFA Club WM
 https://bildlivehls-lh.akamaihd.net/i/fifa0208_1@330807/index_2328_av-p.m3u8?sd=10&b=0-2500&rebase=on
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
-
-
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",1-2-3 TV (270p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:0 tvg-id="3sat.de" group-title="DEUTSCH",3sat [Geo-blocked]
@@ -723,16 +712,6 @@ https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Antenne Vorarlberg (720p) [Not 24/7]
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ARD Event 1 (540p)
-http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-#EXTINF:0 tvg-id="ARD-alpha.de" group-title="DEUTSCH",ARD-alpha (720p)
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ARD-alpha (720p) [Not 24/7]
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ARTI TV (480p) [Not 24/7]
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ARTI TV (480p) [Not 24/7]
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ARTI TV (1080p) [Not 24/7]
 http://176.10.117.18:8000/play/a002/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Baden TV (1080p) [Not 24/7]
