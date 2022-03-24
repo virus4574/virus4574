@@ -270,6 +270,10 @@ https://streamalkasscustom.azureedge.net/livehttporigin/smil:YWxrYXNz1.smil/chun
 http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pR3iHm" group-title="رياضية SPORT",Al Kass Two
 https://streamalkasscustom02.azureedge.net/livehttporigin/smil:YWxrYXNz2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qwoPGY" group-title="رياضية SPORT",ksa الرياضية 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",ksa الرياضية 2
+https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1  tvg-name=" AD Asia 1 " tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6a88b.png" group-title="رياضية SPORT", AD Asia 1 
 http://localchannels.zinamedia.net/ar-s/AD-ASIA-1/index.m3u8
 #EXTINF:-1  tvg-name=" AD Asia 2 " tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6a88b.png" group-title="رياضية SPORT", AD Asia 2
@@ -1574,6 +1578,16 @@ http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaf25a" group-title="السعودية Saudi-Arabia",Al Sunnah 
 http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة السعودية
+https://edge.taghtia.com/sa/11.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة الرياض
+https://edge.taghtia.com/sa/12.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة القران الكريم السعودية
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة نداء الاسلام
+https://edge.taghtia.com/sa/14.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة جدة
+https://edge.taghtia.com/sa/15.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="الامارات EMIRATES",الامارات EMIRATES 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",كيف احصل على الكود
@@ -1618,6 +1632,10 @@ https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/395hNAB" group-title="اليمن Yemen",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",almahriah
+https://master.starmena-cloud.com/hls/almahriah.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",عدن
+http://82.212.74.5:8000/live/hls/7728.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="الصومالSomalia‎",Horn Cable TV
