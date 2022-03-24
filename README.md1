@@ -1071,6 +1071,10 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="سوريةSyria",ALARABY TV HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lana" tvg-logo="https://www.akhbarkalaan.com/wp-content/uploads/2021/05/lana-tv.jpg" group-title="سوريةSyria",Lana
 http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="سوريةSyria",Syria drama 
