@@ -4026,494 +4026,869 @@ https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3li
 https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="spania",spania TV
 https://bit.ly/3pWtmPO
-#EXTINF:0 tvg-id="ext" group-title="spania",101 Tele Antequera
-https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",101TV Malaga
-https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0 tvg-id="24Horas.sp" group-title="spania",24 Horas
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",25 TV
-https://originlive2.shooowit.net/25televisiolive/smil:channel1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",28 Kanala
-https://5940924978228.streamlock.net/8157/8157/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",7 Murcia
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="spania",7 La Rioja (1080p
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 Noticias (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
+#EXTINF:0 tvg-id="ext" group-title="spania",7 Noticias (1080p)
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="spania",7 Noticias (1080p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCCydt40S3mVi9YXQJjK8Nsw/live
+#EXTINF:0 tvg-id="ext" group-title="spania",7 Televisión Región de Murcia (360p
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (720p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Bahía) (576p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835790/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Córdoba) (720p
+https://dcunilive265-lh.akamaihd.net/i/dclive_1@409360/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Costa Noroeste) (404p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835802/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Jaén) (404p)
+https://dcunilive266-lh.akamaihd.net/i/dclive_1@426886/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Jerez) (404p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835794/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Málaga)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835798/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Sevilla) (404p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835800/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",7 TV Andalucía (Sierra) (404p)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835792/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",8 TV Cádiz (360p
+https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="spania",9 la Loma TV
 https://9laloma.tv/live.m3u8
-#EXTINF:0 tvg-id="Apunt.es" group-title="spania",A Punt
-https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Alacanti TV
+#EXTINF:0 tvg-id="ext" group-title="spania",11 TV (576p
+http://51.210.199.43/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",25 TV (480p
+https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",28 kanala (720p)
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",101 Tele Antequera (1080p)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",101TV Malaga (1080p
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="spania",3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="spania",324 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Activa TV (720p
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Alacantí TV (576p
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Alcarria TV
+#EXTINF:0 tvg-id="ext" group-title="spania",Alcarria TV (576p
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="spania",Aragon TV
+#EXTINF:0 tvg-id="Apunt.es" group-title="spania",À Punt (720p)
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",À Punt (720p)
+https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Aragón Radio (Zaragoza
+https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
+#EXTINF:0 tvg-id="AragonTV.es" group-title="spania",Aragón TV (360p)
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",ATV Andorra
-https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Bailén TV
+#EXTINF:0 tvg-id="ext" group-title="spania",Bailén TV (720p
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-#EXTINF:0 tvg-id="Beteve.es" group-title="spania",Beteve
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
-#EXTINF:0 tvg-id="ext" group-title="spania",Big Name
-https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Bon Dia TV
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Cadena Elite
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Campiña Sur TV
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="spania",Barça TV
+http://5.255.90.184:2002/play/a01z
+#EXTINF:0 tvg-id="ext" group-title="spania",betevé (1080p)
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:0 tvg-id="ext" group-title="spania",Bon Dia TV (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Cadena Elite (720p
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Campiña Sur TV [Not 24/7]
 https://cdn01.yowi.tv/4131RI73I9/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 10 Emporda
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 2000 La Solana
-http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 25 Barbastro
-http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 4
-http://149.202.68.178:1935/live/peprecasens/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 4 Mancha Centro
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 4 Mancha Centro (720p
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 45 Andujar
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 4 Tenerife (576p
+https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 10 Empordà (360p
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="spania",Canal 24 Horas
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@429494/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 25 TV (Barbastro) (720p
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 33 Madrid (720p
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",CANAL 45 TV (360p
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 56
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 56 (576p
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Coín
-http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="spania",Canal Extremadura
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Diocesano (576p
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Doñana (720p
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="spania",Canal Extremadura (576p
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Malaga
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:0 tvg-id="ARTV.pt" group-title="spania",Canal Parlamento
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal San Roque
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Málaga RTV (720p
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="CanalParlamento.es" group-title="spania",Canal Parlamento (360p)
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal San Roque (720p
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz (1080p)
 http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Super 3
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz (720p)
+http://217.125.136.93:8080/canalsierradecadiz720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz (576p)
+http://217.125.136.93:8080/canalsierradecadiz576.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Super 3 (1080p
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
-#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía
-https://originlive2.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Taronja Osona
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía (1080p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía (720p)
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal Taronja Osona i Moianés (480p
 https://taronjavic.streaming-pro.com/hls/vic.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canalcosta TV
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",CMM Castilla La Mancha
-http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Condavision
-http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 1
+#EXTINF:0 tvg-id="ext" group-title="spania",CCMA Exclusiu 1 (1080p
+https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",CCMA Exclusiu 2 (1080p
+https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Clan TVE (1080p)
+https://rtvelivestreamv3.akamaized.net/rtvesec/clan_bkp_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Clan TVE (1080p)
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",CMM TV (360p
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Condavisión (720p
+http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 1 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 2
+#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 2 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 3
+#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 3 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 4
+#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 4 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 5
+#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 5 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Costa Noroeste TV
-https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",CostadelSol TV
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Cáceres Tevé
-https://ce2019100818001.dnssw.net/hls/ceres.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Córdoba TV
-https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Diez TV
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Distrito TV Madrid
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Durangaldeko Telebista
-https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Déjate de Historias TV
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="spania",Cosmo TV (720p)
+http://91.126.141.201:1935/live/cosmoHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Cosmo TV (480p
+https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Costa Noroeste TV (720p
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Cuatro 4 TV Vall Uxa (1080p
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Déjate de Historias TV (1080p)
 https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",El Sembrador TV Europa
-https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",EiTB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",EiTB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
-#EXTINF:0 tvg-id="ElToro.es" group-title="spania",El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Elche 7 TV
+#EXTINF:0 tvg-id="ext" group-title="spania",Diez TV (1080p)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Distrito TV (1080p
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Durangaldeko TV (404p
+https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",EiTB 2 (720p)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:0 tvg-id="ETB1.es" group-title="spania",EITB (480p)
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",El 33 (1080p
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Elche 7 TV (1080p
 https://streaming.elche7tv.es/hls/canal2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",EsAsturiasTV
-https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Esplugues Televisio
-https://vodingesta1083.cdnmedia.tv/video/etv/lcnhpgm134311015ceb4c0c-e8af_H,700,1500,.MP4.urlset/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Estepona TV
-https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="spania",Esport 3
+#EXTINF:0 tvg-id="avi" group-title="spania",El Futuro en tu mano (720p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live
+#EXTINF:0 tvg-id="ext" group-title="spania",El Futuro en tu mano (720p)
+https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",El Toro TV (720p
+https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",ESNE TV (1080p)
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:0 tvg-id="Esport3.es" group-title="spania",Esport3 (1080p
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:0 tvg-id="euro" group-title="spania",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="Esport3.es" group-title="spania",Esport3 (1080p
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Estepona Televisión (720p)
+https://5b38ce71f1f00.streamlock.net/8122/8122/playlist.m3u8
+#EXTINF:0 tvg-id="ETB1.es" group-title="spania",ETB 1 (480p)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",ETB Eventos 1 (720p)
+https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="spania",EuropaPress TV
 https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Fibracat TV
-https://cdn-02.fibracat.cat/fibracattv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Fion TV
+#EXTINF:0 tvg-id="FDF.es" group-title="spania",Factoría de Ficción (720p)
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Fibracat TV (1080p
+https://cdn02.fibracat.cat/fibracattv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Fibwi (1080p)
+http://109.232.71.249/fibwiLIVE_movil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Fion TV (720p)
 http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Hamaika Telebista
+#EXTINF:0 tvg-id="ext" group-title="spania",GCM TV (720p
+https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Goiena Eus (720p
+https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Guada TV (720p
+https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Hamaika Telebista (1080p
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Harmony
-https://alchimie-classical-harmony-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Hermes TV
-https://cdn01.yowi.tv/1H23S04G4M/hermesvigo.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Huesca TV
+#EXTINF:0 tvg-id="ext" group-title="spania",Hermes TV (720p)
+https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Arabic (1080p)
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Baladas (1080p)
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Blues (1080p)
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Chill Out (1080p)
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Classic (1080p)
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Dance (1080p)
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Folk (1080p)
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Gym (1080p)
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Hip Hop (1080p)
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Hits (1080p)
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Jazz (1080p)
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Kids (1080p)
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Latin (1080p)
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Pop (1080p)
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Relax (1080p)
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Remember (1080p)
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Rock (1080p)
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",HQM Spanish (1080p)
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Huesca TV (240p
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Humanity
-https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Imás TV
+#EXTINF:0 tvg-id="avi" group-title="spania",IB3 Global (720p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
+#EXTINF:0 tvg-id="ext" group-title="spania",Ibiza Global TV (720p
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Imás TV (1080p
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Interalmería TV
+#EXTINF:0 tvg-id="ext" group-title="spania",Interalmeria TV (1080p)
 https://interalmeria.tv/directo/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Intercomarcal TV
-https://str.intercomarcal.com/hls/tvisd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Islatel
-https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Junta Castilla y León
-https://16escalones-live2.flumotion.com/chunks.m3u8
-#EXTINF:0 tvg-id="LA1.es" group-title="spania",La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="spania",La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:0 tvg-id="La7.it" group-title="spania",La 7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Burgos
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La Moncloa (Presidente)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:0 tvg-id="ext" group-title="spania",Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Lebrija TV
-https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",M95 Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Maestrat TV
-https://stream.maestrat.tv/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mar TV
-http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Marbella TV
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mijas 3.40 TV
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mírame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",MMA TV
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Moods
-https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",My Surf TV
-https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Negocios TV
-https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Nius
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Noroeste TV
-https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",NORTEvision
-http://amaru.dyndns.org:8835/0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Oizmendi Telebista
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda 15 TV
-https://5b38ce71f1f00.streamlock.net/8028/8028/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda Algeciras TV
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda Cadiz
-https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda Madrid (Webradio)
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda Valencia
-https://streaming-audio-1.magentalabs.es:19360/ondavalencia/ondavalencia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",People are Awesome
-https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",PequeRadio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Planeta Kids
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Cantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Melilla
-https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Punt 3 Vall Uixó
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:0 tvg-id="RT.es" group-title="spania",RT Spain
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTV Vida España
-https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTVCE
-https://cdnlive.shooowit.net/rtvcelive/smil:channel2.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Sal Televisión
-https://www.tdtchannels.com/stream/saltv.m3u8
-#EXTINF:0 tvg-id="SFCTV.es" group-title="spania",Sevilla FC TV
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Solidaria TV España
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Supertoons TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="Taroteame.es" group-title="spania",Taroteame TV
-http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TEF
-https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Tele 7
-https://59c8647978660.streamlock.net/8128/8128/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Tele Crime
-https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Tele Drama
-https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Teleganés
-https://cdn01.yowi.tv/P18V9163O7/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TeleGilena
-https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Teleonuba
-https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TeleRibera
-http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TeleSafor
-http://video.telesafor.com/hls/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Telesur Madrid
-https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Television Aranda
-https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Televisión de San Vicente
-https://cdn01.yowi.tv/L4Y5ILBY62/master.m3u8
-#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="spania",Television Galicia
-https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Televisio Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",teve.cat
-https://www.tdtchannels.com/stream/tevecat.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TeVe4
-https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Torrevisión
-https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Trebujena TV
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Trece TV
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Tuya La Janda TV
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:0 tvg-id="TV3cat.es" group-title="spania",TV3 Catalunya
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV4 La Vall
-https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Municipal Cordoba
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Shows
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="TVANetworks.fr" group-title="spania",tvA
-https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVE Canal24
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVE Canarias
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVE Catalunya
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG 2
-http://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG America
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Cultura
-http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="fox-crime" group-title="spania",TVG Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Infantil
-http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Momentos G
-http://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Musigal
-http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Une Vinalopó
-http://78.41.83.88:8880/hls/unesd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Urola Telebista
-https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Visión 6 TV
-https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-#EXTINF:0 tvg-id="LA1.es" group-title="spania",LA 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="spania",LA 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:0 tvg-id="24Horas.sp" group-title="spania",24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
-#EXTINF:0 tvg-id="ARTV.pt" group-title="spania",Canal Parlamento
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:0 tvg-id="CGTN.es" group-title="spania",CGTN Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",DW (Español)
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0 tvg-id="Intereconomia.sp" group-title="spania",Intereconomia
-https://strvideo1.ondamedia.es/hls/eltorotv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:0 tvg-id="TPA7.es" group-title="spania",TPA 7
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",8 La Janda
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",9 la Loma
-http://directo.9laloma.es/live.m3u8
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="spania",Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",CMM
-http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 45
-https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Málaga
-http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Castilla La Mancha Media
-http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
-#EXTINF:0 tvg-id="ETBSat.es" group-title="spania",ETB SAT
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0 tvg-id="ETB1.es" group-title="spania",ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-#EXTINF:0 tvg-id="ETB2.es" group-title="spania",ETB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Galicia TV 1
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="spania",Galicia TV América
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Galicia TV Momento
-http://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Galicia TV Infantil
-http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Galicia TV Musica
-http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Galicia TV Cultural
-http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Galicia TV Momentos
-http://momentog-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 7 TV Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",LaOtra
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",M95 Televisión Marbella
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Marbella Televisión
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mijas Comunicación
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mírame TV
-https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",NORTEvisión
-http://amaru.dyndns.org:8835/0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Cantabria
-https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Melilla
-https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTVCE
-http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Radio Onda Madrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8
-#EXTINF:0 tvg-id="Telemadridsat.es" group-title="spania",TeleMadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TeleSafor
-http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Trebujena TV
-https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
-#EXTINF:0 tvg-id="TvCanaria.es" group-title="spania",TV Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Une Vinalop
-http://78.41.83.88:8880/hls/unesd.m3u8
-#EXTINF:0 tvg-id="LA1.es" group-title="spania",La 1
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:0 tvg-id="BEMAD.es" group-title="spania",Be Mad
-https://pastebin.com/raw/jf3NxqPs
-#EXTINF:0 tvg-id="ext" group-title="spania",Urban Revolution TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-#EXTINF:0 tvg-id="Trece.es" group-title="spania",Trece
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 1 (fallback)
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
-#EXTINF:0 tvg-id="LA1.es" group-title="spania",La 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
-#EXTINF:0 tvg-id="24Horas.sp" group-title="spania",24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="spania",Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda Cádiz Televisión
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="spania",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:0 tvg-id="TPA7.es" group-title="spania",TPA7
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="spania",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:0 tvg-id="TvCanaria.es" group-title="spania",TV Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
-#EXTINF:0 tvg-id="tv3" group-title="spania",TV3
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8?DVR
-#EXTINF:0 tvg-id="324.es" group-title="spania",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Televisión Vega Baja
-http://185.29.68.24/tvb.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Intercomarcal TV
+#EXTINF:0 tvg-id="ext" group-title="spania",Intercomarcal TV (288p
 http://78.41.83.88:8880/hls/tvixa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",telesafor
-http://video.telesafor.com/hls/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",tv-A
-http://5.39.65.105/hls/tvaxa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Alicantí TV
-http://5.39.65.105/hls/alacantixa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RiberaTV
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",PequeRadio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTV Vida HD
-https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG (Europa)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Momentos G
-http://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="Telemadridsat.es" group-title="spania",Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Televisión Melilla
+#EXTINF:0 tvg-id="ext" group-title="spania",Intercomarcal TV (576p
+https://str.intercomarcal.com/hls/tvisd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Intercomarcal TV (288p
+https://str.intercomarcal.com/hls/tvixa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Islatel (404p
+https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Junta Castilla y León (1080p
+https://16escalones-live2.flumotion.com/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 (720p)
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 (720p)
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 2 (1080p)
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+#EXTINF:0 tvg-id="LA2.es" group-title="spania",La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Avila (720p
+https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Bierzo (720p)
+https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Burgos (720p
+https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Leon (720p
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Mediterráneo (1080p
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Palencia (270p
+https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Salamanca (720p)
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Segovia (720p)
+https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Soria (720p
+https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Valladolid (720p)
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Zamora (720p)
+https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Lancelot TV (576p
+https://cdn01.yowi.tv/I7V5TFE97R/master.m3u8
+#EXTINF:0 tvg-id="LaOtra.es" group-title="spania",LaOtra (720p)
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La Urban TV (1080p
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La Voz 24h (720p)
+https://pull12.atresmedia.com/lavoz/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Lebrija TV (360p
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Levante TV (320p
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Lleida Televisio (720p
+https://cdn01.yowi.tv/lleida/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Logos TV (1080p
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Logos TV (1080p
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",M95 Televisión Marbella (576p
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Maestrat TV (1080p
+https://stream.maestrat.tv/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Mar TV (1080p
+http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Mírame TV (360p
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Navarra TV (576p
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Negocios TV (720p)
+https://play.gooru.live/playnegocios/5646-1603313320000/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",NIUS (720p)
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",NIUS (720p)
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601/niusdiario/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",NIUS (576p)
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",NIUS (576p)
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601/niusdiario/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Noroeste TV (720p
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Oizmendi Telebista (404p
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Olympics Channel (1080p)
+https://iptv-all.lanesh4d0w.repl.co/special/olympics
+#EXTINF:0 tvg-id="OndaCadiz.es" group-title="spania",Onda Cádiz (1080p)
+https://adc-hls.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Onda Madrid (360p)
+http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Onda Madrid (360p)
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",OndaMezquita 7 TV (720p
+https://cloud.streamingconnect.tv:455/mezquita/mezquita.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Pequeradio (720p
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+24 (576p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+24 (576p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+24 (576p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+24 (576p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Cantabria (576p
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Melilla (720p
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Melilla (720p
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Popular TV Murcia (720p
+https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Punt 3 Vall Uixó (1080p)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Radio Televisión Marbella [Not 24/7]
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Radio Televisión Melilla (720p
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="7tv.es" group-title="spania",7 TV Región Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:0 tvg-id="ETB1.es" group-title="spania",ETB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:0 tvg-id="ETB2.es" group-title="spania",ETB 2
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:0 tvg-id="ETBSat.es" group-title="spania",ETB SAT
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Radio Televisión Mogán (1080p)
+https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="spania",Real Madrid TV (404p)
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="spania",Real Madrid TV
+http://154.62.74.11:1935/live/realmadridnntv/playlist.m3u8
+#EXTINF:0 tvg-id="RT.es" group-title="spania",RT (720p)
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",RTVC (Radio Televisión Canaria) (720p)
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",RTVE (576p)
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",RTV Vida (1080p)
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Sal Televisión (720p
+https://www.tdtchannels.com/stream/saltv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Sevilla FC TV (360p
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Sophia TV (720p)
+https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TAC 12 (720p
+https://nodo01-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TAC 12 (720p
+https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
+#EXTINF:0 tvg-id="Taroteame.es" group-title="spania",Tarotéame (576p
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Teledeporte (1080p)
+https://rtvelivestreamv3.akamaized.net/rtvesec/tdp_bkp_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Teledeporte (1080p)
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TEF (432p
+https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TeleGilena (360p
+https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="spania",Telemadrid (720p)
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TeleRibera (720p
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Tele Safor (576p
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Tele Sagunto
+https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TeleToledo (720p
+https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TeleVigo (1080p
+https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Televisión Aranda (720p)
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",teve.cat (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Tevequatre TV (576p
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Trebujena TV (360p
+http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Tuya La Janda Televisión (1080p)
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV3CAT (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV3CAT (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV3 Catalunya (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV Artequatre (576p
+https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV Canaria (576p)
+https://rtvc-live1.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV Extremeña (720p
+https://cdn01.yowi.tv/43J82FST7L/master.m3u8
+#EXTINF:0 tvg-id="tvG2.es" group-title="spania",tvG2 (720p
+https://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="tvG2.es" group-title="spania",tvG2 (720p
+https://events3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG Cultural (720p)
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="spania",TVG Europa (720p)
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG Evento 1 (720p
+https://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG Evento 5 (720p
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG Infantil (720p
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV Girona (720p)
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG Momento (480p
+https://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVG Musigal (480p
+https://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVM Córdoba (414p
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TVM Córdoba (414p
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TV Vega Baja (576p)
+http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",UD Las Palmas TV
+https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Une Vinalopó (576p
+http://78.41.83.88:8880/hls/unesd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Ventdelnord TV (404p)
+http://ventdelnord.tv:8080/hls/directe.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Visión 6 TV (720p
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Xtra TV (720p)
+https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Xtra TV (720p)
+https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Zafra TV (720p
+https://cloud.streamingconnect.tv:455/radiotvzafra/radiotvzafra.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",A3Series Internacional
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:0 tvg-id="avi" group-title="spania",Canal 24 horas (720p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
+#EXTINF:0 tvg-id="La7.it" group-title="spania",LA7 (720p)
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Radio Rutas del Perú (360p
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 Canarias (576p)
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",TEN TV (720p)
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Tarotvision (576p
+http://149.12.64.81:8080/hls/tarotvision.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",BARVA.TV (360p)
+https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",Canal 24 horas (1080p)
+https://rtvelivestreamv3.akamaized.net/24h_bkp_dvr.m3u8
+#EXTINF:0 tvg-id="24Horas.sp" group-title="spania",Canal 24 horas (720p)
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 Catalunya (576p)
+https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 Catalunya (576p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:0 tvg-id="ext" group-title="spania",La 1 Canarias (576p)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:0 tvg-id="GOL.es" group-title="spania",GOL (720p)
+https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
+
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
+#EXTINF:-1 channel-id="samsung-ESAJ4500019AM" tvg-id="ESAJ4500019AM" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/88/ESAJ4500019AM_20220323T082019.png" group-title="spania",Comedias - Rakuten TV
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ4500024LR" tvg-id="ESAJ4500024LR" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20220323T082025.png" group-title="spania",Euronews en directo
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA2200005D6" tvg-id="ESBA2200005D6" tvg-chno="4004" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/ESBA2200005D6_20220323T081514.png" group-title="spania",Detectives
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-chno="4110" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/ESAJ3800003LX_20220323T081645.png" group-title="spania",MTV Catfish
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f661f68f9200078870d4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-chno="4113" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/93/ESAJ3800006TT_20220323T081652.png" group-title="spania",MTV Cribs
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA1400006NP" tvg-id="ESBA1400006NP" tvg-chno="4116" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/ESBA1400006NP_20220323T081553.png" group-title="spania",FailArmy
+https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ4500023Y5" tvg-id="ESAJ4500023Y5" tvg-chno="4119" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/ESAJ4500023Y5_20220323T081726.png" group-title="spania",People Are Awesome
+https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ4500016BH" tvg-id="ESAJ4500016BH" tvg-chno="4122" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/ESAJ4500016BH_20220323T081923.png" group-title="spania",The Pet Collective
+https://6c3f9c3ead8a4a0888f6cff09728fc91.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ380000226" tvg-id="ESAJ380000226" tvg-chno="4125" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/ESAJ380000226_20220323T081659.png" group-title="spania",MTV Originals
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESAJ3800005C5" tvg-id="ESAJ3800005C5" tvg-chno="4128" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/ESAJ3800005C5_20220323T081448.png" group-title="spania",Comedia Made in Spain
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a0109d930000711e610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA3300025WZ" tvg-id="ESBA3300025WZ" tvg-chno="4160" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/67/ESBA3300025WZ_20220323T081632.png" group-title="spania",Los Asesinatos de Midsomer
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8463f3b02eb40007f75f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA3300039ZX" tvg-id="ESBA3300039ZX" tvg-chno="4163" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/ESBA3300039ZX_20220323T081936.png" group-title="spania",Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA3300027H5" tvg-id="ESBA3300027H5" tvg-chno="4166" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/ESBA3300027H5_20220323T081625.png" group-title="spania",Las Reglas Del Juego
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/604125ef4b0285000720271e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA140000504" tvg-id="ESBA140000504" tvg-chno="4169" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/ESBA140000504_20220323T082105.png" group-title="spania",Stormcast Novelas
+https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8?ads.wurl_channel=1057&ads.wurl_name=StormcastNovelas&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA1400001OG" tvg-id="ESBA1400001OG" tvg-chno="4172" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/42/ESBA1400001OG_20220323T081521.png" group-title="spania",Doctor Who
+https://24e45240eb464bb795218803d6c61cc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_DoctorWho/playlist.m3u8?ads.wurl_channel=945&ads.wurl_name=DoctorWho&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA1400003LA" tvg-id="ESBA1400003LA" tvg-chno="4175" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/84/ESBA1400003LA_20220323T081356.png" group-title="spania",BBC Drama
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ3800008ZD" tvg-id="ESAJ3800008ZD" tvg-chno="4210" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/ESAJ3800008ZD_20220323T081807.png" group-title="spania",Pluto TV Mundo Real
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA3300036W1" tvg-id="ESBA3300036W1" tvg-chno="4213" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/14/ESBA3300036W1_20220323T081713.png" group-title="spania",Museum TV FAST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA22000094V" tvg-id="ESBA22000094V" tvg-chno="4216" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA22000094V_20220323T081540.png" group-title="spania",Explore by TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytves-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-chno="4219" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/ESAJ4500021HQ_20220323T081833.png" group-title="spania",Rakuten Stories
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ49000017H" tvg-id="ESAJ49000017H" tvg-chno="4222" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/ESAJ49000017H_20220323T081619.png" group-title="spania",Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvlatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA22000102A" tvg-id="ESBA22000102A" tvg-chno="4260" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/ESBA22000102A_20220323T081638.png" group-title="spania",Love Nature
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA330004121" tvg-id="ESBA330004121" tvg-chno="4263" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/12/ESBA330004121_20220323T082129.png" group-title="spania",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBC800001VF" tvg-id="ESBC800001VF" tvg-chno="4313" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/ESBC800001VF_20220323T082039.png" group-title="spania",7NN Noticias
+https://d3qm3y9z4b8zw5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ntutzvccuzb74-prod/7nn/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300024AJ" tvg-id="ESBA3300024AJ" tvg-chno="4320" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20220323T081403.png" group-title="spania",Bloomberg TV+
+https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300037CD" tvg-id="ESBA3300037CD" tvg-chno="4330" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/ESBA3300037CD_20220323T081534.png" group-title="spania",Euronews
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewses-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA1400008NE" tvg-id="ESBA1400008NE" tvg-chno="4405" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20220323T082013.png" group-title="spania",¡Hola! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ4500017Y1" tvg-id="ESAJ4500017Y1" tvg-chno="4408" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/95/ESAJ4500017Y1_20220323T081606.png" group-title="spania",Fashion TV
+https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8?ads.wurl_channel=382&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-chno="4435" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/93/ESAJ3800007PC_20220323T081752.png" group-title="spania",Pluto TV Cocina
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0af1f26bc900079ab871/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA2200006B4" tvg-id="ESBA2200006B4" tvg-chno="4438" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/57/ESBA2200006B4_20220323T081917.png" group-title="spania",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-es8intl-samsung-spain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA1500002B5" tvg-id="ESBA1500002B5" tvg-chno="4485" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/11/ESBA1500002B5_20220323T081706.png" group-title="spania",Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/be2e393a-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA14000024Z" tvg-id="ESBA14000024Z" tvg-chno="4510" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/ESBA14000024Z_20220323T082000.png" group-title="spania",World Poker Tour
+https://ec94d62c288a4597ae317e2f30441067.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300035DP" tvg-id="ESBA3300035DP" tvg-chno="4513" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA3300035DP_20220323T081930.png" group-title="spania",Trace Sportstars
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&tc_string=%7BTC_STRING%7D&app_name=%7BAPP_NAME%7D&coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA140000460" tvg-id="ESBA140000460" tvg-chno="4560" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/ESBA140000460_20220323T082117.png" group-title="spania",Surf Channel
+https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8?ads.wurl_channel=969&ads.wurl_name=SurfChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300038FN" tvg-id="ESBA3300038FN" tvg-chno="4563" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/ESBA3300038FN_20220323T081911.png" group-title="spania",Surf World TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-surfworldtv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESAJ4500025S7" tvg-id="ESAJ4500025S7" tvg-chno="4566" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/ESAJ4500025S7_20220323T081547.png" group-title="spania",FUEL TV
+https://ca770451d44445029c7d89918c921ba4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FuelTV/playlist.m3u8?ads.wurl_channel=587&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA33000188W" tvg-id="ESBA33000188W" tvg-chno="4610" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/ESBA33000188W_20220323T082007.png" group-title="spania",duckTV
+https://f4af60daf0aa422bb11765ff62a4a92e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_DuckTV/playlist.m3u8?ads.wurl_channel=572&ads.wurl_name=DuckTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA33000233H" tvg-id="ESBA33000233H" tvg-chno="4613" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/ESBA33000233H_20220323T082111.png" group-title="spania",SuperToons TV
+https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8?ads.wurl_channel=639&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ4500026J3" tvg-id="ESAJ4500026J3" tvg-chno="4616" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ESAJ4500026J3_20220323T081732.png" group-title="spania",Planeta Junior
+https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8?ads.wurl_channel=594&ads.wurl_name=PlanetaKidz&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300020W5" tvg-id="ESBA3300020W5" tvg-chno="4619" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/55/ESBA3300020W5_20220323T081422.png" group-title="spania",Caillou
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ3800009VJ" tvg-id="ESAJ3800009VJ" tvg-chno="4622" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESAJ3800009VJ_20220323T081739.png" group-title="spania",Pluto TV Animakids
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2aea6bffc400076bb4e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA33000262Z" tvg-id="ESBA33000262Z" tvg-chno="4625" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/98/ESBA33000262Z_20220323T081410.png" group-title="spania",Bob Esponja
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESAJ38000046O" tvg-id="ESAJ38000046O" tvg-chno="4628" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/62/ESAJ38000046O_20220323T081759.png" group-title="spania",Pluto TV Kids
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBA39000026L" tvg-id="ESBA39000026L" tvg-chno="4710" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/31/ESBA39000026L_20220323T081942.png" group-title="spania",Vevo Latino
+https://eu.linear.zype.com/0912f967-726e-42e6-9818-68d4af2b3db2/9c1fe80e-9af9-4e57-b48d-aee073c27e70-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ49000041W" tvg-id="ESAJ49000041W" tvg-chno="4713" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/ESAJ49000041W_20220323T081826.png" group-title="spania",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA3900001IB" tvg-id="ESBA3900001IB" tvg-chno="4716" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/ESBA3900001IB_20220323T081948.png" group-title="spania",Vevo Pop
+https://eu.linear.zype.com/beda280b-d692-49c0-ba89-37f4d1437a1f/c7f2b6ab-519d-477b-8817-cc08965f2ba4-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ49000023R" tvg-id="ESAJ49000023R" tvg-chno="4719" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/67/ESAJ49000023R_20220323T081820.png" group-title="spania",Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA1500001C4" tvg-id="ESBA1500001C4" tvg-chno="4722" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/32/ESBA1500001C4_20220323T081508.png" group-title="spania",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBB19000012F" tvg-id="ESBB19000012F" tvg-chno="4725" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/ESBB19000012F_20220323T081441.png" group-title="spania",Clubbing TV
+https://d1fd1zcttz7mx2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-ES-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA330004064" tvg-id="ESBA330004064" tvg-chno="4728" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/38/ESBA330004064_20220323T081613.png" group-title="spania",Flash
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESAJ4900003N6" tvg-id="ESAJ4900003N6" tvg-chno="4731" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/ESAJ4900003N6_20220323T081813.png" group-title="spania",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA3300022SL" tvg-id="ESBA3300022SL" tvg-chno="4963" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/ESBA3300022SL_20220323T081429.png" group-title="spania",Cine Feel Good – Verdi TV
+https://2e3e8b43622e4c46a739103488cf9ded.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_CanalFeelGood/playlist.m3u8?ads.wurl_channel=610&ads.wurl_name=CanalFeelGood&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300021PZ" tvg-id="ESBA3300021PZ" tvg-chno="4966" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA3300021PZ_20220323T081435.png" group-title="spania",Cines Verdi TV
+https://31f24acc118141319c9501119a5fc9e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_CinesVerdiTV/playlist.m3u8?ads.wurl_channel=655&ads.wurl_name=CinesVerdiTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ3800001KT" tvg-id="ESAJ3800001KT" tvg-chno="4969" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/ESAJ3800001KT_20220323T081746.png" group-title="spania",Pluto TV Cine Estelar
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-ESBC40000248" tvg-id="ESBC40000248" tvg-chno="4972" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/41/ESBC40000248_20220323T082046.png" group-title="spania",Dark Matter TV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 channel-id="samsung-ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-chno="4975" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/ESBC400001QQ_20220323T082052.png" group-title="spania",Runtime
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA3300019NX" tvg-id="ESBA3300019NX" tvg-chno="4978" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/83/ESBA3300019NX_20220323T081416.png" group-title="spania",Butaca TV
+https://4c6d8a18bd384c8a944e3788ecde6ae4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ButacaTV/playlist.m3u8?ads.wurl_channel=656&ads.wurl_name=ButacaTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA2200004G5" tvg-id="ESBA2200004G5" tvg-chno="4981" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/81/ESBA2200004G5_20220323T081719.png" group-title="spania",MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimespain-samsung-es/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESBA3300017FA" tvg-id="ESBA3300017FA" tvg-chno="4984" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ESBA3300017FA_20220323T081600.png" group-title="spania",Familiares - Rakuten TV
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel=718&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESBA2200008NQ" tvg-id="ESBA2200008NQ" tvg-chno="4987" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/ESBA2200008NQ_20220323T081455.png" group-title="spania",Cortos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-spain-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&tc_string=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ4900005CX" tvg-id="ESAJ4900005CX" tvg-chno="4990" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/ESAJ4900005CX_20220323T081846.png" group-title="spania",Sofy.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofy-samsung-es/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-ESAJ4500020V7" tvg-id="ESAJ4500020V7" tvg-chno="4998" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/62/ESAJ4500020V7_20220323T081528.png" group-title="spania",Dramas - Rakuten TV
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel=429&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ45000181E" tvg-id="ESAJ45000181E" tvg-chno="4999" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/ESAJ45000181E_20220323T081350.png" group-title="spania",Acción - Rakuten TV
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=427&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-chno="6000" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/19/ESAJ2900001Y3_20220323T082123.png" group-title="spania",Top Gear en Español
+https://b9c2d43de2614b99add85c33234b7fba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TopGearEnEspanol/playlist.m3u8?ads.wurl_channel=1115&ads.wurl_name=TopGearEnEspanol&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTINF:-1 channel-id="pluto-5f1aa7aab66c76000790ee7e" tvg-id="5f1aa7aab66c76000790ee7e" tvg-chno="785" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="spania",Big Time Rush
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aa82c150b2500077733d7" tvg-id="5f1aa82c150b2500077733d7" tvg-chno="795" tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="spania",Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aa89d42a0500007363ea3" tvg-id="5f1aa89d42a0500007363ea3" tvg-chno="800" tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="spania",Go Diego Go!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aa9bcd8160700076d45d1" tvg-id="5f1aa9bcd8160700076d45d1" tvg-chno="805" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="spania",Pluto TV Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aab1d29b39600073e243f" tvg-id="5f1aab1d29b39600073e243f" tvg-chno="780" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="spania",Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aabee6f4a2c00076a322c" tvg-id="5f1aabee6f4a2c00076a322c" tvg-chno="775" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="spania",Pluto TV Animakids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="435" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="spania",MTV Originals
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aae8c65727d0007d15a17" tvg-id="5f1aae8c65727d0007d15a17" tvg-chno="430" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="spania",MTV Prank
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aaefb96f755000733c11a" tvg-id="5f1aaefb96f755000733c11a" tvg-chno="440" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="spania",MTV Brave
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="405" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="spania",MTV Catfish TV Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ab9c6d8f1300007f54e30" tvg-id="5f1ab9c6d8f1300007f54e30" tvg-chno="450" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="spania",MTV Cribs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abce155a03d0007718834" tvg-id="5f1abce155a03d0007718834" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="spania",Comedia made in Spain
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abe3ffcd659000770d88d" tvg-id="5f1abe3ffcd659000770d88d" tvg-chno="520" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="spania",La Chica Invisible
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abf097eb06300079b30f7" tvg-id="5f1abf097eb06300079b30f7" tvg-chno="865" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="spania",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="860" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="spania",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac118dd7e6000077e31af" tvg-id="5f1ac118dd7e6000077e31af" tvg-chno="570" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="spania",IGN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac1780e94100007f94b3f" tvg-id="5f1ac1780e94100007f94b3f" tvg-chno="870" tvg-logo="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="spania",People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="spania",Pluto TV Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="spania",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-chno="135" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="spania",Pluto TV Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac8588734f8000823b7de" tvg-id="5f1ac8588734f8000823b7de" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="spania",Pluto TV Action Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="spania",Pluto TV Thrillers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac8f49205650007bc15f1" tvg-id="5f1ac8f49205650007bc15f1" tvg-chno="220" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="spania",Pluto TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-chno="130" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="spania",Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-chno="125" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="spania",Pluto TV Cine Romántico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aca0b4e448e00075e7c5e" tvg-id="5f1aca0b4e448e00075e7c5e" tvg-chno="755" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="spania",Bob Esponja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1aca8310a30e00074fab92" tvg-id="5f1aca8310a30e00074fab92" tvg-chno="230" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="spania",Asesinatos de Midsomer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acb4eebe0f0000767b40f" tvg-id="5f1acb4eebe0f0000767b40f" tvg-chno="235" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="spania",Las reglas del juego
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acba0d1f6340007db8843" tvg-id="5f1acba0d1f6340007db8843" tvg-chno="310" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="spania",Los nuevos detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acbed25948a0007ffbe65" tvg-id="5f1acbed25948a0007ffbe65" tvg-chno="315" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="spania",Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acc3e061597000768d4ea" tvg-id="5f1acc3e061597000768d4ea" tvg-chno="250" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="spania",Andrómeda
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acc91cc9e1b000711ff21" tvg-id="5f1acc91cc9e1b000711ff21" tvg-chno="255" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="spania",Mutante X
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acce7f17797000718f9be" tvg-id="5f1acce7f17797000718f9be" tvg-chno="515" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="spania",Ana y los 7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acd36779de70007a680d1" tvg-id="5f1acd36779de70007a680d1" tvg-chno="260" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="spania",Curro Jiménez
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-chno="680" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="spania",Pluto TV Cocina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1acdfda84c970007e750b5" tvg-id="5f1acdfda84c970007e750b5" tvg-chno="655" tvg-logo="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/colorLogoPNG.png" group-title="spania",Pluto TV Mundo Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f28009b150b2500077766b8" tvg-id="5f28009b150b2500077766b8" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="spania",Vaya semanita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f280149cec6be00072ab1fc" tvg-id="5f280149cec6be00072ab1fc" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="spania",El Conquistador del Fin
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="spania",Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f984c1dc54853000797a5e8" tvg-id="5f984c1dc54853000797a5e8" tvg-chno="140" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="spania",Cine Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="300" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="spania",Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f9853138d19af0007104a8d" tvg-id="5f9853138d19af0007104a8d" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="spania",Pluto TV Series Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="420" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="spania",MTV Embarazada a los 16
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600169ec77e6f70008fa9cf0" tvg-id="600169ec77e6f70008fa9cf0" tvg-chno="445" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="spania",MTV Dating
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60016a60a8e3520008e0d331" tvg-id="60016a60a8e3520008e0d331" tvg-chno="760" tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" group-title="spania",Pluto TV Teen Stars
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600ad4ad6537680007be2ea6" tvg-id="600ad4ad6537680007be2ea6" tvg-chno="735" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="spania",Clubbing TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600ae52e34a3700007000534" tvg-id="600ae52e34a3700007000534" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/600ae52e34a3700007000534/colorLogoPNG.png" group-title="spania",Sin tetas no hay paraíso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae52e34a3700007000534/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600ae59c341b1d0007d1c7cb" tvg-id="600ae59c341b1d0007d1c7cb" tvg-chno="245" tvg-logo="https://images.pluto.tv/channels/600ae59c341b1d0007d1c7cb/colorLogoPNG.png" group-title="spania",Tierra de lobos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="635" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="spania",Pluto TV Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-600ae79fa46e17000794e84c" tvg-id="600ae79fa46e17000794e84c" tvg-chno="710" tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="spania",MTV Love Music
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60218baa464ef900073168c1" tvg-id="60218baa464ef900073168c1" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="spania",Empeños a lo bestia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60218d81873f0e0007cff614" tvg-id="60218d81873f0e0007cff614" tvg-chno="455" tvg-logo="https://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png" group-title="spania",RICH
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60218d81873f0e0007cff614/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-602ba1cfb386d30007aecbbe" tvg-id="602ba1cfb386d30007aecbbe" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" group-title="spania",Pluto TV Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-604f8125c6669b00077f7699" tvg-id="604f8125c6669b00077f7699" tvg-chno="855" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="spania",Wipeout
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="415" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="spania",MTV Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6054ab20a365c70007e4fd44" tvg-id="6054ab20a365c70007e4fd44" tvg-chno="810" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="spania",Garfield
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6054acc871ec430007f54c7d" tvg-id="6054acc871ec430007f54c7d" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="spania",Anime Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="410" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="spania",Tuning
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="spania",VH1 Classics
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="625" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="spania",Pluto TV Motor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-chno="565" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="spania",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6080381ab7c9ea00074ec64c" tvg-id="6080381ab7c9ea00074ec64c" tvg-chno="915" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="spania",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-chno="145" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="spania",Runtime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6087c6c5db549e0007eead39" tvg-id="6087c6c5db549e0007eead39" tvg-chno="720" tvg-logo="https://images.pluto.tv/channels/6087c6c5db549e0007eead39/colorLogoPNG.png" group-title="spania",MTV Good Vibes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-609501978c069d00074e0dd2" tvg-id="609501978c069d00074e0dd2" tvg-chno="790" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="spania",Planeta Junior TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-609e7e423e9173000706a681" tvg-id="609e7e423e9173000706a681" tvg-chno="770" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="spania",Pluto TV Toons Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="705" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="spania",MTV Music Made in Spain
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60a286daf888610007669801" tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" group-title="spania",Just for Laughs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60b4c06717da110007ee1af6" tvg-id="60b4c06717da110007ee1af6" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="spania",Pluto TV Telenovelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60c343007bcabe0007242aa6" tvg-id="60c343007bcabe0007242aa6" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="spania",El Comisario
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60c343ad476ec00007c2ec1a" tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="630" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="spania",Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c343ad476ec00007c2ec1a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60c882460ea4a200076a2a37" tvg-id="60c882460ea4a200076a2a37" tvg-chno="685" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="spania",Fashion TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60c8a24e17da110007eed4fd" tvg-id="60c8a24e17da110007eed4fd" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="spania",Rakuten Viki
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60c8b3ddaaf9d4000780066f" tvg-id="60c8b3ddaaf9d4000780066f" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="spania",Pluto TV K-Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="spania",Pluto TV Indies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-chno="620" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="spania",Top Gear
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60d3574e97f10800078455de" tvg-id="60d3574e97f10800078455de" tvg-chno="225" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="spania",Doctor Who
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="spania",Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="215" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="spania",BBC Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60db37b8b919720007c07fa4" tvg-id="60db37b8b919720007c07fa4" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="spania",Qwest Jazz&Beyond
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db37b8b919720007c07fa4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-chno="640" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="spania",Love Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60e45687313c5f0007bc8e94" tvg-id="60e45687313c5f0007bc8e94" tvg-chno="610" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="spania",El encantador de perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-chno="615" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="spania",Mi Extraña Obsesión
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60ed5fb9c4716d0007d180c5" tvg-id="60ed5fb9c4716d0007d180c5" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="spania",Cazador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60f1673d0e4370000784dc61" tvg-id="60f1673d0e4370000784dc61" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" group-title="spania",FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-60f16986acb81b0007c384ac" tvg-id="60f16986acb81b0007c384ac" tvg-chno="725" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="spania",Qello Concerts
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f16986acb81b0007c384ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-610c09219fc0430007a3fce6" tvg-id="610c09219fc0430007a3fce6" tvg-chno="765" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="spania",Rugrats
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="spania",MTV Tattoo a dos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-chno="320" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="spania",Pluto TV Paranormal
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6130d6f3f3f7bb0007dbd092" tvg-id="6130d6f3f3f7bb0007dbd092" tvg-chno="715" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="spania",MTV En Vivo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="425" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="spania",MTV Realities
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-chno="120" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="spania",Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-chno="550" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="spania",Avatar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="spania",Las Tortugas Ninja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6140a074a99e79000738162a" tvg-id="6140a074a99e79000738162a" tvg-chno="910" tvg-logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png" group-title="spania",Pluto TV Fitness
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-chno="750" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="spania",iCarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61922be835f3910007fc58f6" tvg-id="61922be835f3910007fc58f6" tvg-chno="600" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="spania",En el punto de mira
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-6193963c5a960200074ce816" tvg-id="6193963c5a960200074ce816" tvg-chno="240" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png" group-title="spania",Constance Meyer: Jueza en prácticas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-619b7db4872c650008eb8b6a" tvg-id="619b7db4872c650008eb8b6a" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png" group-title="spania",Pluto TV Star Trek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61b87bc867b03a0007864e0d" tvg-id="61b87bc867b03a0007864e0d" tvg-chno="645" tvg-logo="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png" group-title="spania",Pluto TV Reality
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b87bc867b03a0007864e0d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61b9edc4a4ca6100070bb407" tvg-id="61b9edc4a4ca6100070bb407" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="spania",Ice Pilots
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b9edc4a4ca6100070bb407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61bb2814ac085a00074309a6" tvg-id="61bb2814ac085a00074309a6" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png" group-title="spania",Unidad de investigación
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="spania",Pluto TV Documentales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTM3U
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greece" tvg-name="ΕΡΤ 1",ΕΡΤ 1
