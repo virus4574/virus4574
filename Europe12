@@ -1576,6 +1576,71 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e6dfb3fd665f0007235f
 #EXTINF:-1 channel-id="pluto-622882350f6aad0008c76e77" tvg-id="622882350f6aad0008c76e77" tvg-chno="20" tvg-logo="https://images.pluto.tv/channels/622882350f6aad0008c76e77/colorLogoPNG.png" group-title="DEUTSCH",Nick Ukraine
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622882350f6aad0008c76e77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 tvg-id="ext" group-title=Austria",Austria TV
+https://bit.ly/3pWtmPO
+#EXTINF:0 tvg-id="ext" group-title="Austria",Dorf TV
+h#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Austria",Dorf TV (576p)
+https://stream.openplayout.org/hls/dorftv/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",FS1 Salzburg (720p)
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",FS1 Salzburg (720p)
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",GoTV (576p)
+https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Austria",Hitradio Ö3 (720p)
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Hitradio Ö3 (360p)
+http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Krone.TV (360p)
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",M4 (1090p)
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Okto Eight (720p)
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Okto TV
+https://d2i6psfxyapxwi.cloudfront.net/out/v1/f0cc8e3aceb64ad8968231dc5a0041d4/index.m3u8
+#EXTINF:0 tvg-id="ORF1.at" group-title="Austria",ORF 1 (720p)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:0 tvg-id="ORF2.at" group-title="Austria",ORF 2 (540p)
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:0 tvg-id="ORF3.at" group-title="Austria",ORF 3 (720p)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",ORF Sport+ (540p)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",P3tv (720p)
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Premium Channel
+http://premium-channel.tv:88/live/kali.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",R9 (720p)
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",RTV (1080p)
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:0 tvg-id="SchauTV.at" group-title="Austria",SchauTV (720p)
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Swamiji TV (720p)
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Teins TV (1080p)
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF:0 tvg-id="TirolTV.at" group-title="Austria",Tirol TV (720p)
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Uppera Balkan (720p)
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",UPPERA Community TV
+http://89.187.168.245:8080/live/sUPPERchannel/index.m3u8
+#EXTINF:0 tvg-id="W24.at" group-title="Austria",W24 (720p)
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",oe24 TV (1080p)
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Austria",Antenne Vorarlberg (720p)
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Switzerland TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Tele M1
@@ -4790,41 +4855,6 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Australia",ausbiz TV (720p)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Austria",Dorf TV
-https://stream.openplayout.org/hls/dorf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",FS1 Salzburg
-https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Go TV (576p)
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Hitradio Ö3 (360p)
-http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
-#EXTINF:0 tvg-id="KTV.de" group-title="Austria",K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Kronehit HD (1080p)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",M4 (1080p)
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",oe24.TV (360p)
-https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Okto Eight (720p)
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:0 tvg-id="ORF1.at" group-title="Austria",ORF 1 (720p)
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ORF2.at" group-title="Austria",ORF 2 (720p)
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",ORF 3 (540p)
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",ORF Sport + (540p)
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",P3tv (720p)
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",R9 (720p)
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Teins TV (1080p)
-https://live1.markenfunk.com/t1/live/playlist.m3u8
-#EXTINF:0 tvg-id="W24.at" group-title="Austria",W24 (720p)
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB
 http://85.132.81.184:8080/arb/live/index.m3u8
