@@ -1616,8 +1616,6 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",Antenne Vorarlberg (720p)
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
-
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/at.xml.gz"
 #EXTINF:-1 channel-id="samsung-ATBC1300001A1" tvg-id="ATBC1300001A1" tvg-chno="4000" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/ATBC1300001A1_20220323T073132.png" group-title="Austria",Samsung TV Plus
 https://dh9obw9yd5nfd.cloudfront.net/20220323/at/4000/channel_4000_Info.m3u8
 #EXTINF:-1 channel-id="samsung-ATAJ35000024Y" tvg-id="ATAJ35000024Y" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/00/ATAJ35000024Y_20220323T073111.png" group-title="Austria",Komödien - Rakuten TV
@@ -1823,6 +1821,73 @@ https://3de82b61381f45a381906cfe7a8b40ec.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="samsung-ATAJ3500001J9" tvg-id="ATAJ3500001J9" tvg-chno="4999" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/63/ATAJ3500001J9_20220323T073144.png" group-title="Austria",Actionfilme - Rakuten TV
 https://696c8ef0d3824ac28f38d6277481fbe5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=439&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Belgium TV
+https://bit.ly/3pWtmPO
+#EXTM3U
+#EXTINF:0 tvg-id="BelRTL.be" group-title="Belgium",Bel RTL (360p)
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",BX1 (720p)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:0 tvg-id="CanalZoom.be" group-title="Belgium",Canal Zoom (720p)
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",EbS Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",EbS+ Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Ketnet Junior (720p)
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Ketnet Junior (720p)
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.mpd
+#EXTINF:0 tvg-id="LN24.be" group-title="Belgium",LN24
+https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",MNM (720p)
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Notele (576p)
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Q-Music (1080p)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Radio Contact (480p)
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Radio PROS (720p)
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Radio PROS (720p)
+https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",ROB TV (1080p)
+https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",MaTele (1080p)
+https://live.matele.be/hls/live.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Belgium",ATV (720p)
+https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio MNM Music and More
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio MNM Music and More
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 1
+https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio Klara
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio Klara
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd
+#EXTINF:0 tvg-id="ext" group-title="Belgium",TVL (720p)
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:0 tvg-id="RTVOost.nl" group-title="Belgium",TV Oost (720p)
+https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:0 tvg-id="RTLTVI.be" group-title="Belgium",RTL-TVi (720p)
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",TVO (576p)
+https://media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=oIFtpshSvwcy/oIFtpshSvwcy.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 2
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 2
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
+#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 1
+https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Switzerland TV
 https://bit.ly/3pWtmPO
@@ -5025,7 +5090,6 @@ https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Australia",M4TV Malayalam (1080p)
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Australia",Sky Racing 1 (720p)
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Australia",Sky Racing 2 (360p)
@@ -5064,18 +5128,6 @@ https://node19.connect.az:8086/ch1/ch1.hi.m3u8
 #EXTINF:0 tvg-id="impact" group-title="Azerbaijan",ITV
 https://node19.connect.az:8086/ch1/ch1.med.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Bahamas",ZNS Network (1080p)
-https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangladesh",Channel T1
-http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangladesh",Channel-S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangladesh",DBC News
-https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:0 tvg-id="ext" group-title="Barbados",CBC TV 8
-https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Barbados",Trident 10 TV (480p)
-http://161.0.157.9/PLTV/88888888/224/3221226832/index.m3u8
 #EXTINF:0 tvg-id="8channel" group-title="Belarus",8 канал (Беларусь)
 http://91.215.176.238:8000/8channel
 #EXTINF:0 tvg-id="ext" group-title="Belarus",8 канал (Витебск)
@@ -5100,78 +5152,7 @@ http://rtmp.one.by:2300
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:0 tvg-id="stb" group-title="Belarus",СТВ
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:0 tvg-id="ATV" group-title="Belgium",ATV (720p)
-https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Bel RTL (720p)
-https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",BX1 (720p)
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Canal C (576p)
-http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Canal C (1080p)
-https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8
-#EXTINF:0 tvg-id="CanalZoom.be" group-title="Belgium",Canal Zoom (720p)
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Canvas (540p)
-https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",City Music TV (720p)
-https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Eén (540p)
-https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-#EXTINF:0 tvg-id="Ketnet.be" group-title="Belgium",Ketnet (540p)
-https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Ketnet Junior (720p)
-https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",LN24 (1080p)
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",MA Télé (1080p)
-https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Notele (576p)
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Q-Music (1080p)
-https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:0 tvg-id="RadioContactVision.be" group-title="Belgium",Radio Contact Vision (720p)
-https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Radio PROS (720p)
-http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",ROB TV (1080p)
-https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:0 tvg-id="RTLTVI.be" group-title="Belgium",RTL-TVi (720p)
-https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:0 tvg-id="RTVOost.nl" group-title="Belgium",TV Oost (720p)
-https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",TVL (720p)
-https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",ATB
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",ATB Cochabamba
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",ATB La Paz
-https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Bolivia TV (720p)
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Católica TV (280p)
-http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Católica TV (280p)
-http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Red ADVenir
-https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Bolivia",RTP (720p)
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",TVU
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Unitel
-http://136.243.3.70:1935/Unitel/Unitel/chunklist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Xto TV
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bosnia and Herzegovina",777 Tehnika TV (480p)
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bosnia and Herzegovina",Al Jazeera Balkans (1080p)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:0 tvg-id="B1TV.ro" group-title="Bosnia and Herzegovina",B1 TV
-http://wowza.bihnet.net:88/hls/b1-live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bosnia and Herzegovina",Televizija 5
-http://37.59.21.217:8809/live/tv5web.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Brazil",98 Live (Belo Horizonte) (720p)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Agro Brasil TV (486p)
