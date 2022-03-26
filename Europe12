@@ -1586,34 +1586,14 @@ https://stream.openplayout.org/hls/dorftv/live.m3u8
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",FS1 Salzburg (720p)
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",GoTV (576p)
-https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="Austria",Hitradio Ö3 (720p)
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Hitradio Ö3 (360p)
-http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",Krone.TV (360p)
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",M4 (1090p)
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Okto Eight (720p)
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Okto TV
-https://d2i6psfxyapxwi.cloudfront.net/out/v1/f0cc8e3aceb64ad8968231dc5a0041d4/index.m3u8
-#EXTINF:0 tvg-id="ORF1.at" group-title="Austria",ORF 1 (720p)
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ORF2.at" group-title="Austria",ORF 2 (540p)
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ORF3.at" group-title="Austria",ORF 3 (720p)
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",ORF Sport+ (540p)
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",P3tv (720p)
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Premium Channel
-http://premium-channel.tv:88/live/kali.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",R9 (720p)
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",Red Bull TV (1080p)
@@ -1630,8 +1610,6 @@ https://live1.markenfunk.com/t1/live/playlist.m3u8
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",Uppera Balkan (720p)
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",UPPERA Community TV
-http://89.187.168.245:8080/live/sUPPERchannel/index.m3u8
 #EXTINF:0 tvg-id="W24.at" group-title="Austria",W24 (720p)
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Austria",oe24 TV (1080p)
