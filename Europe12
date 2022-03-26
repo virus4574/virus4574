@@ -2779,10 +2779,6 @@ http://80.24.75.92:5555/udp/239.111.0.2:1234
 #EXTINF:0 tvg-id="VeronicaDisneyXD.nl" group-title="NEDERLAND",Veronica / Disney XD HD
 http://80.24.75.92:5555/udp/239.111.0.4:1234
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Bazme Asheghan (720p)
-https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",BNR Nieuwsradio (720p) 
-https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",BR6 TV (720p)
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Den Haag TV (1080p) 
