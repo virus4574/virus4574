@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TURKEY TV
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TURKEY",TRT 1 UHD
-http://istanbul.tvizlehd.com/live/trt1.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TURKEY",TRT 1 FHD
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TURKEY",TRT 1 HD
@@ -11,36 +9,22 @@ http://195.250.60.146:4022/udp/239.203.1.213:3301
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TURKEY",ATV FHD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
-#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TURKEY",ATV HD
-http://istanbul.tvizlehd.com/live/atv.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TURKEY",STAR TV UHD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TURKEY",STAR TV FHD
 http://190.2.148.141:80/bar1109/index.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="TURKEY",STAR TV HD
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="TURKEY",KANAL D UHD
-http://istanbul.tvizlehd.com/live/kanald.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="TURKEY",KANAL D FHD
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="TURKEY",KANAL D HD
-http://istanbul.tvizlehd.com/live/kanald.m3u8
-#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="TURKEY",SHOW TV UHD
-http://istanbul.tvizlehd.com/live/showtv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="TURKEY",SHOW TV FHD
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="TURKEY",SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TURKEY",FOX TV UHD
-http://istanbul.tvizlehd.com/live/foxtv.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TURKEY",FOX TV FHD
-http://izmir.tvizlehd.com/live/foxtv.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="TURKEY",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="TURKEY",TV8 UHD
-https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1750377297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="TURKEY",TV8 FHD
-http://izmir.tvizlehd.com/live/tv8.m3u8
+http://190.2.148.141:80/bar1118/index.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="TURKEY",TV8.5 UHD
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="TURKEY",TEVE2 UHD
@@ -509,8 +493,6 @@ https://ankara.tvizlehd.com/live/yildiztv.m3u8
 http://46.31.146.187:44500/play/a03s/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6db76241-1eb4-479f-9241-6fbe261f3a79.png" group-title= "TURKEY", Dünya Türk
 http://yerelmedya.tv:1935/worldturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="TURKEY",BeIN Sports Haber
-https://istanbul.tvizlehd.com/live/beinsporthaber.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="TURKEY" ,BeIN Sports UHD 1
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1115.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="TURKEY" ,BeIN Sports FHD 1
@@ -538,15 +520,13 @@ https://sectokentest.parkbtcpanel.com/test/chann12/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="TURKEY",SMARTSPOR HD 2
 https://sectokentest.parkbtcpanel.com/test/chann13/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="TURKEY",Tivibu Spor 1
-https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
+https://sectokentest.parkbtcpanel.com/test/chann9/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="TURKEY",Tivibu Spor 2
 https://sectokentest.parkbtcpanel.com/test/chann10/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="TURKEY", Tivibu Spor 3
 https://sectokentest.parkbtcpanel.com/test/chann11/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="TURKEY", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="TURKEY", FB TV HD
-http://istanbul.tvizlehd.com/live/fbtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="TURKEY", TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="TURKEY" , TRT Çocuk
