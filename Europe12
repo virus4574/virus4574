@@ -1828,26 +1828,16 @@ https://bit.ly/3pWtmPO
 https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",BX1 (720p)
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:0 tvg-id="CanalZoom.be" group-title="Belgium",Canal Zoom (720p)
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",City Music TV (720p)
-https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",EbS Live (Europe by Satellite) (1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",EbS+ Live (Europe by Satellite) (1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Ketnet Junior (720p)
 https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Ketnet Junior (720p)
-https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.mpd
 #EXTINF:0 tvg-id="LN24.be" group-title="Belgium",LN24
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",MNM (720p)
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Notele (576p)
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",Q-Music (1080p)
-https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Radio Contact (480p)
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Radio PROS (720p)
@@ -1856,14 +1846,10 @@ http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",ROB TV (1080p)
 https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",MaTele (1080p)
-https://live.matele.be/hls/live.m3u8
 #EXTINF:0 tvg-id="ATV.am" group-title="Belgium",ATV (720p)
 https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio MNM Music and More
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio MNM Music and More
-https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
 #EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio StuBru
@@ -1884,11 +1870,6 @@ https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 https://media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=oIFtpshSvwcy/oIFtpshSvwcy.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 2
-https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
-#EXTINF:0 tvg-id="ext" group-title="Belgium",VRT Radio 1
-https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
-
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Switzerland TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Tele M1
@@ -4030,90 +4011,19 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Denmark",Denmark
 https://bit.ly/3pWtmPO
-#EXTINF:0 tvg-id="ext" group-title="Denmark",Kanal Hovedstaden
-https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv
-http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KVF
-https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KVF
-https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2 Bornholm
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2 Lorry
+#EXTM3U
+#EXTINF:0 tvg-id="KanalHovedstaden.dk" group-title="Denmark",Kanal Hovedstaden (720p)
+https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv (720p)
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2/Bornholm (1080p)
+https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV2/Lorry (720p)
 https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2 Ost
-http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73kKZD7wBe4g/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark"TV2 Ostjylland
-https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark"TV Storbyen
-https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Fyn
-https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV 2 Lorry
-https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Nord Salto
-https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2Ost.dk" group-title="Denmark",TV 2 Øst
-http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/-YKISZ71uQSojctuBa_EhQ/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Østjylland
-https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2/Bornholm
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Aarhus
-https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Midtvest
-https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Storbyen
-https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
-http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
-https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8
-#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV 2 Lorry
-https://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_grusx1zd/sd/6000/t/SBqf2reMLuRFOX3tQQv_Iw/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TV2Ost.dk" group-title="Denmark",TV 2 Øst
-https://cdn-lt-live.tveast.dk/dc-1/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/fq8LzmI7TH1TOAjc3wuvqA/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv
-http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KVF
-https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KVF
-https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",Kanal Hovedstaden
-https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Fyn
-https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="tv2.no" group-title="Denmark",TV 2 NORGE
-http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3126?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Nord Salto
-https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Denmark
-http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3097?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TV2Zulu.dk" group-title="Denmark",TV 2 ZULU
-http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3096?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Østjylland
-https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2/Bornholm
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="tv3" group-title="Denmark",TV 3
-http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/2977?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 3 Denmark 2
-http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3093?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Aarhus
-https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Midtvest
-https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
-https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
-http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="Denmark",NRK1
-https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title="Denmark",NRK2
-https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="Denmark",NRK3
-https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-id="TV2Ostjylland.dk" group-title="Denmark",TV2/Østjylland (720p)
+https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Denmark",TV2 Fyn (270p)
+https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="spania",spania TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="spania",101 Tele Antequera
