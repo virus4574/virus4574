@@ -4293,20 +4293,20 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ERT1.gr" tvg-name="ERT 1" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="" group-title="Greece",ERT 1 (720p)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 tvg-id="ERT2.gr" tvg-name="ERT 2" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="" group-title="Greece",ERT 2 (720p)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT 3" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="" group-title="Greece",ERT 3 (720p)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
-#EXTINF:-1 tvg-id="ERTNEWS.gr" tvg-name="ERT NEWS" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/ujTPC3J.jpg" group-title="Greece",ERT NEWS (720p)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-#EXTINF:-1 tvg-id="ERTSPORTS.gr" tvg-name="ERT SPORTS" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greece",ERT SPORTS (1080p)
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greece" tvg-name="ΕΡΤ 1",ΕΡΤ 1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_2.5Mbps.m3u8
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="Greece" tvg-name="ΕΡΤ 2",ΕΡΤ 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_2.5Mbps.m3u8
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="Greece" tvg-name="ΕΡΤ 3",ΕΡΤ 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2.5Mbps.m3u8
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greece" tvg-name="ERT WORLD",ERT WORLD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greece" tvg-name="ERT Sports",ERT Sports
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 tvg-id="ERTSPORTS2.gr" tvg-name="ERT SPORTS 2" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Greece",ERT SPORTS 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-#EXTINF:-1 tvg-id="ERTSPORTS3.gr" tvg-name="ERT SPORTS 3" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Greece",ERT SPORTS 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 #EXTINF:-1 tvg-id="ERTWORLD.gr" tvg-name="ERT WORLD" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greece",ERT WORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World" tvg-country="GR" tvg-language="" tvg-logo="" group-title="Greece",ERT World
