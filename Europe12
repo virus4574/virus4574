@@ -4714,19 +4714,57 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Argentina" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",like Gecko) Mobile/13G36like Gecko) Mobile/13G36canalLUZ (1080p)
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 
-
-#EXTINF:0 tvg-id="ext" group-title="Armenia",Amga
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="H1.am" group-title="Armenia",H1
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="H1.am" group-title="Armenia",H1
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Armenia",Radio Van 103.0 FM Yerevan (720p)
-http://stream.radiovan.fm/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Armenia",SONG TV Armenia
-http://songtvam.ru:8060/hd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Armenia",TBN Armenia (1080p)
-https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",5-րդ ալիք (480p)
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:0 tvg-id="21TV.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",21TV (480p)
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Armenia Հայ Կինո (480p)
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Armenia Ջան TV (480p) [Not 24/7]
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Armenia Քոմեդի (480p)
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Armenia Premium (1080p)
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Armenia Սինեմաքս (480p)
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Armenia Տուն Թունիկ (480p)
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0 tvg-id="ArmeniaTV.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Արմենիա TV (1080p)
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:0 tvg-id="ArmNews.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Արմնյուզ (1080p)
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",ATV (480p)
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",ATV Ֆիլմզոն (480p)
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",ATV Հայ TV (480p)
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",ATV ԽաղԱլիք (234p)
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",ATV Կինոման (480p)
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",ATV Թավա TV (480p)
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:0 tvg-id="H1.am" group-title="Armenia",Առաջին ալիք (1080p)
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
+#EXTINF:0 tvg-id="H1.am" group-title="Armenia",Առաջին ալիք (1080p)
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:0 tvg-id="H2.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Հ2 (480p)
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:0 tvg-id="Kentron.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Կենտրոն (480p)
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Նոր Հայաստան (480p)
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia",Նոր Հայաստան (720p)
+https://cdn.onarmtv.com/str/7/output.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Շանթ (1080p)
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:0 tvg-id="Shoxakat.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Շողակաթ (480p)
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:0 tvg-id="YerkirMedia.am" group-title="Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 group-title=",Երկիր Մեդիա (480p)
+http://ott-cdn.ucom.am/s7/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Aruba",Tele Aruba Channel 13 (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
