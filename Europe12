@@ -2937,24 +2937,36 @@ http://31.220.41.86:8081/live/it-rai1.stream/chunks.m3u8
 http://95.107.132.105/out/u/450_2.m3u8
 #EXTINF:0 tvg-id="Rai3.it" group-title="Italy",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Italy",RAI 1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Italy",RAI 2 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Italy",RAI 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Italy",RAI 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Italy",RAI 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Italy",RAI 5
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Italy",RAI Gulp
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Italy",RAI Movie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-radio-2-5jrwma08rz0s.jpg" group-title="Italy",RAI Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-scuola-dbrhdmlaxwxg.png" group-title="Italy",RAI Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Italy",RAI Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-yoyo-hi2h5j83aalt.png" group-title="Italy",RAI Yoyo
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Italy",Rai Premium
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:0 tvg-id="RaiNews.it" group-title="Italy",Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:0 tvg-id="RaiItalia.cl" group-title="Italy",Rai Italia
 http://45.238.54.70:8000/play/a024
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="Italy",Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiyoyohd.png" group-title="Italy",Rai YoYo
-
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raistoriahd.png" group-title="Italy",Rai Storia
-
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiscuolahd.png" group-title="Italy",Rai Scuola
-
 #EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-logo="" group-title="Italy",12 TV Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italy",51 Radio TV
