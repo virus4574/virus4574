@@ -2764,7 +2764,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x62islg
 #EXTINF:-1 tvg-id="WéoNordPasdeCalais.fr" tvg-name="Wéo (Picardie)" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",Wéo (Picardie)
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
-
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",A2i Music
@@ -3047,6 +3046,19 @@ https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Luxembourg",Chamber TV (1080p)
+https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Luxembourg",eldo.TV (1080p)
+https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Luxembourg",Jasmin TV (720p)
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Luxembourg",RTL2 (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Luxembourg",RTL (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NEDERLAND TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="NPO1.nl" group-title="NEDERLAND",NPO 1 HD
@@ -3219,6 +3231,40 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 https://web.omroepgelderland.nl/live/livetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Arnhem
 https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Denmark",Denmark
+https://bit.ly/3pWtmPO
+#EXTM3U
+#EXTINF:0 tvg-id="KanalHovedstaden.dk" group-title="Denmark",Kanal Hovedstaden
+https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2/Bornholm
+https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV2/Lorry
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+#EXTINF:0 tvg-id="TV2Ostjylland.dk" group-title="Denmark",TV2/Østjylland
+https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Denmark",TV2 Fyn
+https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="OireachtasTV.uk" group-title="Ireland",Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",Oireachtas TV Committee Room 1
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",Oireachtas TV Committee Room 2
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",Oireachtas TV Committee Room 3
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",Oireachtas TV Committee Room 4
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",Oireachtas TV Dáil Éireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",Oireachtas TV Seanad Éireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ireland",RTÉ News
+https://live.rte.ie/live/a/channel3/news.isml/.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Italy",Italy TV
 https://bit.ly/3pWtmPO
@@ -4009,21 +4055,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Italy",Videolina (Sardegna)
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",Denmark
-https://bit.ly/3pWtmPO
-#EXTM3U
-#EXTINF:0 tvg-id="KanalHovedstaden.dk" group-title="Denmark",Kanal Hovedstaden
-https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv
-http://stream.kkr.dk/live/kkr/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2/Bornholm
-https://live.tv2bornholm.dk/stream/live/playlist.m3u8
-#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV2/Lorry
-https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-#EXTINF:0 tvg-id="TV2Ostjylland.dk" group-title="Denmark",TV2/Østjylland
-https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Denmark",TV2 Fyn
-https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="spania",spania TV
 https://bit.ly/3pWtmPO
 #EXTM3U
