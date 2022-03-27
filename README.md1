@@ -1371,61 +1371,33 @@ https://bit.ly/3pWtmPO
 https://test.ipslow.com/https://echorouk-live-tv.dzsecurity.net/entv/EnnaharTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الجزائرALGERIEN",EchoroukTV
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Al Anis TV
-http://163.172.104.246:8009/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Algeria Thalitha TV
-http://163.172.104.246:8009/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Algeria Thalitha TV FHD
-http://163.172.104.246:8009/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Almagharibia TV
-http://163.172.104.246:8009/play/a009/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Bahia TV
-http://163.172.104.246:8009/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Berbere Television
-http://163.172.104.246:8009/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Beur TV
-http://163.172.104.246:8009/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Canal Algeria HD
-http://163.172.104.246:8009/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Canal Algerie FHD
-http://163.172.104.246:8009/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Echourouk News
-http://163.172.104.246:8009/play/a006/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Echourouk TV
-http://163.172.104.246:8009/play/a001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",El Bilad TV
-http://163.172.104.246:8009/play/a00a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",El Djazair N1
-http://163.172.104.246:8009/play/a00k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",El Fadjr TV DZ
-http://163.172.104.246:8009/play/a00p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",El Hayat TV Algeria
-http://163.172.104.246:8009/play/a00n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",El Watania TV
-http://163.172.104.246:8009/play/a00i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",En Nahar TV
-http://163.172.104.246:8009/play/a002/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Haddef Algerie
-http://163.172.104.246:8009/play/a00r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",PROGRAMME NATIONAL
-http://163.172.104.246:8009/play/a00q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Salam TV
-http://163.172.104.246:8009/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Samira
-http://163.172.104.246:8009/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Canal Algerie HD
+http://45.94.31.195:7001/play/a0at
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Carthage+
+http://45.94.31.195:7001/play/a0bd
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",DUA CHANNEL
+http://45.94.31.195:7001/play/a0bt
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Dardaneel TV
+http://45.94.31.195:7001/play/a0dn
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Drama 3
+http://45.94.31.195:7001/play/a0c5
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",ERISAT
+http://45.94.31.195:7001/play/a0ce
+#EXTINF:0 tvg-id="TV4.pl" group-title="الجزائرALGERIEN",TV 4
+http://45.94.31.195:7001/play/a0au
+#EXTINF:0 tvg-id="tv5" group-title="الجزائرALGERIEN",TV 5
+http://45.94.31.195:7001/play/a0av
 #EXTINF:0 tvg-id="TV6.pl" group-title="الجزائرALGERIEN",TV 6 HD
-http://163.172.104.246:8009/play/a00g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV Coran
-http://163.172.104.246:8009/play/a005/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV Tamazight 4
-http://163.172.104.246:8009/play/a00j/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV7 El Maarifa
-http://163.172.104.246:8009/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV8 Edhakira
-http://163.172.104.246:8009/play/a008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Zahra TV
-http://163.172.104.246:8009/play/a00c/index.m3u8
+http://45.94.31.195:7001/play/a0aw
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV TCHAD
+http://45.94.31.195:7001/play/a0c6
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV7 ELMAARIFA
+http://45.94.31.195:7001/play/a0ax
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",TV8 EDHAKIRA
+http://45.94.31.195:7001/play/a0ay
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Telvza TV
+http://45.94.31.195:7001/play/a0bb
+#EXTM3U
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV
@@ -1438,7 +1410,6 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="ليبياLIBYA",قناة الوسط - WTV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Abnaa Al Balad
 http://45.94.31.195:7001/play/a0cf
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Al Ahrar HD
