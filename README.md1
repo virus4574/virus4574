@@ -309,9 +309,9 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XxIQQ" group-title="رياضية SPORT",DubaiRacing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="رياضية SPORT",kuwait S.plus FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvsportsplus
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="رياضية SPORT",KTV Sport FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvsports
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/925452512408293376/xHZe-67F_400x400.jpg" group-title="رياضية SPORT",1البحرين الرياضية
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
@@ -1158,6 +1158,8 @@ https://stream-12.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWypaMBP4nwvj_4mLIK
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 1
+http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=alfajertv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",mawal
@@ -1470,23 +1472,23 @@ http://zinachannels.zinamedia.net/ar/kuwait-Khalik-Bilbait/index.m3u8
 http://zinachannels.zinamedia.net/ar/Kuwait-Quran-HD/index.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" status="online" user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0" group-title="الكويت Kuwait",Kuwait 1 TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtv1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="الكويت Kuwait",Kuwait 2 TV FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtv2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="الكويت Kuwait",kuwait ETHRAA FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvethraa
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="الكويت Kuwait",Kuwait AL Arabi TV FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvarabi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="الكويت Kuwait",Kuwait AL Majlis TV FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvmajlis
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="الكويت Kuwait",Al Qurain TV FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvqurain
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvsportsplus
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="الكويت Kuwait",KTV Sport FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvsports
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="الكويت Kuwait",KTV Khallik Bilbait
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvkids
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MpEMbf" group-title="الكويت Kuwait",i on Kuwait
 https://gulfsat.cdn.easybroadcast.fr/live/ionKuwait_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="الكويت Kuwait",Kuwait Alrai TV FHD
