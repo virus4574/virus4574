@@ -1469,7 +1469,8 @@ http://zinachannels.zinamedia.net/ar/kuwait-Khalik-Bilbait/index.m3u8
 #EXTINF:-1 tvg-name="KTV Al Qurain" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_plus_new.png" group-title="الكويت Kuwait",KTV Al Qurain 
 http://zinachannels.zinamedia.net/ar/Kuwait-Quran-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="الكويت Kuwait",Kuwait 1 TV FHD
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="الكويت Kuwait",Kuwait 2 TV FHD
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="الكويت Kuwait",kuwait ETHRAA FHD
