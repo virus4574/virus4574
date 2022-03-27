@@ -5324,18 +5324,6 @@ https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-
 https://b01c02nl.mediatriple.net/videoonlylive/mtqtqloqdxtlive/broadcast_5cefc3677caee.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.mpd
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
-https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
-http://159.69.58.154/bbc/master.m3u8
 #EXTINF:0 tvg-id="bbc-world" group-title="United Kingdom",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",British Muslim TV
