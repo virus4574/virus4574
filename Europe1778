@@ -5429,10 +5429,6 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Brit Asia Live (US Pacific)
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Beano TV
-https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ClubbingTV.pt" group-title="United Kingdom",Clubbing TV
@@ -5441,58 +5437,22 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Dark Matter TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Discover.Film
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Dust
-https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",FailArmy
-https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",FilmStreams
-https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Filmzie
-https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",FTF For the fans
-https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="United Kingdom",Fuel TV
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Go USA
-https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="Gusto.ca" group-title="United Kingdom",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="United Kingdom",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Humanity
-https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="insight-tv-hd" group-title="United Kingdom",Insight TV
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",InWild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",InWonder
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Kid Gamer TV
-https://studio71-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="luxtv" group-title="United Kingdom",Luxe TV
-https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",MavTV UK
-https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",MMA TV
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Movies Central
-https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="PBS.uk" group-title="United Kingdom",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",People are Awesome
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Planet Knowledge
-https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Players TV
-https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Pocket watch
-https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Qello Concerts by Stingray
 https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Qwest TV Classical [Geo-blocked]
@@ -5501,48 +5461,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/pl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Qwest TV Mix [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Rakuten TV Action Movies UK
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Rakuten TV Comedy Movies UK
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Rakuten TV Drama UK
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Rakuten TV Family Movies UK
-https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Rakuten TV Spotlight UK
-https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Sofy TV
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Spark Tv
 https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Sports Channel Network
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Stingray Karaoke
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Supertoons
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Teletubbies
-https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="TennisChannel.us" group-title="United Kingdom",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",The Pet Collective UK
-https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Time Line
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Toongoggles
-https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="TravelXP.in" group-title="United Kingdom",Travel XP
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Truly
-https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Unearth
-https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",VENN
-https://venntv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",EDGEsport
@@ -5553,8 +5483,6 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Euronews English via Alchimie
-https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="Afghanistan",Ariana News
