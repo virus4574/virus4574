@@ -346,6 +346,8 @@ https://sports.cdn-stream.com:30443/live/ts1/playlist.m3u8
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/tQn8MRC.png",[$]TRING SPORT 2HD
 https://sports.cdn-stream.com:30443/live/ts2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://bit.ly/3NnktM5",Sky F1
+http://185.132.132.192/SKYSPF1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸🏎️ ●| DAZN F1
 http://90.71.50.160:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ●| Sky F1
