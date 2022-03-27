@@ -1116,6 +1116,8 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما
 http://45.94.31.195:7002/play/a0e1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
+http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Drama
 http://45.94.31.195:7002/play/a0dx
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Education
