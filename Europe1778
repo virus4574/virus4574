@@ -5011,6 +5011,191 @@ https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Finland",YLE TV 2
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="BelsatTV.pl" group-title="Poland",Белсат ТВ
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",dlaCiebie.tv
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Echo24
+https://live-insysgo.cf.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTINF:0 tvg-id="ext" group-title="Poland",Ezo TV
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Radio Czworka
+http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Telewizja Pogranicze (Głubczyce)
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Telewizja Toruń
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Trwam TV (480p)
+http://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Poland",TVP 1
+http://207.110.52.61:8080/s/hls/5/9584/tvp1_276/1/1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Białystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:0 tvg-id="TVP3Bydgoszcz.pl" group-title="Poland",TVP 3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Gdańsk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Gorzów Wielkopolski
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:0 tvg-id="TVP3Katowice.pl" group-title="Poland",TVP 3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:0 tvg-id="TVP3Kielce.pl" group-title="Poland",TVP 3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Łódź
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:0 tvg-id="TVP3Lublin.pl" group-title="Poland",TVP 3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:0 tvg-id="TVP3Olsztyn.pl" group-title="Poland",TVP 3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:0 tvg-id="TVP3Opole.pl" group-title="Poland",TVP 3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Poznań
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Rzeszów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:0 tvg-id="TVP3Szczecin.pl" group-title="Poland",TVP 3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:0 tvg-id="TVP3Warszawa.pl" group-title="Poland",TVP 3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP 3 Wrocław
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="Poland",TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP Parlament (kanał 1)
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP Parlament (kanał 2)
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP Sejm
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=sejm
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVP Senat
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
+#EXTINF:0 tvg-id="TVRegionalnaLubin.pl" group-title="Poland",TV Regionalna (Lubin)
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV Republika (540p) [Not 24/7]
+http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/playlist.m3u8
+#EXTINF:0 tvg-id="TVT.pl" group-title="Poland",TVT
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV Toruń
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0 tvg-id="TVtrwam.pl" group-title="Poland",TV Trwam (480p)
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV REPUBLIKA
+http://188.47.212.71/jupiter/o1-cl1/live/tvrepublika/live.m3u8
+
+
+#EXTINF:0 tvg-id="HRTTV1.hr" group-title="Croatia",HRT 1
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:0 tvg-id="HRTTV1.hr" group-title="Croatia",HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:0 tvg-id="HRTTV2.hr" group-title="Croatia",HRT 2
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:0 tvg-id="HRTTV2.hr" group-title="Croatia",HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HRT 4
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",MAXtv Promo Kanal)
+http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",MAXtv Promo Kanal)
+http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",NewsBar (528p)
+http://195.29.70.67/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",NewsBar (528p)
+http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",Radio Televizija Banovina
+rtmp://video.radio-banovina.hr:1935/live/myStream
+#EXTINF:0 tvg-id="RTL.de" group-title="Croatia",RTL (528p)
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Croatia",Z1 (240p)
+https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Czech",Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="Nova2.cz" group-title="Czech",Nova 2 (640p)
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Nova (640p)
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist.m3u8
+#EXTINF:0 tvg-id="NovaAction.cz" group-title="Czech",Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
+#EXTINF:0 tvg-id="NovaCinema.cz" group-title="Czech",Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist.m3u8
+#EXTINF:0 tvg-id="NovaGold.cz" group-title="Czech",Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF:0 tvg-id="Ocko.cz" group-title="Czech",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0 tvg-id="Ocko.cz" group-title="Czech",Óčko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="OckoExpres.cz" group-title="Czech",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:0 tvg-id="OckoGold.cz" group-title="Czech",Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:0 tvg-id="OckoGold.cz" group-title="Czech",Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Polar TV (1080p)
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Praha TV (1080p)
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Czech",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Czech",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",RetroMusicTV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",RTM plus
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Šlágr 2
+http://92.62.234.233/slagr2.m3u
+#EXTINF:0 tvg-id="SlagrTV.cz" group-title="Czech",Šlágr TV
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:0 tvg-id="SlagrTV.cz" group-title="Czech",Slagr TV
+http://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",TV Natura
+https://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Extasy HD / Leo TV HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech",Настоящее Время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Czech" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",like Gecko) Mobile/15E148Настоящее Время (480p)
+http://ott-cdn.ucom.am/s61/index.m3u8
+#EXTINF:0 tvg-id="TVNoe.cz" group-title="Czech",TV NOE
+https://w101.quickmedia.tv/prozeta-live04/prozeta-live04.smil/Playlist.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ETV2.ee" group-title="Estonia",ETV2
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2.m3u8
+#EXTINF:0 tvg-id="ETV.ee" group-title="Estonia",ETV
+https://errstreams4.cdn.eurovisioncdn.net/live/etv.m3u8
+#EXTINF:0 tvg-id="ETV.ee" group-title="Estonia",ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:0 tvg-id="ETVPlus.ee" group-title="Estonia",ETV+
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Estonia",Life TV
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Estonia",Riigikogu
+https://h6le2.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Estonia",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Afghanistan",Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Afghanistan",Ariana TV
@@ -5747,34 +5932,6 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANADA",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="HRTTV1.hr" group-title="Croatia",HRT 1 (528p) [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:0 tvg-id="HRTTV1.hr" group-title="Croatia",HRT 1 [NO KODI]
-http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:0 tvg-id="HRTTV2.hr" group-title="Croatia",HRT 2 (528p) [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:0 tvg-id="HRTTV2.hr" group-title="Croatia",HRT 2 [NO KODI]
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HRT 4 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HRT 4 (528p) [NO KODI]
-http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",MAXtv Promo Kanal) [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",MAXtv Promo Kanal) [NO KODI]
-http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",NewsBar (528p) [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226407/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",NewsBar (528p) [NO KODI]
-http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",Radio Televizija Banovina
-rtmp://video.radio-banovina.hr:1935/live/myStream
-#EXTINF:0 tvg-id="RTL.de" group-title="Croatia",RTL (528p) [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Croatia",Z1 (240p)
-https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Curaçao",Nos Païs
 http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Curaçao",TeleCuraçao
