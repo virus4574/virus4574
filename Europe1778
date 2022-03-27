@@ -5318,16 +5318,10 @@ http://tv.hegyvidek.hu/stream_mpeg.flv
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="AhlulbaytTV.uk" group-title="United Kingdom",Ahlulbayt TV
-http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="AhlulbaytTV.uk" group-title="United Kingdom",Ahlulbayt TV
-https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
-
 #EXTINF:0 tvg-id="ARISENews.uk" group-title="United Kingdom",Arise News
 https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Awraas TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtqtqloqdxtlive/broadcast_5cefc3677caee.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",BBC Persian
@@ -5346,7 +5340,6 @@ http://159.69.58.154/bbc/master.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",British Muslim TV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-
 #EXTINF:0 tvg-id="ChannelS.uk" group-title="United Kingdom",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Craft Store TV
@@ -5483,7 +5476,10 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="United Kingdom",EDGESport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="United Kingdom",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Afghanistan",Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
