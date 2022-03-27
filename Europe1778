@@ -3051,13 +3051,10 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.
 https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Luxembourg",eldo.TV (1080p)
 https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Luxembourg",Jasmin TV (720p)
-http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Luxembourg",RTL2 (1080p)
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Luxembourg",RTL (1080p)
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NEDERLAND TV
 https://bit.ly/3pWtmPO
@@ -4693,6 +4690,98 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b9edc4a4ca6100070bb4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="spania",Pluto TV Documentales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTM3U
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Portugal",Canal 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Portugal",Canal Parlamento
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Igreja Online
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Radio Clube TV
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP1
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP2
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Rádio Zig Zag
+https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Rádio Zig Zag
+https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Sic.br" group-title="Portugal",SIC Internacional
+http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portugal",SIC Noticias
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:0 tvg-id="TVFatima.pt" group-title="Portugal",TV Fátima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0 tvg-id="TVFatima.pt" group-title="Portugal",TV Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Portugal",TVI24
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
+#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:0 tvg-id="TVIReality.pt" group-title="Portugal",TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA-1 PORTUGAL
+http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná 2
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA MAPUTO
+http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA MAPUTO
+http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (ESP)
+http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (RU)
+http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (ENG)
+http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (FR)
+http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",STV Noticias
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná 1
+http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greece" tvg-name="ΕΡΤ 1",ΕΡΤ 1
