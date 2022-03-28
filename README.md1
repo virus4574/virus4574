@@ -193,20 +193,6 @@ http://193.228.193.179:8000/play/a07u
 http://193.228.193.179:8000/play/a07v
 #EXTINF:0 tvg-id="rtgtv" group-title="باقة2 OSN احتياطي",OSN Yahala HD
 http://193.228.193.179:8000/play/a07t
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Rotana Cinema HD
-http://193.228.193.179:8000/play/a08v
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Rotana Classic HD
-http://193.228.193.179:8000/play/a08r
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Rotana Comedy HD
-http://193.228.193.179:8000/play/a08w
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Rotana Drama HD
-http://193.228.193.179:8000/play/a08s
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Rotana Khalijeah HD
-http://193.228.193.179:8000/play/a08t
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Rotana Kids HD
-http://193.228.193.179:8000/play/a08u
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",Thikrayat FHD
-http://193.228.193.179:8000/play/a090
 #EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN BBC Earth 4K
 http://193.228.193.179:8000/play/a08x
 #EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Drama 4K
@@ -1162,12 +1148,17 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD  SD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD  SD
+http://193.228.193.179:8000/play/a08s
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="روتانا ROTANA",Rotana Khalijia SD
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="روتانا ROTANA",Rotana Kids SD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="روتانا ROTANA",Rotana+ SD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="روتانا ROTANA",Rotana Comedy HD
+http://193.228.193.179:8000/play/a08w
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="روتانا ROTANA",LBC SD
 http://190.2.148.141/bar1063/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://logo.panel.cx/logo/ROTANA/ROTANAMUSIC.png" group-title="روتانا ROTANA",Music
