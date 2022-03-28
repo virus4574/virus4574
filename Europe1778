@@ -586,6 +586,9 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" group-title="DEUTSCH",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",de:RTLZWEI
+http://80.24.75.92:5555/udp/239.110.17.2:1234
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",de:Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://i.imgur.com/JosNLQ0.png" group-title="DEUTSCH",ZDF Ⓖ
