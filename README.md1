@@ -905,6 +905,26 @@ https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b45000
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية+
 http://37.202.108.77:9000/play/a0c4
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://content.osn.com/logo/channel/cropped/NGO.png" group-title="الوثائقية documentary",National Geographic
+http://zinachannels.zinamedia.net/ar-s/National-Geographic/index.m3u8
+#EXTINF:-1 tvg-name="Nat Wild" tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="الوثائقية documentary",Nat Wild
+http://zinachannels.zinamedia.net/ar-s/Nat-Geo-Wild-Hd/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="الوثائقية documentary",Animal Planet
+http://zinachannels.zinamedia.net/ar-s/Animal-Planet-HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="الوثائقية documentary",Discovery
+http://zinachannels.zinamedia.net/ar-s/Discovery-HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Science_logo.svg/1200px-Science_logo.svg.png" group-title="الوثائقية documentary",Discovery Science
+http://zinachannels.zinamedia.net/ar-s/Discovery-Science-HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="الوثائقية documentary",Discovery ID
+http://zinachannels.zinamedia.net/ar-s/Discovary-ID/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Family " tvg-logo="https://i.pinimg.com/564x/4c/c9/b6/4cc9b687b62e8f6410bb32939601f657.jpg" group-title="الوثائقية documentary",Discovery Family 
+http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3583
+#EXTINF:-1 tvg-name="Travel HD" tvg-logo="https://cne-eg.com/uploads/logos/20183175715209.png" group-title="الوثائقية documentary",Travel HD
+http://sabtooh.club:8000/792787557368/60cef92c92609.34415/4387
+#EXTINF:-1 tvg-name="History" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="الوثائقية documentary",History
+http://zinachannels.zinamedia.net/ar-s/History/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman الوثائقية
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="الوثائقية documentary",Kaifa TV
