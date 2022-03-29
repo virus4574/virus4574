@@ -117,7 +117,18 @@ http://zinachannels.zinamedia.net/ar-s/OSN-ART-Hekayat1/index.m3u8
 #EXTINF:-1 tvg-name="ART Hekayat 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HK2.png" group-title="باقة OSN احتياطي",ART Hekayat 2
 http://zinachannels.zinamedia.net/ar-s/ART-Hekayat2/index.m3u8
 
-#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 1 4K
+http://193.228.193.179:8000/play/a08f
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 2 4K
+http://193.228.193.179:8000/play/a08g
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 3 4K
+http://193.228.193.179:8000/play/a08h
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 4 4K
+http://193.228.193.179:8000/play/a08i
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Series 1 4K
+http://193.228.193.179:8000/play/a08d
+#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Series 2 4K
+http://193.228.193.179:8000/play/a08z
 #EXTINF:0 tvg-id="ARTAflam1.net" group-title="باقة2 OSN احتياطي",ART Aflam 1
 http://193.228.193.179:8000/play/a08p
 #EXTINF:0 tvg-id="ARTAflam2.net" group-title="باقة2 OSN احتياطي",ART Aflam 2
@@ -212,18 +223,7 @@ http://193.228.193.179:8000/play/a089
 http://193.228.193.179:8000/play/a08a
 #EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Gourmet 4K
 http://193.228.193.179:8000/play/a08e
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 1 4K
-http://193.228.193.179:8000/play/a08f
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 2 4K
-http://193.228.193.179:8000/play/a08g
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 3 4K
-http://193.228.193.179:8000/play/a08h
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Movies 4 4K
-http://193.228.193.179:8000/play/a08i
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Series 1 4K
-http://193.228.193.179:8000/play/a08d
-#EXTINF:0 tvg-id="ext" group-title="باقة2 OSN احتياطي",beIN Series 2 4K
-http://193.228.193.179:8000/play/a08z
+
 #EXTINF:0 tvg-id="ext" group-title="باقة شاهد نت",▂ ▄ ▅ ▆☆ باقة شاهد نت ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة شاهد نت",النسخة المدفوعة AirMax TV
