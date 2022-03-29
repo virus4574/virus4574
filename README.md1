@@ -908,7 +908,6 @@ https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b45000
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية+
 http://37.202.108.77:9000/play/a0c4
-
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://content.osn.com/logo/channel/cropped/NGO.png" group-title="الوثائقية documentary",National Geographic
 http://zinachannels.zinamedia.net/ar-s/National-Geographic/index.m3u8
 #EXTINF:-1 tvg-name="Nat Wild" tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="الوثائقية documentary",Nat Wild
@@ -1525,6 +1524,93 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",7BESHA
+http://37.202.108.77:9000/play/a0de
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Ngoom
+http://37.202.108.77:9000/play/a0fm
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL OSTORA
+http://37.202.108.77:9000/play/a0db
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL SHARQIYA
+http://37.202.108.77:9000/play/a0g1
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL SHARQIYA HD
+http://37.202.108.77:9000/play/a0cu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALASKANDRIA
+http://37.202.108.77:9000/play/a0gq
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALBAIT BAITAK CINEMA
+http://37.202.108.77:9000/play/a0dp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALDELTA
+http://37.202.108.77:9000/play/a0gr
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALKAHERA
+http://37.202.108.77:9000/play/a0go
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALKANAL
+http://37.202.108.77:9000/play/a0gp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALPRINCE DRAMA
+http://37.202.108.77:9000/play/a0dl
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALS3YDA
+http://37.202.108.77:9000/play/a0dd
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSA3EED
+http://37.202.108.77:9000/play/a0gs
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSeha Waljamal
+http://37.202.108.77:9000/play/a0g8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ASHOROOQ TV
+http://37.202.108.77:9000/play/a0hh
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Ahly SD
+http://37.202.108.77:9000/play/a0fn
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Cinema
+http://37.202.108.77:9000/play/a0fk
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
+http://37.202.108.77:9000/play/a0fr
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
+http://37.202.108.77:9000/play/a0fq
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AlHadath Alyoum
+http://37.202.108.77:9000/play/a0ga
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat
+http://37.202.108.77:9000/play/a0fw
+#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
+http://37.202.108.77:9000/play/a0fs
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
+http://37.202.108.77:9000/play/a0fu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC Sofra
+http://37.202.108.77:9000/play/a0ft
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CIMA ALIBABA
+http://37.202.108.77:9000/play/a0d6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Citruss TV
+http://37.202.108.77:9000/play/a067
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",DAWAAH TV
+http://37.202.108.77:9000/play/a0f0
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Diwan
+http://37.202.108.77:9000/play/a0gu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",EDUC 1
+http://37.202.108.77:9000/play/a0fd
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ELKootab TV
+http://37.202.108.77:9000/play/a0cs
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ELMEHWAR
+http://37.202.108.77:9000/play/a0g9
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptian TV HD
+http://37.202.108.77:9000/play/a0g5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",El Eiman TV
+http://37.202.108.77:9000/play/a0es
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",El Sharq
+http://37.202.108.77:9000/play/a0ei
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Extra News
+http://37.202.108.77:9000/play/a0fv
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix
+http://37.202.108.77:9000/play/a0fy
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix Bel Araby
+http://37.202.108.77:9000/play/a0ct
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ORANGE
+http://37.202.108.77:9000/play/a0do
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad
+http://37.202.108.77:9000/play/a0gc
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad 2
+http://37.202.108.77:9000/play/a0gd
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada ElBalad 3
+http://37.202.108.77:9000/play/a0gb
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TEBA
+http://37.202.108.77:9000/play/a0gt
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOM and JERRY
+http://37.202.108.77:9000/play/a0df
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
