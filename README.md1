@@ -104,7 +104,7 @@ http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
 http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
-http://193.228.193.179:8000/play/a01n
+http://149.62.183.214:8000/play/a0fq/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
 http://193.228.193.179:8000/play/a01o
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
@@ -112,11 +112,11 @@ http://193.228.193.179:8000/play/a01p
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
 http://193.228.193.179:8000/play/a01q
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
-http://193.228.193.179:8000/play/a01r
+http://149.62.183.214:8000/play/a0fv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
-http://193.228.193.179:8000/play/a01s
+http://149.62.183.214:8000/play/a0fx/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
-http://193.228.193.179:8000/play/a01t
+http://149.62.183.214:8000/play/a0fz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
@@ -145,6 +145,10 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="باقة وياك VIP",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+B4U AFLAM
+http://45.94.31.190:7003/play/a0c7
+B4U PLUS
+http://45.94.31.190:7003/play/a0c8
 
 #EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",▂ ▄ ▅ ▆☆ Bein MEDIA ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1584,6 +1588,8 @@ http://149.100.11.230:8000/play/a00t/index.m3u8
 http://37.202.108.77:9000/play/a0ec
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Janoubia IRAQ
 http://149.100.11.230:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",12Arabia
+http://149.62.183.214:8000/play/a0b0/index.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
