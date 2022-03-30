@@ -347,6 +347,19 @@ http://45.94.31.190:7002/play/a0ck
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G FILM
 http://45.94.31.190:7002/play/a0cl
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion aflam
+http://149.100.11.230:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion cinema
+http://149.100.11.230:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion drama
+http://149.100.11.230:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion elyoum
+http://149.100.11.230:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion hekayat
+http://149.100.11.230:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion zaman
+http://149.100.11.230:8000/play/a00n/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="OTLOB باقة",OTLOB AFLAM
 http://37.202.108.77:9000/play/a0dm
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="OTLOB باقة",OTLOB CINEMA
@@ -512,6 +525,14 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS
+http://149.100.11.230:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS HD
+http://149.100.11.230:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS2
+http://149.100.11.230:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS2 HD
+http://149.100.11.230:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORTTV 2 🇵🇹
@@ -1332,6 +1353,8 @@ http://37.202.108.77:9000/play/a0cw
 http://37.202.108.77:9000/play/a0cz
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="" group-title="سوريةSyria",Souryana
 http://37.202.108.77:9000/play/a0d0
+#EXTINF:-1 tvg-name="Syria drama " tvg-logo="" group-title="سوريةSyria",Al-Khabar TV
+http://149.100.11.230:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="سوريةSyria",Syria
 http://freearabic.zinamedia.net/ar/SYRIA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
@@ -1556,6 +1579,11 @@ http://37.202.108.77:9000/play/a0fo
 http://37.202.108.77:9000/play/a0g7
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraqia Sport HD
 http://37.202.108.77:9000/play/a0ec
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",ALRabiaa Sport
+http://149.100.11.230:8000/play/a00t/index.m3u8
+http://37.202.108.77:9000/play/a0ec
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Janoubia IRAQ
+http://149.100.11.230:8000/play/a01z/index.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
@@ -1726,6 +1754,8 @@ https://bit.ly/3pWtmPO
 https://test.ipslow.com/https://echorouk-live-tv.dzsecurity.net/entv/EnnaharTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الجزائرALGERIEN",EchoroukTV
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",EL FADJR TV DZ
+http://149.100.11.230:8000/play/a01i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Canal Algerie HD
 http://45.94.31.195:7001/play/a0at
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Carthage+
@@ -2002,6 +2032,14 @@ http://37.202.108.77:9000/play/a0eo
 http://37.202.108.77:9000/play/a0fl
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Yemen Today TV
 http://37.202.108.77:9000/play/a0ep
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",ALHAWYAH TV
+http://149.100.11.230:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",ALLAHDAH TV
+http://149.100.11.230:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",ALMASIRAH TV
+http://149.100.11.230:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Al Sahat
+http://149.100.11.230:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="الصومالSomalia‎",Horn Cable TV
@@ -2464,6 +2502,8 @@ https://video1.getstreamhosting.com:1936/8484_1/8484_1/chunklist.m3u8
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",mawda
 http://82.212.74.98:8000/live/7821.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",Al Ons TV
+http://149.100.11.230:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",MDEEH
 http://37.202.108.77:9000/play/a0fj
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="اسلاميةIslami",Quraan Kareem
