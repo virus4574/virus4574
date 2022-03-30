@@ -145,9 +145,9 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="باقة وياك VIP",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-B4U AFLAM
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة وياك VIP",B4U AFLAM
 http://45.94.31.190:7003/play/a0c7
-B4U PLUS
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة وياك VIP",B4U PLUS
 http://45.94.31.190:7003/play/a0c8
 
 #EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",▂ ▄ ▅ ▆☆ Bein MEDIA ☆▆ ▅ ▄ ▂ ▁
