@@ -2246,7 +2246,35 @@ https://bit.ly/3pWtmPO
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://bit.ly/3uwriCj" group-title="FRANCE",TF1 Series Films
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
-#EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://bit.ly/3JJCa6n" group-title="FRANCE",Wildside Tv
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/dw5SQoD.png" group-title="FRANCE",Amuse Animation
+https://amuse-amuseanimation-2-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/1O7AdTy.png" group-title="FRANCE",Caillou
+https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/Rg1X53N.png" group-title="FRANCE",Rakuten Euronews Français
+https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/nzH7EbQ.png" group-title="FRANCE",Fashion TV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/rL87z3Y.png" group-title="FRANCE",Fuel TV
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/kfwkpvt.png" group-title="FRANCE",Mytime Movie Network
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/RRCxMes.png" group-title="FRANCE",Rakuten Action Movies
+https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/RRCxMes.png" group-title="FRANCE",Rakuten Comedy Movies
+https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/RRCxMes.png" group-title="FRANCE",Rakuten Documentaries
+https://rakuten-documentaries-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/RRCxMes.png" group-title="FRANCE",Rakuten Family
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/RRCxMes.png" group-title="FRANCE",Rakuten Spotlight
+https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/RRCxMes.png" group-title="FRANCE",Rakuten TV Shows
+https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/N2LoRO2.png" group-title="FRANCE",Sofy TV
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/stBbpeS.png" group-title="FRANCE",SuperToons
+https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/csVC5xu.png" group-title="FRANCE",Wildside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZVHWKcZ/bfmlyon.png" group-title="FRANCE",BFM Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
