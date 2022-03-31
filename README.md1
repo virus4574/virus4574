@@ -1113,6 +1113,29 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3uHoXF0" group-title="أطفال Children",RetroCrush TV
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?
+
+
+#EXTINF:1 tvg-id="BoomerangFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/PIcpjP8.png" group-title="أطفال Children",BOOMERANG Fr
+http://212.8.250.27:8080/boomrang/index.m3u8
+#EXTINF:1 tvg-id="Tiji.fr" tvg-language="French" tvg-logo="https://i.imgur.com/3xg5p7E.png" group-title="أطفال Children",TIJI Fr
+http://212.8.250.27:8080/tiji/index.m3u8
+#EXTINF:1 tvg-id="NickelodeonFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/hfW6pCM.png" group-title="أطفال Children",Nickelodeon Fr
+http://212.8.250.27:8080/nickelondeon/index.m3u8
+#EXTINF:1 tvg-id="CanalJ.fr" tvg-language="French" tvg-logo="https://i.imgur.com/71mPkQq.png" group-title="أطفال Children",CANAL J Fr
+http://212.8.250.27:8080/canalj/index.m3u8
+#EXTINF:1 tvg-id="CartoonNetworkFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/qXD8Hbm.png" group-title="أطفال Children",CARTOON NETWORK Fr
+http://212.8.250.27:8080/cartoonnetwork/index.m3u8
+#EXTINF:1 tvg-id="NickelodeonTeen.us" tvg-language="French" tvg-logo="https://i.imgur.com/hLstrEH.png" group-title="أطفال Children",Nickelodeon Teen Fr
+http://212.8.250.27:8080/nickteen/index.m3u8
+#EXTINF:1 tvg-id="BoingFrance.it" tvg-language="French" tvg-logo="https://i.imgur.com/70D3lxK.png" group-title="أطفال Children",BOING Fr
+http://212.8.250.27:8080/boing/index.m3u8
+#EXTINF:1 tvg-id="DisneyChannelFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/0y2ELAU.png" group-title="أطفال Children",DISNEY CHANNEL Fr
+http://212.8.250.27:8080/dineychanel/index.m3u8
+#EXTINF:1 tvg-id="DisneyJuniorFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/3RhHvEP.png" group-title="أطفال Children",DISNEY JR Fr
+http://212.8.250.27:8080/disneyjr/index.m3u8
+#EXTINF:1 tvg-id="Mangas.fr" tvg-language="French" tvg-logo="https://i.imgur.com/Vz9Vj8q.png" group-title="أطفال Children",MANGAS Fr
+http://212.8.250.27:8080/manga/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",كيف احصل على الكود
