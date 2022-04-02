@@ -1510,6 +1510,8 @@ https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",,A one TV Jordan
 http://45.94.31.190:7003/play/a0bz
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",,A one TV Jordan
+http://82.212.74.99:8000/live/8111.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",Jawhara FM
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",alhqeqa
@@ -1753,7 +1755,7 @@ http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvmajlis
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="الكويت Kuwait",Al Qurain TV FHD
 http://zinachannels.zinamedia.net/ar/Kuwait-Quran-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD
-http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvsportsplus
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvsportsplus
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="الكويت Kuwait",KTV Sport FHD
 http://localchannels.zinamedia.net/ar/Kuwait-Sport-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="الكويت Kuwait",KTV Khallik Bilbait
