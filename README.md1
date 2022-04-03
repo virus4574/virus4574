@@ -1079,6 +1079,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
 https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية
+http://45.94.31.203:7002/play/a0ha
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://content.osn.com/logo/channel/cropped/NGO.png" group-title="الوثائقية documentary",National Geographic
 http://zinachannels.zinamedia.net/ar-s/National-Geographic/index.m3u8
 #EXTINF:-1 tvg-name="Nat Wild" tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="الوثائقية documentary",Nat Wild
