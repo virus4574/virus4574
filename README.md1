@@ -2000,88 +2000,180 @@ https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/TIOMNuOzknM/maxresdefault.jpg" group-title="KURDISH ",KURDISH 
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/TIOMNuOzknM/maxresdefault.jpg" group-title="KURDISH",KURDISH 
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/GLfhYSH.png"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Kurdistan TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/GLfhYSH.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH ",Kurdsat News Live
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdsat News Live
 http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/srOJGEF.png"tvg-country="IQ"tvg-url="" group-title="KURDISH ",KurdMax
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/IIfqqD2.png"tvg-country="IQ"tvg-url="" group-title="KURDISH ",KurdMax Music
-http://31.14.40.139:1935/music/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xVan7NJ.png"tvg-country="IQ"tvg-url="" group-title="KURDISH ",KurdMax Papule
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH ",KurdMax Show
-http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/XFbwbi4.png"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Kurdsat
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show
+http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/XFbwbi4.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdsat
 http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Rudaw TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TtCVv0"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Kurdistan 24
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TtCVv0"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Ava Entertainment
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ava Entertainment
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH ",4 Kurd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zsZL6r"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Net tv Live
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zsZL6r"tvg-country="IQ"tvg-url="" group-title="KURDISH",Net tv Live
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mmpjf"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Amozhgary TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mmpjf"tvg-country="IQ"tvg-url="" group-title="KURDISH",Amozhgary TV
 https://media.streambrothers.com:1936/8248/8248/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gmOL37"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Cihan TV HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gmOL37"tvg-country="IQ"tvg-url="" group-title="KURDISH",Cihan TV HD
 http://cdn.liveshell.net:1935/live/cihann/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xhDAhK"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Nubar TV
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mo4oZ"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Super TV Kurd
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH ",sterktv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH",sterktv
 http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gl6pUJ"tvg-country="IQ"tvg-url="" group-title="KURDISH ",kurd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gl6pUJ"tvg-country="IQ"tvg-url="" group-title="KURDISH",kurd
 https://server12.ikomg.live/hls/kurd.m3u8
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDISH ",Net TV
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://www.netkurd.tv/images/logo.png" group-title="KURDISH",Net TV
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Nrt 3" tvg-name="Nrt 3" tvg-logo="https://i.ytimg.com/vi/abULOOSMjJ4/maxresdefault.jpg" group-title="KURDISH ",Nrt 3
-
-#EXTINF:-1 tvg-id="Sahar TV" tvg-name="Sahar TV" tvg-logo="https://bundletvinternet.com/wp-content/uploads/sahar-tv-kurdish.jpg" group-title="KURDISH ",Sahar TV
-
-#EXTINF:-1 tvg-id="Aryen TV" tvg-name="Aryen TV" tvg-logo="https://i.ytimg.com/vi/vjutmhNBeSw/hqdefault_live.jpg" group-title="KURDISH ",Aryen TV
-
-#EXTINF:-1 tvg-id="Mediya TV" tvg-name="Mediya TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-medya-haber-3135.jpg" group-title="KURDISH ",Mediya TV
-
-#EXTINF:-1 tvg-id="Lalish TV" tvg-name="Lalish TV" tvg-logo="https://1-5454.kxcdn.com/wp-content/uploads/2019/07/lalish-tv.png" group-title="KURDISH ",Lalish TV
-
-#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH ",ROJAVA TV
-
-#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH ",Ronahî TV
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country=""tvg-url="" group-title="KURDISH",Ronahî TV
 http://45.94.31.190:7004/play/a0bc
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",NRT
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",NRT
 https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",peyam TV
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",peyam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurdsaradio TV
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Kurdsaradio TV
 http://radio.dangiquran.com:40/live/radio/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurdsacihann TV
-
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",afarin KidsTV
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",afarin KidsTV
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurdistan TV
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KurdMax Music
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",KurdMax Music
 http://31.14.40.139:1935/music/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Rudaw TV
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Speda TV
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Speda TV
 http://cdn.liveshell.net:1935/live/speda084k/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Zagros
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",IMOVIES ACTION HD
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",IMOVIES ACTION HD
 http://190.2.148.141/bar7664/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDCINEMA ACTION HD-1
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",KURDCINEMA ACTION HD-1
 http://190.2.148.141/bar7625/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDCINEMA ACTION HD-2
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",KURDCINEMA ACTION HD-2
 http://190.2.148.141/bar7626/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDCINEMA ACTION HD-3
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",KURDCINEMA ACTION HD-3
 http://190.2.148.141/bar7627/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country=""tvg-url="" group-title="KURDISH",Astera Tv
+http://190.2.148.141:8080/bar7606/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country=""tvg-url="" group-title="KURDISH",asman
+http://190.2.148.141:8080/bar7603/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country=""tvg-url="" group-title="KURDISH",ARTI TV
+http://190.2.148.141:8080/bar7676/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Khak
+http://190.2.148.141:8080/bar7610/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Xabir
+http://190.2.148.141:8080/bar7613/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Darwaz
+http://190.2.148.141:8080/bar7617/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Speda Drama
+http://190.2.148.141:8080/bar7618/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",i Movies Action
+http://190.2.148.141:8080/bar7664/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kaziwa
+http://190.2.148.141:8080/bar7623/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurd Cineama
+http://190.2.148.141:8080/bar7626/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurd Show
+http://190.2.148.141:8080/bar7628/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",LD Family
+http://190.2.148.141:8080/bar7630/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Minara
+http://190.2.148.141:8080/bar7631/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT Sport
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDMAX TV
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDMAX SHOW HD
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURMAX MUSIC
+https://5aa8c7549bfa9.streamlock.net/music/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KTV KURDI
+http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",RUDAW TV HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",SPEDA TV
+http://cdn.liveshell.net:1935/live/speda084k/chunklist_w848741154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Astera Fluclor
+http://190.2.148.141:8080/bar7608/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Bmc
+http://190.2.148.141:8080/bar7612/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Dahin
+http://190.2.148.141:8080/bar7614/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Jo Jo MaMa
+http://190.2.148.141:8080/bar7622/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN Show
+http://190.2.148.141:8080/bar7641/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN Movies
+http://190.2.148.141:8080/bar7637/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN Kids
+http://190.2.148.141:8080/bar7636/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN Documentory
+http://190.2.148.141:8080/bar7634/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN Sport
+http://190.2.148.141:8080/bar7642/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Niga family
+http://190.2.148.141:8080/bar7645/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Niga Movies
+http://190.2.148.141:8080/bar7647/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Niga Kids
+http://190.2.148.141:8080/bar7646/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Nishtemani Mn
+http://190.2.148.141:8080/bar7648/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Rasan
+http://190.2.148.141:8080/bar7650/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Reng Documentory
+http://190.2.148.141:8080/bar7651/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Reng Sport
+http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",GK Sport
+http://190.2.148.141:8080/bar7653/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Shakrok
+http://190.2.148.141:8080/bar7654/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="utv" group-title="KURDISH",UTv
+http://190.2.148.141:8080/bar7656/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Zed
+http://190.2.148.141:8080/bar7657/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Zed Plus
+http://190.2.148.141:8080/bar7663/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Family info
+http://190.2.148.141:8080/bar7658/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",NewLine
+http://190.2.148.141:8080/bar7665/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",NewLine 2
+http://190.2.148.141:8080/bar7666/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Aso Sport
+http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Erbil
+http://190.2.148.141:8080/bar7673/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Qalat
+http://190.2.148.141:8080/bar7674/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Shaista
+http://190.2.148.141:8080/bar7675/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ATV.tr" group-title="KURDISH",A Tv
+http://190.2.148.141:8080/bar7677/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Cihan
+http://cdn.liveshell.net:1935/live/cihann/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw Media
+http://baskhd.ddns.net:40/live/chawhd/chunklist_w1612982811.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Azhin
+http://azhintv.mypsx.net:40/live/azhintv/chunklist_w1104674901.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Jude
+http://baskhd.ddns.net:40/live/jude/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Mihrab
+http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Derin
+http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Denge Zalal
+http://dengezelaltv65.ozelip.com:26516/denge/denge/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="راديوRadio Music",HD Radio  Music
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="راديوRadio Music",Radio Sada
