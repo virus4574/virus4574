@@ -1489,7 +1489,16 @@ http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 https://media1.livaat.com/live/New_Vision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",MTV lebanon
 http://190.2.148.141/bar2402/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ADJADI
+http://207.180.254.126:8000/play/a01d/index.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="لبنانLEBANON",MTV
+http://207.180.254.126:8000/play/a01g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV LEBANON
+http://207.180.254.126:8000/play/a01a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN
+http://207.180.254.126:8000/play/a01c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",OTTV
+http://207.180.254.126:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
