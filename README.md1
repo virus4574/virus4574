@@ -528,25 +528,6 @@ http://45.94.31.190:7003/play/a0cq
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MOSALSALAT
 http://45.94.31.190:7003/play/a0cr
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Cinema
-http://45.94.31.195:7002/play/a0em
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Comedy
-http://45.94.31.195:7002/play/a0eh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Culture
-http://45.94.31.195:7002/play/a0fj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Drama
-http://45.94.31.195:7002/play/a0ej
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Family
-http://45.94.31.195:7002/play/a0fi
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Life
-http://45.94.31.195:7002/play/a0ei
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile News
-http://45.94.31.195:7002/play/a0eg
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile News HD
-http://45.94.31.195:7002/play/a0el
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةNile",Nile Sport
-http://45.94.31.195:7002/play/a0ek
-
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
@@ -1451,16 +1432,14 @@ http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما
-http://45.94.31.195:7002/play/a0e1
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Drama
-http://45.94.31.195:7002/play/a0dx
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Education
-http://45.94.31.195:7002/play/a0dy
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Satellite
-http://45.94.31.195:7002/play/a0dw
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",SAMA TV-1
+http://190.2.148.141:80/bar16547/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",SYRIAN TV
+http://190.2.148.141:80/bar16562/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Halab Today
+http://190.2.148.141:80/bar1052/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -1489,8 +1468,16 @@ https://nbntv.me:8443/nbntv/index.m3u8
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",New_Vision
 https://media1.livaat.com/live/New_Vision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="لبنانLEBANON",MTV lebanon
-http://190.2.148.141/bar2402/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV LEBONON HD
+http://190.2.148.141:80/bar2402/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",AL MANAR
+http://190.2.148.141:80/bar1053/index.m3u8
+#EXTINF:0 tvg-id="lbc.il" group-title="لبنانLEBANON",LBC
+http://190.2.148.141:80/bar1063/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN HD
+http://190.2.148.141:80/bar1017/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",Al Jadeed HD
+http://190.2.148.141:80/bar16503/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ADJADI
 http://207.180.254.126:8000/play/a01d/index.m3u8
 #EXTINF:0 tvg-id="mtv-rus" group-title="لبنانLEBANON",MTV
@@ -1649,6 +1636,20 @@ http://45.94.31.190:7004/play/a0bq
 http://149.100.11.230:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",12Arabia
 http://149.62.183.214:8000/play/a0b0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Hona Baghdad TV
+http://190.2.148.141:80/bar1042/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al Shabab Sport HD IQ
+http://190.2.148.141:80/bar8914/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraq Sport HD
+http://190.2.148.141:80/bar1055/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Syriac HQ
+http://190.2.148.141:80/bar1002/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Türkmen
+http://190.2.148.141:80/bar1150/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",ALFORAT TV
+http://190.2.148.141:80/bar1014/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al-Fallujah TV
+http://190.2.148.141:80/bar1016/index.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
@@ -1673,7 +1674,8 @@ https://7jlive.tooli-tv.com/live/149182_0.m3u8?session=&location=
 http://freearabic.zinamedia.net/ar/Nile-Drama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="alkaherawalnas" tvg-logo="" group-title="المصرية Egypt",Nile-TV
 http://freearabic.zinamedia.net/ar/Nile-TV/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AlHadath Alyoum
+http://190.2.148.141:80/bar1037/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="المصرية Egypt",Omg Channel TV
@@ -1722,6 +1724,12 @@ http://streaming.toutech.net/live/jfm/index.m3u8
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",ALJANOUBIA
+http://190.2.148.141:80/bar1048/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",HANNIBAL
+http://190.2.148.141:80/bar1049/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Al Insen TV
+http://190.2.148.141:80/bar1051/index.m3u8
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title="تونسTUNISIE",Watania 2 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
@@ -1735,6 +1743,10 @@ https://bit.ly/3pWtmPO
 https://test.ipslow.com/https://echorouk-live-tv.dzsecurity.net/entv/EnnaharTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الجزائرALGERIEN",EchoroukTV
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Algérie-2 HD
+http://190.2.148.141:80/bar16501/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Algérie-3 HD
+http://190.2.148.141:80/bar8903/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",EL FADJR TV DZ
 http://149.100.11.230:8000/play/a01i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Canal Algerie HD
@@ -1780,12 +1792,8 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chu
 http://45.94.31.195:7001/play/a0cf
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Al Ahrar HD
 http://45.94.31.190:7002/play/a0bj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA ALHADATH HD
-http://45.94.31.195:7002/play/a0dv
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Almustaqbal TV
 http://45.94.31.195:7001/play/a0bn
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Alwataniya
-http://45.94.31.195:7002/play/a0fm
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA BUSINESS HD
 http://45.94.31.190:7004/play/a0br
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Channel (576p) [Not 24/7]
@@ -1796,8 +1804,6 @@ http://45.94.31.195:7001/play/a0c8
 http://45.94.31.190:7002/play/a0bw
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA PANORAMA SD
 http://45.94.31.190:7004/play/a0cf
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Sport Channel
-http://45.94.31.195:7002/play/a0fn
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya WTV SD
 http://45.94.31.190:7002/play/a0c2
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYAS CHANNEL
@@ -1808,8 +1814,6 @@ https://bit.ly/3pWtmPO
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",SUDAN NOW 24
 http://45.94.31.195:7001/play/a0dh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",Sudan TV
-http://45.94.31.195:7002/play/a0fq
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",Alhilal TV IQ
 http://190.2.148.141:80/bar1023/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",BN TV Blue Nile HD
@@ -2043,6 +2047,8 @@ http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
 https://server12.ikomg.live/hls/kurd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country=""tvg-url="" group-title="KURDISH",Ronahî TV
 http://45.94.31.190:7004/play/a0bc
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",RONAHI HD
+http://190.2.148.141:80/bar1170/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH",NRT
 https://media.streambrothers.com:1936/8226/8226/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH",peyam TV
