@@ -1638,6 +1638,8 @@ http://149.62.183.214:8000/play/a0b0/index.m3u8
 http://190.2.148.141:80/bar1042/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al Shabab Sport HD IQ
 http://190.2.148.141:8080/bar8914/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al Shabab Sport HD IQ+
+http://95.216.180.111:1935/live/98/chunklist_w521863216.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraq Sport HD
 http://190.2.148.141:8080/bar1055/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Syriac HQ
@@ -1833,6 +1835,8 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="Rai1.it" status="online" user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0" group-title="الكويت Kuwait",Kuwait 1 TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 http://zinachannels.zinamedia.net/ar/Kuwait-HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="الكويت Kuwait",Kuwait 1 TV FHD+
+https://edge.taghtia.com/br/kwmedia-kwtv1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="الكويت Kuwait",Kuwait 2 TV FHD
 http://zinachannels.zinamedia.net/ar/Kuwait-CH2-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="الكويت Kuwait",kuwait ETHRAA FHD
