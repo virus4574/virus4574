@@ -1697,7 +1697,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snr
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE+
-https://gintna100.tulix.tv/gin_live/2mmaroc/9577e4a57f5fe1ae93dd65066156a733/6250cf0d/index.m3u8
+https://gintna100.tulix.tv/gin_live/2mmaroc/5334110401004155da1af953e1f48ad2/62523c6d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIPzCu" group-title="المغربMAROCCO",MR-ARRYADIA -3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pgxACw" group-title="المغربMAROCCO",MR-ARRABIAA HD
@@ -1841,7 +1841,7 @@ https://edge.taghtia.com/br/kwmedia-kwtvethraa.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="الكويت Kuwait",Kuwait AL Arabi TV FHD
 https://edge.taghtia.com/br/kwmedia-kwtvarabi.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="الكويت Kuwait",Kuwait AL Majlis TV FHD
-http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvmajlis
+https://edge.taghtia.com/br/kwmedia-kwtvmajlis.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="الكويت Kuwait",Al Qurain TV FHD
 https://edge.taghtia.com/br/kwmedia-kwtvqurain.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD
@@ -1884,7 +1884,7 @@ http://zinachannels.zinamedia.net/ar/Kuwait-AlThraa-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="الكويت Kuwait",Kuwait AL Arabi TV FHD
 http://zinachannels.zinamedia.net/ar/Kuwait-Arabia-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="الكويت Kuwait",Kuwait AL Majlis TV FHD
-http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvmajlis
+https://edge.taghtia.com/br/kwmedia-kwtvmajlis.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="الكويت Kuwait",Al Qurain TV FHD
 http://zinachannels.zinamedia.net/ar/Kuwait-Quran-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD
