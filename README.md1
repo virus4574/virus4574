@@ -257,6 +257,22 @@ http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="SSC SPORT",SSC 7 
 http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 1 HD
+http://195.154.200.168:8004/play/a05l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 2 HD
+http://195.154.200.168:8004/play/a05m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 3 HD
+http://195.154.200.168:8004/play/a05n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 4 HD
+http://195.154.200.168:8004/play/a05o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 5 HD
+http://195.154.200.168:8004/play/a05p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 6 HD
+http://195.154.200.168:8004/play/a05q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 7 HD
+http://195.154.200.168:8004/play/a05r/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
 http://149.62.183.214:8000/play/a0fq/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
