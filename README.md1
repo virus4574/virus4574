@@ -299,6 +299,26 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات أسلوب الحياة",▂ ▄ ▅ ▆☆ أسلوب الحياة ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="قنوات أسلوب الحياة",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:-1 tvg-id=" tvg-name="CBC Sofra" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Sofra_Logo_Hub_C.png" group-title="قنوات أسلوب الحياة",CBC Sofra
+http://freearabic.zinamedia.net/ar/CBC-Sofra/index.m3u8
+#EXTINF:-1  tvg-name="FOX Life" tvg-logo="https://www.dreamboxgate.com/imgcache/2019/505602_dreambox-sat.com.png" group-title="قنوات أسلوب الحياة",FOX Life
+http://zinachannels.zinamedia.net/ar-s/Fox-live-HD/index.m3u8
+#EXTINF:-1  tvg-name="Food Network" tvg-logo="https://cne-eg.com/uploads/logos/201831759668.png" group-title="قنوات أسلوب الحياة",Food Network
+http://zinachannels.zinamedia.net/ar-s/Online-Food-Network/index.m3u8
+#EXTINF:-1  tvg-name="Fatafeat" tvg-logo="https://i.fatafeat.com/static/images/logo.png" group-title="قنوات أسلوب الحياة",Fatafeat
+http://zinachannels.zinamedia.net/ar-s/Fatafeat-HD/index.m3u8
+#EXTINF:-1  tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="قنوات أسلوب الحياة",TLC
+http://zinachannels.zinamedia.net/ar-s/TLC/index.m3u8
+#EXTINF:-1  tvg-name="OSN Living" tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png" group-title="قنوات أسلوب الحياة",OSN Living
+http://zinachannels.zinamedia.net/ar-s/Fine-living/index.m3u8
+#EXTINF:-1  tvg-name="OSN Meeze" tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="قنوات أسلوب الحياة",OSN Meeze
+http://zinachannels.zinamedia.net/ar-s/Osn-Mezze/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
@@ -1162,6 +1182,8 @@ http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3583
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/4387
 #EXTINF:-1 tvg-name="History" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="الوثائقية documentary",History
 http://zinachannels.zinamedia.net/ar-s/History/index.m3u8
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HI2.png" group-title="الوثائقية documentary",History 2
+http://zinachannels.zinamedia.net/ar-s/H2/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman الوثائقية
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
