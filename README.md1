@@ -244,6 +244,38 @@ http://195.154.200.168:8003/play/a00e/index.m3u8
 http://195.154.200.168:8003/play/a00f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RMC Sport",RMC Sport 16 HD
 http://195.154.200.168:8003/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 1 HD Events
+http://195.154.200.168:8002/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 2 HD Events
+http://195.154.200.168:8002/play/a009/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 3 HD Events
+http://195.154.200.168:8002/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 4 HD Events
+http://195.154.200.168:8002/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 5 HD Events
+http://195.154.200.168:8002/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 6 HD Events
+http://195.154.200.168:8002/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 7 HD Events
+http://195.154.200.168:8002/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Amazon Prime 8 HD Events
+http://195.154.200.168:8002/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Canal+ Premier League HD
+http://195.154.200.168:8002/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Multi Sports 1 HD Events
+http://195.154.200.168:8002/play/a001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Multi Sports 2 HD Events
+http://195.154.200.168:8002/play/a002/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Multi Sports 3 HD Events
+http://195.154.200.168:8002/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Multi Sports 4 HD Events
+http://195.154.200.168:8002/play/a004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Multi Sports 5 HD Events
+http://195.154.200.168:8002/play/a005/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Multi Sports 6 HD Events
+http://195.154.200.168:8002/play/a006/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RMC Sport",Sport En France
+http://195.154.200.168:8002/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
