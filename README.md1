@@ -1102,6 +1102,8 @@ https://livear.cgtn.com/500a/prog_index.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="الاخبارNEWS",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vlaUoV" group-title="الاخبارNEWS",ALqanat 9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3csqpDn" group-title="الاخبارNEWS",AL MAYADEEN HD
 https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtPfe6" group-title="الاخبارNEWS",AL HIWAR NEWS 
@@ -1651,6 +1653,8 @@ http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=sumari
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3O3obuC" group-title="العراق IRAQ",قناه الفرات
+http://95.216.180.111:1935/live/10/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="العراق IRAQ",IRQ-AL Sharqiya TV HD
@@ -1693,6 +1697,8 @@ http://149.100.11.230:8000/play/a01z/index.m3u8
 http://149.62.183.214:8000/play/a0b0/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al Shabab Sport HD IQ
 http://95.216.180.111:1935/live/98/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",بلادي
+http://95.216.180.111:1935/live/68/chunklist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
