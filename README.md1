@@ -630,6 +630,8 @@ http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=alkass5
 http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=alkass4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="رياضية SPORT",Al Kass One
 http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="رياضية SPORT",Al Kass One+
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:YWxrYXNz1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" group-title="رياضية SPORT",Al Kass Online
 http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pR3iHm" group-title="رياضية SPORT",Al Kass Two
@@ -702,6 +704,37 @@ https://king.nowtv.vip/live/f1_abr/chunks.m3u8?Manujaz
 http://185.132.132.192/SKYSPF1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://bit.ly/3NnktM5",Sky F1
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8?SBN
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",.Dragon.Astro.true 413 29/9/22
+http://178.218.196.218:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",.La Liga 417
+http://178.218.196.218:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",.Sansat.27/1/23..bein.English1
+http://178.218.196.218:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="رياضية SPORT",BBC News.
+http://178.218.196.218:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+A.9511/421 SSV1
+http://178.218.196.218:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+B.9512/422 SSV2
+http://178.218.196.218:8000/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+C.9513/423 SSV3
+http://178.218.196.218:8000/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+D.9514/424 SSV4
+http://178.218.196.218:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+E 9515/425 skysportnews sd
+http://178.218.196.218:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+F.426  MUTV
+http://178.218.196.218:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+G.427 LFC
+http://178.218.196.218:8000/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+H.428 SS ESPN
+http://178.218.196.218:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+J 429 SuperSportGrand.action
+http://178.218.196.218:8000/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FX+K 430 SuperSportPSL
+http://178.218.196.218:8000/play/a009/index.m3u8
+
 
 #EXTINF:0 tvg-id="Eurosport.se" group-title="رياضية SPORT",EUROSPORT 1 HD SE
 http://6bgtj2gr.megogo.xyz/iptv/V6AKFD95XZUGSF/12047/index.m3u8
@@ -1785,6 +1818,8 @@ https://nbntv.me:8443/nbntv/index.m3u8
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",New_Vision
 https://media1.livaat.com/live/New_Vision/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALalam
+https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LIB-Al Nabaa
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ADJADI
@@ -2440,6 +2475,12 @@ http://baskhd.ddns.net:40/live/Esra_TV/playlist.m3u8
 http://baskhd.ddns.net:40/live/BarinfamilyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Quran
 http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat News (720p)
+http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat (720p)
+http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="راديوRadio Music",HD Radio  Music
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="راديوRadio Music",Radio Sada
