@@ -2404,12 +2404,8 @@ http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
 http://dengezelaltv65.ozelip.com:26516/denge/denge/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Knn
 http://knntv.ddns.net:40/live/knn/chunklist.m3u8
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",K24 HD
 http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurdsat News HD
-https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Speda TV HD
@@ -2444,6 +2440,21 @@ https://media.streambrothers.com:1936/8248/8248/chunklist.m3u8
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask
+http://baskhd.ddns.net:40/live/baskhd/chunklist.m3u8
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="KURDISH",Show
+http://baskhd.ddns.net:40/live/ShowTV/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Arifan
+http://baskhd.ddns.net:40/live/ArifanHD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Spi
+http://baskhd.ddns.net:40/live/quranhd/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Esra
+http://baskhd.ddns.net:40/live/Esra_TV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Family
+http://baskhd.ddns.net:40/live/BarinfamilyHD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Quran
+http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="راديوRadio Music",HD Radio  Music
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="راديوRadio Music",Radio Sada
