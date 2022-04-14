@@ -1455,6 +1455,8 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="أطفال Children",Majid 
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="أطفال Children",Majid +
 http://zinachannels.zinamedia.net/ar-s/Majd-Kids/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a7ZM4N" group-title="أطفال Children",GULLI-BIL-ARABI
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
@@ -1771,6 +1773,18 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Noor Al-Sham
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Satellite Channel
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syrian News Channel
+http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syrian Education TV
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Souryana Radio
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -2004,9 +2018,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOQCC0" group-title="المغربMAROCCO",AL_Aoula_laayoune TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE
-http://r32g5k9gm3.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1=4-mp4aqad=1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="المغربMAROCCO",AL_ 2M MONDE+
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1=4-mp4aqad=1.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIPzCu" group-title="المغربMAROCCO",MR-ARRYADIA -3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pgxACw" group-title="المغربMAROCCO",MR-ARRABIAA HD
@@ -2094,9 +2106,11 @@ http://149.100.11.230:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIB-218News
-https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+http://95.85.47.43/libya218news/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIB-Libya 218
-https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+https://stream.218tv.net/libya218TV/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Al Ahrar HD
+https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mdx7SX" group-title="ليبياLIBYA",LIB-Libya Channel
