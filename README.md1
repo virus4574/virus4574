@@ -2402,6 +2402,48 @@ http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
 http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Denge Zalal
 http://dengezelaltv65.ozelip.com:26516/denge/denge/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Knn
+http://knntv.ddns.net:40/live/knn/chunklist.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",K24 HD
+http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurdsat News HD
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Speda TV HD
+http://cdn.liveshell.net:1935/live/speda084k/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Payam TV
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurd Channel HD
+https://server12.ikomg.live/hls/kurd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw HD
+http://baskhd.ddns.net:40/live/chawhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN documentary ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radiofarsy ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdradiofarsy/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radioturky ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN news ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN movies ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN drama ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN kids ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN quran ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask HD
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Amozhgary HD
+https://media.streambrothers.com:1936/8248/8248/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Sada HD
+http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ
+http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="راديوRadio Music",HD Radio  Music
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="راديوRadio Music",Radio Sada
