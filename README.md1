@@ -2084,15 +2084,15 @@ https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="تونسTUNISIE",تونسTUNISIE
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="الجزائرALGERIEN",الحوار التونسي
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="الجزائرALGERIEN",Nessma Ejdida
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="تونسTUNISIE",Nessma Ejdida
 http://217.182.137.206/nessma.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="الجزائرALGERIEN",Baya TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="تونسTUNISIE",Baya TV
 http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="الجزائرALGERIEN",موزاييك 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="الجزائرALGERIEN",Shems FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM
 https://radio.shemsfm.net/shems
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="الجزائرALGERIEN",IFM Radio 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
@@ -2113,7 +2113,6 @@ http://217.182.137.206/tunisie2.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",EL FADJR TV DZ
 http://149.100.11.230:8000/play/a01i/index.m3u8
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="الجزائرALGERIEN" ,Algeria 1 الأولى
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nwwxGvN/eptv2." group-title="الجزائرALGERIEN",Canal Algérieالثانية
