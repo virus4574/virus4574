@@ -2035,8 +2035,71 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TpEk1" group-title="المغربMAROCCO",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="المغربMAROCCO",Radio Nationale الإذاعة الوطنية 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sr2jXyj/tamazigh.png" group-title="المغربMAROCCO",Radio Amazigh الإذاعة الأمازيغية
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k8Q8Z2z/med6.png" group-title="المغربMAROCCO",Radio Med6 راديو القرآن الكريم
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PYP8y8B/rinter.png" group-title="المغربMAROCCO",Radio Inter الإذاعة الدولية
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCGdtJr/agadir.png" group-title="المغربMAROCCO",Radio Agadir إذاعة أغادير 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zQWc34V/hoceima.png" group-title="المغربMAROCCO",Radio El Hoceima إذاعة الحسيمة
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XjBWjPR/tetouan.png" group-title="المغربMAROCCO",Radio Tetouanإذاعة تطوان
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4p5pXCz/tanger.png" group-title="المغربMAROCCO",Radio Tanger إذاعة طنجة
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DRmHmDF/fess.png" group-title="المغربMAROCCO",Radio Fes إذاعة فاس
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Cnjpz0J/merrakash.png" group-title="المغربMAROCCO",Radio Merrakesh إذاعة مراكش
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h29nBJq/rcasa.png" group-title="المغربMAROCCO",Radio Casa إذاعة الدار البيضاء
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/12Z4gk4/oujda.png" group-title="المغربMAROCCO",Radio Oujda إذاعة وجدة
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0rZPz6m/mekness.png" group-title="المغربMAROCCO",Radio Mekness إذاعة مكناس
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="المغربMAROCCO",Radio Laayoune إذاعة العيون 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NS8YJh0/med-radio.png" group-title="المغربMAROCCO",Med Radio
+https://streamer.eagrpservices.com//audio//medradio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HGDwLZx/chadafm.png" group-title="المغربMAROCCO",Chada FM
+https://live-reflector.ice.infomaniak.ch/chadafm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/16Rr2gf/radio-mars.png" group-title="المغربMAROCCO",Radio Mars
+https://streamer.eagrpservices.com/audio/radiomars.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wss1Y02/hitradio.png" group-title="المغربMAROCCO",HIT Radio
+https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7Jzv1Zq/rsoleil.png" group-title="المغربMAROCCO",Radio Soleil
+https://radiosoleil.ice.infomaniak.ch/radiosoleil-32.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2sWLDn6/capradio.png" group-title="المغربMAROCCO",CAP Radio
+https://streamer.eagrpservices.com/audio/capradio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pXzw2Vz/mfmradio.png" group-title="المغربMAROCCO",MFM Radio 
+https://streamer.eagrpservices.com/audio/mfmradio.ogg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZjkDqX/medinafm.png" group-title="المغربMAROCCO",Medina FM
+https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PwYz4T6/aswat.png" group-title="المغربMAROCCO",Radio Aswat 
+https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="تونسTUNISIE",تونسTUNISIE
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="الجزائرALGERIEN",الحوار التونسي
+http://217.182.137.206/elhiwar.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="الجزائرALGERIEN",Nessma Ejdida
+http://217.182.137.206/nessma.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="الجزائرALGERIEN",Baya TV
+http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="الجزائرALGERIEN",موزاييك 
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="الجزائرALGERIEN",Shems FM
+https://radio.shemsfm.net/shems
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الجزائرALGERIEN",IFM Radio 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/small-logo-nationale.png" group-title="الجزائرALGERIEN",الإذاعة الوطنية
+http://188.165.181.186:1935/radiotn/nationale_video/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="الجزائرALGERIEN",rtci
+http://188.165.181.186:1935/radiotn/rtci_video/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="تونسTUNISIE",TUNISIE راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbp7jV" group-title="تونسTUNISIE",Sahel TV
@@ -2051,7 +2114,6 @@ https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",EL FADJR TV DZ
 http://149.100.11.230:8000/play/a01i/index.m3u8
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="الجزائرALGERIEN" ,Algeria 1 الأولى
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nwwxGvN/eptv2." group-title="الجزائرALGERIEN",Canal Algérieالثانية
@@ -2080,8 +2142,6 @@ https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=ht
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://i.ibb.co/98HJ3Ds/elhayat." group-title="الجزائرALGERIEN",El Hayat الحياة 
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/PtXDf6N/elwatania.png",El Watania الوطنية
-
 EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture." group-title="الجزائرALGERIEN",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/R4TGWHW/echorouknews.png" group-title="الجزائرALGERIEN",Echorouk News الشروق الإخبارية
@@ -2100,20 +2160,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2v8zg2w/El-Fadjer." group-title="الجزائرALGERIEN",El Fadjr SBA الفجر
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Mf9RhH5/berbere.jpg" ,BERBERE TV Kabyle
-
 #EXTINF:-1  tvg-logo="" ,Bel Media Music Kabyle
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CBDyrNJ/elheddaf.png" group-title="الجزائرALGERIEN",El Heddaf Sport الهدّاف
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LnVqTnH/samira.png" group-title="الجزائرALGERIEN" ,Samira TV سميرة 
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FK3hXp2/zahra.jpg" ,Zahra TV زهرة
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wSfH7Y5/Elanis.png" group-title="الجزائرALGERIEN",EL Aniss الأنيس
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://4kids-tv.com/wp-content/uploads/2022/02/logo4kids.png" group-title="Kids" ,Algerian 4Kids
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Qnz3GWK/ch1.png" group-title="الجزائرALGERIEN" ,Chaine 1 الأولى
 https://ch1.ice.infomaniak.ch/ch1-64.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3cGJWyg/ch2." group-title="الجزائرALGERIEN",Chaine 2 Tamazighth الثّانية
@@ -2136,17 +2190,14 @@ https://listen.radioking.com/radio/6640/stream/63289
 http://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DHo8stn.png" group-title="الجزائرALGERIEN",jow radio
 https://ice.creacast.com/jowradio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEsYJUP.png" group-title="",jow radio - Rap
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QEsYJUP.png" group-title="الجزائرALGERIEN",jow radio - Rap
 https://ice.creacast.com/jowradio-jow_rap
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFOfQqG.png" group-title="",jow radio - Rai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFOfQqG.png" group-title="الجزائرALGERIEN",jow radio - Rai
 https://ice.creacast.com/jowradio-rai
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEbRl2E.png" group-title="",jow radio - Dini
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEbRl2E.png" group-title="الجزائرALGERIEN",jow radio - Dini
 https://ice.creacast.com/jowradio-diny
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mB5DDYP.png" group-title="",jow radio - North Africa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mB5DDYP.png" group-title="الجزائرALGERIEN",jow radio - North Africa
 https://ice.creacast.com/jowradio-north_africa
-
-
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2XsT40/adrar.png" group-title="الجزائرALGERIEN" ,Radio Adrar أدرار
 https://adrar.ice.infomaniak.ch/01.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DMqBT0h/chlef." group-title="الجزائرALGERIEN",Radio Chlef الشلف 
