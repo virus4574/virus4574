@@ -1606,6 +1606,27 @@ http://62.210.137.234:8001/play/a00d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC+ Variety HD
 http://62.210.137.234:8001/play/a00e/index.m3u8
 
+#EXTM3U
+#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
+http://45.94.31.195:7003/play/a0fh
+#EXTINF:0 tvg-id="MBC3.net" group-title="احتياطي أم بي سيMBC",MBC 3
+http://45.94.31.195:7003/play/a0ff
+#EXTINF:0 tvg-id="MBC4.net" group-title="احتياطي أم بي سيMBC",MBC 4
+http://45.94.31.195:7003/play/a0fe
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC 5
+http://45.94.31.195:7003/play/a0fd
+#EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC Action
+http://45.94.31.195:7003/play/a0fg
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="احتياطي أم بي سيMBC",MBC Bollywood
+http://45.94.31.195:7003/play/a0fj
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="احتياطي أم بي سيMBC",MBC Drama
+http://45.94.31.195:7003/play/a0fk
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC IRAQ
+http://45.94.31.195:7003/play/a0el
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC IRAQ HD
+http://45.94.31.195:7003/play/a0eo
+#EXTINF:0 tvg-id="MBCMax.net" group-title="احتياطي أم بي سيMBC",MBC MAX
+http://45.94.31.195:7003/play/a0fi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="روتانا ROTANA",كيف احصل على الكود
