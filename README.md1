@@ -1300,8 +1300,6 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="روتانا ROTANA",Rotana+ SD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="روتانا ROTANA",LBC
-http://freearabic.zinamedia.net/ar/LBC/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="روتانا ROTANA",Rotana Comedy HD
 http://193.228.193.179:8000/play/a08w
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="روتانا ROTANA",ROTANA TARAB HD
@@ -1350,14 +1348,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playl
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lana" tvg-logo="https://www.akhbarkalaan.com/wp-content/uploads/2021/05/lana-tv.jpg" group-title="سوريةSyria",Lana
-http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
-#EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="سوريةSyria",Syria drama 
-http://freearabic.zinamedia.net/ar/Syria-Drama/index.m3u8
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="" group-title="سوريةSyria",Al-Khabar TV
 http://149.100.11.230:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="سوريةSyria",Syria
-http://freearabic.zinamedia.net/ar/SYRIA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
@@ -1392,18 +1384,6 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1  tvg-name="MTV " tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="لبنانLEBANON",MTV 
-http://freearabic.zinamedia.net/ar-s/mtv-tv/index.m3u8
-#EXTINF:-1  tvg-name="Future " tvg-logo="http://www.futuretvnetwork.com/images/logo-n2.png" group-title="لبنانLEBANON",Future 
-http://freearabic.zinamedia.net/ar/Future-TV/index.m3u8
-#EXTINF:-1  tvg-name="Aljadeed" tvg-logo="https://www.filepicker.io/api/file/NvXGJ9byTi6BoeSFG9sZ" group-title="لبنانLEBANON",Aljadeed
-http://freearabic.zinamedia.net/ar/aljadeed/index.m3u8
-#EXTINF:-1  tvg-name="OTV" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="لبنانLEBANON",OTV
-http://freearabic.zinamedia.net/ar/OTV-TV/index.m3u8
-#EXTINF:-1  tvg-name="NBN" tvg-logo="https://imcdn.org/uploads/2019/01/nbn-300x178.gif" group-title="لبنانLEBANON",NBN
-http://freearabic.zinamedia.net/ar/NBN-HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alaan " tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="لبنانLEBANON",Alaan 
-http://freearabic.zinamedia.net/ar/Alaan-TV/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
@@ -1592,38 +1572,10 @@ http://95.216.180.111:1935/live/68/chunklist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DMC " tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="المصرية Egypt",DMC 
-http://freearabic.zinamedia.net/ar/DMC-TV/index.m3u8
-#EXTINF:-1 tvg-name="DMC Drama " tvg-logo="https://media.elcinema.com/tvguide/1292_2.png" group-title="المصرية Egypt",DMC Drama 
-http://freearabic.zinamedia.net/ar/DMC-Drama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/CBC_Logo_Hub_C.png" group-title="المصرية Egypt",CBC TV
-http://freearabic.zinamedia.net/ar/CBC-TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC Drama TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Drama_Logo_Hub_C.png" group-title="المصرية Egypt",CBC Drama TV
-http://freearabic.zinamedia.net/ar/rCUGxpGspm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ON " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png" group-title="المصرية Egypt",ON 
-http://freearabic.zinamedia.net/ar/On-E/index.m3u8
-#EXTINF:-1 tvg-name="ON Drama " tvg-logo="https://media.elcinema.com/tvguide/1134_2.png" group-title="المصرية Egypt",ON Drama 
-http://freearabic.zinamedia.net/ar/ON-Drama/index.m3u8
-#EXTINF:-1 tvg-name="Al Hayat TV" tvg-logo="https://media.elcinema.com/tvguide/1137_2.png" group-title="المصرية Egypt",Al Hayat TV
-http://freearabic.zinamedia.net/ar/QygtuaXFvc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alhayat Drama" tvg-logo="http://www.vod-logo.net/photos/5d4c3d55e7f0330f1fca9ca60d96391f.jpg" group-title="المصرية Egypt",Alhayat Drama
-http://freearabic.zinamedia.net/ar/Alhayat-Muslsalat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="alnahar" tvg-logo="" group-title="المصرية Egypt",alnahar
-http://freearabic.zinamedia.net/ar/AL-Nahar-One/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eygpt TV " tvg-logo="https://www.maspero.eg/wps/wcm/connect/3bd49802-3d5e-4a8c-8c2a-22244db3bea2/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A.jpeg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3bd49802-3d5e-4a8c-8c2a-22244db3bea2-n21hALG" group-title="المصرية Egypt",Eygpt TV
-http://freearabic.zinamedia.net/ar/Masriya-AlOula/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="alkaherawalnas" tvg-logo="http://www.alkaherawalnas.com/wp-content/uploads/2018/01/Artboard-1.png" group-title="المصرية Egypt",alkaherawalnas
-http://freearabic.zinamedia.net/ar/Alkahera-Wal-Nas/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="المصرية Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="alnahar" tvg-logo="" group-title="المصرية Egypt",alnahar
 https://7jlive.tooli-tv.com/live/149198_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="" tvg-name="Eygpt TV " tvg-logo="https://www.maspero.eg/wps/wcm/connect/3bd49802-3d5e-4a8c-8c2a-22244db3bea2/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A.jpeg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3bd49802-3d5e-4a8c-8c2a-22244db3bea2-n21hALG" group-title="المصرية Egypt",Eygpt TV
-http://freearabic.zinamedia.net/ar/Masriya-AlOula/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="alkaherawalnas" tvg-logo="" group-title="المصرية Egypt",Nile-Drama
-http://freearabic.zinamedia.net/ar/Nile-Drama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="alkaherawalnas" tvg-logo="" group-title="المصرية Egypt",Nile-TV
-http://freearabic.zinamedia.net/ar/Nile-TV/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="المصرية Egypt",Omg Channel TV
@@ -2045,15 +1997,11 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc
 http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=sbc_tv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc+
-http://freearabic.zinamedia.net/ar/SBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc+
 https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="السعودية Saudi-Arabia",SAU-THIKRAYAT
 http://www.elahmad.com/tv/m3u8/online_live_11_tv.m3u8?id=saudi_thikrayat
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1+
-http://freearabic.zinamedia.net/ar/Saudi1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Saudi 24 TV 
 http://45.94.31.190:7002/play/a0a5
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Al_Ekhbaria
