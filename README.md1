@@ -1348,8 +1348,6 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playl
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Syria drama " tvg-logo="" group-title="سوريةSyria",Al-Khabar TV
-http://149.100.11.230:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
@@ -1370,15 +1368,6 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Noor Al-Sham
-http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Satellite Channel
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syrian News Channel
-http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syrian Education TV
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
