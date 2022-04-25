@@ -1052,8 +1052,6 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://go.nasa.gov/3qa9N9B" group-title="الوثائقية documentary",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uBSiQR" group-title="الوثائقية documentary",ANIMAL PLANET
-http://95.169.214.110:8000/play/FDS0F908FJD9m
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="الوثائقية documentary",Animaux
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09bef7eb-2ec0-11ec-9d20-0242ac110003
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021028.png" group-title="الوثائقية documentary", OUTDOOR CHANNEL
@@ -1062,9 +1060,9 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306933429.png" group-title="الوثائقية documentary", CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="الوثائقية documentary",Akc TV
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Akc TV
 https://piratesiptv.shortcm.li/ack.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="الوثائقية documentary",Love Nature
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
@@ -1072,7 +1070,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashasibir4k
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Chillayo 4K
 http://85.187.244.111:50011
-#EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="الوثائقية documentary",72.Nasa TV
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Nasa TV
 https://piratesiptv.shortcm.li/nasa.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="أطفال Children",أطفال
 https://bit.ly/3pWtmPO
