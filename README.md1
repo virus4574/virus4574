@@ -178,19 +178,6 @@ http://45.94.31.190:7002/play/a0ck
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G FILM
 http://45.94.31.190:7002/play/a0cl
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion aflam
-http://149.100.11.230:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion cinema
-http://149.100.11.230:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion drama
-http://149.100.11.230:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion elyoum
-http://149.100.11.230:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion hekayat
-http://149.100.11.230:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion zaman
-http://149.100.11.230:8000/play/a00n/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE AFLAM
 http://149.62.183.214:8000/play/a03k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE ALWAN
@@ -318,14 +305,6 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS
-http://149.100.11.230:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS HD
-http://149.100.11.230:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS2
-http://149.100.11.230:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ONTIME SPORTS2 HD
-http://149.100.11.230:8000/play/a044/index.m3u8
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/bdEwdYQ.png",[$]SUPER SPORT 1HD
 https://sports.cdn-stream.com:30443/live/ss1/playlist.m3u8
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/jC1wjV5.png",[$]SUPER SPORT 2HD
@@ -1307,8 +1286,6 @@ https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 http://45.94.31.190:7004/play/a0cg
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",ALMASAR TV HD
 http://45.94.31.190:7004/play/a0bq
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Janoubia IRAQ
-http://149.100.11.230:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",12Arabia
 http://149.62.183.214:8000/play/a0b0/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al Shabab Sport HD IQ
@@ -1437,8 +1414,6 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 http://217.182.137.206/tunisie2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN
 https://bit.ly/3pWtmPO
-#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",EL FADJR TV DZ
-http://149.100.11.230:8000/play/a01i/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="الجزائرALGERIEN" ,Algeria 1 الأولى
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nwwxGvN/eptv2." group-title="الجزائرALGERIEN",Canal Algérieالثانية
@@ -1821,14 +1796,6 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",عدن
 http://82.212.74.5:8000/live/hls/7728.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",ALHAWYAH TV
-http://149.100.11.230:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",ALLAHDAH TV
-http://149.100.11.230:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",ALMASIRAH TV
-http://149.100.11.230:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Al Sahat
-http://149.100.11.230:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="الصومالSomalia‎",Horn Cable TV
@@ -2317,8 +2284,6 @@ https://video1.getstreamhosting.com:1936/8484_1/8484_1/chunklist.m3u8
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",mawda
 http://82.212.74.98:8000/live/7821.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",Al Ons TV
-http://149.100.11.230:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="اسلاميةIslami",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3efx1Ge" group-title="اسلاميةIslami",Daawah TV
