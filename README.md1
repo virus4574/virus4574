@@ -1098,24 +1098,43 @@ http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria المحلية
-http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria الفضائية
-http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria الفضائية+
+#EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya المحلية
+http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
+http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/nour_logo.png" group-title="سوريةSyria",Nour Eshham نور الشام
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria دراما
-http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria دراما+
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_drama
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria الأخبار
-http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria الأخبار+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_news
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria التعلمية
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_edu
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",SYR-Syria نور السلام
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_drama
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/nour_logo.png" group-title="سوريةSyria",Nour Eshham نور الشام
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_nour
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_edu
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya المحلية
+http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
+http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
+http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
+http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -1249,7 +1268,7 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3O3obuC" group-title="العراق IRAQ",قناه الفرات
-http://95.216.180.111:1935/live/10/chunklist.m3u8
+http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="العراق IRAQ",IRQ-AL Sharqiya TV HD
@@ -1292,6 +1311,8 @@ http://149.62.183.214:8000/play/a0b0/index.m3u8
 http://95.216.180.111:1935/live/98/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",بلادي
 http://95.216.180.111:1935/live/68/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="العراق IRAQ",افاق
+http://95.216.180.111:1935/live/1/playlist.m3u8?
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
@@ -1673,7 +1694,7 @@ https://gulfsat.cdn.easybroadcast.fr/live/ionKuwait_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="الكويت Kuwait",Kuwait Alrai TV FHD
 https://media.streambrothers.com:1936/8724/8724/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KEJiaN" group-title="الكويت Kuwait",FUNOON
-https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nocm7n" group-title="الكويت Kuwait",قناه المعارف الكويتيه SD
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="الكويت Kuwait",Kuwait MarinaFM
@@ -1683,7 +1704,7 @@ https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="الكويت Kuwait",ADALAH TV SD
 https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV8pHJ" group-title="الكويت Kuwait",Kuwait Al-Sabah
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d5ZrSy" group-title="الكويت Kuwait",Kuwait Al-Shahed
 https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zhb7tm" group-title="الكويت Kuwait",Kuwait Al-Bawadi
@@ -1700,6 +1721,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="البحرين Bahrain",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vWtsfp" group-title="البحرين Bahrain",Bahrein International
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="سلطنة عمان Oman",Oman TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="سلطنة عمان Oman",Oman TV
