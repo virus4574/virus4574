@@ -1201,25 +1201,39 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya +السورية
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya +الإخبارية
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_news
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama +دراما
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_drama
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/nour_logo.png" group-title="سوريةSyria",Nour Eshham نور الشام
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/nour_logo.png" group-title="سوريةSyria",Nour Eshham +نور الشام
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_nour
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya +التربوية
 http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_edu
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya المحلية
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya ++المحلية
 http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya ++السورية
 http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya ++الإخبارية
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama ++دراما
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا
+http://45.94.31.195:7002/play/a0e0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
+http://45.94.31.195:7002/play/a0dx
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية
+http://45.94.31.195:7002/play/a0dy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="سوريةSyria",Syria Foreign Radio
+http://45.94.31.195:7002/play/a0e4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
+http://45.94.31.195:7002/play/a0g7
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
+http://45.94.31.195:7002/play/a0dw
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
@@ -1542,6 +1556,150 @@ http://45.94.31.203:7001/play/a0cg
 http://45.94.31.203:7001/play/a0dt
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile TV
 http://45.94.31.203:7001/play/a0bd
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Ngoom
+http://45.94.31.195:7002/play/a0fx
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Oula HD
+http://45.94.31.195:7002/play/a0fh
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL SHARQIYA
+http://45.94.31.195:7002/play/a0fe
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL SHARQIYA HD
+http://45.94.31.195:7002/play/a0du
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL oula
+http://45.94.31.195:7002/play/a0fg
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSeha Waljamal
+http://45.94.31.195:7002/play/a0ew
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AMWAJ FM
+http://45.94.31.195:7002/play/a0e6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Ahly HD
+http://45.94.31.195:7002/play/a0fs
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Ahly SD
+http://45.94.31.195:7002/play/a0fy
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="المصرية Egypt",Al Arabiya
+http://45.94.31.195:7002/play/a0ft
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Forat
+http://45.94.31.195:7002/play/a0fz
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Kahera Wal Nas
+http://45.94.31.195:7002/play/a0ff
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Mawsleya
+http://45.94.31.195:7002/play/a0ev
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Arabiya Alhadath
+http://45.94.31.195:7002/play/a0fu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Cinema
+http://45.94.31.195:7002/play/a0es
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
+http://45.94.31.195:7002/play/a0f3
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
+http://45.94.31.195:7002/play/a0f2
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AlHadath Alyoum
+http://45.94.31.195:7002/play/a0ey
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat
+http://45.94.31.195:7002/play/a0f8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Azhari
+http://45.94.31.195:7002/play/a0fk
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",BBCW
+http://45.94.31.195:7002/play/a0fl
+#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
+http://45.94.31.195:7002/play/a0f4
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
+http://45.94.31.195:7002/play/a0f6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC Sofra
+http://45.94.31.195:7002/play/a0f5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CNBC ARABIYA
+http://45.94.31.195:7002/play/a0fb
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",EDUC 1
+http://45.94.31.195:7002/play/a0fo
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ELKootab TV
+http://45.94.31.195:7002/play/a0ds
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ELMEHWAR
+http://45.94.31.195:7002/play/a0ex
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptian TV HD
+http://45.94.31.195:7002/play/a0et
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Eriteria TV
+http://45.94.31.195:7002/play/a0fp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Extra News
+http://45.94.31.195:7002/play/a0f7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Extra News HD
+http://45.94.31.195:7002/play/a0g1
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MBC Masr 2
+http://45.94.31.195:7002/play/a0eu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MBN Alhurra HD
+http://45.94.31.195:7002/play/a0eq
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MDEEH
+http://45.94.31.195:7002/play/a0fv
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MTI
+http://45.94.31.195:7002/play/a0dr
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Madrastna 1
+http://45.94.31.195:7002/play/a0g4
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Maspero Zaman
+http://45.94.31.195:7002/play/a0en
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
+http://45.94.31.195:7002/play/a0ee
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix
+http://45.94.31.195:7002/play/a0fa
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix Bel Araby
+http://45.94.31.195:7002/play/a0dt
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix One
+http://45.94.31.195:7002/play/a0ep
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Moga
+http://45.94.31.195:7002/play/a0e2
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Cinema
+http://45.94.31.195:7002/play/a0em
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Comedy
+http://45.94.31.195:7002/play/a0eh
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
+http://45.94.31.195:7002/play/a0fj
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Drama
+http://45.94.31.195:7002/play/a0ej
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
+http://45.94.31.195:7002/play/a0fi
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Life
+http://45.94.31.195:7002/play/a0ei
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News
+http://45.94.31.195:7002/play/a0eg
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News HD
+http://45.94.31.195:7002/play/a0el
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Sport
+http://45.94.31.195:7002/play/a0ek
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nour Elsham
+http://45.94.31.195:7002/play/a0dz
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
+http://45.94.31.195:7002/play/a0eb
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
+http://45.94.31.195:7002/play/a0e8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
+http://45.94.31.195:7002/play/a0ed
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
+http://45.94.31.195:7002/play/a0ec
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
+http://45.94.31.195:7002/play/a0e9
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
+http://45.94.31.195:7002/play/a0ea
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
+http://45.94.31.195:7002/play/a0e7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS3
+http://45.94.31.195:7002/play/a0g6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS3 HD
+http://45.94.31.195:7002/play/a0g5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Palestine
+http://45.94.31.195:7002/play/a0er
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Radio Damascus
+http://45.94.31.195:7002/play/a0e3
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SAFA TV
+http://45.94.31.195:7002/play/a0eo
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SAMA TV
+http://45.94.31.195:7002/play/a0e1
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SPACETOON ARABIC
+http://45.94.31.195:7002/play/a0f9
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad
+http://45.94.31.195:7002/play/a0f0
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad 2
+http://45.94.31.195:7002/play/a0f1
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada ElBalad 3
+http://45.94.31.195:7002/play/a0ez
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sawt Al Shabab
+http://45.94.31.195:7002/play/a0e5
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| AL Ngoom
 http://45.92.69.202:1980/play/a0fz
@@ -2028,6 +2186,18 @@ http://45.94.31.190:7004/play/a0cf
 http://45.94.31.190:7002/play/a0c2
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYAS CHANNEL
 http://45.94.31.190:7002/play/a0a8
+
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",LIBYA ALHADATH HD
+http://45.94.31.195:7002/play/a0dv
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Alwataniya
+http://45.94.31.195:7002/play/a0fm
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Education
+http://45.94.31.195:7002/play/a0g3
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Sport 2 HD
+http://45.94.31.195:7002/play/a0g2
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Sport Channel
+http://45.94.31.195:7002/play/a0fn
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| AL JAMAHIRIA
 http://45.92.69.202:1980/play/a0ar
@@ -2068,6 +2238,8 @@ http://45.94.31.203:7004/play/a0dt
 http://45.94.31.203:7004/play/a0du
 #EXTINF:0 tvg-id="ext" group-title="السودانSUDAN",Sudan Sport
 http://45.94.31.203:7004/play/a0dv
+#EXTINF:0 tvg-id="ext" group-title="السودانSUDAN",Sudan TV
+http://45.94.31.195:7002/play/a0fq
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar 1 TV HD
