@@ -788,6 +788,8 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
 http://45.94.31.190:7004/play/a0bp
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY+
+http://45.94.31.203:7002/play/a0gi
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",كيف احصل على الكود
@@ -1357,8 +1359,10 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV FHD
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="الاردنJORDAN",JR-Jordan TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ycdf8J" group-title="الاردنJORDAN",JR-Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38CWQiK" group-title="الاردنJORDAN",JR-Jordan Sport TV
+http://45.94.31.203:7001/play/a0cs
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="الاردنJORDAN",Amman tv SD
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="الاردنJORDAN",Amman tv 
@@ -1432,6 +1436,29 @@ http://95.216.180.111:1935/live/68/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="العراق IRAQ",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraq Edu 2
+http://45.94.31.203:7002/play/a0hf
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraq Future TV
+http://45.94.31.203:7002/play/a0is
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqi Edu HD
+http://45.94.31.203:7002/play/a0gx
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Ent HD
+http://45.94.31.203:7002/play/a0gw
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Entertainment
+http://45.94.31.203:7002/play/a0gr
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Kurd
+http://45.94.31.203:7002/play/a0gt
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia News HD
+http://45.94.31.203:7002/play/a0gp
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia News SD
+http://45.94.31.203:7002/play/a0gq
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Sport HD
+http://45.94.31.203:7002/play/a0gu
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Syriac
+http://45.94.31.203:7002/play/a0gv
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Turkuman
+http://45.94.31.203:7002/play/a0gs
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraq| AL ESHRAQ TV
 http://45.92.69.202:1980/play/a0et
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraq| AL QAMAR
@@ -1486,6 +1513,35 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Zamalek Sports
+http://45.94.31.203:7001/play/a0b5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc
+http://45.94.31.203:7001/play/a0b3
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc HD
+http://45.94.31.203:7001/play/a0b2
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc News
+http://45.94.31.203:7001/play/a0b4
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc drama
+http://45.94.31.203:7001/play/a0b6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc masraheyat
+http://45.94.31.203:7001/play/a0b7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama
+http://45.94.31.203:7001/play/a0bf
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama 2
+http://45.94.31.203:7001/play/a0bg
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Film
+http://45.94.31.203:7001/play/a0bh
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Food
+http://45.94.31.203:7001/play/a0bi
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Al Zera3eya
+http://45.94.31.203:7001/play/a0di
+#EXTINF:0 tvg-id="nhk-world" group-title="المصرية Egypt",NHK WORLD-JAPAN
+http://45.94.31.203:7001/play/a0cg
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile FM
+http://45.94.31.203:7001/play/a0dt
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile TV
+http://45.94.31.203:7001/play/a0bd
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| AL Ngoom
 http://45.92.69.202:1980/play/a0fz
@@ -2027,23 +2083,25 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="الكويت Kuwait",Kuwait 1 TV FHD
-
+http://45.94.31.203:7004/play/a0dx
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="الكويت Kuwait",Kuwait 2 TV FHD
-
+http://45.94.31.203:7004/play/a0dy
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="الكويت Kuwait",kuwait ETHRAA FHD
-
+http://45.94.31.203:7004/play/a0e1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="الكويت Kuwait",Kuwait AL Arabi TV FHD
-
+http://45.94.31.203:7004/play/a0e2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="الكويت Kuwait",Kuwait AL Majlis TV FHD
-
+http://45.94.31.203:7004/play/a0e3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="الكويت Kuwait",Al Qurain TV FHD
-
+http://45.94.31.203:7004/play/a0e4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD
-
+http://45.94.31.203:7004/play/a0e0
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="الكويت Kuwait",KTV Sport FHD
-
+http://45.94.31.203:7004/play/a0dz
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="الكويت Kuwait",KTV Khallik Bilbait
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3OSH2ZG" group-title="الكويت Kuwait",KTV Drama
+http://45.94.31.203:7004/play/a0e5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MpEMbf" group-title="الكويت Kuwait",i on Kuwait
 https://gulfsat.cdn.easybroadcast.fr/live/ionKuwait_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="الكويت Kuwait",Kuwait Alrai TV FHD
