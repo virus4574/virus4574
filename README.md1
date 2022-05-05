@@ -910,6 +910,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 http://airmaxtv2022.online:80/airmaxtvall3/ZzXSN7JK6hLZ/1581
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD+
 http://45.94.31.195:7001/play/a0cr
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD++
+http://5.39.189.40:8085/udp/229.0.0.4:1234
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD
 http://airmaxtv2022.online:80/airmaxtvall3/ZzXSN7JK6hLZ/1583
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="أم بي سيMBC",|MBC| Max SD+
@@ -1110,7 +1112,9 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD+
+http://5.39.189.40:8085/udp/229.0.0.15:1234
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD++
 http://193.228.193.179:8000/play/a08s
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="روتانا ROTANA",Rotana Khalijia SD
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
@@ -1529,6 +1533,24 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK CIMA
+http://5.39.189.40:8085/udp/229.0.0.5:1234
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="المصرية Egypt",MBC Drama
+http://5.39.189.40:8085/udp/229.0.0.7:1234
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CINEMA PRO
+http://5.39.189.40:8085/udp/229.0.0.6:1234
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Zamalek Sports
+http://5.39.189.40:8085/udp/229.0.0.12:1234
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc
+http://5.39.189.40:8085/udp/229.0.0.9:1234
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc masraheyat
+http://5.39.189.40:8085/udp/229.0.0.11:1234
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc drama
+http://5.39.189.40:8085/udp/229.0.0.10:1234
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
+http://5.39.189.40:8085/udp/229.0.0.13:1234
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Zamalek Sports
 http://45.94.31.203:7001/play/a0b5
