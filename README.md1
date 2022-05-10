@@ -255,6 +255,14 @@ http://185.236.229.50:8001/play/a017
 http://185.236.229.50:8001/play/a01k
 #EXTINF:0 tvg-id="ext" group-title="باقةDRAMA",DREAM ZAMAN
 http://185.236.229.50:8001/play/a01i
+#EXTINF:0 tvg-id="ext" group-title="باقةDRAMA",SHOOF AFLAM
+http://185.236.229.50:8001/play/a01f
+#EXTINF:0 tvg-id="ext" group-title="باقةDRAMA",SHOOF MIX
+http://185.236.229.50:8001/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="باقةDRAMA",SHOOF MOSALSALAT
+http://185.236.229.50:8001/play/a01e
+#EXTINF:0 tvg-id="ext" group-title="باقةDRAMA",shoof cinema
+http://185.236.229.50:8001/play/a01c
 
 
 #EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion aflam
@@ -326,15 +334,14 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS
-http://45.92.69.202:1980/play/a0hl
+http://185.236.229.50:8001/play/a046
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS HD
-http://45.92.69.202:1980/play/a0hi
+http://185.236.229.50:8001/play/a042
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2
-http://45.92.69.202:1980/play/a0hj
+http://185.236.229.50:8001/play/a044
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
-http://45.92.69.202:1980/play/a0hg
+http://185.236.229.50:8001/play/a040
 
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ONTIME SPORTS
 http://45.92.69.134:8001/play/a02k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ONTIME SPORTS HD
@@ -784,7 +791,7 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rdcg0X" group-title="الاخبارNEWS",IRQ-AL Hurra IRAQIA SD+
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
-
+http://185.236.229.50:8001/play/a027
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",كيف احصل على الكود
@@ -1032,49 +1039,6 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 
 #EXTM3U
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
-http://45.94.31.195:7003/play/a0fh
-#EXTINF:0 tvg-id="MBC3.net" group-title="احتياطي أم بي سيMBC",MBC 3
-http://45.94.31.195:7003/play/a0ff
-#EXTINF:0 tvg-id="MBC4.net" group-title="احتياطي أم بي سيMBC",MBC 4
-http://45.94.31.195:7003/play/a0fe
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC 5
-http://45.94.31.195:7003/play/a0fd
-#EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC Action
-http://45.94.31.195:7003/play/a0fg
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="احتياطي أم بي سيMBC",MBC Bollywood
-http://45.94.31.195:7003/play/a0fj
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="احتياطي أم بي سيMBC",MBC Drama
-http://45.94.31.195:7003/play/a0fk
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC IRAQ
-http://45.94.31.195:7003/play/a0el
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC IRAQ HD
-http://45.94.31.195:7003/play/a0eo
-#EXTINF:0 tvg-id="MBCMax.net" group-title="احتياطي أم بي سيMBC",MBC MAX
-http://45.94.31.195:7003/play/a0fi
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC 2
-http://45.92.69.202:1980/play/a0du
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC 3
-http://45.92.69.202:1980/play/a0ds
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC 4
-http://45.92.69.202:1980/play/a0dr
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC 5
-http://45.92.69.202:1980/play/a0dq
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC Action
-http://45.92.69.202:1980/play/a0dt
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC Bollywood
-http://45.92.69.202:1980/play/a0dw
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC Drama
-http://45.92.69.202:1980/play/a0dx
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC IRAQ
-http://45.92.69.202:1980/play/a0ag
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC IRAQ HD
-http://45.92.69.202:1980/play/a0af
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Arabie saoudite| MBC MAX
-http://45.92.69.202:1980/play/a0dv
-
-#EXTM3U
-#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
 http://45.92.69.134:8001/play/a01i/index.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
 http://45.92.69.134:8001/play/a00h/index.m3u8
@@ -1217,20 +1181,6 @@ http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama ++دراما
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا
-http://45.94.31.195:7002/play/a0e0
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما
-http://45.94.31.195:7002/play/a0dx
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية
-http://45.94.31.195:7002/play/a0dy
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="سوريةSyria",Syria Foreign Radio
-http://45.94.31.195:7002/play/a0e4
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
-http://45.94.31.195:7002/play/a0g7
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية
-http://45.94.31.195:7002/play/a0dw
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
@@ -1478,284 +1428,6 @@ http://5.39.189.40:8085/udp/229.0.0.10:1234
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
 http://5.39.189.40:8085/udp/229.0.0.13:1234
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Ngoom
-http://45.94.31.195:7002/play/a0fx
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Oula HD
-http://45.94.31.195:7002/play/a0fh
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL SHARQIYA
-http://45.94.31.195:7002/play/a0fe
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL SHARQIYA HD
-http://45.94.31.195:7002/play/a0du
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL oula
-http://45.94.31.195:7002/play/a0fg
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSeha Waljamal
-http://45.94.31.195:7002/play/a0ew
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AMWAJ FM
-http://45.94.31.195:7002/play/a0e6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Ahly HD
-http://45.94.31.195:7002/play/a0fs
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Ahly SD
-http://45.94.31.195:7002/play/a0fy
-#EXTINF:0 tvg-id="AlArabiya.nws" group-title="المصرية Egypt",Al Arabiya
-http://45.94.31.195:7002/play/a0ft
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Forat
-http://45.94.31.195:7002/play/a0fz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Kahera Wal Nas
-http://45.94.31.195:7002/play/a0ff
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Mawsleya
-http://45.94.31.195:7002/play/a0ev
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Arabiya Alhadath
-http://45.94.31.195:7002/play/a0fu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Cinema
-http://45.94.31.195:7002/play/a0es
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
-http://45.94.31.195:7002/play/a0f3
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
-http://45.94.31.195:7002/play/a0f2
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AlHadath Alyoum
-http://45.94.31.195:7002/play/a0ey
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat
-http://45.94.31.195:7002/play/a0f8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Azhari
-http://45.94.31.195:7002/play/a0fk
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",BBCW
-http://45.94.31.195:7002/play/a0fl
-#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
-http://45.94.31.195:7002/play/a0f4
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
-http://45.94.31.195:7002/play/a0f6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC Sofra
-http://45.94.31.195:7002/play/a0f5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CNBC ARABIYA
-http://45.94.31.195:7002/play/a0fb
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",EDUC 1
-http://45.94.31.195:7002/play/a0fo
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ELKootab TV
-http://45.94.31.195:7002/play/a0ds
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ELMEHWAR
-http://45.94.31.195:7002/play/a0ex
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptian TV HD
-http://45.94.31.195:7002/play/a0et
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Eriteria TV
-http://45.94.31.195:7002/play/a0fp
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Extra News
-http://45.94.31.195:7002/play/a0f7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Extra News HD
-http://45.94.31.195:7002/play/a0g1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MBC Masr 2
-http://45.94.31.195:7002/play/a0eu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MBN Alhurra HD
-http://45.94.31.195:7002/play/a0eq
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MDEEH
-http://45.94.31.195:7002/play/a0fv
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MTI
-http://45.94.31.195:7002/play/a0dr
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Madrastna 1
-http://45.94.31.195:7002/play/a0g4
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Maspero Zaman
-http://45.94.31.195:7002/play/a0en
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
-http://45.94.31.195:7002/play/a0ee
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix
-http://45.94.31.195:7002/play/a0fa
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix Bel Araby
-http://45.94.31.195:7002/play/a0dt
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mix One
-http://45.94.31.195:7002/play/a0ep
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Moga
-http://45.94.31.195:7002/play/a0e2
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Cinema
-http://45.94.31.195:7002/play/a0em
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Comedy
-http://45.94.31.195:7002/play/a0eh
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
-http://45.94.31.195:7002/play/a0fj
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Drama
-http://45.94.31.195:7002/play/a0ej
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
-http://45.94.31.195:7002/play/a0fi
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Life
-http://45.94.31.195:7002/play/a0ei
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News
-http://45.94.31.195:7002/play/a0eg
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News HD
-http://45.94.31.195:7002/play/a0el
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Sport
-http://45.94.31.195:7002/play/a0ek
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nour Elsham
-http://45.94.31.195:7002/play/a0dz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
-http://45.94.31.195:7002/play/a0eb
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
-http://45.94.31.195:7002/play/a0e8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
-http://45.94.31.195:7002/play/a0ed
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
-http://45.94.31.195:7002/play/a0ec
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
-http://45.94.31.195:7002/play/a0e9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
-http://45.94.31.195:7002/play/a0ea
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
-http://45.94.31.195:7002/play/a0e7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS3
-http://45.94.31.195:7002/play/a0g6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS3 HD
-http://45.94.31.195:7002/play/a0g5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Palestine
-http://45.94.31.195:7002/play/a0er
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Radio Damascus
-http://45.94.31.195:7002/play/a0e3
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SAFA TV
-http://45.94.31.195:7002/play/a0eo
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SAMA TV
-http://45.94.31.195:7002/play/a0e1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SPACETOON ARABIC
-http://45.94.31.195:7002/play/a0f9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad
-http://45.94.31.195:7002/play/a0f0
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad 2
-http://45.94.31.195:7002/play/a0f1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada ElBalad 3
-http://45.94.31.195:7002/play/a0ez
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sawt Al Shabab
-http://45.94.31.195:7002/play/a0e5
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| AL Ngoom
-http://45.92.69.202:1980/play/a0fz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| AL Oula HD
-http://45.92.69.202:1980/play/a0g5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| AL oula
-http://45.92.69.202:1980/play/a0g4
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| ALSeha Waljamal
-http://45.92.69.202:1980/play/a0gx
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al Ahly HD
-http://45.92.69.202:1980/play/a0fu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al Ahly SD
-http://45.92.69.202:1980/play/a0g0
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al Ghad HD
-http://45.92.69.202:1980/play/a0i1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al Ghad SD
-http://45.92.69.202:1980/play/a0i2
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al Kahera Wal Nas
-http://45.92.69.202:1980/play/a0g3
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al-Nahar Cinema
-http://45.92.69.202:1980/play/a0gt
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al-Nahar Drama
-http://45.92.69.202:1980/play/a0ge
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Al-Nahar One
-http://45.92.69.202:1980/play/a0gd
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| AlSaeedah
-http://45.92.69.202:1980/play/a0hw
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Alhayat Muslsalat
-http://45.92.69.202:1980/play/a0gj
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Azhari
-http://45.92.69.202:1980/play/a0g8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| CBC
-http://45.92.69.202:1980/play/a0gf
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| CBC Drama
-http://45.92.69.202:1980/play/a0gh
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| CBC Sofra
-http://45.92.69.202:1980/play/a0gg
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| CINEMA
-http://45.92.69.202:1980/play/a0a6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| DREAM 7KAYAT
-http://45.92.69.202:1980/play/a0ab
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| DREAM AFLAM
-http://45.92.69.202:1980/play/a09z
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| DREAM CINEMA
-http://45.92.69.202:1980/play/a0aa
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| DREAM EL YOUM
-http://45.92.69.202:1980/play/a09w
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| DREAM TURKY
-http://45.92.69.202:1980/play/a0a9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| DREAM ZAMAN
-http://45.92.69.202:1980/play/a0a7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EDUC 1
-http://45.92.69.202:1980/play/a0fq
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EL TELEVISION 1
-http://45.92.69.202:1980/play/a0ac
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EL TELEVISION 2
-http://45.92.69.202:1980/play/a0a0
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EL TELEVISION 3
-http://45.92.69.202:1980/play/a09u
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EL TELEVISION 4
-http://45.92.69.202:1980/play/a09y
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EL TELEVISION 5
-http://45.92.69.202:1980/play/a09v
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| EL TELEVISION 6
-http://45.92.69.202:1980/play/a09x
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| ELMEHWAR
-http://45.92.69.202:1980/play/a0gy
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Egyptian TV HD
-http://45.92.69.202:1980/play/a0gu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Extra News
-http://45.92.69.202:1980/play/a0gi
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Free TV
-http://45.92.69.202:1980/play/a0hp
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Gil Almostaqbal
-http://45.92.69.202:1980/play/a0hz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| MBC Masr 2
-http://45.92.69.202:1980/play/a0gv
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| MDEEH
-http://45.92.69.202:1980/play/a0fx
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Maspero Zaman
-http://45.92.69.202:1980/play/a0hc
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Mazzika
-http://45.92.69.202:1980/play/a0hu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Misr Al Zera3eya
-http://45.92.69.202:1980/play/a0hs
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Mix
-http://45.92.69.202:1980/play/a0gl
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Mix One
-http://45.92.69.202:1980/play/a0he
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Cinema
-http://45.92.69.202:1980/play/a0hb
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Comedy
-http://45.92.69.202:1980/play/a0h6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Culture
-http://45.92.69.202:1980/play/a0g7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Drama
-http://45.92.69.202:1980/play/a0h8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Family
-http://45.92.69.202:1980/play/a0g6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Life
-http://45.92.69.202:1980/play/a0h7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile News
-http://45.92.69.202:1980/play/a0h5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile News HD
-http://45.92.69.202:1980/play/a0ha
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nile Sport
-http://45.92.69.202:1980/play/a0h9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Nogoum FM TV
-http://45.92.69.202:1980/play/a0i0
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| ON  E
-http://45.92.69.202:1980/play/a0hk
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| ON  E HD
-http://45.92.69.202:1980/play/a0hh
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| ON Drama
-http://45.92.69.202:1980/play/a0hm
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Resalet Alsalam
-http://45.92.69.202:1980/play/a0a5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| SHOOF AFLAM
-http://45.92.69.202:1980/play/a0a4
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| SHOOF MIX
-http://45.92.69.202:1980/play/a0a2
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| SHOOF MOSALSALAT
-http://45.92.69.202:1980/play/a0a3
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| SKY ACTION
-http://45.92.69.202:1980/play/a0a8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Sada El Balad
-http://45.92.69.202:1980/play/a0h1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Sada El Balad 2
-http://45.92.69.202:1980/play/a0h2
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| Sada ElBalad 3
-http://45.92.69.202:1980/play/a0h0
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| TeN TV
-http://45.92.69.202:1980/play/a0h4
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egyptien| shoof cinema
-http://45.92.69.202:1980/play/a0a1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
@@ -1856,39 +1528,6 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2" tvg-country="TN" tvg-language="Arabic" tvg-logo="" group-title="تونسTUNISIE",Watania 2 (400p)
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| AL-MUSTAKILA
-http://45.92.69.202:1980/play/a0cn
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Al Insen TV
-http://45.92.69.202:1980/play/a0fb
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Al JANOUBIA TV
-http://45.92.69.202:1980/play/a0f9
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Attessia TV
-http://45.92.69.202:1980/play/a0f5
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Carthage+
-http://45.92.69.202:1980/play/a0fa
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Elhiwar Ettounsi
-http://45.92.69.202:1980/play/a0f3
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| HANNIBAL TV
-http://45.92.69.202:1980/play/a0fc
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| ONT-TEST 1
-http://45.92.69.202:1980/play/a0fd
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| ONT-TEST 2
-http://45.92.69.202:1980/play/a0fe
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| TUNISNA
-http://45.92.69.202:1980/play/a0f4
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Telvza TV
-http://45.92.69.202:1980/play/a0f8
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Tunisia Educ1
-http://45.92.69.202:1980/play/a0f6
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Tunisia NAT 1
-http://45.92.69.202:1980/play/a0f2
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Tunisia NAT 2
-http://45.92.69.202:1980/play/a0f7
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| Tunisia Nat 2
-http://45.92.69.202:1980/play/a0hy
-#EXTINF:0 tvg-id="ext" group-title="تونسTUNISIE",Tunisie| ZAYTOONA
-http://45.92.69.202:1980/play/a0cm
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN
 https://bit.ly/3pWtmPO
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="الجزائرALGERIEN" ,Algeria 1 الأولى
@@ -2093,8 +1732,6 @@ https://bit.ly/3pWtmPO
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",SUDAN NOW 24
 http://45.94.31.195:7001/play/a0dh
-#EXTINF:0 tvg-id="ext" group-title="السودانSUDAN",Sudan TV
-http://45.94.31.195:7002/play/a0fq
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar 1 TV HD
@@ -2257,35 +1894,7 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",عدن
 http://82.212.74.5:8000/live/hls/7728.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| ADEN TV
-http://45.92.69.202:1980/play/a0ej
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| AIC
-http://45.92.69.202:1980/play/a0ht
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| Aden Almustakilla
-http://45.92.69.202:1980/play/a0cp
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| Aden Almustakilla
-http://45.92.69.202:1980/play/a0at
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| BELQEES
-http://45.92.69.202:1980/play/a0c1
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| BELQEES HD
-http://45.92.69.202:1980/play/a0av
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| SHEHAB TV
-http://45.92.69.202:1980/play/a0bz
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| SHEHAB TV HD
-http://45.92.69.202:1980/play/a0bo
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| YEMEN SHABAB
-http://45.92.69.202:1980/play/a0bv
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| Yemen
-http://45.92.69.202:1980/play/a0ft
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen| Yemen Today
-http://45.92.69.202:1980/play/a0fy
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen|Almahriah
-http://45.92.69.202:1980/play/a0ea
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen|Almahriah HD
-http://45.92.69.202:1980/play/a0eb
-#EXTINF:0 tvg-id="ext" group-title="اليمن Yemen",Yemen|SUHAIL TV
-http://45.92.69.202:1980/play/a0eh
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="الصومالSomalia‎",Horn Cable TV
