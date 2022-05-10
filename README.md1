@@ -170,23 +170,6 @@ http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="نتفليكسNETFLIX",omgseries
 http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="باقة 4G",باقة 4G
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext" group-title="باقة 4G",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",افلام
-http://45.94.31.190:7002/play/a0di
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G CIMA
-http://45.94.31.190:7002/play/a0ch
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G CINEMA
-http://45.94.31.190:7002/play/a0dj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G CLASSIC
-http://45.94.31.190:7002/play/a0cj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G DRAMA
-http://45.94.31.190:7002/play/a0ck
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G FILM
-http://45.94.31.190:7002/play/a0cl
-
 #EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE AFLAM
 http://149.62.183.214:8000/play/a03k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE ALWAN
@@ -213,48 +196,6 @@ http://149.62.183.214:8000/play/a042/index.m3u8
 http://149.62.183.214:8000/play/a033/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST TODAY
 http://149.62.183.214:8000/play/a03r/index.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT AFLAM
-http://45.94.31.190:7002/play/a0cs
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT ALYOOM
-http://45.94.31.190:7002/play/a0ct
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT CINEMA
-http://45.94.31.190:7002/play/a0cu
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT CLASSIC
-http://45.94.31.190:7002/play/a0cv
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةBEIRUT",BEIRUT DRAMA
-http://45.94.31.190:7002/play/a0cw
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA 1
-http://45.94.31.190:7002/play/a0d1
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA 2
-http://45.94.31.190:7002/play/a0d2
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",Drama 3
-http://45.94.31.195:7001/play/a0c5
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DRAMA ALWAN
-http://45.94.31.190:7002/play/a0d3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM 7KAYAT
-http://45.94.31.190:7003/play/a0cz
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM AFLAM
-http://45.94.31.190:7003/play/a0cn
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM CINEMA
-http://45.94.31.190:7003/play/a0cy
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM EL YOUM
-http://45.94.31.190:7003/play/a0ck
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM TURKY
-http://45.94.31.190:7003/play/a0cx
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةDRAMA",DREAM ZAMAN
-http://45.94.31.190:7003/play/a0cv
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF AFLAM
-http://45.94.31.190:7003/play/a0cs
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",shoof cinema
-http://45.94.31.190:7003/play/a0cp
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF DRAMA
-http://45.94.31.190:7002/play/a0df
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MIX
-http://45.94.31.190:7003/play/a0cq
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقةSHOOF",SHOOF MOSALSALAT
-http://45.94.31.190:7003/play/a0cr
 
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
@@ -2073,55 +2014,6 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="ليبياLIBYA",قناة الوسط - WTV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Abnaa Al Balad
-http://45.94.31.195:7001/play/a0cf
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Al Ahrar HD
-http://45.94.31.190:7002/play/a0bj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Almustaqbal TV
-http://45.94.31.195:7001/play/a0bn
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Channel (576p) [Not 24/7]
-https://master.starmena-cloud.com/hls/libyas.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Febrayer
-http://45.94.31.195:7001/play/a0c8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya LY
-http://45.94.31.190:7002/play/a0bw
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya WTV SD
-http://45.94.31.190:7002/play/a0c2
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYAS CHANNEL
-http://45.94.31.190:7002/play/a0a8
-
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",LIBYA ALHADATH HD
-http://45.94.31.195:7002/play/a0dv
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Alwataniya
-http://45.94.31.195:7002/play/a0fm
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Education
-http://45.94.31.195:7002/play/a0g3
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Sport 2 HD
-http://45.94.31.195:7002/play/a0g2
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Sport Channel
-http://45.94.31.195:7002/play/a0fn
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| AL JAMAHIRIA
-http://45.92.69.202:1980/play/a0ar
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| ALMASAR TV HD
-http://45.92.69.202:1980/play/a0bj
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| LEBDA TV
-http://45.92.69.202:1980/play/a0as
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| LIBYA BUSINESS HD
-http://45.92.69.202:1980/play/a0bk
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| LIBYA PANORAMA SD
-http://45.92.69.202:1980/play/a0c6
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| Libya Abnaa Al Balad
-http://45.92.69.202:1980/play/a0ee
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| Libya Almustaqbal TV
-http://45.92.69.202:1980/play/a0eo
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| Libya Alwataniya
-http://45.92.69.202:1980/play/a0ga
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| Libya Febrayer
-http://45.92.69.202:1980/play/a0e7
-#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libye| Libya Sport Channel
-http://45.92.69.202:1980/play/a0gb
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="السودانSUDAN",Sudan Bukra
@@ -2222,8 +2114,6 @@ https://edge.taghtia.com/sa/1.m3u8
 http://www.elahmad.com/tv/m3u8/online_live_12_tv.m3u8?id=saudi_thikrayat
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Saudi 24 TV 
-http://45.94.31.190:7002/play/a0a5
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Al_Ekhbaria
 http://www.elahmad.com/tv/m3u8/online_live_12_tv.m3u8?id=saudi_ekhbariya
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية Saudi-Arabia",Iqraa
