@@ -1042,10 +1042,15 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 #EXTM3U
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC2
 https://7jlive.tooli-tv.com/live/149010_.m3u8?token=
+#EXTINF:0 tvg-id="MBC4.net" group-title="احتياطي أم بي سيMBC",MBC 4
+https://7jlive.tooli-tv.com/live/149012_1.m3u8?session=&location=
 #EXTINF:0 tvg-id="MBCMax.net" group-title="احتياطي أم بي سيMBC",MBC MAX
 https://7jlive.tooli-tv.com/live/149015_.m3u8?token=
 #EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC ACTION
 https://7jlive.tooli-tv.com/live/149013_.m3u8?token=
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="احتياطي أم بي سيMBC",MBC Bollywood
+https://7jlive.tooli-tv.com/live/149014_1.m3u8?session=&location=
+
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
 http://45.92.69.134:8001/play/a01i/index.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
