@@ -1219,6 +1219,15 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LIB-Al Nabaa
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALJADEED TV HD+
+https://7jlive.tooli-tv.com/live/381_1.m3u8?session=&location=
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN+
+https://7jlive.tooli-tv.com/live/148003_1.m3u8?session=&location=
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International+
+https://7jlive.tooli-tv.com/live/469_1.m3u8?session=&location=
+#EXTINF:0 tvg-id="FutureTV.net" group-title="لبنانLEBANON",Future TV+
+https://7jlive.tooli-tv.com/live/700_1.m3u8?session=&location=
+
 #EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALJADEED TV HD
 http://45.92.69.146:35002/play/a005/index.m3u8
 #EXTINF:0 tvg-id="FutureTV.net" group-title="لبنانLEBANON",Future TV
