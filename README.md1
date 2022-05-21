@@ -1346,7 +1346,7 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="فلسطينPALESTINE",PAL-AlQuds
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3k7igs4" group-title="فلسطينPALESTINE",PAL-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xB2Xvo" group-title="فلسطينPALESTINE",PAL-Radio ALbalad
@@ -1383,8 +1383,6 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="الاردنJORDAN",ALmamlka TV 
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",,A one TV Jordan
-http://82.212.74.99:8000/live/8111.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",Jawhara FM
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",alhqeqa
@@ -1405,16 +1403,12 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="العراق IRAQ",IRQ-AL Sharqiya TV HD
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="العراق IRAQ",IRQ-AL Sharqiya News HD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="العراق IRAQ",IRQ-AL Sharqiya News HD
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364rE7I" group-title="العراق IRAQ",IRQ-AL Hurra HD
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="العراق IRAQ",IRQ-ALHurra IRAQ
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="العراق IRAQ",AL HURRA IRAQ +
-http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="العراق IRAQ",IRQ-IRAQIA الفضائية
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="العراق IRAQ",IRQ-Imam Hussein TV 2
@@ -1425,8 +1419,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ogf4ZG" group-title="العراق IRAQ", راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="العراق IRAQ",IRQ-IRAQIA الاخبارية
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq 24
 https://ghaasiflu.online/Iraq24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",iNEWS
@@ -1435,10 +1427,11 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",12Arabia
 http://149.62.183.214:8000/play/a0b0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Al Shabab Sport HD IQ
-http://95.216.180.111:1935/live/98/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",بلادي
 http://95.216.180.111:1935/live/68/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="العراق IRAQ",IRQ-IRAQIA الفضائية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="العراق IRAQ",IRQ-IRAQIA الاخبارية
+
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="العراق IRAQ",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
@@ -1461,24 +1454,6 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK CIMA
-http://5.39.189.40:8085/udp/229.0.0.5:1234
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="المصرية Egypt",MBC Drama
-http://5.39.189.40:8085/udp/229.0.0.7:1234
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CINEMA PRO
-http://5.39.189.40:8085/udp/229.0.0.6:1234
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Zamalek Sports
-http://5.39.189.40:8085/udp/229.0.0.12:1234
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc
-http://5.39.189.40:8085/udp/229.0.0.9:1234
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc masraheyat
-http://5.39.189.40:8085/udp/229.0.0.11:1234
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc drama
-http://5.39.189.40:8085/udp/229.0.0.10:1234
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
-http://5.39.189.40:8085/udp/229.0.0.13:1234
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
@@ -1558,8 +1533,6 @@ https://bit.ly/3pWtmPO
 http://217.182.137.206/elhiwar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="تونسTUNISIE",Nessma Ejdida
 http://217.182.137.206/nessma.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="تونسTUNISIE",Baya TV
-http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM
@@ -1779,10 +1752,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c7
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="السودانSUDAN",Sudan Bukra
-http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",SUDAN NOW 24
-http://45.94.31.195:7001/play/a0dh
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar 1 TV HD
@@ -1915,11 +1885,11 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="الامارات EMIRATES",DUB-Al Wousta HD 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="الامارات EMIRATES",DUB-Aldafrahtv 
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8?sd=10&rebase=on
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wKsq6s" group-title="الامارات EMIRATES",Alaan TV
+http://elahmad.ipslow.com:8080/alaan_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Expotv TV 2020
-https://shls-expotv-prod-dub.shahid.net/out/v1/d01b0b3888284878b8898017895a5922/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="اليمن Yemen",Yemen tv
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",كيف احصل على الكود
