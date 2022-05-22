@@ -1569,6 +1569,8 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DoAVXd" group-title="تونسTUNISIE",Watania 1
 http://elahmad.ipslow.com:8080/watania1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="تونسTUNISIE",Watania 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653201963/ei/y4eJYu2kK7uLvdIPkYuU6Ao/ip/37.59.71.101/id/V-CRrDqaM20.1/source/yt_live_broadcast/requiressl/yes/tx/24193953/txs/24193952%2C24193953%2C24193954/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_ilf-oAJtp7lSwGNGhL-gFv/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886216/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANLimb2CTYBqc4I0HRYy1ovNMs1TFK6q8sqdJ6R6_JPRAiAhkVZlkyLA0z083NKhhaONPZY4KnT3BQbLqiKkwRI6AQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="تونسTUNISIE",Watania 2+
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN
