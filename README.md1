@@ -1113,7 +1113,7 @@ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Syria Drama
 http://elahmad.ipslow.com:8080/syria_drama/tracks-v1a1/mono.m3u8
@@ -1127,7 +1127,7 @@ https://7jlive.tooli-tv.com/live/149096_1.m3u8?session=&location=
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 1)
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 1)
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 1)
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
@@ -1139,7 +1139,7 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 2)
 http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 2)
 http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria_news
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 2)
 http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria_drama
@@ -1151,7 +1151,7 @@ http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria_edu
 http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 3)
 http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 3)
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 3)
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
@@ -1169,9 +1169,9 @@ https://radioshamfm.grtvstream.com:8400/;
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="لبنانLEBANON",Al Ittihad SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lz7n1G" group-title="لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
@@ -1185,63 +1185,59 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3G6lSTW" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",New_Vision
-https://media1.livaat.com/live/New_Vision/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALalam
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LIB-Al Nabaa
-http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV Lebanon (Backup 1)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",MTV Lebanon (Backup 1)
 http://elahmad.ipslow.com:8080/mtv_lebanon/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 1)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 1)
 http://elahmad.ipslow.com:8080/AL_Jadeed/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",OTV (Backup 1)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV (Backup 1)
 http://elahmad.ipslow.com:8080/otv_lebanon/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International (Backup 1)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International (Backup 1)
 http://elahmad.ipslow.com:8080/lbc/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 2)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 2)
 https://7jlive.tooli-tv.com/live/381_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 2)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 2)
 https://7jlive.tooli-tv.com/live/470_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN (Backup 2)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN (Backup 2)
 https://7jlive.tooli-tv.com/live/148003_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International (Backup 2)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International (Backup 2)
 https://7jlive.tooli-tv.com/live/469_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="FutureTV.net" group-title="لبنانLEBANON",Future TV (Backup 2)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Future TV (Backup 2)
 https://7jlive.tooli-tv.com/live/700_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",OTV (Backup 2)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV (Backup 2)
 https://7jlive.tooli-tv.com/live/117_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 3)
 http://45.92.69.146:35002/play/a005/index.m3u8
-#EXTINF:0 tvg-id="FutureTV.net" group-title="لبنانLEBANON",Future TV (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Future TV (Backup 3)
 http://45.92.69.146:35002/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International (Backup 3)
 http://45.92.69.146:35002/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 3)
 http://45.92.69.146:35002/play/a002/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN (Backup 3)
 http://45.92.69.146:35002/play/a008/index.m3u8
-#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",OTV (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV (Backup 3)
 http://45.92.69.146:35002/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ONE.ca" group-title="لبنانLEBANON",One (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",One (Backup 3)
 http://45.92.69.146:35002/play/a003/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",Teleliban TV (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Teleliban TV (Backup 3)
 http://45.92.69.146:35002/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 4)
 http://45.92.69.134:8003/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 4)
 http://45.92.69.134:8003/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International (Backup 4)
 http://45.92.69.134:8003/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",NBN (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN (Backup 4)
 http://45.92.69.134:8003/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",OTV (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV (Backup 4)
 http://45.92.69.134:8003/play/a00g/index.m3u8
-#EXTINF:0 tvg-id="ort-hd" group-title="لبنانLEBANON",One HD (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",One HD (Backup 4)
 http://45.92.69.134:8003/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",Teleliban TV (Backup 4)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Teleliban TV (Backup 4)
 http://45.92.69.134:8003/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
@@ -1251,15 +1247,13 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://www.elahmad.com/tv/m3u8/online_live_13_tv.m3u8?id=alfajertv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",mawal
-http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ngg0uF" group-title="فلسطينPALESTINE",وكـالـة مـعـا الاخـبـارية
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="فلسطينPALESTINE",AWDAH TV
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N3DDwc" group-title="فلسطينPALESTINE",Rehan TV
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MMUxiu" group-title="فلسطينPALESTINE",PNN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wCglAi" group-title="فلسطينPALESTINE",PNN
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="فلسطينPALESTINE",Palestine-AL YAUM
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
@@ -1277,7 +1271,7 @@ http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="فلسطينPALESTINE",PAL-Palestinee TV
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vuon" group-title="فلسطينPALESTINE",Ajyal TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MHj02s" group-title="فلسطينPALESTINE",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pc1fwj" group-title="فلسطينPALESTINE",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
@@ -1289,7 +1283,7 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="فلسطينPALESTINE",PAL-Nbc Alnajah TV
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="فلسطينPALESTINE",قناه مكان
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MEQYo6" group-title="فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="فلسطينPALESTINE",PAL-AlQuds
 http://185.5.222.146:8081/live/habbq18/chunks.m3u8
@@ -1301,17 +1295,17 @@ http://live.masterweb-ps.com:8006/;mp3
 https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ARcgJS" group-title="فلسطينPALESTINE",PAL-nablus live
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",ShababFM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sMaSph" group-title="فلسطينPALESTINE",ShababFM
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",Nablus 1 live Z
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPqo3V" group-title="فلسطينPALESTINE",Nablus 1 live Z
 http://streaming.zaytonatube.com:8080/nb/nb/video.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",Nablus 2 live Z
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPqo3V" group-title="فلسطينPALESTINE",Nablus 2 live Z
 http://streaming.zaytonatube.com:8080/nablusmix2/nablusmix2/video.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",Quran Nablus Z
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPqo3V" group-title="فلسطينPALESTINE",Quran Nablus Z
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1group-title="فلسطينPALESTINE",horyaa1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",horyaa1
 http://vstream3.hadara.ps:8081/hrHD_web/web1/chunks.m3u8
-#EXTINF:-1group-title="فلسطينPALESTINE",horyaa3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",horyaa3
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="الاردنJORDAN",الاردنJORDAN
 https://bit.ly/3pWtmPO
@@ -1329,9 +1323,9 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="الاردنJORDAN",ALmamlka TV 
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",Jawhara FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPbcDI" group-title="الاردنJORDAN",Jawhara FM
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",alhqeqa
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PFc0oS" group-title="الاردنJORDAN",alhqeqa
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="العراق IRAQ",العراق IRAQ
 https://bit.ly/3pWtmPO
