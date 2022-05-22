@@ -1172,22 +1172,16 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY (Backup 1)
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="سوريةSyria",SYR- AmwajLive FM
-http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MSJkwG" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
-http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pOYOAp" group-title="سوريةSyria",KarmaLive FM
-http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="سوريةSyria",DimshqLive FM
-http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
-https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Syria Drama
+http://elahmad.ipslow.com:8080/syria_drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Syria TV
+http://elahmad.ipslow.com:8080/syria_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا (Backup 1)
@@ -1206,7 +1200,6 @@ http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا (Backup 1)
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 2)
 http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 2)
@@ -1217,7 +1210,6 @@ http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria_drama
 http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria_nour
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية (Backup 2)
 http://www.elahmad.com/tv/m3u8/syria_live_1_tv.m3u8?id=syria_edu
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya المحلية (Backup 3)
 http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 3)
@@ -1226,7 +1218,16 @@ http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 3)
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="سوريةSyria",SYR- AmwajLive FM
+http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MSJkwG" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
+http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pOYOAp" group-title="سوريةSyria",KarmaLive FM
+http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="سوريةSyria",DimshqLive FM
+http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
+https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
