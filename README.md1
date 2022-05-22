@@ -818,6 +818,8 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rdcg0X" group-title="الاخبارNEWS",IRQ-AL Hurra IRAQIA HD
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LBnkig" group-title="الاخبارNEWS",ALghad TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653203625/ei/SY6JYqbeLPr5xN8PoYexgAo/ip/37.59.71.101/id/RH4xsCzslO4.1/source/yt_live_broadcast/requiressl/yes/tx/24197277/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9tbVerZV2P82VCSc3BBaIzm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGMGKlSA8juvxtfdchzEO_yPzlHhJNePKDTKrW-nhfAECIQDnujHNy8H9rOKEGb7UlHmKWynPBDA9A0SW33lS8nz2Iw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
 http://185.236.229.50:8001/play/a027
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
