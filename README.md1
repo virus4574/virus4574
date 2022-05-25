@@ -1197,6 +1197,8 @@ http://elahmad.ipslow.com:8080/AL_Jadeed/tracks-v1a1/mono.m3u8
 http://elahmad.ipslow.com:8080/otv_lebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International (Backup 1)
 http://elahmad.ipslow.com:8080/lbc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC 2 (Backup 1)
+http://elahmad.ipslow.com:8080/lb2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 2)
 https://7jlive.tooli-tv.com/live/381_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 2)
