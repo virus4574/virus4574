@@ -55,6 +55,8 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="SSC SPORT",SSC 1 (Backup 1)
 https://7jlive.tooli-tv.com/live/60601_1.m3u8?session=&location=
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3a3Imcf" group-title="SSC SPORT",rotana masriya
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="SSC SPORT",SSC 2 
 http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="SSC SPORT",SSC 3 
@@ -1017,6 +1019,8 @@ http://elahmad.ipslow.com:8080/mbc_2_1/tracks-v1a1/mono.m3u8
 http://elahmad.ipslow.com:8080/mbc_4_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="احتياطي أم بي سيMBC",MBC MAX (Backup 2)
 http://elahmad.ipslow.com:8080/mbc_max_1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC ACTION (Backup 2)
+http://elahmad.ipslow.com:8080/mbc_action/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2 (Backup 3)
 http://45.92.69.134:8001/play/a01i/index.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2 (Backup 3)
@@ -1337,7 +1341,7 @@ http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sumari
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
-http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3O3obuC" group-title="العراق IRAQ",قناه الفرات
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD
@@ -1404,6 +1408,30 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",cbc_sofra
+http://elahmad.ipslow.com:8080/cbc_sofra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/cbc_news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/cbc_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/cbc_drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/alhayat_eg/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/elmehwar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/dmc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+http://elahmad.ipslow.com:8080/alrahma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
