@@ -140,7 +140,20 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة وياك VIP",B4U AFLAM
 https://7jlive.tooli-tv.com/live/290102_1.m3u8?session=&location=
-
+#EXTINF:0 tvg-id="ext" group-title="Omg Channel",▂ ▄ ▅ ▆☆ Omg Channel ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="Omg Channel",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Channel TV
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Muslim
+http://media6.smc-host.com:1935/omgchannel.net/omgmuslim/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Series
+http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Sport
+http://media6.smc-host.com:1935/omgchannel.net/omgsport/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Kids
+http://media6.smc-host.com:1935/omgchannel.net/omgkids/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FilmBox",▂ ▄ ▅ ▆☆ FilmBox ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="FilmBox",النسخة المدفوعة AirMax TV
@@ -193,10 +206,7 @@ https://bit.ly/34ooolI
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="نتفليكسNETFLIX",Ajyal TV SD
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uzUQNq" group-title="نتفليكسNETFLIX",OmgChannel
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="نتفليكسNETFLIX",omgseries
-http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE AFLAM
 http://149.62.183.214:8000/play/a03k/index.m3u8
@@ -1396,8 +1406,6 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 https://7jlive.tooli-tv.com/live/149198_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="المصرية Egypt",Omg Channel TV
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="المصرية Egypt",Mekameleen مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV
@@ -1408,28 +1416,20 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",cbc_sofra
 http://elahmad.ipslow.com:8080/cbc_sofra/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",cbc_news
 http://elahmad.ipslow.com:8080/cbc_news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",cbc_tv
 http://elahmad.ipslow.com:8080/cbc_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",cbc_drama
 http://elahmad.ipslow.com:8080/cbc_drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",alhayat_eg
 http://elahmad.ipslow.com:8080/alhayat_eg/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",elmehwar
 http://elahmad.ipslow.com:8080/elmehwar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",dmc
 http://elahmad.ipslow.com:8080/dmc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",alrahma
 http://elahmad.ipslow.com:8080/alrahma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
