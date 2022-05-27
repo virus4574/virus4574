@@ -55,8 +55,6 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="SSC SPORT",SSC 1 (Backup 1)
 https://7jlive.tooli-tv.com/live/60601_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3a3Imcf" group-title="SSC SPORT",rotana masriya
-https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="SSC SPORT",SSC 2 
 http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="SSC SPORT",SSC 3 
@@ -1051,7 +1049,7 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="روتانا ROTANA",Rotana Classic SD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD (Backup 1)
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="روتانا ROTANA",Rotana Khalijia SD
