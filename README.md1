@@ -1146,23 +1146,13 @@ http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا (Backup 1)
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 2)
-http://www.elahmad.com/tv/m3u8/syria_live_2_tv.m3u8?id=syria
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 2)
-http://www.elahmad.com/tv/m3u8/syria_live_2_tv.m3u8?id=syria_news
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 2)
-http://www.elahmad.com/tv/m3u8/syria_live_2_tv.m3u8?id=syria_drama
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/nour_logo.png" group-title="سوريةSyria",Nour Eshham نور الشام (Backup 2)
-http://www.elahmad.com/tv/m3u8/syria_live_2_tv.m3u8?id=syria_nour
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية (Backup 2)
-http://www.elahmad.com/tv/m3u8/syria_live_2_tv.m3u8?id=syria_edu
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya المحلية (Backup 3)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريةSyria",Al Mahliya المحلية (Backup 2)
 http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 3)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 2)
 http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 2)
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 3)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="سوريةSyria",Drama دراما (Backup 2)
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
@@ -1254,8 +1244,6 @@ http://45.92.69.134:8003/play/a00k/index.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 1
-http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=alfajertv&t=e06d2a23f37972991bf5265b99b8dab2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ngg0uF" group-title="فلسطينPALESTINE",وكـالـة مـعـا الاخـبـارية
@@ -1344,8 +1332,6 @@ https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="العراق IRAQ",Al Sumaria
-http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sumari&t=e06d2a23f37972991bf5265b99b8dab2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
@@ -1817,15 +1803,9 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc
-http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sbc_tv&t=e06d2a23f37972991bf5265b99b8dab2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc+
 https://edge.taghtia.com/sa/1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="السعودية Saudi-Arabia",SAU-THIKRAYAT
-http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_thikrayat&t=e06d2a23f37972991bf5265b99b8dab2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Al_Ekhbaria
-http://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_ekhbariya&t=e06d2a23f37972991bf5265b99b8dab2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية Saudi-Arabia",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية Saudi-Arabia",Iqraa Europe Africa
