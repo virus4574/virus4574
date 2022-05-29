@@ -615,6 +615,47 @@ https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE",TF1
+https://cdn.mmsiptv.com/live/tf1/chunks.m3u8
+#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE",FRANCE 2
+https://cdn.mmsiptv.com/live/france2/chunks.m3u8
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE",FRANCE 3
+https://cdn.mmsiptv.com/live/france3/chunks.m3u8
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE",FRANCE 4
+https://cdn.mmsiptv.com/live/france4/chunks.m3u8
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE",FRANCE 5
+https://cdn.mmsiptv.com/live/france5/chunks.m3u8
+#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE",M6
+https://s4.tntendirect.com/m6/live/chunks.m3u8
+#EXTINF:0 tvg-id="ARTE.de" group-title="FRANCE",arte
+https://s4.tntendirect.com/arte/live/chunks.m3u8
+#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE",C8
+https://s4.tntendirect.com/d8/live/chunks.m3u8
+#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE",W9
+https://s4.tntendirect.com/w9/live/chunks.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="FRANCE",TMC
+https://s4.tntendirect.com/tmc/live/chunks.m3u8
+#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE",TFX
+https://s4.tntendirect.com/nt1/live/chunks.m3u8
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE",NRJ12
+https://s4.tntendirect.com/nrj12/live/chunks.m3u8
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE",BFMTV
+https://s4.tntendirect.com/bmftv/live/chunks.m3u8
+#EXTINF:0 tvg-id="CNews.fr" group-title="FRANCE",CNEWS
+https://s4.tntendirect.com/cnews/live/chunks.m3u8
+#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE",CSTAR
+https://s2.tntendirect.com/d17/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",TF1 SERIE FILM
+https://s4.tntendirect.com/hd1/live/chunks.m3u8
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",L'EQUIPE
+https://s4.tntendirect.com/lequipe21/live/chunks.m3u8
+#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",6ter
+https://s4.tntendirect.com/6ter/live/chunks.m3u8
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",RMC DECOUVERTE
+https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",CHERIE 25
+https://s4.tntendirect.com/cherie25/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://bit.ly/3uwriCj" group-title="FRANCE",TF1 Series Films
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/dw5SQoD.png" group-title="FRANCE",Amuse Animation
