@@ -1778,8 +1778,14 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PInS9o" group-title="السعودية Saudi-Arabia",sbc
 https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LZF332" group-title="السعودية Saudi-Arabia",Thikrayat TV
+https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PIOcAp" group-title="السعودية Saudi-Arabia",Al Ekhbariya
+https://edge.taghtia.com/sa/4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3m0LLeB" group-title="السعودية Saudi-Arabia",Al Quran Al Kareem TV
+https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية Saudi-Arabia",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="السعودية Saudi-Arabia",Iqraa Europe Africa
@@ -1788,17 +1794,19 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Md9nOO" group-title="السعودية Saudi-Arabia",مكة TV
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2hA2D" group-title="السعودية Saudi-Arabia",Quran
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NFINYW" group-title="السعودية Saudi-Arabia",Al Sunnah 
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة السعودية
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wOpK80" group-title="السعودية Saudi-Arabia",اذاعة السعودية
 https://edge.taghtia.com/sa/11.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة الرياض
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t03oze" group-title="السعودية Saudi-Arabia",اذاعة الرياض
 https://edge.taghtia.com/sa/12.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة القران الكريم السعودية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsQWO9" group-title="السعودية Saudi-Arabia",اذاعة القران الكريم السعودية
 https://edge.taghtia.com/sa/13.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة نداء الاسلام
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GwSOVX" group-title="السعودية Saudi-Arabia",اذاعة نداء الاسلام
 https://edge.taghtia.com/sa/14.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",اذاعة جدة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z2GN96" group-title="السعودية Saudi-Arabia",اذاعة جدة
 https://edge.taghtia.com/sa/15.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="الامارات EMIRATES",الامارات EMIRATES 
 https://bit.ly/3pWtmPO
@@ -1830,7 +1838,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wKsq6s" group-title="الامارات EMIRATES",Alaan TV
 http://elahmad.ipslow.com:8080/alaan_tv_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Yas TV 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZTxvW" group-title="الامارات EMIRATES",Yas TV 
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="اليمن Yemen",Yemen tv
 https://bit.ly/3pWtmPO
