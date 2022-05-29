@@ -322,16 +322,6 @@ http://185.236.229.50:8001/play/a042
 http://185.236.229.50:8001/play/a044
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
 http://185.236.229.50:8001/play/a040
-
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ONTIME SPORTS
-http://45.92.69.134:8001/play/a02k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ONTIME SPORTS HD
-http://45.92.69.134:8001/play/a02h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ONTIME SPORTS2
-http://45.92.69.134:8001/play/a02i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ONTIME SPORTS2 HD
-http://45.92.69.134:8001/play/a02f/index.m3u8
-
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/bdEwdYQ.png",[$]SUPER SPORT 1HD
 https://sports.cdn-stream.com:30443/live/ss1/playlist.m3u8
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/jC1wjV5.png",[$]SUPER SPORT 2HD
@@ -1027,24 +1017,6 @@ http://elahmad.ipslow.com:8080/mbc_4_1/tracks-v1a1/mono.m3u8
 http://elahmad.ipslow.com:8080/mbc_max_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC ACTION (Backup 2)
 http://elahmad.ipslow.com:8080/mbc_action/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2 (Backup 3)
-http://45.92.69.134:8001/play/a01i/index.m3u8
-#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2 (Backup 3)
-http://45.92.69.134:8001/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="MBC3.net" group-title="احتياطي أم بي سيMBC",MBC 3 (Backup 3)
-http://45.92.69.134:8001/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="MBC4.net" group-title="احتياطي أم بي سيMBC",MBC 4 (Backup 3)
-http://45.92.69.134:8001/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC 5 (Backup 3)
-http://45.92.69.134:8001/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC Action (Backup 3)
-http://45.92.69.134:8001/play/a00g/index.m3u8
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="احتياطي أم بي سيMBC",MBC Bollywood (Backup 3)
-http://45.92.69.134:8001/play/a00j/index.m3u8
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="احتياطي أم بي سيMBC",MBC Drama (Backup 3)
-http://45.92.69.134:8001/play/a00k/index.m3u8
-#EXTINF:0 tvg-id="MBCMax.net" group-title="احتياطي أم بي سيMBC",MBC MAX (Backup 3)
-http://45.92.69.134:8001/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
