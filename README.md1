@@ -1098,7 +1098,7 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Syria Drama
 http://elahmad.ipslow.com:8080/syria_drama_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",Syria TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Syria TV
 http://elahmad.ipslow.com:8080/syria_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
@@ -1106,7 +1106,7 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 https://7jlive.tooli-tv.com/live/149096_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية (Backup 1)
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="سوريةSyria",Essouriya السورية (Backup 1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية (Backup 1)
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 1)
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
@@ -1114,9 +1114,9 @@ http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام (Backup 1)
 http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريةSyria",Ettarbawiya التربوية (Backup 1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريةSyria",Ettarbawiya التربوية (Backup 1)
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريةSyria",Souryana سوريانا (Backup 1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا (Backup 1)
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية (Backup 2)
 http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
@@ -1126,15 +1126,15 @@ http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما (Backup 2)
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="سوريةSyria",SYR- AmwajLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MSJkwG" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
 http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pOYOAp" group-title="سوريةSyria",KarmaLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",KarmaLive FM
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="سوريةSyria",DimshqLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",DimshqLive FM
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
