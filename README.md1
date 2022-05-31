@@ -322,6 +322,20 @@ http://185.236.229.50:8001/play/a042
 http://185.236.229.50:8001/play/a044
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
 http://185.236.229.50:8001/play/a040
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_1
+http://194.76.186.151:20011/play/Polsat_Sport_Premium_1
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_2
+http://194.76.186.151:20011/play/Polsat_Sport_Premium_2
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV3
+http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV3
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV4
+http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV4
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV5
+http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV5
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV6
+http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV6
+
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/bdEwdYQ.png",[$]SUPER SPORT 1HD
 https://sports.cdn-stream.com:30443/live/ss1/playlist.m3u8
 #EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/jC1wjV5.png",[$]SUPER SPORT 2HD
