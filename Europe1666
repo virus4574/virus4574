@@ -3825,6 +3825,38 @@ https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:0 tvg-id="SmashTV.mt" group-title="Malta",Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
 
+
+
+#EXTINF:-1 group-title="Hungary", RTL Klub HD
+https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 group-title="Hungary", RTL2 HD
+https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 group-title="Hungary", RTL Gold
+https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 group-title="Hungary", RTL+
+https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Cool HD
+https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Film+ HD
+https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Sorozat+
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1 group-title="Hungary", RTL Klub 
+https://stream.y5.hu:443/stream/stream_rtlklub/hls0/stream.m3u8
+#EXTINF:-1 group-title="Hungary", RTL2 
+https://stream.y5.hu:443/stream/stream_rtl2/hls0/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Cool 
+https://stream.y5.hu:443/stream/stream_cool/hls0/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Film+ 
+https://stream.y5.hu:443/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 group-title="Hungary", Muzsika TV
+https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
+#EXTINF:-1 group-title="Hungary", 7.Tv
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Hungary",Apostol TV
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
@@ -3846,7 +3878,6 @@ https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
 #EXTINF:0 tvg-id="Hatoscsatorna.hu" group-title="Hungary",Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Hungary",Kecskemeti TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hungary",Komlós TV
@@ -4041,6 +4072,16 @@ https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playl
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK1
+http://162.55.88.21/rtk1stream/rtk1.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK2
+http://162.55.88.21/rtk2stream/rtk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK3
+http://162.55.88.21/rtk3stream/rtk3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK4
+http://162.55.88.21/rtk4stream/rtk4.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK1 SAT
+http://162.55.88.21/rtksatstream/rtksat.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",ABC News
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Albania",AlbUK TV
@@ -4095,12 +4136,6 @@ https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Albania",RTV SCAN
 http://edge01eu.ekranet.com/scantv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 2 (406p)
-https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 1
-https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",Zjarr Televizion
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Argentina",5TV (Corrientes)
