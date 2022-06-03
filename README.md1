@@ -738,9 +738,7 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3aABDDB" group-title="الاخبارNEWS",WATAN HD
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="الاخبارNEWS",FRANCE 24 HD
-http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="الاخبارNEWS",FRANCE 24 HD+
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+http://149.62.183.214:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j27VuW" group-title="الاخبارNEWS",DW ARABIC HD
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="الاخبارNEWS",AL KHALIJ HD
