@@ -1108,6 +1108,8 @@ https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما (Backup 1)
+http://elahmad.ipslow.com:8080/samatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Syria Drama
 http://elahmad.ipslow.com:8080/syria_drama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Syria TV
