@@ -34,6 +34,36 @@ https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?to
 https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-name="beIN AFC 3 HD" tvg-id="beINSPORT" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN AFC 3 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN 1 PREMIUM HD+
+#EXTVLCOPT:http-referer=http://213.202.230.51:25461
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN 2 PREMIUM HD+
+#EXTVLCOPT:http-referer=http://213.202.230.51:25461
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/9
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN 3 PREMIUM HD+
+#EXTVLCOPT:http-referer=http://213.202.230.51:25461
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/10
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 1 HD+
+#EXTVLCOPT:http-referer=http://89.163.251.5:80
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/11
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 2 HD+
+#EXTVLCOPT:http-referer=http://89.163.251.5:80
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/12
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 3 HD+
+#EXTVLCOPT:http-referer=http://89.163.251.5:80
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/13
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 4 HD+
+#EXTVLCOPT:http-referer=http://89.163.251.5:80
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://213.202.230.51:25461/live_sport/live_sport_ios/14
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
