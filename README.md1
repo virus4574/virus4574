@@ -32,44 +32,12 @@ http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
 http://149.62.183.214:8000/play/a0fq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
-http://193.228.193.179:8000/play/a01o
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
-http://193.228.193.179:8000/play/a01p
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
-http://193.228.193.179:8000/play/a01q
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
 http://149.62.183.214:8000/play/a0fv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
 http://149.62.183.214:8000/play/a0fx/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
 http://149.62.183.214:8000/play/a0fz/index.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
-http://193.228.193.179:8000/play/a01n
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
-http://193.228.193.179:8000/play/a01o
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
-http://193.228.193.179:8000/play/a01p
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
-http://193.228.193.179:8000/play/a01q
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
-http://193.228.193.179:8000/play/a01r
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
-http://193.228.193.179:8000/play/a01s
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
-http://193.228.193.179:8000/play/a01t
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC1
-http://45.92.69.134:8003/play/a023/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC5
-http://45.92.69.134:8003/play/a02k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC6
-http://45.92.69.134:8003/play/a02m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC7
-http://45.92.69.134:8003/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
