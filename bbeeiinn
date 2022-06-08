@@ -48,3 +48,87 @@ https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
 https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 English HD
+http://195.154.242.24:8001/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 English SD
+http://195.154.242.24:8001/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 FHD
+http://195.154.242.24:8001/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 French HD
+http://195.154.242.24:8001/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 French SD
+http://195.154.242.24:8001/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 HD
+http://195.154.242.24:8001/play/a001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 Premium SD
+http://195.154.242.24:8001/play/a00p/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 SD
+http://195.154.242.24:8001/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 4K
+http://195.154.242.24:8001/play/a017/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 English HD
+http://195.154.242.24:8001/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 English SD
+http://195.154.242.24:8001/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 FHD
+http://195.154.242.24:8001/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 French HD
+http://195.154.242.24:8001/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 Premium FHD
+http://195.154.242.24:8001/play/a014/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 Premium HD
+http://195.154.242.24:8001/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 Premium SD
+http://195.154.242.24:8001/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 SD
+http://195.154.242.24:8001/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 4K
+http://195.154.242.24:8001/play/a018/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 FHD
+http://195.154.242.24:8001/play/a011/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 HD
+http://195.154.242.24:8001/play/a005/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 Premium FHD
+http://195.154.242.24:8001/play/a015/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 SD
+http://195.154.242.24:8001/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4 FHD
+http://195.154.242.24:8001/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4 HD
+http://195.154.242.24:8001/play/a006/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4 SD
+http://195.154.242.24:8001/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5 4K
+http://195.154.242.24:8001/play/a01a/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5 FHD
+http://195.154.242.24:8001/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5 HD
+http://195.154.242.24:8001/play/a007/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6 FHD
+http://195.154.242.24:8001/play/a010/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6 HD
+http://195.154.242.24:8001/play/a008/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6 SD
+http://195.154.242.24:8001/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7 FHD
+http://195.154.242.24:8001/play/a012/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7 HD
+http://195.154.242.24:8001/play/a009/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7 SD
+http://195.154.242.24:8001/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports English 1 4K
+http://195.154.242.24:8001/play/a01g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports English 2 4K
+http://195.154.242.24:8001/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="BeINSports.es" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports HD
+http://195.154.242.24:8001/play/a003/index.m3u8
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports NBA HD
+http://195.154.242.24:8001/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports News HD
+http://195.154.242.24:8001/play/a002/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 1 4K
+http://195.154.242.24:8001/play/a01d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 2 4K
+http://195.154.242.24:8001/play/a01e/index.m3u8
