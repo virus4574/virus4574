@@ -1171,6 +1171,8 @@ http://45.92.69.134:8003/play/a00g/index.m3u8
 http://45.92.69.134:8003/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mnzAcr" group-title="لبنانLEBANON",Teleliban TV (Backup 4)
 http://45.92.69.134:8003/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mnzAcr" group-title="لبنانLEBANON",Teleliban TV (Backup 4)+
+http://www.elahmad.com/tv/hls/catiacast_1.php?id=tele_liban
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
