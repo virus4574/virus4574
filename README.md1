@@ -543,6 +543,15 @@ http://elahmad.ipslow.com:8080/ssc_6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="SSC SPORT",SSC 7 
 http://elahmad.ipslow.com:8080/ssc_7/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="SSC SPORT",SSC 1 
+http://149.62.183.214:8000/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="SSC SPORT",SSC 5 
+http://149.62.183.214:8000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="SSC SPORT",SSC 6 
+http://149.62.183.214:8000/play/a0fx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="SSC SPORT",SSC 7 
+http://149.62.183.214:8000/play/a0fz/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
 http://149.62.183.214:8000/play/a0fq/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
@@ -743,6 +752,8 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899-b/MBN_Iraq_Worldsafe
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
 http://185.236.229.50:8001/play/a027
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY+
+http://149.62.183.214:8000/play/a0gh/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",كيف احصل على الكود
@@ -1004,7 +1015,9 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD
 https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD (Backup 1)
-
+http://149.62.183.214:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnOi05" group-title="روتانا ROTANA",Rotana Comedy
+http://149.62.183.214:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GuEuNG" group-title="روتانا ROTANA",Rotana Khalijia SD
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LXDK4T" group-title="روتانا ROTANA",Rotana Kids SD
