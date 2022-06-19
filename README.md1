@@ -90,6 +90,10 @@ http://185.236.229.50:8001/play/a042
 http://185.236.229.50:8001/play/a044
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
 http://185.236.229.50:8001/play/a040
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ZDF Sport SD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/14c679d2722189b19b894fe668e92605/4/4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ZDF Sport HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/14c679d2722189b19b894fe668e92605/3/3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",SPORT TV + 🇵🇹
 http://89.114.126.46:4000/play/a00f
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",SPORT TV 1 HD 🇵🇹
