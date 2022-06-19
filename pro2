@@ -868,26 +868,12 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="8 أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-id="MBC1.net" group-title="8احتياطي أم بي سيMBC",MBC1 (Backup 1)
-https://7jlive.tooli-tv.com/live/149009_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBC2.net" group-title="8احتياطي أم بي سيMBC",MBC2 (Backup 1)
-https://7jlive.tooli-tv.com/live/149010_.m3u8?token=
-#EXTINF:0 tvg-id="MBC4.net" group-title="8احتياطي أم بي سيMBC",MBC 4 (Backup 1)
-https://7jlive.tooli-tv.com/live/149012_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="MBCMax.net" group-title="8احتياطي أم بي سيMBC",MBC MAX (Backup 1)
-https://7jlive.tooli-tv.com/live/149015_.m3u8?token=
-#EXTINF:0 tvg-id="MBCAction.net" group-title="8احتياطي أم بي سيMBC",MBC ACTION (Backup 1)
-https://7jlive.tooli-tv.com/live/149013_.m3u8?token=
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="8احتياطي أم بي سيMBC",MBC Bollywood (Backup 1)
-https://7jlive.tooli-tv.com/live/149014_1.m3u8?session=&location=
-
 #EXTINF:0 tvg-id="MBC2.net" group-title="8احتياطي أم بي سيMBC",MBC 2 (Backup 2)
-http://elahmad.ipslow.com:8080/mbc_2_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_mbc_2_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBC4.net" group-title="8احتياطي أم بي سيMBC",MBC 4 (Backup 2)
-http://elahmad.ipslow.com:8080/mbc_4_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_mbc_4_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="8احتياطي أم بي سيMBC",MBC MAX (Backup 2)
-http://elahmad.ipslow.com:8080/mbc_max_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_mbc_max_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="8احتياطي أم بي سيMBC",MBC 2 (Backup 3)
 http://45.92.69.134:8001/play/a01i/index.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="8احتياطي أم بي سيMBC",MBC 2 (Backup 3)
@@ -927,8 +913,6 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="9 روتانا ROTANA",Rotana+ SD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnOi05" group-title="9 روتانا ROTANA",Rotana comedy
-https://7jlive.tooli-tv.com/live/701_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="9 روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="9 روتانا ROTANA",MUS:AR-RADIO ROTANA
@@ -986,13 +970,11 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",قناه سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="10سوريةSyria",Syria Drama
-http://elahmad.ipslow.com:8080/syria_drama_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_syria_drama_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="10سوريةSyria",Syria TV
-http://elahmad.ipslow.com:8080/syria_tv_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_syria_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="10سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="10سوريةSyria",Lana لـــنـــا (Backup 1)
-https://7jlive.tooli-tv.com/live/149096_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="10سوريةSyria",Al Mahliya المحلية (Backup 1)
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="10سوريةSyria",Essouriya السورية (Backup 1)
@@ -1064,25 +1046,13 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="11 لبنانLEBANON",LIB-Al Nabaa
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",MTV Lebanon (Backup 1)
-http://elahmad.ipslow.com:8080/mtv_lebanon_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_mtv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 1)
-http://elahmad.ipslow.com:8080/AL_Jadeed_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_AL_Jadeed_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="o-tv" group-title="11 لبنانLEBANON",OTV (Backup 1)
-http://elahmad.ipslow.com:8080/otv_lebanon_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_otv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",LBC International (Backup 1)
-http://elahmad.ipslow.com:8080/lbc_1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 2)
-https://7jlive.tooli-tv.com/live/381_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",MTV Lebanon HD (Backup 2)
-https://7jlive.tooli-tv.com/live/470_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",NBN (Backup 2)
-https://7jlive.tooli-tv.com/live/148003_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",LBC International (Backup 2)
-https://7jlive.tooli-tv.com/live/469_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="FutureTV.net" group-title="11 لبنانLEBANON",Future TV (Backup 2)
-https://7jlive.tooli-tv.com/live/700_1.m3u8?session=&location=
-#EXTINF:0 tvg-id="o-tv" group-title="11 لبنانLEBANON",OTV (Backup 2)
-https://7jlive.tooli-tv.com/live/117_1.m3u8?session=&location=
+http://elahmad.ipslow.com:8080/aaa_2_lbc_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 3)
 http://45.92.69.146:35002/play/a005/index.m3u8
 #EXTINF:0 tvg-id="FutureTV.net" group-title="11 لبنانLEBANON",Future TV (Backup 3)
@@ -1267,8 +1237,6 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="15 المصرية Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="alnahar" tvg-logo="" group-title="15 المصرية Egypt",alnahar
-https://7jlive.tooli-tv.com/live/149198_1.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="15 المصرية Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="15 المصرية Egypt",Omg Channel TV
@@ -1378,7 +1346,7 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="17 تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DoAVXd" group-title="17 تونسTUNISIE",Watania 1
-http://elahmad.ipslow.com:8080/watania1_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_watania1_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="17 تونسTUNISIE",Watania 2+
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
@@ -1582,14 +1550,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c7
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="19 السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="19 السودانSUDAN",Sudan TV
-https://7jlive.tooli-tv.com/live/148165_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="19 السودانSUDAN",Sudan Sport
-https://7jlive.tooli-tv.com/live/60132_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="19 السودانSUDAN",Sudan Music
-https://7jlive.tooli-tv.com/live/60137_1.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="19 السودانSUDAN",Sudan Drama
-https://7jlive.tooli-tv.com/live/60135_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="21 قطر Qatar",Qatar TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="21 قطر Qatar",Qatar 1 TV HD
@@ -1733,7 +1693,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv 
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wKsq6s" group-title="26 الامارات EMIRATES",Alaan TV
-http://elahmad.ipslow.com:8080/alaan_tv_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_2_alaan_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="27 اليمن Yemen",Yemen tv
