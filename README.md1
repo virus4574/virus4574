@@ -49,6 +49,8 @@ https://edge.taghtia.com/sa/9.m3u8
 https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x7yDZU" group-title="رياضية SPORT",jordan_sport
 http://elahmad.ipslow.com:8080/aaa_4_jordan_sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39DYIbY" group-title="رياضية SPORT",iraq_sport
+http://elahmad.ipslow.com:8080/aaa_4_iraq_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="رياضية SPORT",Abu Dhabi Sports 2
@@ -1355,6 +1357,8 @@ https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39DYIbY" group-title="العراق IRAQ",iraq_sport
+http://elahmad.ipslow.com:8080/aaa_4_iraq_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
