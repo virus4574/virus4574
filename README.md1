@@ -827,6 +827,8 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worlds
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899-b/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="الاخبارNEWS",Alsharq
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
+https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
 http://185.236.229.50:8001/play/a027
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY+
@@ -1156,7 +1158,7 @@ https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما
-http://stream5.sama-tv.net/hls/stream_high/index.m3u8
+http://142.132.224.85:1935/live/_definst_/smil:mystream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما (Backup 1)
 http://elahmad.ipslow.com:8080/aaa_3_samatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Syria Drama
@@ -1225,6 +1227,8 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 http://elahmad.ipslow.com:8080/aaa_3_mtv_lebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 1)
 http://elahmad.ipslow.com:8080/aaa_3_aljadeed_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV (Backup 1)
+http://elahmad.ipslow.com:8080/aaa_3_future/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV (Backup 1)
 http://elahmad.ipslow.com:8080/aaa_3_otv_lebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International (Backup 1)
@@ -1421,6 +1425,35 @@ http://elahmad.ipslow.com:8080/aaa_3_elmehwar/tracks-v1a1/mono.m3u8
 http://elahmad.ipslow.com:8080/aaa_3_dmc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYq04i" group-title="المصرية Egypt",alrahma
 http://elahmad.ipslow.com:8080/aaa_3_alrahma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",الفضائيه المصريه
+http://elahmad.ipslow.com:8080/aaa_3_egypt_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",الفضائيه المصريه 2
+http://elahmad.ipslow.com:8080/aaa_3_al_thaniya_eg/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",ON TV
+http://elahmad.ipslow.com:8080/aaa_3_ontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",on sport
+http://elahmad.ipslow.com:8080/aaa_3_on_sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",on_drama
+http://elahmad.ipslow.com:8080/aaa_3_on_drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",nile_news
+http://elahmad.ipslow.com:8080/aaa_3_nile_news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",nile_tv
+http://elahmad.ipslow.com:8080/aaa_3_nile_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",nile_cinema
+http://elahmad.ipslow.com:8080/aaa_3_nile_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",nile_life
+http://elahmad.ipslow.com:8080/aaa_3_nile_life/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",صدى البلد
+http://elahmad.ipslow.com:8080/aaa_3_elbaladtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",alahly_tv
+http://elahmad.ipslow.com:8080/aaa_3_alahly_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
@@ -1496,12 +1529,28 @@ https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="تونسTUNISIE",تونسTUNISIE
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",alinsen
+http://elahmad.ipslow.com:8080/aaa_3_alinsen/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",telvza
+http://elahmad.ipslow.com:8080/aaa_3_telvza/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",الحوار التونسي
-http://217.182.137.206/elhiwar.m3u8
+http://elahmad.ipslow.com:8080/aaa_3_elhiwar_ettounsi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="تونسTUNISIE",Nessma Ejdida
-http://217.182.137.206/nessma.m3u8
+http://elahmad.ipslow.com:8080/aaa_3_nessma/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",hannibal
+http://elahmad.ipslow.com:8080/aaa_3_hannibal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",zitouna
+http://elahmad.ipslow.com:8080/aaa_3_zitouna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",aljanoubiya
+http://elahmad.ipslow.com:8080/aaa_3_aljanoubiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",almustakillah
+http://elahmad.ipslow.com:8080/aaa_3_almustakillah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",attessia
+http://elahmad.ipslow.com:8080/aaa_3_attessia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",tunisna
+http://elahmad.ipslow.com:8080/aaa_3_tunisna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM
 https://radio.shemsfm.net/shems
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="تونسTUNISIE",TUNISIE راديو جوهرة
@@ -1512,9 +1561,15 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DoAVXd" group-title="تونسTUNISIE",Watania 1
 http://elahmad.ipslow.com:8080/aaa_3_watania1_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="تونسTUNISIE",Watania 2
+http://elahmad.ipslow.com:8080/aaa_3_watania2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="تونسTUNISIE",Watania 2+
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="تونسTUNISIE",Nessma Ejdida
+http://217.182.137.206/nessma.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",الحوار التونسي
+http://217.182.137.206/elhiwar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN
 https://bit.ly/3pWtmPO
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="الجزائرALGERIEN" ,Algeria 1 الأولى
@@ -1719,6 +1774,14 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c7
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",blue_nile
+http://elahmad.ipslow.com:8080/aaa_3_blue_nile/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",khartoum
+http://elahmad.ipslow.com:8080/aaa_3_khartoum/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",sudania24
+http://elahmad.ipslow.com:8080/aaa_3_sudania24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودانSUDAN",sudan_bukra
+http://elahmad.ipslow.com:8080/aaa_3_sudan_bukra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar 1 TV HD
@@ -2362,6 +2425,8 @@ https://video1.getstreamhosting.com:1936/8484_1/8484_1/chunklist.m3u8
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",mawda
 http://82.212.74.98:8000/live/7821.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اسلاميةIslami",قناه الفتح
+https://alfat7-tv.com:5443/LiveApp/streams/620557409296623865738787.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="اسلاميةIslami",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3efx1Ge" group-title="اسلاميةIslami",Daawah TV
