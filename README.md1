@@ -47,6 +47,8 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz2.smil/playlist.m3u
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",ksa الرياضية 2
 https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x7yDZU" group-title="رياضية SPORT",jordan_sport
+http://elahmad.ipslow.com:8080/aaa_4_jordan_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="رياضية SPORT",Abu Dhabi Sports 2
@@ -1335,6 +1337,8 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ycdf8J" group-title="الاردنJORDAN",JR-Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x7yDZU" group-title="الاردنJORDAN",jordan_sport
+http://elahmad.ipslow.com:8080/aaa_4_jordan_sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="الاردنJORDAN",Amman tv SD
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="الاردنJORDAN",Amman tv 
