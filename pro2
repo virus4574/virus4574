@@ -1032,20 +1032,6 @@ http://45.92.69.146:35002/play/a007/index.m3u8
 http://45.92.69.146:35002/play/a003/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",Teleliban TV (Backup 3)
 http://45.92.69.146:35002/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 4)
-http://45.92.69.134:8003/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",MTV Lebanon HD (Backup 4)
-http://45.92.69.134:8003/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",LBC International (Backup 4)
-http://45.92.69.134:8003/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",NBN (Backup 4)
-http://45.92.69.134:8003/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="o-tv" group-title="11 لبنانLEBANON",OTV (Backup 4)
-http://45.92.69.134:8003/play/a00g/index.m3u8
-#EXTINF:0 tvg-id="ort-hd" group-title="11 لبنانLEBANON",One HD (Backup 4)
-http://45.92.69.134:8003/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",Teleliban TV (Backup 4)
-http://45.92.69.134:8003/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
