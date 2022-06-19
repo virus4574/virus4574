@@ -828,9 +828,9 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxCP52" group-title="الاخبارNEWS",CNBC ARABIYA HD
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://arbne.ws/3MoHfkW" group-title="الاخبارNEWS",Al Hurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MiWGuT" group-title="الاخبارNEWS",IRQ-AL Hurra IRAQIA HD
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899-b/MBN_Iraq_Worldsafe_HLS/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="الاخبارNEWS",Alsharq
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
@@ -1368,9 +1368,9 @@ https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="العراق IRAQ",IRQ-AL Sharqiya News HD
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364rE7I" group-title="العراق IRAQ",IRQ-AL Hurra HD
-https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="العراق IRAQ",IRQ-ALHurra IRAQ
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="العراق IRAQ",IRQ-Imam Hussein TV 2
@@ -1381,8 +1381,6 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38unqej" group-title="العراق IRAQ", راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x2APTc" group-title="العراق IRAQ",Iraq 24
-https://ghaasiflu.online/Iraq24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="العراق IRAQ",iNEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="العراق IRAQ",RASHEED TV
@@ -1393,10 +1391,8 @@ http://149.62.183.214:8000/play/a0b0/index.m3u8
 http://95.216.180.111:1935/live/68/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="العراق IRAQ",ALetejah TV
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3M2eQB0" group-title="العراق IRAQ",AL samarra TV
-http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o9Fg7Z" group-title="العراق IRAQ",قناه الفلوجة
-https://skyfire.vimeocdn.com/1653350353-0x4c9c12abd8327356f125f95d47475fc19cf3fe36/bb545713-8442-496c-9cf1-9f3d56262821/video/81f20839/playlist.m3u8
+https://skyfire.vimeocdn.com/1655853604-0xf903c2b345798ce60eb6b89c6ffa8dd679946f8f/5c2e8ad9-fdb2-432f-977c-6e03901c851a/video/9f883de0/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4ibNa" group-title="العراق IRAQ",قناة الموصلية
 http://95.216.180.111:1935/live/3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3GyE5Ko" group-title="العراق IRAQ",افاق
