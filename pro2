@@ -856,13 +856,13 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
 #EXTINF:0 tvg-id="MBC2.net" group-title="8احتياطي أم بي سيMBC",MBC 2 (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_mbc_2_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_mbc_2_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBC4.net" group-title="8احتياطي أم بي سيMBC",MBC 4 (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_mbc_4_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_mbc_4_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="8احتياطي أم بي سيMBC",MBC MAX (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_mbc_max_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_mbc_max_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCAction.net" group-title="8احتياطي أم بي سيMBC",MBC ACTION (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_mbc_action/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_mbc_action/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="9 روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
@@ -941,9 +941,9 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",قناه سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="10سوريةSyria",Syria Drama
-http://elahmad.ipslow.com:8080/aaa_6_syria_drama_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_syria_drama_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="10سوريةSyria",Syria TV
-http://elahmad.ipslow.com:8080/aaa_6_syria_tv_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_syria_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="10سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="10سوريةSyria",Al Mahliya المحلية (Backup 1)
@@ -1007,13 +1007,13 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="11 لبنانLEBANON",LIB-Al Nabaa
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",MTV Lebanon (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_mtv_lebanon_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_mtv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_AL_Jadeed_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_AL_Jadeed_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="o-tv" group-title="11 لبنانLEBANON",OTV (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_otv_lebanon_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_otv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",LBC International (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_6_lbc_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_lbc_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 3)
 http://45.92.69.146:35002/play/a005/index.m3u8
 #EXTINF:0 tvg-id="FutureTV.net" group-title="11 لبنانLEBANON",Future TV (Backup 3)
@@ -1293,7 +1293,7 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="17 تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DoAVXd" group-title="17 تونسTUNISIE",Watania 1
-http://elahmad.ipslow.com:8080/aaa_6_watania1_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_watania1_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="17 تونسTUNISIE",Watania 2+
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
@@ -1640,7 +1640,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv 
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wKsq6s" group-title="26 الامارات EMIRATES",Alaan TV
-http://elahmad.ipslow.com:8080/aaa_6_alaan_tv_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_alaan_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="27 اليمن Yemen",Yemen tv
@@ -2251,19 +2251,19 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="000باقه SSC SPORT",SSC 1 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 2 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_2/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 3 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_3/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 4 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 4 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_4/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 5 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_5/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 6 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_6/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 7 
-http://elahmad.ipslow.com:8080/aaa_6_ssc_7/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_12_ssc_7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KSA SSC 1 HD" tvg-logo="http://platprotv.xyz:8080/images/1a437c033c27f316bcf3a2849c8ebc4c.png" group-title="000باقه SSC SPORT",KSA SSC 1 HD
 http://airmaxtv2022.online:80/AIRmaxtvpro9090/qXVvWr4Bcb4g/1834
 #EXTINF:-1 tvg-id="" tvg-name="KSA SSC 2 HD" tvg-logo="http://platprotv.xyz:8080/images/1a437c033c27f316bcf3a2849c8ebc4c.png" group-title="000باقه SSC SPORT",KSA SSC 2 HD
