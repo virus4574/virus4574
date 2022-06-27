@@ -2014,6 +2014,8 @@ http://cdn.liveshell.net:1935/live/cihann/chunklist.m3u8
 http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gl6pUJ"tvg-country="IQ"tvg-url="" group-title="KURDISH",kurd
 https://server12.ikomg.live/hls/kurd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Gali Kurdistan
+https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH",peyam TV
