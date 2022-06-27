@@ -15,79 +15,163 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",1تعمل وقت المبارات المهمه
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
-http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT NEWS
-https://sectokentest.parkbtcpanel.com/test/chann8/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD TR
-https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD TR
-https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD TR
-https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 4 HD TR
-https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports MAX 1 HD TR
-https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports MAX 2 HD TR
-https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN Sports Extra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+
+#EXTM3U
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="1 بين سبور BEIN SPORT",BEIN SPORT
+https://bit.ly/3pWtmPO
+#EXTINF:0 tvg-id="avi" group-title="1 بين سبور BEIN SPORT",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",0تعمل وقت المبارات المهمه
+http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",1تعمل وقت المبارات المهمه
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6131/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6131/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6123/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6123/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 PRM SD
+https://rtmpsrv.speedclick.ps/beIN_Sports2P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 PRM SD
+https://rtmpsrv.speedclick.ps/beIN_Sports3P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 1 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports1_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 2 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports2_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 3 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports3_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 3 HD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6124/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 3 HD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6124/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 4 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports4_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 4 HD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6125/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 4 HD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6125/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 5 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports5_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 5 HD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6126/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 5 HD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6126/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 6 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports6_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 6 HD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6127/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 6 HD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6127/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 7 HD
+https://rtmpsrv.speedclick.ps/beIN_Sports7_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 7 HD
+http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6128/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 7 HD
+http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6128/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+http://api.magiaiptv.com/live/800435/469206/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 PRM SD
+http://api.magiaiptv.com/live/800435/469206/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 PRM SD
+http://api.magiaiptv.com/live/800435/469206/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 1 HD
+http://api.magiaiptv.com/live/800435/469206/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 2 HD
+http://api.magiaiptv.com/live/800435/469206/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 3 HD
+http://api.magiaiptv.com/live/800435/469206/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 4 HD
+http://api.magiaiptv.com/live/800435/469206/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 5 HD
+http://api.magiaiptv.com/live/800435/469206/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 6 HD
+http://api.magiaiptv.com/live/800435/469206/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 PRM SD
+http://api.magiaiptv.com/live/800379/268963/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 PRM SD
+http://api.magiaiptv.com/live/800379/268963/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 1 HD
+http://api.magiaiptv.com/live/800379/268963/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 PRM SD
+http://api.magiaiptv.com/live/800435/469206/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 PRM SD
+http://api.magiaiptv.com/live/800379/268963/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 PRM SD
+http://api.magiaiptv.com/live/800379/268963/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 4 HD
+http://api.magiaiptv.com/live/800379/268963/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 5 HD
+http://api.magiaiptv.com/live/800379/268963/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",Bein Sport 6 HD
+http://api.magiaiptv.com/live/800379/268963/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 2HD
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 3HD
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 4HD
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 5HD
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 6HD
 http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",[$]BEIN SPORTS 7HD
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT NEWS
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="1 بين سبور BEIN SPORT",beIN SPORT NEWS
 https://sectokentest.parkbtcpanel.com/test/chann8/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD FR
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="1 بين سبور BEIN SPORT",Bein Sports 1 HD FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD FR
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="1 بين سبور BEIN SPORT",Bein Sports 2 HD FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD FR
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="1 بين سبور BEIN SPORT",Bein Sports 3 HD FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD TR
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="1 بين سبور BEIN SPORT",Bein Sports 1 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD TR
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="1 بين سبور BEIN SPORT",Bein Sports 2 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD TR
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="1 بين سبور BEIN SPORT",Bein Sports 3 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 4 HD TR
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="1 بين سبور BEIN SPORT",Bein Sports 4 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports MAX 1 HD TR
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="1 بين سبور BEIN SPORT",Bein Sports MAX 1 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
-#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports MAX 2 HD TR
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sports MAX 2 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN Sports Extra
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="1 بين سبور BEIN SPORT",TR: beIN Sports 1 SD
+http://213.183.47.50:2085/play/beinsporSDx1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",TR: beIN Sports 2 FHD
+http://213.183.47.50:2085/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="1 بين سبور BEIN SPORT",TR: beIN Sports 2 FHD+
+http://213.183.47.50:2085/play/a010/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",TR: beIN Sports 2 HD
+http://213.183.47.50:2085/play/a011/index.m3u8
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="1 بين سبور BEIN SPORT",TR: beIN Sports 2 HD+
+http://213.183.47.50:2085/play/a012/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",TR: beIN Sports 2 HD++
+http://213.183.47.50:2085/play/a013/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YAY0: 1280-AL HD beIN Sports 1 HD LIVE TIME (LQ)
+http://213.183.47.50:2085/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YAY1: 4K beIN Sports 1 FHD 4K
+http://213.183.47.50:2085/play/a00c4K/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YAY2-FHD 92.119.34.140-beIN Sports 1 FHD (HQ)
+http://213.183.47.50:2085/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YAY5-ER-HEVC
+http://213.183.47.50:2085/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YY-TR: beIN Sports 1 FHD (FARKLI)
+http://213.183.47.50:2085/play/a05a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YYY-SEY: FEED BEIN
+http://213.183.47.50:2085/play/aseyffeed/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",YYYY-BEIN1 YEDEK (clone)
+http://213.183.47.50:2085/play/YYYYBEIN1YEDEK/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1VIPباقة وياك",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="1VIPباقة وياك",النسخة المدفوعة AirMax TV
@@ -856,13 +940,13 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
 #EXTINF:0 tvg-id="MBC2.net" group-title="8احتياطي أم بي سيMBC",MBC 2 (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_mbc_2_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_mbc_2_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBC4.net" group-title="8احتياطي أم بي سيMBC",MBC 4 (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_mbc_4_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_mbc_4_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="8احتياطي أم بي سيMBC",MBC MAX (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_mbc_max_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_mbc_max_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="MBCAction.net" group-title="8احتياطي أم بي سيMBC",MBC ACTION (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_mbc_action/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="9 روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
@@ -941,9 +1025,9 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10سوريةSyria",قناه سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="10سوريةSyria",Syria Drama
-http://elahmad.ipslow.com:8080/aaa_12_syria_drama_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_syria_drama_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/syrian_logo.png" group-title="10سوريةSyria",Syria TV
-http://elahmad.ipslow.com:8080/aaa_12_syria_tv_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_syria_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="10سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="10سوريةSyria",Al Mahliya المحلية (Backup 1)
@@ -1007,13 +1091,13 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="11 لبنانLEBANON",LIB-Al Nabaa
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",MTV Lebanon (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_mtv_lebanon_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_mtv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_AL_Jadeed_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_AL_Jadeed_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="o-tv" group-title="11 لبنانLEBANON",OTV (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_otv_lebanon_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_otv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",LBC International (Backup 1)
-http://elahmad.ipslow.com:8080/aaa_12_lbc_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_lbc_1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="11 لبنانLEBANON",ALJADEED TV HD (Backup 3)
 http://45.92.69.146:35002/play/a005/index.m3u8
 #EXTINF:0 tvg-id="FutureTV.net" group-title="11 لبنانLEBANON",Future TV (Backup 3)
@@ -1293,7 +1377,7 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="17 تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DoAVXd" group-title="17 تونسTUNISIE",Watania 1
-http://elahmad.ipslow.com:8080/aaa_12_watania1_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_watania1_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="17 تونسTUNISIE",Watania 2+
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
@@ -1640,7 +1724,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="26 الامارات EMIRATES",DUB-Aldafrahtv 
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wKsq6s" group-title="26 الامارات EMIRATES",Alaan TV
-http://elahmad.ipslow.com:8080/aaa_12_alaan_tv_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_alaan_tv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="26 الامارات EMIRATES",Yas TV 
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="27 اليمن Yemen",Yemen tv
@@ -2251,19 +2335,19 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="000باقه SSC SPORT",SSC 1 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 2 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_2/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 3 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_3/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 4 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 4 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_4/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 5 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_5/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 6 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_6/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="000باقه SSC SPORT",SSC 7 
-http://elahmad.ipslow.com:8080/aaa_12_ssc_7/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/tv3_www.elahmad.com_ssc_7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KSA SSC 1 HD" tvg-logo="http://platprotv.xyz:8080/images/1a437c033c27f316bcf3a2849c8ebc4c.png" group-title="000باقه SSC SPORT",KSA SSC 1 HD
 http://airmaxtv2022.online:80/AIRmaxtvpro9090/qXVvWr4Bcb4g/1834
 #EXTINF:-1 tvg-id="" tvg-name="KSA SSC 2 HD" tvg-logo="http://platprotv.xyz:8080/images/1a437c033c27f316bcf3a2849c8ebc4c.png" group-title="000باقه SSC SPORT",KSA SSC 2 HD
