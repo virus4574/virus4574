@@ -2535,17 +2535,15 @@ https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="TURKEY",TV8.5 UHD
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="TURKEY",TEVE2 UHD
-https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="TURKEY",ATV Avrupa 
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6888/index.m3u8
+http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/296360.m3u8
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="TURKEY",EUROSTAR TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="TURKEY",SHOW TÜRK UHD
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="TURKEY",EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-#EXTINF:-1 tvg-name="tv22 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv22_tr_international.png"tvg-id="" group-title="TURKEY",tv22 INT
-https://mn-nl.mncdn.com/blutv_tv22_int2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="TURKEY", 360 TV UHD
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="TURKEY",KANAL 7 UHD
