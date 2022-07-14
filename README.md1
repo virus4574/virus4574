@@ -843,11 +843,10 @@ https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
-http://trekspan.com/miniProxy.php/https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+https://elahmad-com-1a.herokuapp.com/elahmad.php/https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
 http://185.236.229.50:8001/play/a027
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY+
-http://149.62.183.214:8000/play/a0gh/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",كيف احصل على الكود
@@ -1310,7 +1309,9 @@ https://live01.iflex.ps/Aqsa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa1410.png" group-title="فلسطينPALESTINE",تلفزيون المدينة
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oaca11" group-title="فلسطينPALESTINE",بلدنا
-http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RqaiIC" group-title="فلسطينPALESTINE",Holyquran
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="الاردنJORDAN",الاردنJORDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",كيف احصل على الكود
@@ -1359,6 +1360,8 @@ http://ar.imamhossaintv.com/live/ih2.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="العراق IRAQ",قناة دجلة طرب
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3ccARB9" group-title="العراق IRAQ",Tarab
+https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38unqej" group-title="العراق IRAQ", راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="العراق IRAQ",iNEWS
@@ -1787,7 +1790,7 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2hA2D" group-title="السعودية Saudi-Arabia",Quran
 http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NFINYW" group-title="السعودية Saudi-Arabia",Al Sunnah 
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wOpK80" group-title="السعودية Saudi-Arabia",اذاعة السعودية
 https://edge.taghtia.com/sa/11.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t03oze" group-title="السعودية Saudi-Arabia",اذاعة الرياض
