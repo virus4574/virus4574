@@ -593,18 +593,386 @@ https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/in
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Aflam 1
-http://77.69.131.177:5600/play/a0a0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Aflam 2
-http://77.69.131.177:5600/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Cima
-http://77.69.131.177:5600/play/a003/index.m3u8
-#EXTINF:0 tvg-id="park-razvlecheniy" group-title="باقة art",Cinema
-http://77.69.131.177:5600/play/a008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Hekayat
-http://77.69.131.177:5600/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Hekayat2
-http://77.69.131.177:5600/play/a005/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 1 HEVC
+http://local.liveline.nu:2085/play/a09o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE:  DAZN 1
+http://local.liveline.nu:2085/play/a0a0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE:  DAZN 1 (B)
+http://local.liveline.nu:2085/play/a0a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE: S. Sport 1 FHD
+http://local.liveline.nu:2085/play/a0ao/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE: S. Sport 2 FHD
+http://local.liveline.nu:2085/play/a0ap/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE: S. Sport Austria 2 FHD
+http://local.liveline.nu:2085/play/a0a4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE: S. Sport Austria 2 FHD
+http://local.liveline.nu:2085/play/a0am/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE: S. Sport Austria 3 FHD
+http://local.liveline.nu:2085/play/a0a5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",HAM DE: S. Sport Austria 4 FHD
+http://local.liveline.nu:2085/play/a0a7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD A2
+http://local.liveline.nu:2085/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD ATV
+http://local.liveline.nu:2085/play/aa004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD FOX
+http://local.liveline.nu:2085/play/aa002/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD KANAL7
+http://local.liveline.nu:2085/play/a005/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD KANALD
+http://local.liveline.nu:2085/play/aa001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD SHOW
+http://local.liveline.nu:2085/play/aa006/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD TRT 1
+http://local.liveline.nu:2085/play/aa007/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD TRT UHD
+http://local.liveline.nu:2085/play/TRT1uhdlutfendeisme/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD TV8
+http://local.liveline.nu:2085/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD TV8.5
+http://local.liveline.nu:2085/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AA_FHD: STAR
+http://local.liveline.nu:2085/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="AlsatM.al" group-title="قنوات رياضية VIP",AL: ALSAT M FHD
+http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
+#EXTINF:0 tvg-id="RTK.al" group-title="قنوات رياضية VIP",AL: RTK 1 FHD
+http://local.liveline.nu:2085/play/a0auRTK1/index.m3u8
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="قنوات رياضية VIP",AL: TOP CHANNEL FHD
+http://local.liveline.nu:2085/play/a0artopchannel/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AL: TOP CHANNEL FHD panel
+http://local.liveline.nu:2085/play/a0e1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AL: TOP CHANNEL HD panel
+http://local.liveline.nu:2085/play/a0e2panelastracesbotopchannelhd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AT: OE24 TV HD
+http://local.liveline.nu:2085/play/a086/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",AT: Servus TV HD
+http://local.liveline.nu:2085/play/a06kServus/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",CH: 4+ FHD
+http://local.liveline.nu:2085/play/a06g4CH/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",CH: BLUE ZURICH FHD
+http://local.liveline.nu:2085/play/a06bzurih/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",CH: PULS 8 FHD
+http://local.liveline.nu:2085/play/a06cPLUS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: BUNDESLIGA 1 HD LOV
+http://local.liveline.nu:2085/play/bundesliga01/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="قنوات رياضية VIP",DE: BUNDESLIGA 2 FHD
+http://local.liveline.nu:2085/play/00bundes2/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="قنوات رياضية VIP",DE: BUNDESLIGA 3 FHD
+http://local.liveline.nu:2085/play/00bundes3/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="قنوات رياضية VIP",DE: BUNDESLIGA 4 FHD
+http://local.liveline.nu:2085/play/01bundes4/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="قنوات رياضية VIP",DE: BUNDESLIGA 4 FHD  (2)
+http://local.liveline.nu:2085/play/bundeslgaag4/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="قنوات رياضية VIP",DE: BUNDESLIGA 5 FHD
+http://local.liveline.nu:2085/play/bundesl5n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 1 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cf/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 10 (Only Live Event)
+http://local.liveline.nu:2085/play/a0co/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 11 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cp/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 12 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cq/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 13 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 14 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cs/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 15 (Only Live Event)
+http://local.liveline.nu:2085/play/a0ct/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 16 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cu/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 17 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 2 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cg/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 3 (Only Live Event)
+http://local.liveline.nu:2085/play/a0ch/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 4 (Only Live Event)
+http://local.liveline.nu:2085/play/a0ci/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 5 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cj/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 6 (Only Live Event)
+http://local.liveline.nu:2085/play/a0ck/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 7 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cl/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 8 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cm/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: DAZN 9 (Only Live Event)
+http://local.liveline.nu:2085/play/a0cn/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: PRO 7 - SAT 1 UHD
+http://local.liveline.nu:2085/play/a0e3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: QVC UHD
+http://local.liveline.nu:2085/play/a0e0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: QVC ZWEI UHD
+http://local.liveline.nu:2085/play/a0dy/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL UHD
+http://local.liveline.nu:2085/play/a0dx/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 1
+http://local.liveline.nu:2085/play/a0b4RTL1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 10
+http://local.liveline.nu:2085/play/a0b4RTL10/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 2
+http://local.liveline.nu:2085/play/a0b4RTL2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 3
+http://local.liveline.nu:2085/play/a0b4RTL3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 4
+http://local.liveline.nu:2085/play/a0b4RTL4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 5
+http://local.liveline.nu:2085/play/a0b4RTL5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 6
+http://local.liveline.nu:2085/play/a0b4RTL6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 7
+http://local.liveline.nu:2085/play/a0b4RTL7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 8
+http://local.liveline.nu:2085/play/a0b4RTL8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: RTL+ 9
+http://local.liveline.nu:2085/play/a0b4RTL9/index.m3u8
+#EXTINF:0 tvg-id="SkySport10.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 10
+http://local.liveline.nu:2085/play/a0c7/index.m3u8
+#EXTINF:0 tvg-id="SkySport11.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 11
+http://local.liveline.nu:2085/play/a0c6/index.m3u8
+#EXTINF:0 tvg-id="SkySport3.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 3
+http://local.liveline.nu:2085/play/a0ce/index.m3u8
+#EXTINF:0 tvg-id="SkySport4.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 4
+http://local.liveline.nu:2085/play/a0cd/index.m3u8
+#EXTINF:0 tvg-id="SkySport5.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 5
+http://local.liveline.nu:2085/play/a0cc/index.m3u8
+#EXTINF:0 tvg-id="SkySport6.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 6
+http://local.liveline.nu:2085/play/a0cb/index.m3u8
+#EXTINF:0 tvg-id="SkySport7.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 7
+http://local.liveline.nu:2085/play/a0ca/index.m3u8
+#EXTINF:0 tvg-id="SkySport8.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 8
+http://local.liveline.nu:2085/play/a0c9/index.m3u8
+#EXTINF:0 tvg-id="SkySport9.de" group-title="قنوات رياضية VIP",DE: SKY SPORT 9
+http://local.liveline.nu:2085/play/a0c8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT AUSTRIA 2
+http://local.liveline.nu:2085/play/a0c5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT AUSTRIA 3
+http://local.liveline.nu:2085/play/a0c4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT AUSTRIA 4
+http://local.liveline.nu:2085/play/a0a8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT AUSTRIA 5
+http://local.liveline.nu:2085/play/a0c1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT AUSTRIA 6
+http://local.liveline.nu:2085/play/a0c2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT AUSTRIA 7
+http://local.liveline.nu:2085/play/a0c3/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 10
+http://local.liveline.nu:2085/play/a0d9/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 2
+http://local.liveline.nu:2085/play/a0dh/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 3
+http://local.liveline.nu:2085/play/a0dg/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 4
+http://local.liveline.nu:2085/play/a0df/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 5
+http://local.liveline.nu:2085/play/a0de/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 6
+http://local.liveline.nu:2085/play/a0dd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 7
+http://local.liveline.nu:2085/play/a0dc/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 8
+http://local.liveline.nu:2085/play/a0db/index.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="قنوات رياضية VIP",DE: SKY SPORT BUNDESLIGA 9
+http://local.liveline.nu:2085/play/a0da/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: SKY SPORT UHD
+http://local.liveline.nu:2085/play/a078UHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: UHD1
+http://local.liveline.nu:2085/play/a0dz/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 1
+http://local.liveline.nu:2085/play/a0b4meganta1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 10
+http://local.liveline.nu:2085/play/a0b4meganta10/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 11
+http://local.liveline.nu:2085/play/a0b4meganta11/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 12
+http://local.liveline.nu:2085/play/a0b4meganta12/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 13
+http://local.liveline.nu:2085/play/a0b4meganta13/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 14
+http://local.liveline.nu:2085/play/a0b4meganta14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 15
+http://local.liveline.nu:2085/play/a0b4meganta15/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 16
+http://local.liveline.nu:2085/play/a0b4meganta16/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 17
+http://local.liveline.nu:2085/play/a0b4meganta17/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 18
+http://local.liveline.nu:2085/play/a0b4meganta18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 19
+http://local.liveline.nu:2085/play/a0b4meganta19/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 2
+http://local.liveline.nu:2085/play/a0b4meganta2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 20
+http://local.liveline.nu:2085/play/a0b4meganta20/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 3
+http://local.liveline.nu:2085/play/a0b4meganta3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 4
+http://local.liveline.nu:2085/play/a0b4meganta4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 5
+http://local.liveline.nu:2085/play/a0b4meganta5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 6
+http://local.liveline.nu:2085/play/a0b4meganta6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 7
+http://local.liveline.nu:2085/play/a0b4meganta7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 8
+http://local.liveline.nu:2085/play/a0b4meganta8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",DE: VIP TELEKOM PPV 9
+http://local.liveline.nu:2085/play/a0b4meganta9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",ES: M.LA LIGA FHD
+http://local.liveline.nu:2085/play/a04s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",ES: M.LA LIGA HD
+http://local.liveline.nu:2085/play/a04t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",GR: CS 1 HD
+http://local.liveline.nu:2085/play/CosmoteSport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",GR: CS 2 HD
+http://local.liveline.nu:2085/play/CosmoteSport2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",GR: CS 3
+http://local.liveline.nu:2085/play/a063COSMOTE332/index.m3u8
+#EXTINF:0 tvg-id="NEPIT1.gr" group-title="قنوات رياضية VIP",GR: ERT 1
+http://local.liveline.nu:2085/play/a0ad/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",GR: NOVA SPOR 1
+http://local.liveline.nu:2085/play/a0a3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",GR: NOVA SPORT PRİME CAL
+http://local.liveline.nu:2085/play/a0acnovaprime/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",NO: TV2 PREMEUM 1
+http://local.liveline.nu:2085/play/a0dv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",PL:  Polsat Sport Premium 1 HD
+http://local.liveline.nu:2085/play/a06opolsatpram/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",PL: KSW PPV (Match Time)
+http://local.liveline.nu:2085/play/a07rKSWPOLLAND/index.m3u8
+#EXTINF:0 tvg-id="Polsat.pl" group-title="قنوات رياضية VIP",PL: Polsat HD
+http://local.liveline.nu:2085/play/a0dkPOLSAT/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",PL: TTV FHD
+http://local.liveline.nu:2085/play/a0axttvPOLLAND/index.m3u8
+#EXTINF:0 tvg-id="TVN7.pl" group-title="قنوات رياضية VIP",PL: TVN 7 FHD
+http://local.liveline.nu:2085/play/a0azTV7/index.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="قنوات رياضية VIP",PL: TVN HD
+http://local.liveline.nu:2085/play/a07hTVNASTRA/index.m3u8
+#EXTINF:0 tvg-id="TVP2.pl" group-title="قنوات رياضية VIP",PL: TVP 2 FHD
+http://local.liveline.nu:2085/play/a0b0TVP2/index.m3u8
+#EXTINF:0 tvg-id="TVPHD.pl" group-title="قنوات رياضية VIP",PL: TVP FHD
+http://local.liveline.nu:2085/play/a059/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",RS: PINK 1 HAM
+http://local.liveline.nu:2085/play/a0dlPINK1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",RS: PINK 1 HD
+http://local.liveline.nu:2085/play/a0dmPINK1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",RS: RTS 1 HD
+http://local.liveline.nu:2085/play/a0aqRTS1HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SC: C MORE HOCKEY FHD
+http://local.liveline.nu:2085/play/a01p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SC: VIASAT MOTOR HD
+http://local.liveline.nu:2085/play/a07dvSATMOTOR/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SP-TR: S SPORT 2 FHD
+http://local.liveline.nu:2085/play/a05e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SP-TR: S SPORT 2 HD
+http://local.liveline.nu:2085/play/a017/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SP-TR: S SPORT HD
+http://local.liveline.nu:2085/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SP-TR: SPOR SMART HD
+http://local.liveline.nu:2085/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",SP-TR: TIVIBU SPOR HD
+http://local.liveline.nu:2085/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: BEIN SPORTS 2 FHD
+http://local.liveline.nu:2085/play/a0aw/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: BEIN SPORTS 2 FHD
+http://local.liveline.nu:2085/play/a0av/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: CHASSE PECHE
+http://local.liveline.nu:2085/play/a0aeCHASSE_PECHE/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN FEED FHD
+http://local.liveline.nu:2085/play/a0aiexxen1fhd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN FEED FHD server)
+http://local.liveline.nu:2085/play/a0anFeedexxen1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN FEED HD-SEYFULLAH
+http://local.liveline.nu:2085/play/a0aaEXXENFEED2X/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN FEED HD-TRT BELGESEL
+http://local.liveline.nu:2085/play/a0a9exxenfeedYa/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN FEED NEO
+http://local.liveline.nu:2085/play/a0b3EXXEN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN REKLAM
+http://local.liveline.nu:2085/play/a0af/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPOR 1
+http://local.liveline.nu:2085/play/a09e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPOR 1  sonra sıl
+http://local.liveline.nu:2085/play/a0di/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPOR 2
+http://local.liveline.nu:2085/play/a09q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPOR 3
+http://local.liveline.nu:2085/play/a09r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPOR SD
+http://local.liveline.nu:2085/play/a09t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPORT 1 FHD MUZ
+http://local.liveline.nu:2085/play/a0ag/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: EXXEN SPORT 2 FHD MUZ
+http://local.liveline.nu:2085/play/a0ah/index.m3u8
+#EXTINF:0 tvg-id="SSport.tr" group-title="قنوات رياضية VIP",TR: S SPORT FHD
+http://local.liveline.nu:2085/play/ssporfhd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: SPOR SMART 2 FHD
+http://local.liveline.nu:2085/play/a0dr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: SPOR SMART FHD/FHD*
+http://local.liveline.nu:2085/play/a006/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: TIVIBU SPOR 2 HD
+http://local.liveline.nu:2085/play/a0ds/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: TIVIBU SPOR 3 HD
+http://local.liveline.nu:2085/play/a0dt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: TIVIBU SPOR 4 HD
+http://local.liveline.nu:2085/play/a0du/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN CONNECT HD 1 (MAC ZAMANI)
+http://local.liveline.nu:2085/play/a07i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN CONNECT HD 2 (MAC ZAMANI)
+http://local.liveline.nu:2085/play/a07j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN CONNECT HD 3 (MAC ZAMANI)
+http://local.liveline.nu:2085/play/a07k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN CONNECT HD 4 (MAC ZAMANI)
+http://local.liveline.nu:2085/play/a07l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN CONNECT HD 5 (MAC ZAMANI)
+http://local.liveline.nu:2085/play/a07m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN CONNECT HD 6 (MAC ZAMANI)
+http://local.liveline.nu:2085/play/a07n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 1 FHD
+http://local.liveline.nu:2085/play/a001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 1 FHD (ham)
+http://local.liveline.nu:2085/play/a0dn/index.m3u8
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="قنوات رياضية VIP",TR: beIN Sports 1 FHD+
+http://local.liveline.nu:2085/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 1 HD
+http://local.liveline.nu:2085/play/a004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 1 HD (TTNET)
+http://local.liveline.nu:2085/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 1 HD (TTNET)+
+http://local.liveline.nu:2085/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="قنوات رياضية VIP",TR: beIN Sports 1 HD+
+http://local.liveline.nu:2085/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 1 HVEC
+http://local.liveline.nu:2085/play/a002/index.m3u8
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="قنوات رياضية VIP",TR: beIN Sports 1 SD
+http://local.liveline.nu:2085/play/beinsporSDx1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 2 FHD
+http://local.liveline.nu:2085/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="قنوات رياضية VIP",TR: beIN Sports 2 FHD+
+http://local.liveline.nu:2085/play/a010/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 2 HD
+http://local.liveline.nu:2085/play/a011/index.m3u8
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="قنوات رياضية VIP",TR: beIN Sports 2 HD+
+http://local.liveline.nu:2085/play/a012/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",TR: beIN Sports 2 HD++
+http://local.liveline.nu:2085/play/a013/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YAY0: 1280-AL HD beIN Sports 1 HD LIVE TIME (LQ)
+http://local.liveline.nu:2085/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YAY1: 4K beIN Sports 1 FHD 4K
+http://local.liveline.nu:2085/play/a00c4K/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YAY2-FHD 92.119.34.140-beIN Sports 1 FHD (HQ)
+http://local.liveline.nu:2085/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YAY5-ER-HEVC
+http://local.liveline.nu:2085/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YY-TR: beIN Sports 1 FHD (FARKLI)
+http://local.liveline.nu:2085/play/a05a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YYY-SEY: FEED BEIN
+http://local.liveline.nu:2085/play/aseyffeed/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية VIP",YYYY-BEIN1 YEDEK
+http://local.liveline.nu:2085/play/YYYYBEIN1YEDEK/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -661,34 +1029,6 @@ https://bit.ly/34ooolI
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="نتفليكسNETFLIX",Ajyal TV SD
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE AFLAM
-http://149.62.183.214:8000/play/a03k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE ALWAN
-http://149.62.183.214:8000/play/a039/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE CINEMA
-http://149.62.183.214:8000/play/a037/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE COMEDY
-http://149.62.183.214:8000/play/a036/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE HEKAYAT
-http://149.62.183.214:8000/play/a03w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE MOSLSALAT
-http://149.62.183.214:8000/play/a03h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE TODAY
-http://149.62.183.214:8000/play/a03g/index.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST AFLAM
-http://149.62.183.214:8000/play/a03t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST CIMA
-http://149.62.183.214:8000/play/a041/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST CINEMA
-http://149.62.183.214:8000/play/a042/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST COMEDY
-http://149.62.183.214:8000/play/a033/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="باقة EGYBEST",EGYBEST TODAY
-http://149.62.183.214:8000/play/a03r/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="باقةSHOOF",SHOOF AFLAM
