@@ -34,31 +34,3 @@ https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
 https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-id="LIGTV.tr" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR: beIN Sports 1 SD
-http://213.183.47.50:2085/play/beinsporSDx1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR: beIN Sports 2 FHD
-http://213.183.47.50:2085/play/a00j/index.m3u8
-#EXTINF:0 tvg-id="LIGTV2.tr" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR: beIN Sports 2 FHD+
-http://213.183.47.50:2085/play/a010/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR: beIN Sports 2 HD
-http://213.183.47.50:2085/play/a011/index.m3u8
-#EXTINF:0 tvg-id="LIGTV2.tr" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR: beIN Sports 2 HD+
-http://213.183.47.50:2085/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",TR: beIN Sports 2 HD++
-http://213.183.47.50:2085/play/a013/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YAY0: 1280-AL HD beIN Sports 1 HD LIVE TIME (LQ)
-http://213.183.47.50:2085/play/a008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YAY1: 4K beIN Sports 1 FHD 4K
-http://213.183.47.50:2085/play/a00c4K/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YAY2-FHD 92.119.34.140-beIN Sports 1 FHD (HQ)
-http://213.183.47.50:2085/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YAY5-ER-HEVC
-http://213.183.47.50:2085/play/a01r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YY-TR: beIN Sports 1 FHD (FARKLI)
-http://213.183.47.50:2085/play/a05a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YYY-SEY: FEED BEIN
-http://213.183.47.50:2085/play/aseyffeed/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",YYYY-BEIN1 YEDEK (clone)
-http://213.183.47.50:2085/play/YYYYBEIN1YEDEK/index.m3u8
