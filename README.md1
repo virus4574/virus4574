@@ -1417,9 +1417,7 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GyDd8A" group-title="روتانا ROTANA",Rotana Classic SD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD
-http://trekspan.com/miniProxy.php/https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD (Backup 1)
-http://149.62.183.214:8000/play/a019/index.m3u8
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnOi05" group-title="روتانا ROTANA",Rotana Comedy
 http://149.62.183.214:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GuEuNG" group-title="روتانا ROTANA",Rotana Khalijia SD
@@ -1994,10 +1992,6 @@ https://ghardaia.ice.infomaniak.ch/47.aac
 https://ghelizane.ice.infomaniak.ch/48.aac
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PSYvBN" group-title="ليبياLIBYA",LIB-218News
-http://95.85.47.43/libya218news/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lQRCDv" group-title="ليبياLIBYA",LIB-Libya 218
-https://stream.218tv.net/libya218TV/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wXtrcR" group-title="ليبياLIBYA",Libya Al Ahrar HD
 https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV
@@ -2010,6 +2004,9 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="ليبياLIBYA",قناة الوسط - WTV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PSYvBN" group-title="ليبياLIBYA",LIB-218News
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lQRCDv" group-title="ليبياLIBYA",LIB-Libya 218
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="قطر Qatar",Qatar TV
@@ -2026,6 +2023,12 @@ https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="الكويت Kuwait",Kuwait Alrai TV FHD
+https://media.streambrothers.com:1936/8724/8724/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4jlIw" group-title="الكويت Kuwait",قناه المعارف الكويتيه SD
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="الكويت Kuwait",Kuwait MarinaFM
+http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="الكويت Kuwait",Kuwait 1 TV FHD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="الكويت Kuwait",Kuwait 2 TV FHD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="الكويت Kuwait",kuwait ETHRAA FHD
@@ -2033,47 +2036,29 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="الكويت Kuwait",Kuwait AL Majlis TV FHD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="الكويت Kuwait",Al Qurain TV FHD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportPlus
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="الكويت Kuwait",kuwait S.plus FHD+
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="الكويت Kuwait",KTV Sport FHD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="الكويت Kuwait",KTV Khallik Bilbait
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3OSH2ZG" group-title="الكويت Kuwait",KTV Drama
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MpEMbf" group-title="الكويت Kuwait",i on Kuwait
-https://gulfsat.cdn.easybroadcast.fr/live/ionKuwait_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="الكويت Kuwait",Kuwait Alrai TV FHD
-https://media.streambrothers.com:1936/8724/8724/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KEJiaN" group-title="الكويت Kuwait",FUNOON
-https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4jlIw" group-title="الكويت Kuwait",قناه المعارف الكويتيه SD
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="الكويت Kuwait",Kuwait MarinaFM
-http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV87R9" group-title="الكويت Kuwait",Kuwait MarinaTv
-https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="الكويت Kuwait",ADALAH TV SD
-https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV8pHJ" group-title="الكويت Kuwait",Kuwait Al-Sabah
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d5ZrSy" group-title="الكويت Kuwait",Kuwait Al-Shahed
-https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zhb7tm" group-title="الكويت Kuwait",Kuwait Al-Bawadi
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36eUl4Z" group-title="الكويت Kuwait",scope tv
 https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qIXyi7" group-title="البحرين Bahrain",Bahrain TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oa3lMb" group-title="البحرين Bahrain",Bahrain TV
 http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39WDp1h" group-title="البحرين Bahrain",Bahrain Lawal
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="البحرين Bahrain",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="البحرين Bahrain",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="البحرين Bahrain",Bahrain Quran
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vWtsfp" group-title="البحرين Bahrain",Bahrein International
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="سلطنة عمان Oman",Oman TV
@@ -2153,7 +2138,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="الامارات EMIRATES",DUB-Al Wousta HD 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="الامارات EMIRATES",DUB-Aldafrahtv 
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZTxvW" group-title="الامارات EMIRATES",Yas TV 
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",Ajman TV
