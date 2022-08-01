@@ -70,10 +70,6 @@ http://185.236.229.50:8001/play/a042
 http://185.236.229.50:8001/play/a044
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
 http://185.236.229.50:8001/play/a040
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ZDF Sport SD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/14c679d2722189b19b894fe668e92605/4/4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ZDF Sport HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/14c679d2722189b19b894fe668e92605/3/3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",SPORT TV + 🇵🇹
 http://89.114.126.46:4000/play/a00f
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",SPORT TV 1 HD 🇵🇹
@@ -128,65 +124,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="رياضية SPORT", EVENTOS TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_1
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_1
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_2
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_2
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV3
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV3
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV4
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV4
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV5
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV5
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Polsat_Sport_Premium_PPV6
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV6
 
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/bdEwdYQ.png",[$]SUPER SPORT 1HD
-https://sports.cdn-stream.com:30443/live/ss1/playlist.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/jC1wjV5.png",[$]SUPER SPORT 2HD
-https://sports.cdn-stream.com:30443/live/ss2/playlist.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/woJjeQ6.png",[$]SUPER SPORT 3HD
-https://sports.cdn-stream.com:30443/live/ss3/playlist.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/UN08IcL.png",[$]SUPER SPORT 4HD
-https://sports.cdn-stream.com:30443/live/ss4/playlist.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/5ybBN8S.png",[$]TRING SPORT 1HD
-https://sports.cdn-stream.com:30443/live/ts1/playlist.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="https://i.imgur.com/tQn8MRC.png",[$]TRING SPORT 2HD
-https://sports.cdn-stream.com:30443/live/ts2/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://bit.ly/3NnktM5",Sky F1
-https://king.nowtv.vip/live/f1_abr/chunks.m3u8?Manujaz
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://bit.ly/3NnktM5",Sky F1
-http://185.132.132.192/SKYSPF1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://bit.ly/3NnktM5",Sky F1
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8?SBN
-
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZNF1.png",🇪🇸🏎️ ●| DAZN F1
-http://90.71.50.160:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/skysports%20F1.jpg",🇬🇧🏎️ ●| Sky F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 1
-http://90.71.50.160:8001/1:0:19:7855:41A:1:C00000:0:0:0
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 2
-http://90.71.50.160:8001/1:0:19:785F:41A:1:C00000:0:0:0
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 3
-http://90.71.50.160:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/DAZN.png",🇪🇸⚽️ ●| DAZN 4
-http://90.71.50.160:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
-
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png",🇩🇪 ●| Eurosport 1
-http://84.200.70.178:41142/bysid/31200
-#EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png",🇫🇷 ●| Eurosport 2
-http://212.102.60.80/Eurosport2/index.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Eurosport 1 HD
-http://bethoven.af-stream.com:1600/s/rwuemk6f/eurosport-hd/video.m3u8
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",Eurosport 2 HD
-http://bethoven.af-stream.com:1600/s/rwuemk6f/eurosport2-hd/video.m3u8
-
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",EUROSPORT 1 🇬🇧
-http://185.204.32.4:9981/stream/channelid/577840136
-#EXTINF:0 group-title="رياضية SPORT" tvg-logo="",EUROSPORT 2 🇬🇧
-http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="رياضية SPORT" tvg-logo="https://uploads-ssl.webflow.com/5f857ce40779b4181e8c1602/5f85952ca25bf1e58e797123_SPARK_LOGOTYPE_ORNG_RGB.png",🇺🇸🏎️🏍 ●| Spark [Pluto]
 https://sparktv-samsunguk.amagi.tv/playlist720_p.m3u8
