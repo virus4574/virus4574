@@ -1068,7 +1068,7 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="الاخبارNEWS",WATAN HD
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="الاخبارNEWS",FRANCE 24 HD
-http://149.62.183.214:8000/play/a01g/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j27VuW" group-title="الاخبارNEWS",DW ARABIC HD
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="الاخبارNEWS",AL KHALIJ HD
@@ -1948,7 +1948,9 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="ليبياLIBYA",Libya februar
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="ليبياLIBYA",قناة الوسط - WTV
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LY" tvg-url="" group-title="ليبياLIBYA",Libya Al Aaan
+http://82.212.74.5:8000/live/hls/7727.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PSYvBN" group-title="ليبياLIBYA",LIB-218News
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lQRCDv" group-title="ليبياLIBYA",LIB-Libya 218
 
