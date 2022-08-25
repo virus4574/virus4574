@@ -44,27 +44,15 @@ https://streamalkass.azureedge.net/4d2d4f2c-f860-4c80-8836-11e1063f1d08/Alkass3z
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",ksa الرياضية 2
 https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="رياضية SPORT",kuwait S.plus FHD
-https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="رياضية SPORT",KTV Sport FHD
-https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/925452512408293376/xHZe-67F_400x400.jpg" group-title="رياضية SPORT",1البحرين الرياضية
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="رياضية SPORT",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="رياضية SPORT",Maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS
-http://185.236.229.50:8001/play/a046
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS HD
-http://185.236.229.50:8001/play/a042
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2
-http://185.236.229.50:8001/play/a044
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
-http://185.236.229.50:8001/play/a040
+
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",SPORT TV + 🇵🇹
 http://89.114.126.46:4000/play/a00f
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",SPORT TV 1 HD 🇵🇹
@@ -907,32 +895,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="نتفليكسNETFLIX",Ajyal TV SD
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
 
-
-#EXTINF:0 tvg-id="ext" group-title="باقةSHOOF",SHOOF AFLAM
-http://185.236.229.50:8001/play/a01f
-#EXTINF:0 tvg-id="ext" group-title="باقةSHOOF",SHOOF MIX
-http://185.236.229.50:8001/play/a01d
-#EXTINF:0 tvg-id="ext" group-title="باقةSHOOF",SHOOF MOSALSALAT
-http://185.236.229.50:8001/play/a01e
-#EXTINF:0 tvg-id="ext" group-title="باقةSHOOF",shoof cinema
-http://185.236.229.50:8001/play/a01c
-#EXTINF:0 tvg-id="ext" group-title="باقةSHOOF",SHOOF DRAMA
-http://185.236.229.50:8000/play/a058
-
-
-#EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion aflam
-http://185.236.229.50:8001/play/a018
-#EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion cinema
-http://185.236.229.50:8001/play/a01b
-#EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion drama
-http://185.236.229.50:8001/play/a016
-#EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion elyoum
-http://185.236.229.50:8001/play/a015
-#EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion hekayat
-http://185.236.229.50:8001/play/a019
-#EXTINF:0 tvg-id="ext" group-title="باقةEltelevesion",Eltelevesion zaman
-http://185.236.229.50:8001/play/a01n
-
 #EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات",▂ ▄ ▅ ▆☆ باقة مسلسلات ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات",النسخة المدفوعة AirMax TV
@@ -1080,10 +1042,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
-https://elahmad-com-1a.herokuapp.com/elahmad.php/https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
-http://185.236.229.50:8001/play/a027
+
 
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3pWtmPO
@@ -1985,8 +1944,6 @@ https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oa3lMb" group-title="البحرين Bahrain",Bahrain TV
 http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="البحرين Bahrain",Bahrain Sports 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="البحرين Bahrain",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="البحرين Bahrain",Bahrain Quran
