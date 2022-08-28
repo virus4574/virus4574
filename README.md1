@@ -53,7 +53,89 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	canal11
+http://62.28.71.186:45678/http/192.168.150.50:7050/canal11
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	eleven1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	eleven2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	eleven3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	eleven4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	eleven5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	eleven6
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	spt1
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	spt2
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	spt3
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	sporttvmais
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Live Sports 11
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="رياضية SPORT",Sony SIX
+http://103.179.128.252:8080/SonySix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sony TEN.1
+http://dangguli.live:8080/SonyTen1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sony TEN.2
+http://dangguli.live:8080/SonyTen2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sony TEN.3
+http://dangguli.live:8080/SonyTen3/index.m3u8
+#EXTINF:0 tvg-id="StarSports1.in" group-title="رياضية SPORT",Star Sports 1
+http://dangguli.live:8080/StarSports1HD/index.m3u8
+#EXTINF:0 tvg-id="StarSports2.in" group-title="رياضية SPORT",Star Sports 2
+http://dangguli.live:8080/StarSports2HD/index.m3u8
+#EXTINF:0 tvg-id="StarSports3.in" group-title="رياضية SPORT",Star Sports 3
+http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Star Sports SELECT.1
+http://dangguli.live:8080/StarSportsSelect1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Star Sports SELECT.2
+http://dangguli.live:8080/StarSportsSelect2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Red Bull TV HD
+http://dangguli.live:8080/RedBullTVHD/index.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="رياضية SPORT",Ten Sports
+http://dangguli.live:8080/TenSports/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",PTV Sports
+http://dangguli.live:8080/PTVSports/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="رياضية SPORT",ESPN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=WQh2tukO2m99XTns77jjtQ&expires=1661464256&ip=45.185.206.14
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="رياضية SPORT",ESPN 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=Ij1QUeLijEM-H-gCDhEUlw&expires=1661464500&ip=45.185.206.14
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="رياضية SPORT",ESPN 3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/19_.m3u8?token=xTI96b26bH8j2rhTd2h_6g&expires=1661464587&ip=45.185.206.14
+#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="رياضية SPORT",ESPN Deportes
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/15_.m3u8?token=sokTDMZHbVMG9aI2p5vqag&expires=1661464662&ip=45.185.206.14
+#EXTINF:0 tvg-id="ESPN+.cl" group-title="رياضية SPORT",ESPN+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/16_.m3u8?token=mXhyUKdCRc03wWEicSEA5w&expires=1661464722&ip=45.185.206.14
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="رياضية SPORT",FOX SPORTS PREMIUM
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=pjLeimvkMlrwX-kTttuIuQ&expires=1661465018&ip=45.185.206.14
+#EXTINF:0 tvg-id="FoxSports.it" group-title="رياضية SPORT",FOX SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=jASS4KhTe7F2xDbsDn1MCQ&expires=1661465140&ip=45.185.206.14
+#EXTINF:0 tvg-id="ESPN2.nl" group-title="رياضية SPORT",FOX SPORT 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/13_.m3u8?token=jAeV7xG8PrcCexeaATMA1Q&expires=1661465551&ip=45.185.206.14
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="رياضية SPORT",FOX SPORT 3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/14_.m3u8?token=qdURGyoQ8b1KPqAKmobYZA&expires=1661465630&ip=45.185.206.14
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TNT SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=FSZ1ZrJ7kxIluCznmleF8Q&expires=1661465796&ip=45.185.206.14
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",DIRECTV SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=Kxq3KELnDursoS09gR2mzw&expires=1661465917&ip=45.185.206.14
 
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TV 2 Sporten
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Sports Bureau
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="رياضية SPORT",SPORT TV+ HD 🇵🇹
 http://45.92.69.72:8001/play/a03y
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="رياضية SPORT",SPORT TV+ HD 🇵🇹
