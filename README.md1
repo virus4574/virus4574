@@ -18,6 +18,17 @@ https://tv.dqav.net/tp1.php?id=157017
 https://tv.dqav.net/tp1.php?id=163513
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-3-1429.png" group-title="RMC SPORT",RMC SPORT 3
 https://tv.dqav.net/tp1.php?id=215571
+
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 1
+http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 2
+http://51.178.65.238:80/RMC2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 3
+http://51.178.65.238:80/RMC3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 4
+http://51.178.65.238:80/RMC4/index.m3u8
+
+
 #EXTINF:-1 tvg-id="maxsport1"group-title="RMC SPORT" tvg-logo="https://maxsport.live/images/max-sport-1-logo.png",MAX SPORT 1
 https://tv.dqav.net/tp1.php?id=70187
 #EXTINF:-1 tvg-id="maxsport2"group-title="RMC SPORT" tvg-logo="https://maxsport.live/images/max-sport-2-logo.png",MAX SPORT 2
