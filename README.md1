@@ -1432,6 +1432,8 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TpEk1" group-title="المغربMAROCCO",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3TokF0M" tvg-country="MA" tvg-url="" group-title="المغربMAROCCO",Chada TV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="المغربMAROCCO",Radio Nationale الإذاعة الوطنية 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sr2jXyj/tamazigh.png" group-title="المغربMAROCCO",Radio Amazigh الإذاعة الأمازيغية
