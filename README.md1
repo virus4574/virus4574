@@ -955,16 +955,24 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="أم بي سيMBC",|MBC| 2 SD
 http://airmaxtv2022.online:80/AirMaxTVWQ58/5QwtX9zqG6D5/1719
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD AE
+http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15198/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc family" tvg-logo="http://platprotv.xyz:8080/images/mbcfamily.jpg" group-title="أم بي سيMBC",mbc family
 http://airmaxtv2022.online:80/AirMaxTVWQ58/5QwtX9zqG6D5/2098
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="أم بي سيMBC",|MBC| 4 SD
 http://airmaxtv2022.online:80/AirMaxTVWQ58/5QwtX9zqG6D5/1720
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4 AE
+http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15199/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mi4hQ8" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="أم بي سيMBC",|MBC| Action SD+
 http://airmaxtv2022.online:80/AirMaxTVWQ58/5QwtX9zqG6D5/1721
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action AE
+http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15197/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max AE
+http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15195/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="أم بي سيMBC",|MBC| Max SD+
 http://airmaxtv2022.online:80/AirMaxTVWQ58/5QwtX9zqG6D5/1723
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="أم بي سيMBC",|MBC| Iraq SD
@@ -1293,7 +1301,7 @@ http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xB2Xvo" group-title="فلسطينPALESTINE",PAL-Radio ALbalad
 http://live.masterweb-ps.com:8006/;mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="فلسطينPALESTINE",PAL-Rajeen TV
-https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ARcgJS" group-title="فلسطينPALESTINE",PAL-nablus live
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sMaSph" group-title="فلسطينPALESTINE",ShababFM
