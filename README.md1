@@ -646,6 +646,8 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="باقة وياك VIP" tvg-id="WeyyakNawaem.ae" tvg-logo="https://smashi.tv/assets/img/logo-png-ar.png" ,smashi tv
 https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="باقة وياك VIP" tvg-id="WeyyakNawaem.ae" tvg-logo="" ,Mix Bel Araby
+http://149.100.10.163:8011/play/s389
 #EXTINF:0 tvg-id="ext" group-title="Omg Channel",▂ ▄ ▅ ▆☆ Omg Channel ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Omg Channel",النسخة المدفوعة AirMax TV
@@ -1179,6 +1181,10 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 http://142.132.224.85:1935/live/_definst_/smil:mystream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Syria Drama
+http://149.100.10.163:8011/play/s392
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",Syria Satellite
+http://149.100.10.163:8011/play/s391
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية (Backup 1)
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية (Backup 1)
@@ -1566,6 +1572,37 @@ http://185.217.90.110:1097/play/a05z
 http://185.217.90.110:1097/play/a01o
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat
 http://185.217.90.110:1097/play/a00i
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL NADA TV
+http://149.100.10.163:8012/play/s306
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Masryia
+http://149.100.10.163:8012/play/s298
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Nas
+http://149.100.10.163:8012/play/s305
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Majd3
+http://149.100.10.163:8012/play/s307
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Althanya
+http://149.100.10.163:8012/play/s300
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Bedaya
+http://149.100.10.163:8012/play/s297
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mega FM
+http://149.100.10.163:8012/play/s309
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nagham FM
+http://149.100.10.163:8012/play/s310
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile TV
+http://149.100.10.163:8012/play/s299
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama
+http://149.100.10.163:8012/play/s301
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama 2
+http://149.100.10.163:8012/play/s302
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Film
+http://149.100.10.163:8012/play/s303
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Food
+http://149.100.10.163:8012/play/s304
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Radio Hits
+http://149.100.10.163:8012/play/s308
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sha3by FM
+http://149.100.10.163:8012/play/s311
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
