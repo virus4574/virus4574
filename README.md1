@@ -901,11 +901,15 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD
+http://213.162.202.9:4089/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1311.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD AE
 http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15198/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
+http://213.162.202.9:4089/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1311.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4 AE
@@ -913,9 +917,13 @@ http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15199/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mi4hQ8" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action
+http://213.162.202.9:4089/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1311.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action AE
 http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15197/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max
+http://213.162.202.9:4089/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1890.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max AE
@@ -1168,7 +1176,7 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
-http://foofootv.com/live/foo/foo/nbn.m3u8
+http://213.162.202.9:4089/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3G6lSTW" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam
@@ -1178,6 +1186,8 @@ https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD
+http://213.162.202.9:4089/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD
 http://foofootv.com/live/foo/foo/aljadeed.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD
 http://45.92.69.146:35002/play/a005/index.m3u8
@@ -1186,13 +1196,21 @@ https://stream-06.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW4_-rBCO0qYGRjq-0a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV
 http://45.92.69.146:35002/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International
+http://213.162.202.9:4089/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International
 http://45.92.69.146:35002/play/a004/97828587.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD
+http://213.162.202.9:4089/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD
 http://45.92.69.146:35002/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t5ZNj7" group-title="لبنانLEBANON",NBN
 http://45.92.69.146:35002/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV
+http://213.162.202.9:4089/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV
 http://45.92.69.146:35002/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One
+http://213.162.202.9:4089/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One
 http://45.92.69.146:35002/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
