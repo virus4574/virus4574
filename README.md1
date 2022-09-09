@@ -1046,6 +1046,31 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="MBC1.net" group-title="احتياطي أم بي سيMBC",MBC 1
+http://185.217.88.44:1084/play/a0xc
+#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
+http://185.217.88.44:1084/play/a0y4
+#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
+http://185.217.88.44:1084/play/a0xh
+#EXTINF:0 tvg-id="MBC3.net" group-title="احتياطي أم بي سيMBC",MBC 3
+http://185.217.88.44:1084/play/a0xj
+#EXTINF:0 tvg-id="MBC4.net" group-title="احتياطي أم بي سيMBC",MBC 4
+http://185.217.88.44:1084/play/a0xd
+#EXTINF:0 tvg-id="MBCAction.net" group-title="احتياطي أم بي سيMBC",MBC Action
+http://185.217.88.44:1084/play/a0xi
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="احتياطي أم بي سيMBC",MBC Bollywood
+http://185.217.88.44:1084/play/a0xg
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="احتياطي أم بي سيMBC",MBC Drama
+http://185.217.88.44:1084/play/a0xe
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC IRAQ
+http://185.217.88.44:1084/play/a0uw
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC IRAQ HD
+http://185.217.88.44:1084/play/a0uv
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC Masr
+http://185.217.88.44:1084/play/a0xk
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC Masr 2
+http://185.217.88.44:1084/play/a0x0
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3pWtmPO
@@ -1299,6 +1324,8 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ycdf8J" group-title="الاردنJORDAN",JR-Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",Jordan Sport
+http://185.217.88.44:1084/play/a0u4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="الاردنJORDAN",Amman tv SD
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="الاردنJORDAN",Amman tv 
@@ -1361,6 +1388,30 @@ https://skyfire.vimeocdn.com/1655853604-0xf903c2b345798ce60eb6b89c6ffa8dd679946f
 http://95.216.180.111:1935/live/3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3GyE5Ko" group-title="العراق IRAQ",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",IRAQ 24 HD
+http://185.217.88.44:1084/play/a0uz
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqi Edu
+http://185.217.88.44:1084/play/a10l
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Ent HD
+http://185.217.88.44:1084/play/a10k
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Entertainment
+http://185.217.88.44:1084/play/a10f
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Kurd
+http://185.217.88.44:1084/play/a10h
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia News HD
+http://185.217.88.44:1084/play/a10e
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia News SD
+http://185.217.88.44:1084/play/a10n
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Sport HD
+http://185.217.88.44:1084/play/a10i
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Syriac
+http://185.217.88.44:1084/play/a10j
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqia Turkuman
+http://185.217.88.44:1084/play/a10g
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",UTV Iraq
+http://185.217.88.44:1084/play/a0tj
+#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",UTV Iraq HD
+http://185.217.88.44:1084/play/a0uhي
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
@@ -1377,6 +1428,43 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad
+http://185.217.88.44:1084/play/a0x6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad 2
+http://185.217.88.44:1084/play/a0x7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada ElBalad 3
+http://185.217.88.44:1084/play/a0x5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Saout alaqila
+http://185.217.88.44:1084/play/a0tp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
+http://185.217.88.44:1084/play/a0sp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK CIMA
+http://185.217.88.44:1084/play/a0sq
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Aflam
+http://185.217.88.44:1084/play/a0wr
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Drama
+http://185.217.88.44:1084/play/a0wu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
+http://185.217.88.44:1084/play/a0zc
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
+http://185.217.88.44:1084/play/a0yz
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
+http://185.217.88.44:1084/play/a0yy
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
+http://185.217.88.44:1084/play/a0z9
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
+http://185.217.88.44:1084/play/a0z6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
+http://185.217.88.44:1084/play/a0zb
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
+http://185.217.88.44:1084/play/a0za
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
+http://185.217.88.44:1084/play/a0z7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
+http://185.217.88.44:1084/play/a0z8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
+http://185.217.88.44:1084/play/a0z5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
@@ -1673,7 +1761,10 @@ https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
 http://82.212.74.5:8000/live/hls/7727.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PSYvBN" group-title="ليبياLIBYA",LIB-218News
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lQRCDv" group-title="ليبياLIBYA",LIB-Libya 218
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Alwataniya
+http://185.217.88.44:1084/play/a0z2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Sport Channel
+http://185.217.88.44:1084/play/a0z3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="السودانSUDAN",Sudan TV
