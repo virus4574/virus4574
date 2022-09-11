@@ -8,8 +8,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS Prem 2++
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
-#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 Premium HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6131/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
@@ -78,7 +76,8 @@ https://golive.yn.lt/stream/bein/14.m3u8
 https://golive.yn.lt/stream/bein/15.m3u8
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinfrance3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN France 3
 https://golive.yn.lt/stream/bein/16.m3u8
-
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 Premium HD QA
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6131/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 HD QA
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6123/index.m3u8
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 HD QA
