@@ -704,6 +704,160 @@ https://bfmvar-lh.akamaihd.net/i/BFMVar_ESYTLS@427532/master.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE",AB1
+http://37.235.38.139:4000/play/a043
+#EXTINF:0 tvg-id="AB3.be" group-title="FRANCE",AB3
+http://37.235.38.139:4000/play/a0c6
+#EXTINF:0 tvg-id="tv1000-action" group-title="FRANCE",ACTION
+http://37.235.38.139:4000/play/a048
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE",ANIMAUX
+http://37.235.38.139:4000/play/a044
+#EXTINF:0 tvg-id="Automoto.fr" group-title="FRANCE",AUTOMOTO la chaine
+http://37.235.38.139:4000/play/a042
+#EXTINF:0 tvg-id="BET.uk" group-title="FRANCE",BET
+http://37.235.38.139:4000/play/a03o
+#EXTINF:0 tvg-id="boomerang" group-title="FRANCE",BOOMERANG
+http://37.235.38.139:4000/play/a00o
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE",CANAL J
+http://37.235.38.139:4000/play/a0a4
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="FRANCE",CANAL+
+http://37.235.38.139:4000/play/a0d9
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",CANAL+CINEMA
+http://37.235.38.139:4000/play/a0da
+#EXTINF:0 tvg-id="Canal+Docs.fr" group-title="FRANCE",CANAL+DOCS
+http://37.235.38.139:4000/play/a0b7
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",CANAL+FOOT
+http://37.235.38.139:4000/play/a0de
+#EXTINF:0 tvg-id="CANAL+GrandEcran.fr" group-title="FRANCE",CANAL+GRAND ECRAN
+http://37.235.38.139:4000/play/a0d0
+#EXTINF:0 tvg-id="M.Series.es" group-title="FRANCE",CANAL+SERIES
+http://37.235.38.139:4000/play/a0dd
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE",CANAL+SPORT
+http://37.235.38.139:4000/play/a0db
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",CANAL+SPORT360
+http://37.235.38.139:4000/play/a0di
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",CANAL+kids
+http://37.235.38.139:4000/play/a0dc
+#EXTINF:0 tvg-id="cartoon" group-title="FRANCE",CARTOON NETWORK
+http://37.235.38.139:4000/play/a0ay
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE",CHASSE ET PECHE
+http://37.235.38.139:4000/play/a04b
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE",CINE+ CLASSIC
+http://37.235.38.139:4000/play/a0dh
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FRANCE",CINE+ CLUB
+http://37.235.38.139:4000/play/a0al
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE",CINE+ EMOTION
+http://37.235.38.139:4000/play/a02n
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE",CINE+ FAMIZ
+http://37.235.38.139:4000/play/a0dg
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE",CINE+ FRISSON
+http://37.235.38.139:4000/play/a0df
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE",CINE+ PREMIER
+http://37.235.38.139:4000/play/a02i
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",CLIQUE TV
+http://37.235.38.139:4000/play/a03i
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE",COMEDIE+
+http://37.235.38.139:4000/play/a09o
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="FRANCE",COMEDY CENTRAL
+http://37.235.38.139:4000/play/a0an
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",CSTAR HITS FRANCE
+http://37.235.38.139:4000/play/a03b
+#EXTINF:0 tvg-id="disney" group-title="FRANCE",DISNEY CHANNEL
+http://37.235.38.139:4000/play/a00l
+#EXTINF:0 tvg-id="DisneyCh.Plus1.it" group-title="FRANCE",DISNEY CHANNEL+1
+http://37.235.38.139:4000/play/a039
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="FRANCE",DISNEY JUNIOR
+http://37.235.38.139:4000/play/a03j
+#EXTINF:0 tvg-id="Disney+.fr" group-title="FRANCE",DISNEY+
+http://37.235.38.139:4000/play/a070
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE",EQUIDIA
+http://37.235.38.139:4000/play/a0bv
+#EXTINF:0 tvg-id="ES1.fr" group-title="FRANCE",ES1
+http://37.235.38.139:4000/play/a06y
+#EXTINF:0 tvg-id="esp" group-title="FRANCE",EUROSPORT 1
+http://37.235.38.139:4000/play/a02q
+#EXTINF:0 tvg-id="esp2" group-title="FRANCE",EUROSPORT 2
+http://37.235.38.139:4000/play/a037
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",Eleven Sports Pro League 1 FR
+http://37.235.38.139:4000/play/a0c7
+#EXTINF:0 tvg-id="Histoire.fr" group-title="FRANCE",HISTOIRE
+http://37.235.38.139:4000/play/a03s
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE",INFOSPORT+
+http://37.235.38.139:4000/play/a00n
+#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE",MANGAS
+http://37.235.38.139:4000/play/a099
+#EXTINF:0 tvg-id="mcm-top" group-title="FRANCE",MCM
+http://37.235.38.139:4000/play/a05q
+#EXTINF:0 tvg-id="mezzo" group-title="FRANCE",MEZZO
+http://37.235.38.139:4000/play/a03v
+#EXTINF:0 tvg-id="mtv-rus" group-title="FRANCE",MTV
+http://37.235.38.139:4000/play/a03q
+#EXTINF:0 tvg-id="MULTISPORTS1.fr" group-title="FRANCE",MULTISPORTS 1
+http://37.235.38.139:4000/play/a08u
+#EXTINF:0 tvg-id="MULTISPORTS2.fr" group-title="FRANCE",MULTISPORTS 2
+http://37.235.38.139:4000/play/a03l
+#EXTINF:0 tvg-id="MULTISPORTS3.fr" group-title="FRANCE",MULTISPORTS 3
+http://37.235.38.139:4000/play/a09s
+#EXTINF:0 tvg-id="MULTISPORTS4.fr" group-title="FRANCE",MULTISPORTS 4
+http://37.235.38.139:4000/play/a09t
+#EXTINF:0 tvg-id="MULTISPORTS5.fr" group-title="FRANCE",MULTISPORTS 5
+http://37.235.38.139:4000/play/a0aj
+#EXTINF:0 tvg-id="Museum.fr" group-title="FRANCE",MUSEUM
+http://37.235.38.139:4000/play/a0a7
+#EXTINF:0 tvg-id="natgeo" group-title="FRANCE",NATIONAL GEO
+http://37.235.38.139:4000/play/a00g
+#EXTINF:0 tvg-id="natgeowild" group-title="FRANCE",NATIONAL GEOGRAPHIC  WILD
+http://37.235.38.139:4000/play/a0bq
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="FRANCE",NICKELODEON
+http://37.235.38.139:4000/play/a03u
+#EXTINF:0 tvg-id="nick-jr" group-title="FRANCE",NICKELODEON JUNIOR
+http://37.235.38.139:4000/play/a03k
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",NICKELODEON TEEN
+http://37.235.38.139:4000/play/a0ao
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",NICKELODEON+1
+http://37.235.38.139:4000/play/a029
+#EXTINF:0 tvg-id="paramount" group-title="FRANCE",PARAMOUNT CHANNEL
+http://37.235.38.139:4000/play/a0bt
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE",PARIS PREMIERE
+http://37.235.38.139:4000/play/a00i
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="FRANCE",PLANETE+
+http://37.235.38.139:4000/play/a00k
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANCE",PLANETE+ A&E
+http://37.235.38.139:4000/play/a09r
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="FRANCE",PLANETE+ CI
+http://37.235.38.139:4000/play/a03a
+#EXTINF:0 tvg-id="PolarPlus.fr" group-title="FRANCE",POLAR+
+http://37.235.38.139:4000/play/a05r
+#EXTINF:0 tvg-id="RFMTV.fr" group-title="FRANCE",RFM TV
+http://37.235.38.139:4000/play/a00v
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE",RTL9
+http://37.235.38.139:4000/play/a04a
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE",SEASONS
+http://37.235.38.139:4000/play/a0bu
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE",SERIE CLUB
+http://37.235.38.139:4000/play/a0bw
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FRANCE",Science et Vie
+http://37.235.38.139:4000/play/a045
+#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE",TCM CINEMA
+http://37.235.38.139:4000/play/a0ab
+#EXTINF:0 tvg-id="TeletoonPlusHD.ge" group-title="FRANCE",TELETOON+
+http://37.235.38.139:4000/play/a03c
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",TELETOON+1
+http://37.235.38.139:4000/play/a03d
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE",TEVA
+http://37.235.38.139:4000/play/a09p
+#EXTINF:0 tvg-id="tiji" group-title="FRANCE",TIJI
+http://37.235.38.139:4000/play/a00w
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE",TV BREIZH
+http://37.235.38.139:4000/play/a00u
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="FRANCE",Toute L Histoire
+http://37.235.38.139:4000/play/a047
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE",USHUAIA TV
+http://37.235.38.139:4000/play/a02l
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="FRANCE",WARNER TV
+http://37.235.38.139:4000/play/a0a5
 #EXTINF:-1 channel-id="samsung-FRAJ4500024MR" tvg-id="FRAJ4500024MR" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/FRAJ4500024MR_20210923T010513.png" group-title="FRANCE",Comédies - Rakuten TV
 https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=448&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-FRBA1000005TW" tvg-id="FRBA1000005TW" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png" group-title="FRANCE",Euronews en direct
