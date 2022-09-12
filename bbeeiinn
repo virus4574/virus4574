@@ -76,26 +76,18 @@ https://golive.yn.lt/stream/bein/14.m3u8
 https://golive.yn.lt/stream/bein/15.m3u8
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinfrance3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN France 3
 https://golive.yn.lt/stream/bein/16.m3u8
-#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 Premium HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6131/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6123/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6124/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6125/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6126/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6127/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6128/index.m3u8
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 8 HD QA
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6129/index.m3u8
-#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 HD EN
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6132/index.m3u8
-#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 HD EN
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6133/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/fqSmiZr.png",[$]BEIN SPORTS HABER HD
+http://5.182.229.90:8080/6939/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/q9G7TJp.png",[$]BEIN SPORTS 1HD
+http://5.182.229.90:8080/6817/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/3UOML9w.png",[$]BEIN SPORTS 2HD
+http://5.182.229.90:8080/6819/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/8UavrM5.png",[$]BEIN SPORTS 3HD
+http://5.182.229.90:8080/6821/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/ra3FjtO.png",[$]BEIN SPORTS 4HD
+http://5.182.229.90:8080/6823/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/ek1T8u1.png",[$]BEIN SPORTS MAX 1HD
+http://5.182.229.90:8080/6824/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
