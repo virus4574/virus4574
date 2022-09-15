@@ -3161,39 +3161,6 @@ http://server12.mp3quran.net/maher/018.mp3
 
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TURKEY TV
 https://bit.ly/3pWtmPO
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",PLAY 1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",PLAY 2
-https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
-#EXTINF:0 tvg-id="FX.uk" group-title="TURKEY",FX
-http://195.175.224.218:6610/001/2/ch00000090990000001356/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001356&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",FOXSUÇ
-http://195.175.224.218:6610/001/2/ch00000090990000001361/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001361&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1
-http://bit.ly/3GytGyk
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 2
-http://bit.ly/3GwxVu7
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON
-http://bit.ly/3a93XjP
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON 2
-http://bit.ly/3wXhGTL
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 1
-http://bit.ly/3N3z7Yk
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 2
-http://bit.ly/3LXuptR
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 1
-http://195.175.224.218:6610/001/2/ch00000090990000001230/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001230&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 2
-http://195.175.224.218:6610/001/2/ch00000090990000001241/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001241&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
-http://195.175.224.219:6610/001/2/ch00000090990000001233/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001233&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
-http://195.175.224.219:6610/001/2/ch00000090990000001234/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001234&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1001
-http://195.175.224.219:6610/001/2/ch00000090990000001227/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001227&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1002
-http://195.175.224.219:6610/001/2/ch00000090990000001231/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001231&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TURKEY",TRT 1 FHD
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TURKEY",ATV UHD
@@ -3224,6 +3191,38 @@ https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="TURKEY",TV8.5 UHD
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",PLAY 1
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",PLAY 2
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="TURKEY",FX
+http://195.175.224.218:6610/001/2/ch00000090990000001356/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001356&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",FOXSUÇ
+http://195.175.224.218:6610/001/2/ch00000090990000001361/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001361&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1
+http://195.175.224.219:6610/001/2/ch00000090990000001242/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001242&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 2
+http://195.175.224.218:6610/001/2/ch00000090990000001228/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001228&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON
+http://195.175.224.218:6610/001/2/ch00000090990000001232/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001232&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON 2
+http://195.175.224.219:6610/001/2/ch00000090990000001229/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001229&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 1
+http://195.175.224.218:6610/001/2/ch00000090990000001243/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001243&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 2
+http://195.175.224.218:6610/001/2/ch00000090990000001235/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001235&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 1
+http://195.175.224.218:6610/001/2/ch00000090990000001230/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001230&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 2
+http://195.175.224.218:6610/001/2/ch00000090990000001241/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001241&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
+http://195.175.224.219:6610/001/2/ch00000090990000001233/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001233&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
+http://195.175.224.219:6610/001/2/ch00000090990000001234/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001234&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1001
+http://195.175.224.219:6610/001/2/ch00000090990000001227/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001227&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1002
+http://195.175.224.219:6610/001/2/ch00000090990000001231/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001231&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="TURKEY",TEVE2 UHD
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="TURKEY",ATV Avrupa 
