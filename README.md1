@@ -3161,6 +3161,39 @@ http://server12.mp3quran.net/maher/018.mp3
 
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TURKEY TV
 https://bit.ly/3pWtmPO
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",PLAY 1
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",PLAY 2
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="TURKEY",FX
+http://bit.ly/38XSbZ5
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",FOXSUÇ
+http://bit.ly/3wZPHTv
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1
+http://bit.ly/3GytGyk
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 2
+http://bit.ly/3GwxVu7
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON
+http://bit.ly/3a93XjP
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON 2
+http://bit.ly/3wXhGTL
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 1
+http://bit.ly/3N3z7Yk
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 2
+http://bit.ly/3LXuptR
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 1
+http://bit.ly/3N2PnbW
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 2
+http://bit.ly/3PR0I0A
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
+http://bit.ly/3N1fKiq
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
+http://bit.ly/38uoJdb
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1001
+http://bit.ly/3lWMTjI
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1002
+http://bit.ly/3a7nIYL
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="TURKEY",TRT 1 FHD
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="TURKEY",ATV UHD
@@ -3243,39 +3276,6 @@ https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="TURKEY",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
-#EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TURKEY",PLAY 1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="TURKEY",PLAY 2
-https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
-#EXTINF:0 tvg-id="FX.uk" group-title="TURKEY",FX
-http://bit.ly/38XSbZ5
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",FOXSUÇ
-http://bit.ly/3wZPHTv
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1
-http://bit.ly/3GytGyk
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 2
-http://bit.ly/3GwxVu7
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON
-http://bit.ly/3a93XjP
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AKSIYON 2
-http://bit.ly/3wXhGTL
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 1
-http://bit.ly/3N3z7Yk
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV YERLİ 2
-http://bit.ly/3LXuptR
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 1
-http://bit.ly/3N2PnbW
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV KOMEDİ 2
-http://bit.ly/3PR0I0A
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
-http://bit.ly/3N1fKiq
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV AİLE 2
-http://bit.ly/38uoJdb
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1001
-http://bit.ly/3lWMTjI
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",SINEMA TV 1002
-http://bit.ly/3a7nIYL
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="TURKEY",ÜLKE TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="TURKEY",ÜLKE TV
