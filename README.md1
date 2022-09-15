@@ -1977,6 +1977,8 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD+
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="العراق IRAQ",IRQ-AL Sharqiya TV HD
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="العراق IRAQ",IRQ-AL Sharqiya News HD
