@@ -219,45 +219,6 @@ http://37.235.38.139:4000/play/a092
 #EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 10 🇫🇷
 http://37.235.38.139:4000/play/a093
 
-
-#EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",▂ ▄ ▅ ▆☆ Bein MEDIA ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ او اس انOSN ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-
-#EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",▂ ▄ ▅ ▆☆ باقة NETFLIX ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="باقة NETFLIX",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="باقة NETFLIX",Ajyal TV SD
-http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="باقة AMAZON PRIME",▂ ▄ ▅ ▆☆ باقة AMAZON PRIME ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="باقة AMAZON PRIME",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="باقة شاهد نت",▂ ▄ ▅ ▆☆ باقة شاهد نت ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="باقة شاهد نت",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات عربية",▂ ▄ ▅ ▆☆ باقة مسلسلات عربية ☆▆ ▅ ▄ ▂ ▁
-https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات عربية",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-
-
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
@@ -889,6 +850,40 @@ https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/in
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",▂ ▄ ▅ ▆☆ Bein MEDIA ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ او اس انOSN ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",▂ ▄ ▅ ▆☆ باقة NETFLIX ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="باقة NETFLIX",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="باقة NETFLIX",Ajyal TV SD
+http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="باقة AMAZON PRIME",▂ ▄ ▅ ▆☆ باقة AMAZON PRIME ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة AMAZON PRIME",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="ext" group-title="باقة شاهد نت",▂ ▄ ▅ ▆☆ باقة شاهد نت ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة شاهد نت",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات عربية",▂ ▄ ▅ ▆☆ باقة مسلسلات عربية ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات عربية",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
@@ -909,6 +904,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="باقة وياك VIP" tvg-id="WeyyakNawaem.ae" tvg-logo="" ,Mix Bel Araby
 http://149.100.10.163:8011/play/s389
+
 #EXTINF:0 tvg-id="ext" group-title="Omg Channel",▂ ▄ ▅ ▆☆ Omg Channel ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Omg Channel",النسخة المدفوعة AirMax TV
