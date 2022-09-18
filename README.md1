@@ -1491,34 +1491,18 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD+
-http://213.162.202.9:4089/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD++
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1889.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD AE
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15198/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD+++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
-http://213.162.202.9:4089/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1311.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4 AE
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15199/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mi4hQ8" group-title="أم بي سيMBC",|MBC| 5 SD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action
-http://213.162.202.9:4089/play/a06s/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1311.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5675.png" group-title="أم بي سيMBC",Mbc Action AE
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15197/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max
-http://213.162.202.9:4089/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max
 http://multies.xyz:8000/live/22.-..8..-..MBc.-.Ch.-LI.St....-Visit-...Multies.Net/Mb1.2.3C.4.Ti.oN5.X./1890.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max AE
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/15195/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="أم بي سيMBC",|MBC| Iraq SD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="أم بي سيMBC",|MBC| Masr SD
@@ -1822,8 +1806,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
-http://213.162.202.9:4089/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3G6lSTW" group-title="لبنانLEBANON",Nabaa TV
 http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam
@@ -1835,29 +1817,19 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD
 http://185.217.90.110:1097/play/a05s
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD
-http://213.162.202.9:4089/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD
 http://45.92.69.146:35002/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD++
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7ztkw7
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV
 http://45.92.69.146:35002/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International
-http://213.162.202.9:4089/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International
 http://45.92.69.146:35002/play/a004/97828587.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD
-http://213.162.202.9:4089/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD
 http://45.92.69.146:35002/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t5ZNj7" group-title="لبنانLEBANON",NBN
 http://45.92.69.146:35002/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV
-http://213.162.202.9:4089/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV
 http://45.92.69.146:35002/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One
-http://213.162.202.9:4089/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One
 http://45.92.69.146:35002/play/a003/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",LBC International
