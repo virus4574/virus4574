@@ -42,8 +42,6 @@ http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtr
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS HD+++
-https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
@@ -306,8 +304,6 @@ http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	spt3
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",1	sporttvmais
-http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Live Sports 11
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="SonySix.in" group-title="رياضية SPORT",Sony SIX
