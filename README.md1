@@ -2515,12 +2515,12 @@ http://149.100.10.203:4204/bysid/1108
 http://149.100.10.203:4204/bysid/1104
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="الكويت Kuwait",KTV Sport FHD
 http://149.100.10.203:4204/bysid/1103
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="الكويت Kuwait",KTV Khallik Bilbait
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3OSH2ZG" group-title="الكويت Kuwait",KTV Drama
 http://149.100.10.203:4204/bysid/1110
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ttHeEj" group-title="الكويت Kuwait",KTV Khallik Bilbait
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MpEMbf" group-title="الكويت Kuwait",i on Kuwait
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KEJiaN" group-title="الكويت Kuwait",FUNOON
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSports
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV87R9" group-title="الكويت Kuwait",Kuwait MarinaTv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="الكويت Kuwait",ADALAH TV SD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV8pHJ" group-title="الكويت Kuwait",Kuwait Al-Sabah
@@ -3825,18 +3825,6 @@ https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="TURKEY",YABAN TV HD
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="TURKEY",NATIONAL GEOGRAPHIC HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6867/index.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="TURKEY",NAT GEO WILD HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6866/index.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="TURKEY",DISCOVERY CHANNEL HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6861/index.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="TURKEY",DISCOVERY SCIENCE HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6863/index.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="TURKEY",HISTORY HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DEUTSCH TV
 https://bit.ly/3pWtmPO
