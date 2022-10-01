@@ -1020,7 +1020,7 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="الاخبارNEWS",WATAN HD
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="الاخبارNEWS",FRANCE 24 HD
-http://cbxedge.synapsetv.com/picker/tsstreamer/?f=France24Arabic_HD
+https://bit.ly/3dYImwG
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j27VuW" group-title="الاخبارNEWS",DW ARABIC HD
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="الاخبارNEWS",AL KHALIJ HD
@@ -1038,11 +1038,9 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vlaUoV" group-title="الاخبارNEWS",ALqanat 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3csqpDn" group-title="الاخبارNEWS",AL MAYADEEN HD
-https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtPfe6" group-title="الاخبارNEWS",AL HIWAR NEWS 
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxCP52" group-title="الاخبارNEWS",CNBC ARABIYA HD
-https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://arbne.ws/3MoHfkW" group-title="الاخبارNEWS",Al Hurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MiWGuT" group-title="الاخبارNEWS",IRQ-AL Hurra IRAQIA HD
@@ -1051,8 +1049,6 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبارNEWS",روسيا
-https://stonecors.herokuapp.com/https://rt-arb.rttv.com/live/rtarab/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",كيف احصل على الكود
