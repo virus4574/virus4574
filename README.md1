@@ -1838,8 +1838,6 @@ http://htvmada.mada.ps:8888/maannews/index.m3u8
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N3DDwc" group-title="فلسطينPALESTINE",Rehan TV
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wCglAi" group-title="فلسطينPALESTINE",PNN
-http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="فلسطينPALESTINE",Palestine-AL YAUM
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="فلسطينPALESTINE",PAL-Palestine
