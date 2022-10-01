@@ -1051,7 +1051,8 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبارNEWS",روسيا
+https://stonecors.herokuapp.com/https://rt-arb.rttv.com/live/rtarab/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",كيف احصل على الكود
