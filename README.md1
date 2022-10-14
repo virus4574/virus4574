@@ -2481,12 +2481,8 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 http://185.217.88.44:1084/play/a0xc
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
 http://185.217.88.44:1084/play/a0y4
-#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2+
-http://103.166.102.58:9981/stream/channelid/810107112?profile=pass
 #EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2
 http://185.217.88.44:1084/play/a0xh
-#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC MAX+
-http://103.166.102.58:9981/stream/channelid/1072664454?profile=pass
 #EXTINF:0 tvg-id="MBC3.net" group-title="احتياطي أم بي سيMBC",MBC 3
 http://185.217.88.44:1084/play/a0xj
 #EXTINF:0 tvg-id="MBC4.net" group-title="احتياطي أم بي سيMBC",MBC 4
@@ -2505,6 +2501,17 @@ http://185.217.88.44:1084/play/a0uv
 http://185.217.88.44:1084/play/a0xk
 #EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC Masr 2
 http://185.217.88.44:1084/play/a0x0
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png?20210330151826" group-title="احتياطي أم بي سيMBC",MBC 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Fteledunet.com%3A8080%2Flive%2F2211318816%2F2211318816%2F10090.ts
+#EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_4_0.jpg?itok=nO2AstgG" group-title="احتياطي أم بي سيMBC",MBC 4
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/10092.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/1200px-MBC_Action_TV_Channel_Logo.png" group-title="احتياطي أم بي سيMBC",MBC Action
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/10093.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="احتياطي أم بي سيMBC",MBC MAX
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/10098.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MBC_Variety.jpeg/revision/latest/scale-to-width-down/250?cb=20191214071902" group-title="احتياطي أم بي سيMBC",MBC Variety
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/50355.ts
 
 #EXTINF:0 tvg-id="MBC1.net" group-title="احتياطي أم بي سيMBC",MBC 1
 http://185.217.90.110:1084/play/a0xc
