@@ -2976,12 +2976,6 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
 http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3x5rFVQ" group-title="الوثائقية documentary",ANIMAL PLANET HD-1 (USA)
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34481?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hd-report.com/wp-content/uploads/2016/01/4k-ultrahd-logo.jpg" group-title="الوثائقية documentary",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="الوثائقية documentary",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rMe7gj" group-title="الوثائقية documentary",حب الطبيعة
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="الوثائقية documentary",Animaux
@@ -3000,14 +2994,19 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://piratesiptv.shortcm.li/ack.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://bit.ly/3g76he0" group-title="الوثائقية documentary", Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.zaltv.club/logo/clarity_4K.png" group-title="الوثائقية documentary", Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://bit.ly/3RXaCha" group-title="الوثائقية documentary", Loupe 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",nashasibir4k
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashasibir4k
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Chillayo 4K
 http://85.187.244.111:50011
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Nasa TV
 https://piratesiptv.shortcm.li/nasa.m3u8
+
 
 #EXTINF:-1   tvg-logo="" group-title="مناظر طبيعية",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
