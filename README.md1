@@ -2814,6 +2814,18 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/435-4354313_star-movies-logo-star-movies-logo-png-transparent.png" group-title="Bein MEDIA VIP",beIN Star Movies FHD
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=mdYdudTfBb
+#EXTINF:0 tvg-id="beINMovies2Action.qa" group-title="Bein MEDIA VIP",beIN Movies HD2 ACTION
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6134/index.m3u8
+#EXTINF:0 tvg-id="beINMovies3Drama.qa" group-title="Bein MEDIA VIP",beIN Movies HD3 DRAMA
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6135/index.m3u8
+#EXTINF:0 tvg-id="beINMovies4Family.qa" group-title="Bein MEDIA VIP",beIN Movies HD4 FAMILY
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6136/index.m3u8
+#EXTINF:0 tvg-id="beINSeries1.qa" group-title="Bein MEDIA VIP",beIN Series HD 1
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6138/index.m3u8
+#EXTINF:0 tvg-id="beINDrama.qa" group-title="Bein MEDIA VIP",beIN Drama QA
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6137/index.m3u8
+#EXTINF:0 tvg-id="Fatafeat.qa" group-title="Bein MEDIA VIP",beIN Fatafeat
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6142/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ او اس انOSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
@@ -3593,6 +3605,15 @@ http://185.217.88.44:1084/play/a0uv
 http://185.217.88.44:1084/play/a0xk
 #EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC Masr 2
 http://185.217.88.44:1084/play/a0x0
+
+#EXTINF:0 tvg-id="MBCMax.net" group-title="احتياطي أم بي سيMBC",Mbc Max AE
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15195/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",Mbc Action AE
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15197/index.m3u8
+#EXTINF:0 tvg-id="MBC2.net" group-title="احتياطي أم بي سيMBC",MBC 2 SD AE
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15198/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="احتياطي أم بي سيMBC",MBC 4 AE
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15199/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png?20210330151826" group-title="احتياطي أم بي سيMBC",MBC 2
 http://teledunet.com:8080/?getts=http%3A%2F%2Fteledunet.com%3A8080%2Flive%2F2211318816%2F2211318816%2F10090.ts
