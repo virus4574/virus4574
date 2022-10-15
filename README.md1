@@ -2804,6 +2804,16 @@ http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F38948
 http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F33373.ts
 #EXTINF:-1  tvg-logo="" group-title="Bein MEDIA VIP",BEIN GOURMET
 http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1021.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://logo.smart-iptvpro.info/139.hr.png" group-title="Bein MEDIA VIP",beIN Fox Movies FHD
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
+#EXTINF:-1  tvg-name="beIN Travel" tvg-id="" tvg-logo="http://pic.qw1234.org/logos/tn_travel%20channel.jpg" group-title="Lifestyle & Entertainment",beIN Travel
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20151&extension=ts&play_token=nRxm1DJi5g
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" group-title="Bein MEDIA VIP",beIN Fox Action Movies FHD
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://logo.smart-iptvpro.info/139.hr.png" group-title="Bein MEDIA VIP",beIN Fox Movies FHD
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.vhv.rs/dpng/d/435-4354313_star-movies-logo-star-movies-logo-png-transparent.png" group-title="Bein MEDIA VIP",beIN Star Movies FHD
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=mdYdudTfBb
 
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ او اس انOSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
@@ -2975,7 +2985,9 @@ https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b45000
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)
-http://95.216.180.111:1935/live/111/chunklist.m3u8
+http://95.216.180.111:1935/live/111/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://62.182.85.43/poster/NationalGeographicWild.png" group-title="Documentaries",BEIN NATIONAL GEOGRAPHIC WILD
+http://5gfksa.ltd:2052/991155/551199/12986
 #EXTINF:-1 tvg-name="Discovery Family " tvg-logo="https://i.pinimg.com/564x/4c/c9/b6/4cc9b687b62e8f6410bb32939601f657.jpg" group-title="الوثائقية documentary",Discovery Family 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3583
 #EXTINF:-1 tvg-name="Travel HD" tvg-logo="https://cne-eg.com/uploads/logos/20183175715209.png" group-title="الوثائقية documentary",Travel HD
@@ -3069,7 +3081,6 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
 #EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="http://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="أطفال Children",atfal wa mwaheb
 https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
