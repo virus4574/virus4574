@@ -3968,12 +3968,11 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3O3obuC" group-title="العراق IRAQ",قناه الفرات
-http://95.216.180.111:1935/live/10/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD
-http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD+
-http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/arrafidaintv/live_640p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="العراق IRAQ",IRQ-AL Sharqiya TV HD
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="العراق IRAQ",IRQ-AL Sharqiya News HD
@@ -3995,13 +3994,13 @@ https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="العراق IRAQ",iNEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="العراق IRAQ",RASHEED TV
-https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="العراق IRAQ",ALetejah TV
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4ibNa" group-title="العراق IRAQ",قناة الموصلية
-http://95.216.180.111:1935/live/3/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3GyE5Ko" group-title="العراق IRAQ",افاق
-http://95.216.180.111:1935/live/1/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",IRAQ 24 HD
 http://185.217.88.44:1084/play/a0uz
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Iraqi Edu
