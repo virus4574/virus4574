@@ -40,16 +40,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1+
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778050.ts
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1
-http://golive.yn.lt/live/laliga/03.m3u8
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 3
-http://golive.yn.lt/live/bola/07.m3u8
-#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 3
-https://bit.ly/bbeinp3?
-#EXTINF:-1 tvg-logo="https://bit.ly/3eiQ5Wt" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra 1
-http://golive.yn.lt/live/ucl/08.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3eiQ5Wt" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra 1
-http://golive.yn.lt/live/ucl/09.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1AR
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2AR
@@ -552,14 +542,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://w4.12all.tv:4000/play/btsport2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",BT SPORT 3 🇬🇧
 http://w4.12all.tv:4000/play/btsport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S CHAMPIONS 🇬🇧
-http://golive.yn.lt/live/bola/08.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S CHAMPIONS 🇬🇧
-http://golive.yn.lt/live/champions/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S CHAMPIONS 🇬🇧
-http://golive.yn.lt/live/unl/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S CHAMPIONS 🇬🇧
-http://golive.yn.lt/live/unl/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",MOVISTAR LIGA CAMPEONES 🇪🇸
