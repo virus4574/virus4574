@@ -38,6 +38,8 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1
 http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1+
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778050.ts
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1
 http://golive.yn.lt/live/laliga/03.m3u8
 #EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 3
@@ -3486,8 +3488,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD++
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10090.ts
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
