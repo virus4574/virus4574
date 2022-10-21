@@ -4237,24 +4237,24 @@ https://streamer.eagrpservices.com/audio/mfmradio.ogg
 https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PwYz4T6/aswat.png" group-title="🇲🇦المغربMAROCCO",Radio Aswat 🇲🇦
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="🇹🇳تونسTUNISIE",موزاييك 🇹🇳
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 🇹🇳
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="🇹🇳تونسTUNISIE",Shems FM🇹🇳
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM🇹🇳
 https://radio.shemsfm.net/shems
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="🇹🇳تونسTUNISIE",TUNISIE 🇹🇳راديو جوهرة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="تونسTUNISIE",TUNISIE 🇹🇳راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbp7jV" group-title="🇹🇳تونسTUNISIE",Sahel TV🇹🇳
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbp7jV" group-title="تونسTUNISIE",Sahel TV🇹🇳
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="🇹🇳تونسTUNISIE",Tunimmob TV🇹🇳
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="تونسTUNISIE",Tunimmob TV🇹🇳
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="🇹🇳تونسTUNISIE",Watania 2+🇹🇳
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cgeDuK" group-title="تونسTUNISIE",Watania 2+🇹🇳
 #EXTVLCOPT:http-user-agent=TNAgexpl212C
 http://217.182.137.206/tunisie2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="🇹🇳تونسTUNISIE",Nessma Ejdida🇹🇳
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" group-title="تونسTUNISIE",Nessma Ejdida🇹🇳
 http://217.182.137.206/nessma.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="🇹🇳تونسTUNISIE",🇹🇳الحوار التونسي
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",🇹🇳الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
@@ -4440,39 +4440,39 @@ https://aintemouchent.ice.infomaniak.ch/46.aac
 https://ghardaia.ice.infomaniak.ch/47.aac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PjBM3qw/relizane." group-title="الجزائرALGERIEN",Ghélizane غليزان 🇩🇿
 https://ghelizane.ice.infomaniak.ch/48.aac
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wXtrcR" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar HD🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wXtrcR" group-title="ليبياLIBYA",Libya Al Ahrar HD🇱🇾
 https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="🇱🇾ليبياLIBYA",LIB-Salam TV🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zmS1Wj" group-title="🇱🇾ليبياLIBYA",LIB-Libya Channel🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zmS1Wj" group-title="ليبياLIBYA",LIB-Libya Channel🇱🇾
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3XlSw" group-title="🇱🇾ليبياLIBYA",LIB-JAMAHIRIA-TV🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3XlSw" group-title="ليبياLIBYA",LIB-JAMAHIRIA-TV🇱🇾
 https://master.starmena-cloud.com/hls/jam.m3u8?DVR&v=93532210
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="🇱🇾ليبياLIBYA",قناة الوسط - WTV🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="ليبياLIBYA",قناة الوسط - WTV🇱🇾
 https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qKfLOp" group-title="🇱🇾ليبياLIBYA",Libya Bussness🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qKfLOp" group-title="ليبياLIBYA",Libya Bussness🇱🇾
 https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya Almasar🇱🇾
 https://master.starmena-cloud.com/hls/almasar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LY" tvg-url="" group-title="🇱🇾ليبياLIBYA",Libya Al Aaan🇱🇾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LY" tvg-url="" group-title="ليبياLIBYA",Libya Al Aaan🇱🇾
 http://82.212.74.5:8000/live/hls/7727.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PSYvBN" group-title="🇱🇾ليبياLIBYA",LIB-218News🇱🇾
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lQRCDv" group-title="🇱🇾ليبياLIBYA",LIB-Libya 218🇱🇾
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PSYvBN" group-title="ليبياLIBYA",LIB-218News🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lQRCDv" group-title="ليبياLIBYA",LIB-Libya 218🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Alwataniya🇱🇾
 http://185.217.88.44:1084/play/a0z2
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Sport Channel🇱🇾
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Sport Channel🇱🇾
 http://185.217.88.44:1084/play/a0z3
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Almustaqbal TV🇱🇾
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Almustaqbal TV🇱🇾
 http://185.217.90.110:1097/play/a028
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia🇱🇾
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Alrasmia🇱🇾
 http://185.217.90.110:1097/play/a01h
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Education🇱🇾
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Education🇱🇾
 http://185.217.90.110:1097/play/a04a
-#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Sport 2 HD🇱🇾
+#EXTINF:0 tvg-id="ext" group-title="ليبياLIBYA",Libya Sport 2 HD🇱🇾
 http://185.217.90.110:1097/play/a049
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
