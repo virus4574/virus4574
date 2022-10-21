@@ -4254,9 +4254,9 @@ https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
 https://live.hoooshextratv.com/live/hooosh/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="🇶🇦قطر Qatar",Qatar 1 TV HD🇶🇦
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3VLU7HP" group-title="🇶🇦قطر Qatar",Qatar 1 TV HD🇶🇦
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9nS4x" group-title="🇶🇦قطر Qatar",Qatar 2 TV HD🇶🇦
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z1Bvd8" group-title="🇶🇦قطر Qatar",Qatar 2 TV HD🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ohQ0S5" group-title="🇶🇦قطر Qatar",Al RAYAN 2 HD🇶🇦
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
@@ -4331,6 +4331,8 @@ https://bit.ly/3gj9PK5
 https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LZF332" group-title="🇸🇦السعودية Saudi-Arabia",Thikrayat TV🇸🇦
 https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LZF332" group-title="🇸🇦السعودية Saudi-Arabia",Thikrayat TV🇸🇦+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/thikrayat-tv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="🇸🇦السعودية Saudi-Arabia",Saudi TV 1🇸🇦
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PIOcAp" group-title="🇸🇦السعودية Saudi-Arabia",Al Ekhbariya🇸🇦
@@ -4401,6 +4403,8 @@ https://bit.ly/3gj9PK5
 https://video.yementdy.tv/live/yementoday/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sWDLxR" group-title="🇾🇪اليمن Yemen",Almasira TV🇾🇪
 https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ab7uKT" group-title="🇾🇪اليمن Yemen",Suhail TV🇾🇪
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/395hNAB" group-title="🇾🇪اليمن Yemen",Yemen Shabab🇾🇪
@@ -4409,6 +4413,8 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a4RWf4" group-title="🇾🇪اليمن Yemen",🇾🇪عدن
 http://82.212.74.5:8000/live/hls/7728.m3u8
+#EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/nhGnJp8F/image1.png",Al Ghad Almoshrek 🇾🇪
+http://82.212.74.3:8000/live/7512.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="🇸🇴الصومالSomalia‎",28 الصومالSomalia🇸🇴
 https://bit.ly/3xYLaRh
