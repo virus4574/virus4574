@@ -2557,8 +2557,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="باقة وياك VIP" tvg-id="WeyyakNawaem.ae" tvg-logo="https://smashi.tv/assets/img/logo-png-ar.png" ,smashi tv
 https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="باقة وياك VIP" tvg-id="WeyyakNawaem.ae" tvg-logo="" ,Mix Bel Araby
-http://149.100.10.163:8011/play/s389
 #EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",▂ ▄ ▅ ▆☆ باقة NETFLIX ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",النسخة المدفوعة AirMax TV
@@ -2567,6 +2565,24 @@ https://bit.ly/34ooolI
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="باقة NETFLIX",Ajyal TV SD
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",SHAHID MOVIES
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1058.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",SHAHID COMEDY
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1081.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",SHAHID ARABIC
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1082.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",SHAHID ARABIA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1083.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",NETFLIX ARABIC 2
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1085.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",NETFLIX ACTION
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1087.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",NETFLIX HORROR
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1102.ts
+#EXTINF:-1  tvg-logo="" group-title="NETFLIX",NETFLIX COMEDY
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778849.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Omg Channel",▂ ▄ ▅ ▆☆ Omg Channel ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
@@ -2583,50 +2599,11 @@ http://media6.smc-host.com:1935/omgchannel.net/omgsport/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Kids
 http://media6.smc-host.com:1935/omgchannel.net/omgkids/chunklist.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",BeIN Fox Life 4K
-http://41.242.24.26:8000/play/BeIN-Fox-Life
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",Shahid VIP Live 4K
-http://41.242.24.26:8000/play/Shahid-VIP
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[17] ON-Box-Office-HD
-http://41.242.24.26:8000/play/ON-Box-Office-HD
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[18] ON HEKAYAT HD
-http://41.242.24.26:8000/play/ON-HEKAYAT-HD
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[19] ON-Cartoon-Zaman
-http://41.242.24.26:8000/play/ON-Cartoon-Zaman
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[20] ON-Turkey-1
-http://41.242.24.26:8000/play/ON-Turkey-1-HD
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[21] ON-Turkey-2
-http://41.242.24.26:8000/play/ON-Turkey-2-HD
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[22] ON funny
-http://41.242.24.26:8000/play/ON-funny
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[23] ON-Masrahiat
-http://41.242.24.26:8000/play/ON-Masrahiat
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[25] ON SHAMIYAT
-http://41.242.24.26:8000/play/ON-SHAMIYAT
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[27] ON-ONE
-http://41.242.24.26:8000/play/ON-one
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[28] ON-series
-http://41.242.24.26:8000/play/ON-series
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[29] ON HORROR
-http://41.242.24.26:8000/play/ON-HORROR
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[30] ON-Khalijiat
-http://41.242.24.26:8000/play/ON-Khalijiat
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[31] ON Cinema 1 HD
-http://41.242.24.26:8000/play/ON-Cinema-1-HD
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[33] ZINA-TV-Box-Office
-http://41.242.24.26:8000/play/ZINA-TV-Box-Office
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",[37] ON-Animation-HD
-http://41.242.24.26:8000/play/ON-Animation-HD
-#EXTINF:0 tvg-id="ext" group-title="باقة مسلسلات VIP",news
-http://41.242.24.26:8000/play/news
-
 
 #EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",▂ ▄ ▅ ▆☆ Bein MEDIA ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="Bein MEDIA",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://logo.smart-iptvpro.info/139.hr.png" group-title="Bein MEDIA VIP",beIN Fox Movies FHD
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1  tvg-name="beIN Travel" tvg-id="" tvg-logo="http://pic.qw1234.org/logos/tn_travel%20channel.jpg" group-title="Bein MEDIA VIP",beIN Travel
@@ -3634,10 +3611,6 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 http://162.55.32.203:1935/live/smil:mystream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Syria Drama
-http://149.100.10.163:8011/play/s392
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",Syria Satellite
-http://149.100.10.163:8011/play/s391
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية (Backup 1)
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية (Backup 1)
@@ -3987,37 +3960,103 @@ http://185.217.90.110:1097/play/a05z
 http://185.217.90.110:1097/play/a01o
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat🇪🇬
 http://185.217.90.110:1097/play/a00i
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL NADA TV🇪🇬
-http://149.100.10.163:8012/play/s306
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Masryia🇪🇬
-http://149.100.10.163:8012/play/s298
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Nas🇪🇬
-http://149.100.10.163:8012/play/s305
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Majd3🇪🇬
-http://149.100.10.163:8012/play/s307
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Althanya🇪🇬
-http://149.100.10.163:8012/play/s300
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Bedaya🇪🇬
-http://149.100.10.163:8012/play/s297
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mega FM🇪🇬
-http://149.100.10.163:8012/play/s309
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nagham FM🇪🇬
-http://149.100.10.163:8012/play/s310
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile TV🇪🇬
-http://149.100.10.163:8012/play/s299
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama🇪🇬
-http://149.100.10.163:8012/play/s301
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama 2🇪🇬
-http://149.100.10.163:8012/play/s302
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Film🇪🇬
-http://149.100.10.163:8012/play/s303
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Food🇪🇬
-http://149.100.10.163:8012/play/s304
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Radio Hits🇪🇬
-http://149.100.10.163:8012/play/s308
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sha3by FM🇪🇬
-http://149.100.10.163:8012/play/s311
+
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON E
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10170.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10171.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALHAYAT EGYPT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10205.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALHAYAT MUSALSALAT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/50384.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALOULA EGYPT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1158.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALTHANIYA EGYPT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/12285.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALMASRIYA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10168.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALNAHAR
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10188.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALNAHAR DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10189.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",DMC
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10179.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",DMC DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10180.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC TV
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10192.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC XTRA NEWS
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/333497.ts
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10193.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC SOFRA EGYPT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10194.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALMEHWAR
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10202.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TEN EGYPT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10201.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",NILE TV INTERNATIONAL
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101510.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",NILE CINEMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10186.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",NILE COMEDY
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10182.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",NILE DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10184.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",SADA ALBALAD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10190.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",PANORAMA FOOD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10206.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",PANORAMA DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10207.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",PANORAMA DRAMA 2
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10208.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",PANORAMA FILM
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/20208.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALKAHERA W NAS
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10177.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALKAHERA W NAS 2
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1163.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CIMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10187.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MELODY CLASSIC
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10196.ts
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="المصرية Egypt",CINEMA 1
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10176.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CINEMA 2
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/10175.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",STAR CINEMA 1
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/333496.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",STAR CINEMA 2
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/333504.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",FREE MUSIC
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1164.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALBAIT BAITAK CINEMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1165.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/50350.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",MEKAMELEN
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101541.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSA3A ALYOUM
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792268.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSA3A DRAMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792269.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSA3A CLASSIC
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792270.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",APPLE CINEMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792279.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",APPLE ALWAN
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792277.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",APPLE HEKAYAT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792281.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CINEMA PRO
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792289.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",DOLLY CINEMA
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792291.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",DOLLY MOSALSALAT
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792293.ts
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ALSHARQ TV
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792307.ts
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
