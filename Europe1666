@@ -626,36 +626,32 @@ https://cdn.mmsiptv.com/live/france3/chunks.m3u8
 https://cdn.mmsiptv.com/live/france4/chunks.m3u8
 #EXTINF:0 tvg-id="France5.fr" group-title="FRANCE",FRANCE 5
 https://cdn.mmsiptv.com/live/france5/chunks.m3u8
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE",M6
-https://s4.tntendirect.com/m6/live/chunks.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-445.png" group-title="FRANCE",08 - C8
+http://www.callofliberty.fr/stream/c8/master.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-119.png" group-title="FRANCE",09 - W9
+http://www.callofliberty.fr/stream/w9/master.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-195.png" group-title="France",10 - TMC
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TMC/master.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-446.png" group-title="France",11 - TFX
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TFX/master.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-112.png" group-title="FRANCE",26 - LCI
+https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1401.png" group-title="FRANCE",21 - L'Équipe
+http://www.callofliberty.fr/stream/lequipe/master.m3u8
 #EXTINF:0 tvg-id="ARTE.de" group-title="FRANCE",arte
-https://s4.tntendirect.com/arte/live/chunks.m3u8
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE",C8
-https://s4.tntendirect.com/d8/live/chunks.m3u8
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE",W9
-https://s4.tntendirect.com/w9/live/chunks.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/ARTE/master.m3u8
 #EXTINF:0 tvg-id="TCM.uk" group-title="FRANCE",TMC
-https://s4.tntendirect.com/tmc/live/chunks.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TMC/master.m3u8
 #EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE",TFX
-https://s4.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE",NRJ12
-https://s4.tntendirect.com/nrj12/live/chunks.m3u8
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE",BFMTV
-https://s4.tntendirect.com/bmftv/live/chunks.m3u8
-#EXTINF:0 tvg-id="CNews.fr" group-title="FRANCE",CNEWS
-https://s4.tntendirect.com/cnews/live/chunks.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TFX/master.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-481.png" group-title="FRANCE",15 - BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-226.png" group-title="FRANCE",16 - CNews
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE",CSTAR
 https://s2.tntendirect.com/d17/live/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",TF1 SERIE FILM
-https://s4.tntendirect.com/hd1/live/chunks.m3u8
-#EXTINF:0 tvg-id="Equipe21.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",L'EQUIPE
-https://s4.tntendirect.com/lequipe21/live/chunks.m3u8
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",6ter
-https://s4.tntendirect.com/6ter/live/chunks.m3u8
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",RMC DECOUVERTE
-https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",CHERIE 25
-https://s4.tntendirect.com/cherie25/live/chunks.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1_Series_Films/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://bit.ly/3uwriCj" group-title="FRANCE",TF1 Series Films
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/dw5SQoD.png" group-title="FRANCE",Amuse Animation
@@ -1365,8 +1361,6 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 tvg-id="TMACaraibes.fr" tvg-name="TMA Caraïbes" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="TMC.mc" tvg-name="TMC" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="FRANCE",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" tvg-country="FR" tvg-language="" tvg-logo="" group-title="FRANCE",Trace Brazuca
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-country="FR" tvg-language="" tvg-logo="" group-title="FRANCE",Trace Latina
@@ -1547,8 +1541,6 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="FRANCE",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-id="tv3" group-title="FRANCE",TV3
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:0 tvg-id="tv5monde" group-title="FRANCE",TV5 Monde Europe
@@ -1589,9 +1581,6 @@ http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",DBM
 https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="FRANCE",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-
 #EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE",TFX
