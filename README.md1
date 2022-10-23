@@ -4300,13 +4300,15 @@ https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qIXyi7" group-title="🇧🇭البحرين Bahrain",Bahrain TV🇧🇭
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oa3lMb" group-title="🇧🇭البحرين Bahrain",Bahrain TV🇧🇭
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="🇧🇭البحرين Bahrain",Bahrain Sports 1🇧🇭
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="🇧🇭البحرين Bahrain",Bahrain Sports 2🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="🇧🇭البحرين Bahrain",Bahrain Quran🇧🇭
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vWtsfp" group-title="🇧🇭البحرين Bahrain",Bahrein International🇧🇭
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="🇴🇲سلطنة عمان Oman",Oman TV🇴🇲
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="🇴🇲سلطنة عمان Oman",Oman TV🇴🇲
