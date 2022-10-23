@@ -2847,6 +2847,8 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="الوثائقية documentary",NAT GEO WILD HD🏞️
 http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="الوثائقية documentary",INWILD🏞️
+http://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3x5rFVQ" group-title="الوثائقية documentary",ANIMAL PLANET HD-1 (USA)🏞️
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34481?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Relax🏞️
@@ -3650,8 +3652,8 @@ http://htvmada.mada.ps:8888/maannews/index.m3u8
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gCrKMl" group-title="🇵🇸فلسطينPALESTINE",Hettin🇵🇸
 http://dacastmmd.mmdlive.lldns.net/dacastmmd/344e2bf5323c4b5ab3d537fac37d31ef/hoSSaM.SAT.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="🇵🇸فلسطينPALESTINE",RAJEEN🇵🇸
-http://mn-nl.mncdn.com/palabroad/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="🇵🇸فلسطينPALESTINE",PAL-Rajeen TV🇵🇸
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N3DDwc" group-title="🇵🇸فلسطينPALESTINE",Rehan TV🇵🇸
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="🇵🇸فلسطينPALESTINE",Palestine-AL YAUM🇵🇸
@@ -3688,8 +3690,6 @@ http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xB2Xvo" group-title="🇵🇸فلسطينPALESTINE",PAL-Radio ALbalad🇵🇸
 http://live.masterweb-ps.com:8006/;mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="🇵🇸فلسطينPALESTINE",PAL-Rajeen TV🇵🇸
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ARcgJS" group-title="🇵🇸فلسطينPALESTINE",PAL-nablus live🇵🇸
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sMaSph" group-title="🇵🇸فلسطينPALESTINE",ShababFM🇵🇸
@@ -3712,6 +3712,16 @@ http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",radio-9090ONLINE🇵🇸
 http://9090video.mobtada.com:1935/live/9090ONLINE/h.o.s.s.a.m.RADIO.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",pnn-tv🇵🇸
+http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",orient.tv🇵🇸
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Hala.ramallah🇵🇸
+https://halaramallahtv.com:8444/HRamallah-Tv/HalaRamallah/chunklist_w246911314.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",albalad-AR-HD🇵🇸
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",adwa-tv🇵🇸
+http://htvmada.mada.ps:8888/adwa2tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
