@@ -4309,6 +4309,19 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vWtsfp" group-title="🇧🇭البحرين Bahrain",Bahrein International🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇧🇭البحرين Bahrain",Bahrein 🇧🇭إذاعة بحرين
+https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇧🇭البحرين Bahrain",Bahrein🇧🇭إذاعة البحرين
+https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇧🇭البحرين Bahrain",Bahrein🇧🇭الإذاعة الإنجليزية
+https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇧🇭البحرين Bahrain",Bahrein🇧🇭القرآن الكريم
+https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇧🇭البحرين Bahrain",Bahrein🇧🇭الإذاعة الشعبية
+https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇧🇭البحرين Bahrain",Bahrein🇧🇭الإذاعة الهندية
+https://5c7b683162943.streamlock.net/live/ngrp:indianradio_all/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="🇴🇲سلطنة عمان Oman",Oman TV🇴🇲
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="🇴🇲سلطنة عمان Oman",Oman TV🇴🇲
@@ -4442,103 +4455,103 @@ http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="🇸🇴الصومالSomalia‎",SBC🇸🇴
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/TIOMNuOzknM/maxresdefault.jpg" group-title="KURDISH",KURDISH 🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/TIOMNuOzknM/maxresdefault.jpg" group-title="KURDISH",KURDISH 
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",النسخة المدفوعة AirMax TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/GLfhYSH.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/GLfhYSH.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/XFbwbi4.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdsat🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/XFbwbi4.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdsat
 http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TtCVv0"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TtCVv0"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ava Entertainment🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ava Entertainment
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 Kurd🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH",sterktv🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH",sterktv
 http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 kurd🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 kurd
 http://51.210.199.23/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Gali Kurdistan🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Gali Kurdistan
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",peyam TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",peyam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Kurdsaradio TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Kurdsaradio TV
 http://uk3.internet-radio.com:8011/stream
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurd Channel HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurd Channel HD
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",afarin KidsTV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",afarin KidsTV
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Kurdistan TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Speda TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Speda TV
 http://cdn.dwasat.com:1935/live/speda084k/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Zagros🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-id="ext" group-title="KURDISH",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDMAX TV🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDMAX TV
 https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxBadine0!/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",KTV KURDI🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KTV KURDI
 http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",RUDAW TV HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",RUDAW TV HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw Media🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw Media
 http://baskhd.ddns.net:40/live/chawhd/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Azhin🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Azhin
 http://azhintv.mypsx.net:40/live/azhintv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Mihrab🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Mihrab
 http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Derin🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Derin
 http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Knn🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Knn
 http://knntv.ddns.net:40/live/knn/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",K24 HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",K24 HD
 http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw HD
 http://baskhd.ddns.net:40/live/chawhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN documentary ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN documentary ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radiofarsy ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radiofarsy ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdradiofarsy/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radioturky ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radioturky ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN news ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN news ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN movies ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN movies ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN drama ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN drama ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN kids ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN kids ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN quran ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN quran ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask HD
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Sada HD🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Sada HD
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ShowTV.tr" group-title="KURDISH",Show🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="KURDISH",Show
 http://baskhd.ddns.net:40/live/ShowTV/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Spi🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Spi
 http://baskhd.ddns.net:40/live/quranhd/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Esra🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Esra
 http://baskhd.ddns.net:40/live/Esra_TV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Family🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Family
 http://baskhd.ddns.net:40/live/BarinfamilyHD/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Quran🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Quran
 http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat News🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat News
 http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat🏴󠁩󠁲󠀱󠀶󠁿
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat
 http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
@@ -4887,7 +4900,7 @@ https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala-web_480p/chunks.
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌قاف التفاعلية
 https://mn-nl.mncdn.com/qaf/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌اهل القران
-https://ahlualquran.tv/live/ysfbfBvecZ/SaNVjgaYnE/8.m3u8
+https://www.ahlualquran.tv:25463/live/ahlutv/live-tv/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌المعالي
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Alnada🕌
@@ -4895,15 +4908,17 @@ https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",mawda🕌
 http://82.212.74.98:8000/live/7821.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌قناه الفتح
-https://alfat7-tv.com:5443/LiveApp/streams/620557409296623865738787.m3u8
+https://alfat7-q.com:5443/LiveApp/streams/713332814575062108399616.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌قناه الفتح القرآن الكريم
+https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Quraan Kareem🕌
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3efx1Ge" group-title="🕌اسلاميةIslami",Daawah TV🕌
 http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="🕌اسلاميةIslami",Iqraa Europe🕌
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",iqraa🕌
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Al Iarth Al Nabawi🕌
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",🕌الارث النبوي
@@ -4914,26 +4929,6 @@ http://144.76.84.153:21494/stream
 http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌اسلاميةIslami",africatv 2🕌
 http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="🕌اسلاميةIslami",africatv 3🕌
-http://africatv.live.net.sa:1935/live/africatv31/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Allahu Akbar Radio🕌
-http://66.45.232.130:9996/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Eman City🕌
-http://66.45.232.130:9990/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Islam2Day Radio Station🕌
-http://www.islam2day.tv:4000/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Love Quran Radio🕌
-http://158.69.227.214:8191/stream
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Quran Coran - www.coran.tk🕌
-http://92.222.103.13:8005/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Quran Radio Tafsir🕌
-http://66.45.232.130:9992/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Quraan🕌
-http://uk5.internet-radio.com:8079/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Radio Quraan🕌
-http://66.45.232.130:9994/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Radio Izlam🕌
-http://66.45.232.130:9998/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Maher Al Meaqli-Kaf🕌
 http://server12.mp3quran.net/maher/018.mp3
 
