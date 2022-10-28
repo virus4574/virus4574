@@ -166,8 +166,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مصارعه حره WWE",WWE
 http://185.59.223.102:8080/wwe/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="مصارعه حره WWE",KINBOXIN
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مصارعه حره WWE",BOXEO
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مصارعه حره WWE",MMA
@@ -178,12 +176,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",PLUTO TV DEPORTES | LAT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wqqpuy1437611123.png" group-title="مصارعه حره WWE",COMBATE HD | BR
-http://50.7.34.155:2201/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="مصارعه حره WWE",Hard Knocks | US
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",BELLATOR MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",PLUTO TV FIGHT
@@ -192,49 +186,22 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Fight_Plus_TV_Network.png" group-title="مصارعه حره WWE",FIGHT PLUS | US
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/combatgo.png",COMBAT GO | US
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
-#EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png",Channel Fight | US
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="مصارعه حره WWE",MMA TV | US
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="مصارعه حره WWE",MMA TV | US
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0zY8GpU.png" group-title="مصارعه حره WWE",EX Tv | US
-http://213.151.233.36:8000/dna-6071-tv-pc/hls/4005v110.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images-1.listennotes.com/podcasts/kbp-sports-kbp-sports-lPDVrw1BYLh-Q2EUAfMaLDO.1400x1400.jpg" group-title="مصارعه حره WWE",KBP Sports 
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="مصارعه حره WWE",KOK Fights | US
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Kunlun_Fight_Logo.png" group-title="مصارعه حره WWE",KOK Fights | US
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_425_305" group-title="مصارعه حره WWE",FIGHT SPORTS | US
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="مصارعه حره WWE",Fight Network | US
-https://bit.ly/FightNetwork?/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="مصارعه حره WWE",ASXTV FIGHTS | US
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="مصارعه حره WWE",FIGHTBOX | US
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kickboxingz.com/wp-content/uploads/2018/07/gkl-1892981672-1532915310142.png?fit=198%2C187&ssl=1" group-title="مصارعه حره WWE",Glory Kickboxing | US
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",LUCHA LIBRE AAA | LAT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",LUCHA LIBRE AAA 2 | LAT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="مصارعه حره WWE",Fite | US
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="مصارعه حره WWE",Ring Of Honor | US
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="مصارعه حره WWE",Ring Of Honor | US
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",PRO WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
