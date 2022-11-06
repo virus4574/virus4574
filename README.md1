@@ -4353,29 +4353,6 @@ http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria_Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
-#EXTVLCOPT:http-referrer=https://ok.ru/
-https://vsd66.mycdn.me/hls/3123310430838.m3u8/sig/NKNlQtMwOlE/expires/1667731149339/srcIp/194.5.82.120/clientType/0/srcAg/GECKO/mid/4264747343478/3123310430838_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria_Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
-#EXTVLCOPT:http-referrer=https://ok.ru/
-https://vsd68.mycdn.me/hls/3123314035318.m3u8/sig/bU8QCD7c4is/expires/1667733392312/srcIp/194.5.82.134/clientType/0/srcAg/GECKO/mid/4264750554742/3123314035318_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria_Ugarit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
-#EXTVLCOPT:http-referrer=https://ok.ru/
-https://vsd149.mycdn.me/hls/1071145683574.m3u8/sig/9KiXusJtnIQ/expires/1667734472658/srcIp/176.101.33.97/clientType/0/srcAg/GECKO/mid/2231907917430/1071145683574_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria_Oula
-http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria_Oula
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
-#EXTVLCOPT:http-referrer=https://ok.ru/
-https://vsd139.mycdn.me/hls/2349118196342.m3u8/sig/i8vMcmD2Vkg/expires/1667737439614/srcIp/82.137.224.192/clientType/0/srcAg/GECKO/mid/3594058866294/2349118196342_high/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",🇱🇧كيف احصل على الكود
