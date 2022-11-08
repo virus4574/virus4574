@@ -42,8 +42,6 @@ http://seetvlivee.badinan.xyz/DuhokSpor/tracks-v1a1/mono.m3u8
 http://stream.nubar.tv:1935/private/NUBARSport/chunklist.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1AR⚽️+
 https://halaramallahtv.com:8444/HRamallah-Tv/HalaRamallah/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 1HD⚽️
 http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ91UsAN1gvUB8wd_FPo_6oY/ts
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 2HD⚽️
@@ -338,6 +336,34 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="VIP SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TNT SPORTS
+https://lab.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ESPN PREMIUM
+https://lab.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:0 tvg-id="FoxSports.it" group-title="VIP SPORT",Fox Sports
+https://lab.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="VIP SPORT",Fox Sports 2
+https://lab.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="VIP SPORT",Fox Sports 3
+https://lab.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:0 tvg-id="ESPN.uk" group-title="VIP SPORT",Espn
+https://lab.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="VIP SPORT",Espn2
+https://lab.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="VIP SPORT",Espn3
+https://lab.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:0 tvg-id="Espnextra.br" group-title="VIP SPORT",Espn extra
+https://lab.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="VIP SPORT",TYC SPORTS
+https://lab.cdn.rcs.net.ar/mnp/tyc/output.mpd
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Directv Sports
+https://vivo.lamtv.tv:8081/a/0272/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Directv Sports 2
+https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Directv Sports Plus
+https://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Directv Sports Fight
+https://vivo.lamtv.tv:8081/a/0338/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORT 2 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 6 CRO 🇭🇷
