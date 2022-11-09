@@ -615,17 +615,84 @@ https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE",TF1
-https://cdn.mmsiptv.com/live/tf1/chunks.m3u8
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE",FRANCE 2
-https://cdn.mmsiptv.com/live/france2/chunks.m3u8
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE",FRANCE 3
-https://cdn.mmsiptv.com/live/france3/chunks.m3u8
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE",FRANCE 4
-https://cdn.mmsiptv.com/live/france4/chunks.m3u8
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE",FRANCE 5
-https://cdn.mmsiptv.com/live/france5/chunks.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-192.png" group-title="FRANCE",FR01 - TF1
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-4.png" group-title="FRANCE",FR02 - France 2
+http://www.callofliberty.fr/stream/france.2/master.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-80.png" group-title="FRANCE",FR03 - France 3
+http://www.callofliberty.fr/stream/France.3/master.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-78.png" group-title="FRANCE",FR04 - France 4
+http://www.callofliberty.fr/stream/france.4/master.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-47.png" group-title="FRANCE",FR05 - France 5
+http://www.callofliberty.fr/stream/France.5/master.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-118.png" group-title="FRANCE",FR06 - M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="ARTEFrench.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-111.png" group-title="FRANCE",FR07 - ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_8.png" group-title="FRANCE",FR08 - C8
+http://www.callofliberty.fr/stream/c8/master.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-119.png" group-title="FRANCE",FR09 - W9
+http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-195.png" group-title="FRANCE",FR10 - TMC
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-446.png" group-title="FRANCE",FR11 - TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="http://www.mytelevision.tv/assets/img/chaines/nrj12.png" group-title="FRANCE",FR12 - NRJ 12
+http://livetv.ktv.zone/14/play.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcp-tnt-fr.png" group-title="FRANCE",FR13 - LCP-AN
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="FRANCE",FR13 - La Chaîne Parlementaire 100%
+https://www.dailymotion.com/video/xgepjr
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="FRANCE",FR13 - Public Sénat
+https://www.dailymotion.com/video/xkxbzc
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-481.png" group-title="FRANCE",FR15 - BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-226.png" group-title="FRANCE",FR16 - CNews
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-458.png" group-title="FRANCE",FR17 - CStar
+http://www.callofliberty.fr/stream/cstar/master.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-482.png" group-title="FRANCE",FR18 - Gulli
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1404.png" group-title="FRANCE",FR20 - TF1 Séries Films
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1401.png" group-title="FRANCE",FR21 - L'Équipe
+http://www.callofliberty.fr/stream/lequipe/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR21 - Le Journal du Golf TV
+https://www.dailymotion.com/video/x6qdjk7
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1403.png" group-title="FRANCE",FR22 - 6Ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1402.png" group-title="FRANCE",FR23 - RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1400.png" group-title="FRANCE",FR24 - RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1399.png" group-title="FRANCE",FR25 - Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-112.png" group-title="FRANCE",FR26 - LCI
+https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2111.png" group-title="FRANCE",FR27 - Franceinfo
+http://www.callofliberty.fr/stream/franceinfo/master.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="FRANCE",FR30 - BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-701.png" group-title="FRANCE",FR32 - IDF1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/playlist.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-529.png" group-title="FRANCE",FR33 - France 24
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC1400002JN_20221012T021116.png" group-title="FRANCE",FR35 - Le Figaro Live
+https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="CanalPlusFrance.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-34.png" group-title="FRANCE",FR40 - Canal+
+http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-145.png" group-title="FRANCE",FR41 - Paris Première 
+http://192.168.0.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="FRANCE",FR44 - AB1
+https://wza.idipper.com/live/_definst_/channel/3000/AB1/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e5122207-e6ef-4c4e-a22f-b619787eaedb
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-147.png" group-title="FRANCE",FR45 - Planète+
+http://37.235.38.139:4000/play/a00k
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-32.png" group-title="FRANCE",FR47 - Canal J
+http://livetv.ktv.zone/176/play.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="FRANCE",MC70 - Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-232.png" group-title="FRANCE",IT77 - TV5 Monde Europe
+http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-445.png" group-title="FRANCE",08 - C8
 http://www.callofliberty.fr/stream/c8/master.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-119.png" group-title="FRANCE",09 - W9
