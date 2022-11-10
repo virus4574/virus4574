@@ -6067,11 +6067,21 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="|TR|🇹🇷❤️TURKEY", A SPOR UHD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="|TR|🇹🇷❤️TURKEY", TRT SPOR 1 HD
-https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="|TR|🇹🇷❤️TURKEY", TRT SPOR 2 HD
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="|TR|🇹🇷❤️TURKEY", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR|🇹🇷❤️TURKEY",GALATASARAY TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="|TR|🇹🇷❤️TURKEY",FENERBAHCE TV
+http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷❤️TURKEY", BIS HABER
+http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR|🇹🇷❤️TURKEY", BIS HABER
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png" group-title="|TR|🇹🇷❤️ SPOR",TAY TV
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:0 tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT 2
