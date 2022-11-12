@@ -4914,54 +4914,48 @@ http://217.182.137.206/nessma.m3u8
 http://217.182.137.206/elhiwar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FW1MmHf/eptv1.png" group-title="الجزائرALGERIEN" ,Algeria 1 🇩🇿الأولى
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nwwxGvN/eptv2." group-title="الجزائرALGERIEN",Canal Algérie🇩🇿الثانية
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2sjMSjk/eptvnews." group-title="الجزائرALGERIEN",A3 News الإخبارية 🇩🇿
-https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6m4vQNT/eptv31." group-title="الجزائرALGERIEN", TV 4 Tamazighth 🇩🇿الأمازيغية
-https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/B4sWw34/eptv31." group-title="الجزائرALGERIEN",TV 5 Quran 🇩🇿القرآن الكريم
-https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/TwNqKYZ/eptv31." group-title="الجزائرALGERIEN",Algeria 6 🇩🇿السّادسة
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6Xhf485/eptv31." group-title="الجزائرALGERIEN", TV 7 El Maarifa 🇩🇿المعرفة
-https://cdn02.hta.dz/abr_htatv/tv31_ELMAARIFA/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/SJx0hPj/eptv31." group-title="الجزائرALGERIEN",TV 8 Edhakira 🇩🇿الذّاكرة
-https://cdn02.hta.dz/abr_htatv/tv31_EDHAKIRA/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture." group-title="الجزائرALGERIEN", El Bilad 🇩🇿البلاد
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Tq2DShW/btv." group-title="الجزائرALGERIEN",BTV🇩🇿
-https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 🇩🇿
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 🇩🇿
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.ibb.co/FscrsHq/Echourouk.jpg", Echorouk HD الشروق 🇩🇿
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/98HJ3Ds/elhayat." group-title="الجزائرALGERIEN",El Hayat الحياة 🇩🇿
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
-EXTINF:-1  tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture." group-title="الجزائرALGERIEN",El Djazair N1🇩🇿
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/R4TGWHW/echorouknews.png" group-title="الجزائرALGERIEN",Echorouk News 🇩🇿الشروق الإخبارية
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="الجزائرALGERIEN",TV1 الأولى HD
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="الجزائرALGERIEN",TV2 ALGERIE HD
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="الجزائرALGERIEN",TV3 الإخبارية HD
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="الجزائرALGERIEN",TV4 الأمازيغية HD
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SXjJGYZ/tv5al.png" group-title="الجزائرALGERIEN",TV5 القرآن الكريم HD
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fXcD722/tv6al.png" group-title="الجزائرALGERIEN",TV6  الشبابية HD
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="الجزائرALGERIEN",TV7 المعرفة HD
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="الجزائرALGERIEN",TV8 الذاكرة HD
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="الجزائرALGERIEN",ENNAHAR TV HD		
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="الجزائرALGERIEN",ECHOUROUK NEWS HD
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/R4TGWHW/echorouknews.png" group-title="الجزائرALGERIEN",Echorouk News 🇩🇿الشروق الإخبارية
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/x7JWhH5/ennahar." group-title="الجزائرALGERIEN",Ennahar News النهار 🇩🇿
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/x7JWhH5/ennahar." group-title="الجزائرALGERIEN",Ennahar News النهار 🇩🇿
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Kzggt6D/Al24News.png",AL24NEWS 🇩🇿قناة الجزائر الدّولية
-https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GpdNPVQ/maghribia.jpg",AL Magharibia المغاربية 🇩🇿
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
-#EXTINF:-1  tvg-logo="https://i.ibb.co/WkyGSZL/bahia.jpg"group-title="الجزائرALGERIEN" ,Bahia TV Oran 🇩🇿الباهية
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2v8zg2w/El-Fadjer." group-title="الجزائرALGERIEN",El Fadjr SBA 🇩🇿الفجر
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
-#EXTINF:-1  tvg-logo="" ,Bel Media Music Kabyle🇩🇿
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="الجزائرALGERIEN",ECHOUROUK TV HD
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="الجزائرALGERIEN",EL BILAD HD
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="الجزائرALGERIEN",EL HAYAT TV HD
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="الجزائرALGERIEN",AL24 NEWS HD
+https://cdn02.hta.dz/abr_htatv/AL24_News/htatv/AL24_News_240p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="الجزائرALGERIEN",BAHIA TV HD
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV HD
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="الجزائرALGERIEN",BEUR TV HD
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="الجزائرALGERIEN",EL DJAZAIR N1 HD
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="الجزائرALGERIEN",EL HEDDAF TV HD
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="الجزائرALGERIEN",EL FADRJ TV HD
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="الجزائرALGERIEN",ALANIS TV HD	
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CBDyrNJ/elheddaf.png" group-title="الجزائرALGERIEN",El Heddaf Sport 🇩🇿الهدّاف
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LnVqTnH/samira.png" group-title="الجزائرALGERIEN" ,Samira TV سميرة 🇩🇿
