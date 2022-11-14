@@ -4720,6 +4720,34 @@ http://82.137.248.16:1935/oLive/sat05042022/playlist.m3u8
 http://82.137.248.16:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما (Backup 2)
 http://82.137.248.16:1935/oLive/drama05042022/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Nour Elsham (Backup 3)
+http://45.135.194.115:8031/play/a03p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",SAMA TV (Backup 3)
+http://45.135.194.115:8031/play/a03r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Souryana (Backup 3)
+http://45.135.194.115:8031/play/a03q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Drama (Backup 3)
+http://45.135.194.115:8031/play/a03n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Education (Backup 3)
+http://45.135.194.115:8031/play/a03o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Satellite (Backup 3)
+http://45.135.194.115:8031/play/a03m/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Nour Elsham (Backup 4)نور الشام
+http://146.19.16.206:8031/play/a06e
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| SAMA TV (Backup 4)سما
+http://146.19.16.206:8031/play/a06g
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Souryana (Backup 4)سوريانا
+http://146.19.16.206:8031/play/a06f
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Drama (Backup 4)الدراما السورية
+http://146.19.16.206:8031/play/a06c
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Education (Backup 4)التربوية السورية
+http://146.19.16.206:8031/play/a06d
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Moj TV (Backup 4)
+http://146.19.16.206:8031/play/a06k
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Satellite  (Backup 4)الفضائية السورية
+http://146.19.16.206:8031/play/a06b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
@@ -4758,6 +4786,8 @@ https://www.dailymotion.com/video/x7ztkw7
 http://62.182.82.104/MTV_Lebanon/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV🇱🇧
 http://62.182.82.104/OTV/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Lebanon TV تلفزيون لبنان
+http://146.19.16.206:8031/play/a06y
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
@@ -4847,6 +4877,8 @@ https://bit.ly/3gj9PK5
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ycdf8J" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",Jordan Sport 🇯🇴الاردن الرياضية
+http://146.19.16.206:8031/play/a06j
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv SD🇯🇴
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv 🇯🇴
@@ -4910,6 +4942,12 @@ http://185.236.229.50:8000/play/a05e
 http://185.236.229.50:8000/play/a03d
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UWcg4G" group-title="العراق IRAQ",alnojaba.tv
 https://5e085b8c1882e.streamlock.net/live/_definst_/3/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Hona Baghdad هنا بغداد
+http://146.19.16.206:8031/play/a06p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AL-Anbar قناة الانبار
+http://146.19.16.206:8031/play/a07z
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Now العراق الجديد
+http://146.19.16.206:8031/play/a07i
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
@@ -4928,6 +4966,57 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",M CLASSIC
 http://185.236.229.50:8000/play/a05f
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AL NADA TV الندى
+http://146.19.16.206:8031/play/a07x
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AL Shams الشمس
+http://146.19.16.206:8031/play/a07l
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Kahera Wal Nas +2
+http://146.19.16.206:8031/play/a06u
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Masryia المصرية
+http://146.19.16.206:8031/play/a07o
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Nour النهار النور
+http://146.19.16.206:8031/play/a07y
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Sport النهار الرياضية
+http://146.19.16.206:8031/play/a07v
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Alhayat 2 الحياة
+http://146.19.16.206:8031/play/a074
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Althanya الثانية
+http://146.19.16.206:8031/play/a07q
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Bedaya قناة بداية الفضائية
+http://146.19.16.206:8031/play/a07n
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Cima قناة سيما مصر
+http://146.19.16.206:8031/play/a079
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Mix Bel Araby
+http://146.19.16.206:8031/play/a068
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Moga
+http://146.19.16.206:8031/play/a06h
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile TV النيل
+http://146.19.16.206:8031/play/a07p
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Oscar TV اوسكار
+http://146.19.16.206:8031/play/a07m
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Drama 2 بانوراما دراما
+http://146.19.16.206:8031/play/a07s
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Drama بانوراما دراما
+http://146.19.16.206:8031/play/a07r
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Film بانوراما فيلم
+http://146.19.16.206:8031/play/a07t
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Food بانوراما فوود
+http://146.19.16.206:8031/play/a07u
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Zamalek Sports زمالك الرياضية
+http://146.19.16.206:8031/play/a084
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc HD دمسي
+http://146.19.16.206:8031/play/a081
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc News دمسي الاخبار
+http://146.19.16.206:8031/play/a083
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc drama دمسي دراما
+http://146.19.16.206:8031/play/a085
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc masraheyat دمسي مسرحيات
+http://146.19.16.206:8031/play/a088
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc دمسي
+http://146.19.16.206:8031/play/a082
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| etc
+http://146.19.16.206:8031/play/a077
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
@@ -5333,6 +5422,8 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NFINYW" group-title="🇸🇦السعودية Saudi-Arabia",Al Sunnah 🇸🇦
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇸🇦السعودية Saudi-Arabia",Al Mergab 🇸🇦المرقاب الفضائية
+http://146.19.16.206:8031/play/a075
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wOpK80" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة السعودية
 https://edge.taghtia.com/sa/11.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t03oze" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة الرياض
