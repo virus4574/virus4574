@@ -417,6 +417,9 @@ http://37.235.38.139:4000/play/a093
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="VIP SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTINF:-1 tvg-id="ext" group-title="VIP SPORT",ALrabiaaTV SPORTS
+http://185.236.229.50:8000/play/a05p
 #EXTM3U
 #EXTINF:0 group-title="VIP SPORT" tvg-logo="https://i.imgur.com/OPbrl0D.png",[$]NOVA SPORTS START HD
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
@@ -3268,6 +3271,8 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="📰الاخبارNEWS",ALkhalij TV📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰
+http://185.236.229.50:8000/play/a01i
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="📰الاخبارNEWS",FRANCE 24 HD📰
 https://www.youtube.com/c/FRANCE24Arabic/live
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary🏞️
@@ -3282,6 +3287,8 @@ https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b45000
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
 http://95.216.180.111:1935/live/111/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
+http://185.236.229.50:8000/play/a043
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="http://62.182.85.43/poster/NationalGeographicWild.png" group-title="الوثائقية documentary",BEIN NATIONAL GEOGRAPHIC WILD🏞️
 http://5gfksa.ltd:2052/991155/551199/12986
 #EXTINF:-1 tvg-name="Discovery Family " tvg-logo="https://i.pinimg.com/564x/4c/c9/b6/4cc9b687b62e8f6410bb32939601f657.jpg" group-title="الوثائقية documentary",Discovery Family🏞️ 
@@ -3382,6 +3389,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
 #EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="http://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="أطفال Children",atfal wa mwaheb
 https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="أطفال Children",Amou Yazid Tofola TV
+http://185.236.229.50:8000/play/a065
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
@@ -4889,6 +4898,18 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="العراق IRAQ",ALetejah TV🇮🇶
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UxuklO" group-title="العراق IRAQ",UTV Iraq HD
+http://185.236.229.50:8000/play/a00z
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3tnXMyJ" group-title="العراق IRAQ",AL AYAM HD
+http://185.236.229.50:8000/play/a05o
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UyLTSx" group-title="العراق IRAQ",AL AHAD HD
+http://185.236.229.50:8000/play/a05q
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3WYPBq5" group-title="العراق IRAQ",AFAQ TV
+http://185.236.229.50:8000/play/a05e
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3wT0xJK" group-title="العراق IRAQ",12Arabia
+http://185.236.229.50:8000/play/a03d
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UWcg4G" group-title="العراق IRAQ",alnojaba.tv
+https://5e085b8c1882e.streamlock.net/live/_definst_/3/chunklist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
@@ -4905,6 +4926,8 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv🇪🇬
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",M CLASSIC
+http://185.236.229.50:8000/play/a05f
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
@@ -5417,6 +5440,8 @@ http://51.210.199.28/hls/stream.m3u8
 http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 kurd
 http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E7T78L"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ronahi TV
+http://185.236.229.50:8000/play/a015
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Gali Kurdistan
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD
@@ -5837,8 +5862,12 @@ https://bit.ly/3xYLaRh
 https://live.prd.dlive.tv/hls/live/aldaaie.m3u8?web=true
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3hIPb6Q" group-title="🕌اسلاميةIslami",ALmajd TV🕌
 https://streann-msl4.akamaized.net/hls/live/2043201/quranhls2/3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3WWn6t4" group-title="🕌اسلاميةIslami",Almajd General
+http://185.236.229.50:8000/play/a01m
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3O37kZm" group-title="🕌اسلاميةIslami",المجد العلمية🕌
 https://streann-msl4.akamaized.net/hls/live/2043217/sciencehls/3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UBh3IX" group-title="🕌اسلاميةIslami",Menhag Alnbowa
+http://185.236.229.50:8000/play/a03e
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",makkahtv🕌
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://noble.tv/assets/images/default.jpg" group-title="🕌اسلاميةIslami",Noble tv🕌
