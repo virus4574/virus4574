@@ -50,6 +50,10 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 7⚽️🇫🇷
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 8⚽️🇦🇱
+http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 9⚽️🇦🇷
+https://lab.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",⚽️كيف احصل على الكود
@@ -495,7 +499,7 @@ http://185.236.229.13:4000/play/a00v
 http://185.236.229.13:4000/play/a01l
 #EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/JAk7cq0.png",EUROSPORT 2HD🇵🇹
 http://185.236.229.13:4000/play/a011
-#EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/HHbkDrz.png",SPORT KLUB HD🇷🇸🇷🇸
+#EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/HHbkDrz.png",SPORT KLUB HD🇷🇸
 http://89.216.39.24/stream/72/index.m3u8
 #EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/KkejHY6.png",SPORT KLUB 1HD🇷🇸
 http://89.216.39.24/stream/52/index.m3u8
@@ -577,7 +581,7 @@ http://38.143.137.221:8000/LA33/mpegts
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 #EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/weQDyCT.png",FOX SPORTS HD🇪🇸
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/GrRfGBP.png",FOX SPORTS 2HD🇪🇸🇪🇸
+#EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/GrRfGBP.png",FOX SPORTS 2HD🇪🇸
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:0 group-title="EUROSPORT VIP[🇪🇺⚽]" tvg-logo="https://i.imgur.com/2xay8pm.png",FOX SPORTS 3HD🇪🇸
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
