@@ -5351,6 +5351,85 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ZUTV.ro" group-title="Romania",ZU TV
 https://iptv-all.lanesh4d0w.repl.co/romania/zutv
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_3_(1)
+https://cdnw.telewebion.com/tv3/live/720p/index.m3u8?x_live_session=_nullCookie
+#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_3_(2)
+https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_Varzesh_(1)
+https://cdnw.telewebion.com/varzesh/live/720p/index.m3u8?x_live_session=_nullCookie
+#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_Varzesh_(2)
+https://live.aionet.ir/hls/varzesh/varzesh_540/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Manoto
+https://edge-cdn1.manoto.click/live_1500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Iran_International
+https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",BBC_Per
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Mbc_PER
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Parnian
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Pmc
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Pmc_Royale
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Radio_Javan
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w791571516_b1992000.m3u8
+#EXTINF:0 tvg-id="VOA.cl" group-title="Iran",VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0720/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Pars
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_One
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Sonnati
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_HD
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM
+https://stream-live.gemonline.tv/live/gem/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Film
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Series
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Drama
+https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_River
+https://stream-live.gemonline.tv/live/river/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Classic
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Rubix
+https://stream-live.gemonline.tv/live/rubix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Bollywood
+https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Travel
+https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Food
+https://stream-live.gemonline.tv/live/gemfood/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Junior
+https://stream-live.gemonline.tv/live/gemjunior/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Kids
+https://stream-live.gemonline.tv/live/gemkids/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Maxx
+https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Crypto
+https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",4U TV
 http://live.4ulive.ir/
 #EXTINF:0 tvg-id="ext" group-title="Iran",AFN TV
