@@ -5402,40 +5402,6 @@ http://51.210.227.147/hls/stream.m3u8
 http://51.210.199.14/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana Junior
 http://51.210.199.18/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM
-https://stream-live.gemonline.tv/live/gem/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Film
-https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Series
-https://stream-live.gemonline.tv/live/gemseries/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Drama
-https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_River
-https://stream-live.gemonline.tv/live/river/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Classic
-https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Rubix
-https://stream-live.gemonline.tv/live/rubix/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Bollywood
-https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Travel
-https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Food
-https://stream-live.gemonline.tv/live/gemfood/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Junior
-https://stream-live.gemonline.tv/live/gemjunior/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Kids
-https://stream-live.gemonline.tv/live/gemkids/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Maxx
-https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",GEM_Crypto
-https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",4U TV
-http://live.4ulive.ir/
-#EXTINF:0 tvg-id="ext" group-title="Iran",AFN TV
-https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Al Alam
-https://live2.alalamtv.net/alalam.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Al Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",All Sports
@@ -5472,34 +5438,6 @@ https://live.imamhossaintv.com/live/ih103/index.m3u8
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Iran-e Farda TV
-https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB Amoozesh
-https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB NASIM
-https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB OFOGH
-https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV3
-https://nrpus.bozztv.com/36bay2/gin/irib3-in/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV3 (Farsiland)
-https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV3 (PersianLeague)
-https://st.persianleague.com/live/tv3-hd/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV3 (Telewebion)
-https://sdm.telewebion.com/live/tv3/tv3-1080p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV4
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB TV5
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",ITN TV
-https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Kalemeh TV
-https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 1
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 2
