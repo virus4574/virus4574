@@ -54,6 +54,8 @@ http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 2⚽️🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 3⚽️🇹🇷
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 3⚽️🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 3⚽️🇹🇷
 https://glturkhstb182.glwiz.com/ASpor_HD/ASpor_High.m3u8
@@ -1490,6 +1492,10 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist.m3
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",ksa الرياضية 2
 https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",KSA Sports 3 
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",KSA Sports 4
+https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="رياضية SPORT",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
@@ -5508,8 +5514,6 @@ https://edge.taghtia.com/sa/7.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🇸🇦السعودية Saudi-Arabia",Iqraa Europe Africa🇸🇦
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pdVAWH" group-title="🇸🇦السعودية Saudi-Arabia",SAU-Saudi Quran HD🇸🇦
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Md9nOO" group-title="🇸🇦السعودية Saudi-Arabia",مكة TV🇸🇦
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2hA2D" group-title="🇸🇦السعودية Saudi-Arabia",Quran🇸🇦
