@@ -1496,6 +1496,9 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",KSA Sports 4
 https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ALrabiaaTV SPORTS
+http://185.236.229.50:8000/play/a05p
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="رياضية SPORT",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
@@ -3049,14 +3052,6 @@ http://5.61.54.61/iptv/TPPSW2ZKN339VV/15161/index.m3u8
 http://5.61.54.61/iptv/TPPSW2ZKN339VV/15162/index.m3u8
 #EXTINF:0 group-title="VIP SPORT1" tvg-id="5915" tvg-logo="http://epg.it999.ru/img2/5915.png" tvg-rec="0",Наш Спорт 24 HD
 http://5.61.54.61/iptv/TPPSW2ZKN339VV/15163/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT VIP",SPORT CHANNELS
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT VIP",كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT VIP",ALrabiaaTV SPORTS
-http://185.236.229.50:8000/play/a05p
 
 #EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
