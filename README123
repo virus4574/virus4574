@@ -44,7 +44,7 @@ http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
-http://bone.badinan.xyz:1935/live/DUHOOKC/chunklist.m3u8
+http://duhoksport.badinan.xyz:1935/live/DUHOKSPORT/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
 http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
@@ -4780,9 +4780,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",🇱🇧كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD
-https://live.3cd.io/live/v1/broadcast/mtv/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv SD
-https://live.3cd.io/live/v1/broadcast/mtv/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="لبنانLEBANON",TV Seventeen SD 🇱🇧
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
