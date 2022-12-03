@@ -858,50 +858,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 1 HD⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199117
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 1⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199116
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 2 HD⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199115
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 2⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199114
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 3⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199113
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 4⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199112
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",FR_BeIN_SPORTS_1_HD⚽️
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3682
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",FR_BeIN_SPORTS_2_HD⚽️
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47302
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",FR_BeIN_SPORTS_3_HD⚽️
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3680
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",FR_RMC_Sport_03_HD⚽️
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46712
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT 1 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/46763
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT 2 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/46764
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 3 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/245300
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 4 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/245301
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 5 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95503
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 6 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95502
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 7 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95501
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 8 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95500
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 9 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95499
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 10 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95488
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 11 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95493
-#EXTINF:0 tvg-id="ext" group-title="RMC SPORT",|FR| RMC SPORT LIVE 12 HD⚽️
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95505
+#EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="RMC SPORT",BEIN SPORT 1 FRANCE⚽️
+http://warkop.cf/80/bein/14.m3u8
+#EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="RMC SPORT",BEIN SPORT 2 FRANCE⚽️
+http://warkop.cf/80/bein/15.m3u8
+#EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="RMC SPORT",BEIN SPORT 3 FRANCE⚽️
+http://warkop.cf/80/bein/16.m3u8
 #EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports 1ᴴᴰ
 http://37.235.38.139:4000/play/a054
 #EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports 2ᴴᴰ
@@ -932,12 +894,7 @@ http://93.152.174.144:4000/play/bein1fr/index.m3u8
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 group-title="RMC SPORT" tvg-logo="",Bein Sports 3 HD FR⚽️
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="RMC SPORT",BEIN SPORT 1 FRANCE⚽️
-http://warkop.cf/80/bein/14.m3u8
-#EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="RMC SPORT",BEIN SPORT 2 FRANCE⚽️
-http://warkop.cf/80/bein/15.m3u8
-#EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="RMC SPORT",BEIN SPORT 3 FRANCE⚽️
-http://warkop.cf/80/bein/16.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="VIP SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
