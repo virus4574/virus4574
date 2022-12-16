@@ -85,6 +85,8 @@ http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 2⚽️🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 3⚽️🇹🇷
+http://31.177.62.182:8000/play/s9
+#EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 3⚽️🇹🇷
 https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/08666342-974f-46ea-bf42-a57ed3d2220c/0.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 3⚽️🇹🇷
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
@@ -5925,6 +5927,17 @@ http://217.182.137.206/tunisie2.m3u8
 http://217.182.137.206/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",🇹🇳الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia Educ 1🇹🇳
+http://185.236.229.117:8000/play/a006
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 1🇹🇳
+http://185.236.229.117:8000/play/a002
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 2🇹🇳
+http://185.236.229.117:8000/play/a007
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia Nat1 HD🇹🇳
+http://185.236.229.117:8000/play/a02x
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="الجزائرALGERIEN",TV1 الأولى HD
