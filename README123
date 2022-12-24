@@ -1609,23 +1609,7 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Red Booll
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6131/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6123/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6124/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6125/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6126/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6127/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6128/index.m3u8
-#EXTINF:0 group-title="VIP SPORT1" tvg-id="3053" tvg-logo="http://epg.it999.ru/img/3053.png" tvg-rec="0",beIN Sports 8 HD QA
-http://5.61.54.61/iptv/TPPSW2ZKN339VV/6129/index.m3u8
+
 #EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="VIP SPORT1",beIN Sports 1 Premium HD QA
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6131/index.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="VIP SPORT1",beIN Sports 1 HD QA
@@ -1650,6 +1634,22 @@ http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/19065/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/19066/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT1",beIN Sports Haber HD
 http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/19064/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6131/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6123/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6124/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6125/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6126/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6127/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6128/index.m3u8
+#EXTINF:0 group-title="VIP SPORT1" tvg-id="3053" tvg-logo="http://epg.it999.ru/img/3053.png" tvg-rec="0",beIN Sports 8 HD QA
+http://5.61.54.61/iptv/TPPSW2ZKN339VV/6129/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT1",CBS SPORTS NETWORK US
 http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/7324/index.m3u8
 #EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="VIP SPORT1",NBC SPORTS NETWORK US
