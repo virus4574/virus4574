@@ -4694,8 +4694,6 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="المصرية Egypt",Mekameleen 🇪🇬مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t7UYG3" group-title="المصرية Egypt",ajyal🇪🇬
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv🇪🇬
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",Mawda TV🇪🇬
@@ -4966,12 +4964,10 @@ https://ghardaia.ice.infomaniak.ch/47.aac
 https://ghelizane.ice.infomaniak.ch/48.aac
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wXtrcR" group-title="ليبياLIBYA",Libya Al Ahrar HD🇱🇾
-https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3XlSw" group-title="ليبياLIBYA",LIB-JAMAHIRIA-TV🇱🇾
-https://master.starmena-cloud.com/hls/jam.m3u8?DVR&v=93532238
+https://master.starmena-cloud.com/hls/jam.m3u8?DVR&v=1470839233
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="ليبياLIBYA",قناة الوسط - WTV🇱🇾
@@ -4980,18 +4976,12 @@ https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
 https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya Almasar🇱🇾
 https://master.starmena-cloud.com/hls/almasar.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3FJEOJS" group-title="ليبياLIBYA",Libya Almustaqbal TV🇱🇾
-https://media2.livaat.com/Libyah-Mostaqbal-New/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LY" tvg-url="" group-title="ليبياLIBYA",Libya Al Aaan🇱🇾
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya Sport Channel 🇱🇾ليبيا الرياضية
-http://146.19.16.201:8030/play/a0h4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya alhadath
+http://82.212.74.100:8000/live/hls/8103.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="السودانSUDAN",Sudan TV🇸🇩
 https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RPrcjG" group-title="السودانSUDAN",Sudan TV 🇸🇩سودان
-http://146.19.16.201:8030/play/a0gf
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LO5gcc" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3VLU7HP" group-title="🇶🇦قطر Qatar",Qatar 1 TV HD🇶🇦
@@ -5135,11 +5125,11 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="🇦🇪الامارات EMIRATES",DUB-Al Wousta HD 🇦🇪
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="🇦🇪الامارات EMIRATES",DUB-Aldafrahtv 🇦🇪
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/d22339c6b969445ba6ad294c3cd4594b/chunklist.m3u8
+https://stream-02.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfOYzXEHcTT2xgNxuaiNGpabPpKXYhc6F23MbaRlOS_WB)/dm/3/x8cxw6h/s/live-2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZTxvW" group-title="🇦🇪الامارات EMIRATES",Yas TV 🇦🇪
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/d3e9fc3b874a46159ce3724d802e3f8d/playlist.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="🇾🇪اليمن Yemen",Yemen tv🇾🇪
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇾🇪اليمن Yemen",🇾🇪كيف احصل على الكود
