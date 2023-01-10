@@ -4627,8 +4627,6 @@ https://bit.ly/3gj9PK5
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ycdf8J" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",Jordan Sport 🇯🇴الاردن الرياضية
-http://146.19.16.206:8031/play/a06j
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv SD🇯🇴
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv 🇯🇴
@@ -4651,11 +4649,8 @@ https://bit.ly/3gj9PK5
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)🇮🇶
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3O3obuC" group-title="العراق IRAQ",🇮🇶قناه الفرات
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="العراق IRAQ",IRQ-AL Rafidain FHD🇮🇶
-https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/arrafidaintv/live_640p/chunks.m3u8
+http://95.216.180.111:1935/live/10/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="العراق IRAQ",IRQ-AL Sharqiya TV HD🇮🇶
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="العراق IRAQ",IRQ-AL Sharqiya News HD🇮🇶
@@ -4670,8 +4665,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="العراق IRAQ",🇮🇶قناة دجلة طرب
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3ccARB9" group-title="العراق IRAQ",Tarab🇮🇶
-https://ghaasiflu.online/tarab/index.m3u8
+https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38unqej" group-title="العراق IRAQ", 🇮🇶راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="العراق IRAQ",iNEWS🇮🇶
@@ -4690,9 +4684,6 @@ http://185.236.229.50:8000/play/a05q
 http://185.236.229.50:8000/play/a05e
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3wT0xJK" group-title="العراق IRAQ",12Arabia🇮🇶
 http://185.236.229.50:8000/play/a03d
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UWcg4G" group-title="العراق IRAQ",alnojaba TV🇮🇶
-https://5e085b8c1882e.streamlock.net/live/_definst_/3/chunklist.m3u8
-
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
@@ -4703,12 +4694,16 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="المصرية Egypt",Mekameleen 🇪🇬مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV🇪🇬
-https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t7UYG3" group-title="المصرية Egypt",ajyal🇪🇬
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv🇪🇬
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",Mawda TV🇪🇬
+http://82.212.74.98:8000/live/hls/7821.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt", 🇪🇬الفتح
+https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV🇪🇬
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
