@@ -4703,8 +4703,6 @@ https://ghaasiflu.online/tarab/index.m3u8
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="العراق IRAQ",iNEWS🇮🇶
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="العراق IRAQ",RASHEED TV🇮🇶
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="العراق IRAQ",ALetejah TV🇮🇶
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",بلاي
@@ -4721,16 +4719,7 @@ http://185.236.229.50:8000/play/a05e
 http://185.236.229.50:8000/play/a03d
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UWcg4G" group-title="العراق IRAQ",alnojaba TV🇮🇶
 https://5e085b8c1882e.streamlock.net/live/_definst_/3/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Hona Baghdad 🇮🇶هنا بغداد
-http://146.19.16.206:8031/play/a06p
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AL-Anbar 🇮🇶قناة الانبار
-http://146.19.16.206:8031/play/a07z
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraq Now 🇮🇶العراق الجديد
-http://146.19.16.206:8031/play/a07i
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Forat 🇮🇶قناة الفرات
-http://146.19.16.201:8030/play/a0gp
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Mawsleya 🇮🇶قناة الموصلية
-http://146.19.16.201:8030/play/a0hq
+
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
@@ -4747,150 +4736,6 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv🇪🇬
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",M CLASSIC
-http://185.236.229.50:8000/play/a05f
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AL Oula HDالأولى
-http://146.19.16.201:8030/play/a0gu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AL oula الأولى
-http://146.19.16.201:8030/play/a0gt
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Ahly SD قناة الأهلي
-http://146.19.16.201:8030/play/a0go
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Ghad HD الغد العربي
-http://146.19.16.201:8030/play/a0iv
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Kahera Wal Nas القاهرة والناس
-http://146.19.16.201:8030/play/a0gr
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Seha Waljama قناة الصحة والجمال
-http://146.19.16.201:8030/play/a0hr
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Cinema النهار سينما
-http://146.19.16.201:8030/play/a0gl
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Drama النهار دراما
-http://146.19.16.201:8030/play/a0h6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Oneالنهار
-http://146.19.16.201:8030/play/a0h5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AlSaeedah قناة السعيدة
-http://146.19.16.201:8030/play/a0iq
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Alhayat Muslsalat قناة الحياة مسلسلات
-http://146.19.16.201:8030/play/a0hb
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Azhari قناة أزهري
-http://146.19.16.201:8030/play/a0h1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| CBC
-http://146.19.16.201:8030/play/a0h7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| CBC Drama دراما cbc
-http://146.19.16.201:8030/play/a0h9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| CBC Sofra سفرة CBC
-http://146.19.16.201:8030/play/a0h8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ELMEHWAR قناة المحور
-http://146.19.16.201:8030/play/a0ht
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Egyptian TV HD
-http://146.19.16.201:8030/play/a0ho
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Extra News
-http://146.19.16.201:8030/play/a0ha
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Free TV
-http://146.19.16.201:8030/play/a0ij
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| MDEEH قناة المديح
-http://146.19.16.201:8030/play/a0gk
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Maspero Zaman ماسبيرو زمان
-http://146.19.16.201:8030/play/a0i8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Mazzika مزيكا
-http://146.19.16.201:8030/play/a0io
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Misr Al Zera3eya قناة مصر الزراعية
-http://146.19.16.201:8030/play/a0im
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Mix Hollywood
-http://146.19.16.201:8030/play/a0hd
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Cinema النيل سينيما
-http://146.19.16.201:8030/play/a0i7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Comedy النيل كومدي
-http://146.19.16.201:8030/play/a0i2
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Culture قناة النيل الثقافية
-http://146.19.16.201:8030/play/a0gx
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Drama النيل دراما
-http://146.19.16.201:8030/play/a0i4
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Family  العائلة
-http://146.19.16.201:8030/play/a0gw
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Life النيل الحياة
-http://146.19.16.201:8030/play/a0i3
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile News HD النيل الاخبارية
-http://146.19.16.201:8030/play/a0i6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile News النيل الاخبارة
-http://146.19.16.201:8030/play/a0i1
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile Sport النيل الرياضية
-http://146.19.16.201:8030/play/a0i5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nogoum FM TV نجوم
-http://146.19.16.201:8030/play/a0iu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ON  E أون إي
-http://146.19.16.201:8030/play/a0if
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ON Drama أون دراما
-http://146.19.16.201:8030/play/a0ih
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ON E HD أون إي
-http://146.19.16.201:8030/play/a0ib
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ONTIME SPORTS 2 HD أون تايم سبورت
-http://146.19.16.201:8030/play/a0ia
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ONTIME SPORTS HD أون تايم سبورتس
-http://146.19.16.201:8030/play/a0ic
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ONTIME SPORTS أون تايم سبورتس
-http://146.19.16.201:8030/play/a0ig
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| ONTIME SPORTS2 أون تايم سبورتس
-http://146.19.16.201:8030/play/a0ie
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Sada El Balad 2
-http://146.19.16.201:8030/play/a0hx
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Sada El Balad صدى البلد
-http://146.19.16.201:8030/play/a0hw
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Sada ElBalad 3
-http://146.19.16.201:8030/play/a0hv
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| TeN TV
-http://146.19.16.201:8030/play/a0hz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy|Al Ahly HD قناة الأهلي
-http://146.19.16.201:8030/play/a0gh
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AL NADA TV الندى
-http://146.19.16.206:8031/play/a07x
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| AL Shams الشمس
-http://146.19.16.206:8031/play/a07l
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Kahera Wal Nas +2
-http://146.19.16.206:8031/play/a06u
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al Masryia المصرية
-http://146.19.16.206:8031/play/a07o
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Nour النهار النور
-http://146.19.16.206:8031/play/a07y
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Al-Nahar Sport النهار الرياضية
-http://146.19.16.206:8031/play/a07v
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Alhayat 2 الحياة
-http://146.19.16.206:8031/play/a074
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Althanya الثانية
-http://146.19.16.206:8031/play/a07q
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Bedaya قناة بداية الفضائية
-http://146.19.16.206:8031/play/a07n
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Cima قناة سيما مصر
-http://146.19.16.206:8031/play/a079
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Mix Bel Araby
-http://146.19.16.206:8031/play/a068
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Moga
-http://146.19.16.206:8031/play/a06h
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Nile TV النيل
-http://146.19.16.206:8031/play/a07p
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Oscar TV اوسكار
-http://146.19.16.206:8031/play/a07m
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Drama 2 بانوراما دراما
-http://146.19.16.206:8031/play/a07s
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Drama بانوراما دراما
-http://146.19.16.206:8031/play/a07r
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Film بانوراما فيلم
-http://146.19.16.206:8031/play/a07t
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Panorama Food بانوراما فوود
-http://146.19.16.206:8031/play/a07u
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| Zamalek Sports زمالك الرياضية
-http://146.19.16.206:8031/play/a084
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc HD دمسي
-http://146.19.16.206:8031/play/a081
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc News دمسي الاخبار
-http://146.19.16.206:8031/play/a083
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc drama دمسي دراما
-http://146.19.16.206:8031/play/a085
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc masraheyat دمسي مسرحيات
-http://146.19.16.206:8031/play/a088
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| dmc دمسي
-http://146.19.16.206:8031/play/a082
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Egy| etc
-http://146.19.16.206:8031/play/a077
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
