@@ -5183,8 +5183,6 @@ https://bit.ly/34ooolI
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/XFbwbi4.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdsat
-http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TtCVv0"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
@@ -5227,8 +5225,6 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw Media
 http://baskhd.ddns.net:40/live/chawhd/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Azhin
-http://azhintv.mypsx.net:40/live/azhintv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Mihrab
 http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Derin
@@ -5255,26 +5251,11 @@ http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN quran ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask HD
-http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Sada HD
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ShowTV.tr" group-title="KURDISH",Show
-http://baskhd.ddns.net:40/live/ShowTV/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Spi
-http://baskhd.ddns.net:40/live/quranhd/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Esra
-http://baskhd.ddns.net:40/live/Esra_TV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Family
-http://baskhd.ddns.net:40/live/BarinfamilyHD/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Quran
-http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat News
-http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KURDISH", KurdSat
-http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Radio Sada📻
