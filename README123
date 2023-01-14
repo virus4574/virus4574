@@ -2743,19 +2743,6 @@ http://82.137.248.16:1935/oLive/sat05042022/playlist.m3u8
 http://82.137.248.16:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما (Backup 2)
 http://82.137.248.16:1935/oLive/drama05042022/playlist.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Nour Elsham (Backup 3)
-http://45.135.194.115:8031/play/a03p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",SAMA TV (Backup 3)
-http://45.135.194.115:8031/play/a03r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Souryana (Backup 3)
-http://45.135.194.115:8031/play/a03q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Drama (Backup 3)
-http://45.135.194.115:8031/play/a03n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Education (Backup 3)
-http://45.135.194.115:8031/play/a03o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Satellite (Backup 3)
-http://45.135.194.115:8031/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
