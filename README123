@@ -2756,21 +2756,6 @@ http://45.135.194.115:8031/play/a03n/index.m3u8
 http://45.135.194.115:8031/play/a03o/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Satellite (Backup 3)
 http://45.135.194.115:8031/play/a03m/index.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Nour Elsham (Backup 4)نور الشام
-http://146.19.16.206:8031/play/a06e
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| SAMA TV (Backup 4)سما
-http://146.19.16.206:8031/play/a06g
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Souryana (Backup 4)سوريانا
-http://146.19.16.206:8031/play/a06f
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Drama (Backup 4)الدراما السورية
-http://146.19.16.206:8031/play/a06c
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Education (Backup 4)التربوية السورية
-http://146.19.16.206:8031/play/a06d
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Moj TV (Backup 4)
-http://146.19.16.206:8031/play/a06k
-#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syrie| Syria Satellite  (Backup 4)الفضائية السورية
-http://146.19.16.206:8031/play/a06b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريةSyria",SYR-اذاعة زنوبيا FM
@@ -2809,8 +2794,6 @@ http://62.182.82.104/MTV_Lebanon/tracks-v1a1/mono.m3u8?token=test
 http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN🇱🇧
 http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Lebanon TV 🇱🇧تلفزيون لبنان
-http://146.19.16.206:8031/play/a06y
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 https://live1.presstv.ir/live/ifilmar_360p/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
@@ -3341,8 +3324,6 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NFINYW" group-title="🇸🇦السعودية Saudi-Arabia",Al Sunnah 🇸🇦
 https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇸🇦السعودية Saudi-Arabia",Al Mergab 🇸🇦المرقاب الفضائية
-http://146.19.16.206:8031/play/a075
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wOpK80" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة السعودية
 https://edge.taghtia.com/sa/11.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t03oze" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة الرياض
