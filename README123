@@ -2777,7 +2777,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam🇱🇧
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Aliman TV🇱🇧
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
@@ -2966,6 +2966,8 @@ http://82.212.74.98:8000/live/hls/7821.m3u8
 https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV🇪🇬
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",,Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
