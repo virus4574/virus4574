@@ -2761,6 +2761,10 @@ https://bit.ly/3gj9PK5
 https://1537084837.rsc.cdn77.org/1537084837/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD
 https://1537084837.rsc.cdn77.org/1537084837/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Al Ittihad
+https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD🇱🇧
@@ -2773,6 +2777,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam🇱🇧
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Aliman TV🇱🇧
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD+🇱🇧
@@ -2843,14 +2849,17 @@ http://9090video.mobtada.com:1935/live/9090ONLINE/h.o.s.s.a.m.RADIO.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i.ibb.co/dLyP0JK/WWW.png", 🇵🇸تلفزيون حكاية
 https://streaming.zaytonatube.com:8081/Hekaya_New_ST/hekayans/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Seraj TV
+https://live01.iflex.ps/Aqsa/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="🇯🇴الاردنJORDAN",Roya TV FHD🇯🇴
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ycdf8J" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="🇯🇴الاردنJORDAN", Roya TV HD🇯🇴
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.postimg.cc/CMkSy1Pq/siAiiws.jpg" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv SD🇯🇴
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
@@ -2866,6 +2875,30 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/topics/16109018226082.png" group-title="🇯🇴الاردنJORDAN",A ONE🇯🇴
 http://master.starmena-cloud.com/hls/a1jo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Melody FM Jordan🇯🇴
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Fann Jordan: City View🇯🇴
+http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Fann Jordan: Control Studio🇯🇴
+http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Fann Jordan: Studio🇯🇴
+http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Yaqeen Jordan: City View🇯🇴
+http://188.247.86.66/MixFM/CityView1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Yaqeen Jordan: Control Studio🇯🇴
+http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Yaqeen Jordan: Studio🇯🇴
+http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Rotana Radio Jordan: City View🇯🇴
+http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Rotana Radio Jordan: Control Studio🇯🇴
+http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Rotana Radio Jordan: Studio🇯🇴
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Rotana Tarab Jordan: City View🇯🇴
+http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Rotana Tarab Jordan: Control Studio🇯🇴
+http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="العراق IRAQ",العراق IRAQ🇮🇶
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",🇮🇶كيف احصل على الكود
@@ -2897,6 +2930,12 @@ https://listen.radioking.com/radio/96766/stream/136030
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="العراق IRAQ",ALetejah TV🇮🇶
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AlGhadeer
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rafidain
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rasheed
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",بلاي
 http://95.216.180.111:1935/live/68/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UxuklO" group-title="العراق IRAQ",UTV Iraq HD🇮🇶
@@ -3353,6 +3392,8 @@ https://stream-02.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfOYzXEHcTT2xgNxuai
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",Baynounah TV🇦🇪
+https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="🇾🇪اليمن Yemen",Yemen tv🇾🇪
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇾🇪اليمن Yemen",🇾🇪كيف احصل على الكود
@@ -3827,6 +3868,8 @@ https://streann-msl4.akamaized.net/hls/live/2043201/quranhls2/3.m3u8
 http://185.236.229.50:8000/play/a01m
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3O37kZm" group-title="🕌اسلاميةIslami",المجد العلمية🕌
 https://streann-msl4.akamaized.net/hls/live/2043217/sciencehls/3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Ayaat
+https://stream.holol.com/live/ayat/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🕌اسلاميةIslami",Iqraa🕌
 https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🕌اسلاميةIslami",Iqraa Europe Africa🕌
