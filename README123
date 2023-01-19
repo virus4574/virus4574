@@ -1454,28 +1454,16 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1  tvg-name="TIJI in French" tvg-logo="https://shahidstatic4.akamaized.net//mediaObject/2021/Abd/Jan/m6-images/TIJI_THUMB/original/TIJI_THUMB.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" group-title="أطفال Children",TIJI in French
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_1.m3u8
-#EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="http://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="أطفال Children",atfal wa mwaheb
-https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="أطفال Children",Amou Yazid Tofola TV
 http://185.236.229.50:8000/play/a065
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="أطفال Children",abn 3
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="أطفال Children",Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="أطفال Children",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286270386.png" group-title="أطفال Children", 3 ABN KIDS
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="أطفال Children", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599781/286013856.png" group-title="أطفال Children", Nick Jr
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3uHoXF0" group-title="أطفال Children",RetroCrush TV
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?
-#EXTINF:1 tvg-id="Mangas.fr" tvg-language="French" tvg-logo="https://i.imgur.com/Vz9Vj8q.png" group-title="أطفال Children",MANGAS Fr
-http://212.8.250.27:8080/manga/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://bit.ly/3RLw2i3" group-title="🐭🐶حلقات توم وجيري", توم وجيري 1
 https://v.tom-dzherri.net/video/s/1.mp4
