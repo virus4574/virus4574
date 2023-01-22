@@ -3523,6 +3523,8 @@ http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Family
+http://baskhd.ddns.net:40/live/BarinfamilyHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
