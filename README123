@@ -2772,6 +2772,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam🇱🇧
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",aliman🇱🇧
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Aliman TV🇱🇧
@@ -2783,7 +2785,7 @@ http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN🇱🇧
 http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
-https://live1.presstv.ir/live/ifilmar_360p/index.m3u8
+https://cdnlive3.presstv.ir/cdnlive/smil:ifilmarcdn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",🇵🇸كيف احصل على الكود
