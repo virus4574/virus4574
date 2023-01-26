@@ -1201,6 +1201,13 @@ https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 
+#EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",ZEE AFLAM
+http://149.100.11.252:8019/play/a04a
+#EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",ZEE ALWAN
+http://149.100.11.252:8019/play/a04b
+#EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",B4U AFLAM
+http://149.100.11.252:8019/play/a04c
+
 #EXTINF:0 tvg-id="ext" group-title="باقة MAJESTIC",▂ ▄ ▅ ▆☆ MAJESTIC LIVE ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="باقة MAJESTIC",النسخة المدفوعة AirMax TV
@@ -1210,6 +1217,15 @@ https://bit.ly/34ooolI
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="باقة art",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="ext" group-title="باقة art",Aflam 1
+http://149.100.11.252:8019/play/a02t
+#EXTINF:0 tvg-id="ext" group-title="باقة art",Aflam 2
+http://149.100.11.252:8019/play/a02u
+#EXTINF:0 tvg-id="ext" group-title="باقة art",Hekayat 
+http://149.100.11.252:8019/play/a01b
+#EXTINF:0 tvg-id="ext" group-title="باقة art",Hekayat2
+http://149.100.11.252:8019/play/a01c
 
 #EXTINF:-1 tvg-id="ext" group-title="📰الاخبارNEWS",الاخبارNEWS📰
 https://bit.ly/3xYLaRh
@@ -1293,8 +1309,8 @@ https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b45000
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
 http://95.216.180.111:1935/live/111/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
-http://185.236.229.50:8000/play/a043
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",Al Jazeera Documentary HD (Backup 2)🏞️
+http://149.100.11.252:8019/play/a04p
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="الوثائقية documentary",Kaifa TV🏞️
@@ -1367,7 +1383,8 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="أطفال Children",Amou Yazid Tofola TV
-http://185.236.229.50:8000/play/a065
+http://149.100.11.252:8019/play/a03y
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="أطفال Children",SPACETOON
@@ -2422,6 +2439,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",MBC 2
+http://149.100.11.252:8019/play/a048
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
@@ -2764,6 +2783,8 @@ https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.postimg.cc/CMkSy1Pq/siAiiws.jpg" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",Jordan Sport  HD
+http://149.100.11.252:8019/play/a015
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv SD🇯🇴
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv 🇯🇴
@@ -2844,6 +2865,14 @@ https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",بلاي
 http://95.216.180.111:1935/live/68/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",IRAQ 24 HD
+http://149.100.11.252:8020/play/a039
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AL SHARQIYA HD
+http://149.100.11.252:8020/play/a035
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AL SUMARIA HD
+http://149.100.11.252:8020/play/a038
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UxuklO" group-title="العراق IRAQ",UTV Iraq HD🇮🇶
 http://185.236.229.50:8000/play/a00z
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3tnXMyJ" group-title="العراق IRAQ",AL AYAM HD🇮🇶
@@ -2874,6 +2903,63 @@ https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",,Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ABC TV
+http://149.100.11.252:8020/play/a03o
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Oula HD
+http://149.100.11.252:8020/play/a043
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
+http://149.100.11.252:8020/play/a049
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
+http://149.100.11.252:8020/play/a048
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Ayat TV
+http://149.100.11.252:8020/play/a03t
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Boha Drama
+http://149.100.11.252:8020/play/a03q
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CATV
+http://149.100.11.252:8020/play/a03a
+#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
+http://149.100.11.252:8020/play/a04a
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
+http://149.100.11.252:8020/play/a04c
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Dolly Cinema
+http://149.100.11.252:8020/play/a03v
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Dolly Drama
+http://149.100.11.252:8020/play/a03u
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Dolly Mosalsalat
+http://149.100.11.252:8020/play/a03w
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Musawa HD
+http://149.100.11.252:8020/play/a03y
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nedjma TV
+http://149.100.11.252:8020/play/a050
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Cinema
+http://149.100.11.252:8020/play/a04l
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Comedy
+http://149.100.11.252:8020/play/a04g
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
+http://149.100.11.252:8020/play/a045
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Drama
+http://149.100.11.252:8020/play/a04i
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
+http://149.100.11.252:8020/play/a044
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Life
+http://149.100.11.252:8020/play/a04h
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News
+http://149.100.11.252:8020/play/a04f
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News HD
+http://149.100.11.252:8020/play/a04k
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Sport
+http://149.100.11.252:8020/play/a04j
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
+http://149.100.11.252:8020/play/a04r
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON E HD
+http://149.100.11.252:8020/play/a04o
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
+http://149.100.11.252:8020/play/a04p
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
+http://149.100.11.252:8020/play/a04q
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
+http://149.100.11.252:8020/play/a04n
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
@@ -2968,6 +3054,29 @@ http://217.182.137.206/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",🇹🇳الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Telvza TV
+http://149.100.11.252:8019/play/a037
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia  Educ 1
+http://149.100.11.252:8019/play/a035
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 1
+http://149.100.11.252:8019/play/a031
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 2
+http://149.100.11.252:8019/play/a036
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Nessma Ejdida
+http://149.100.11.252:8019/play/a03c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",HANNIBAL TV
+http://149.100.11.252:8019/play/a03b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Al Insen TV
+http://149.100.11.252:8019/play/a03a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Al JANOUBIA TV
+http://149.100.11.252:8019/play/a038
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Al Ons TV
+http://149.100.11.252:8019/play/a04l
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Attessia TV
+http://149.100.11.252:8019/play/a034
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",ZAYTOONA
+http://149.100.11.252:8020/play/a03l
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia Educ 1🇹🇳
 http://185.236.229.117:8000/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 1🇹🇳
@@ -2976,12 +3085,65 @@ http://185.236.229.117:8000/play/a002
 http://185.236.229.117:8000/play/a007
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia Nat1 HD🇹🇳
 http://185.236.229.117:8000/play/a02x
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV HD
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Salam TV
+http://149.100.11.252:8019/play/a03v
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Samira TV
+http://149.100.11.252:8019/play/a03z
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Story Channel
+http://149.100.11.252:8019/play/a046
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TUNISNA
+http://149.100.11.252:8019/play/a033
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",A3 HD
+http://149.100.11.252:8019/play/a03m
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TV 4 
+http://149.100.11.252:8019/play/a03g
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TV 5 
+http://149.100.11.252:8019/play/a03h
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TV 6 HD
+http://149.100.11.252:8019/play/a03i
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TV7 ELMAARIFA
+http://149.100.11.252:8019/play/a03j
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TV8 EDHAKIRA
+http://149.100.11.252:8019/play/a03k
+
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Bahia TV
+http://149.100.11.252:8019/play/a03r
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Canal Algerie HD
+http://149.100.11.252:8019/play/a03f
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Carthage+
+http://149.100.11.252:8019/play/a039
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Cima
+http://149.100.11.252:8019/play/a01a
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL BILAD
+http://149.100.11.252:8019/play/a03x
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HAYAT TV ALGERIE
+http://149.100.11.252:8019/play/a03t
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HEDDAF TV
+http://149.100.11.252:8019/play/a03u
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Echorouk NEWS
+http://149.100.11.252:8019/play/a03p
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Echorouk TV
+http://149.100.11.252:8019/play/a03q
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",El Barlamaniya
+http://149.100.11.252:8019/play/a03l
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",El Djazair N1
+http://149.100.11.252:8019/play/a03w
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Elhiwar Ettounsi
+http://149.100.11.252:8019/play/a032
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Elwatania Algerie
+http://149.100.11.252:8019/play/a03s
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Ennahar TV
+http://149.100.11.252:8019/play/a040
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",AL24 News
+http://149.100.11.252:8019/play/a03n
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",ASHARQ NEWS CHANNEL
+http://149.100.11.252:8019/play/a049
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="ليبياLIBYA",LIB-Salam TV🇱🇾
@@ -2998,6 +3160,10 @@ https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya alhadath
 http://82.212.74.100:8000/live/hls/8103.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA DRAMA
+http://149.100.11.252:8020/play/a03p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA SPORT 1 HD
+http://149.100.11.252:8020/play/a046
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="السودانSUDAN",Sudan TV🇸🇩
