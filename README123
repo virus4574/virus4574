@@ -2441,6 +2441,12 @@ https://bit.ly/3gj9PK5
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",MBC 2
 http://149.100.11.252:8019/play/a048
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",MBC 2
+http://185.236.229.50:8002/play/a042
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",MBC Action
+http://185.236.229.50:8002/play/a041
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",MBC MAX
+http://185.236.229.50:8002/play/a043
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="أم بي سيMBC",|MBC| 3 SD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="أم بي سيMBC",MBC 4
@@ -2799,6 +2805,10 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/topics/16109018226082.png" group-title="🇯🇴الاردنJORDAN",A ONE🇯🇴
 http://master.starmena-cloud.com/hls/a1jo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",JORDAN NOW
+http://185.236.229.50:8002/play/a01c
+#EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",JORDAN SAMA
+http://185.236.229.50:8002/play/a01g
 #EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Melody FM Jordan🇯🇴
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Radio Fann Jordan: City View🇯🇴
@@ -3077,6 +3087,17 @@ http://149.100.11.252:8019/play/a034
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",ZAYTOONA
 http://149.100.11.252:8020/play/a03l
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",TUNISNA
+http://185.236.229.50:8002/play/a04b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tamazight
+http://185.236.229.50:8002/play/a03s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tanasuh TV
+http://185.236.229.50:8002/play/a02q
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Taqwa TV
+http://185.236.229.50:8002/play/a01e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Telvza TV
+http://185.236.229.50:8002/play/a04f
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia Educ 1🇹🇳
 http://185.236.229.117:8000/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 1🇹🇳
@@ -3164,6 +3185,16 @@ http://82.212.74.100:8000/live/hls/8103.m3u8
 http://149.100.11.252:8020/play/a03p
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA SPORT 1 HD
 http://149.100.11.252:8020/play/a046
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA 218
+http://185.236.229.50:8002/play/a01a
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYAS CHANNEL
+http://185.236.229.50:8002/play/a02h
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya 218 News
+http://185.236.229.50:8002/play/a017
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Education
+http://185.236.229.50:8002/play/a00l
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",Libya Sport 2 HD
+http://185.236.229.50:8002/play/a00k
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="السودانSUDAN",Sudan TV🇸🇩
@@ -3338,6 +3369,8 @@ http://82.212.74.5:8000/live/hls/7728.m3u8
 http://95.216.180.111:1935/live/46/chunklist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/nhGnJp8F/image1.png",Al Ghad Almoshrek 🇾🇪
 http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇾🇪اليمن Yemen",Aden Almustakilla
+http://185.236.229.50:8002/play/a03h
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="🇸🇴الصومالSomalia‎",28 الصومالSomalia🇸🇴
 https://bit.ly/3xYLaRh
@@ -3840,6 +3873,16 @@ http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Maher Al Meaqli-Kaf🕌
 http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",AL RAHMA
+http://185.236.229.50:8002/play/a025
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",AL Resala HD
+http://185.236.229.50:8002/play/a00g
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",ALSALAM
+http://185.236.229.50:8002/play/a02g
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Ahlu Al-Quran
+http://185.236.229.50:8002/play/a019
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Alruqia TV
+http://185.236.229.50:8002/play/a01i
 
 #EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",TURKEY TV
 https://bit.ly/3xYLaRh
