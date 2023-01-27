@@ -3336,7 +3336,8 @@ http://149.100.11.252:8019/play/a04l
 http://149.100.11.252:8019/play/a034
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",ZAYTOONA
 http://149.100.11.252:8020/play/a03l
-
+#EXTINF:0 tvg-logo="" group-title="تونسTUNISIE",TUNISNA
+http://149.100.11.252:8019/play/a033
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",TUNISNA
 http://185.236.229.50:8002/play/a04b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tamazight
@@ -3394,8 +3395,6 @@ http://149.100.11.252:8019/play/a03v
 http://149.100.11.252:8019/play/a03z
 #EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Story Channel
 http://149.100.11.252:8019/play/a046
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TUNISNA
-http://149.100.11.252:8019/play/a033
 #EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",A3 HD
 http://149.100.11.252:8019/play/a03m
 #EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",TV 4 
