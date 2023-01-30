@@ -1295,6 +1295,11 @@ https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",Bee Movies
+https://hls.youtb.workers.dev/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="باقة NETFLIX",Play Media
+https://hls.youtb.workers.dev/channel/UCgeaM5qcsBhh_o0hNo5q70A.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Omg Channel",▂ ▄ ▅ ▆☆ Omg Channel ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
@@ -1426,6 +1431,8 @@ https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 https://hls.youtb.workers.dev/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰
 http://146.19.16.201:8001/play/a031
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="📰الاخبارNEWS",France 24 Arabic📰
+https://hls.youtb.workers.dev/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="📰الاخبارNEWS",FRANCE 24 HD📰
 http://185.236.229.50:8003/play/a03c
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary🏞️
@@ -1511,7 +1518,6 @@ https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3izHluV" group-title="أطفال Children",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Toyor Aljanah
 http://185.236.229.50:8002/play/a030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
@@ -3440,6 +3446,8 @@ https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mh2ITu" group-title="تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="تونسTUNISIE",Watania 1 🇹🇳
+https://hls.youtb.workers.dev/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 🇹🇳
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM🇹🇳
@@ -3811,6 +3819,8 @@ http://82.212.74.5:8000/live/hls/7728.m3u8
 http://95.216.180.111:1935/live/46/chunklist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/nhGnJp8F/image1.png",Al Ghad Almoshrek 🇾🇪
 http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bNDJlO0.png" group-title="🇾🇪اليمن Yemen",Belqees TV 🇾🇪
+https://hls.youtb.workers.dev/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇾🇪اليمن Yemen",Aden Almustakilla
 http://185.236.229.50:8002/play/a03h
 
