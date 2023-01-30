@@ -1476,6 +1476,8 @@ http://85.187.244.111:50011
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Nasa TV🏞️
 https://piratesiptv.shortcm.li/nasa.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="🏖️مناظر طبيعية",Dream Música Live 4k🏖️
+https://hls.youtb.workers.dev/channel/UCpLow10iz3-cofN_570bwPQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🏖️مناظر طبيعية",Beaches Live🏖️
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 tvg-logo="h" group-title="🏖️مناظر طبيعية",Mountains Live🏖️
@@ -1518,6 +1520,8 @@ https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3izHluV" group-title="أطفال Children",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Toyor Aljanah
+https://hls.youtb.workers.dev/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Toyor Aljanah
 http://185.236.229.50:8002/play/a030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
@@ -3055,6 +3059,8 @@ https://hls.youtb.workers.dev/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 https://hls.youtb.workers.dev/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",eXtra News🇪🇬
 https://hls.youtb.workers.dev/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",القاهرة والناس🇪🇬
+https://hls.youtb.workers.dev/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV🇪🇬
