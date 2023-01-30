@@ -1287,6 +1287,8 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="📰الاخبارNEWS",ALkhalij TV📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰الاخبارNEWS",CNBC Arabia📰
+https://hls.youtb.workers.dev/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰
 http://146.19.16.201:8001/play/a031
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="📰الاخبارNEWS",FRANCE 24 HD📰
@@ -2693,13 +2695,11 @@ http://185.236.229.50:8002/play/a00q
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",🇱🇧كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD sd
-https://1537084837.rsc.cdn77.org/1537084837/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD
-https://1537084837.rsc.cdn77.org/1537084837/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD🇱🇧
+https://1537084837.rsc.cdn77.org/1537084837/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD🇱🇧
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Al Ittihad
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Al Ittihad🇱🇧
 https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
@@ -2719,6 +2719,10 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Aliman TV🇱🇧
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN🇱🇧
+https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Al Wifak🇱🇧
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 https://cdnlive3.presstv.ir/cdnlive/smil:ifilmarcdn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
@@ -2902,6 +2906,14 @@ http://185.236.229.50:8000/play/a03d
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",Al Qahera News🇪🇬
+https://hls.youtb.workers.dev/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",CBC🇪🇬
+https://hls.youtb.workers.dev/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",CBC Sofra🇪🇬
+https://hls.youtb.workers.dev/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",eXtra News🇪🇬
+https://hls.youtb.workers.dev/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV🇪🇬
@@ -2918,6 +2930,7 @@ https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",,Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ABC TV
 http://149.100.11.252:8020/play/a03o
@@ -4113,10 +4126,6 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3ULWhWC" group-title="🕌اسلاميةIslami",aldaaie tv🕌
 https://live.prd.dlive.tv/hls/live/aldaaie.m3u8?web=true
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3hIPb6Q" group-title="🕌اسلاميةIslami",ALmajd TV🕌
-https://streann-msl4.akamaized.net/hls/live/2043201/quranhls2/3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3WWn6t4" group-title="🕌اسلاميةIslami",Almajd General
-http://185.236.229.50:8000/play/a01m
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3O37kZm" group-title="🕌اسلاميةIslami",المجد العلمية🕌
 https://streann-msl4.akamaized.net/hls/live/2043217/sciencehls/3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Ayaat
@@ -4138,7 +4147,7 @@ https://mn-nl.mncdn.com/qaf/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌اهل القران
 https://www.ahlualquran.tv:25463/live/ahlutv/live-tv/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌المعالي
-https://video1.getstreamhosting.com:1936/8484_1/8484_1/chunklist.m3u8
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Alnada🕌
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",mawda🕌
