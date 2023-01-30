@@ -1128,8 +1128,6 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC News
 https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 5
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
@@ -1138,10 +1136,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed SD
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra FHD
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
@@ -1200,11 +1195,10 @@ https://bit.ly/34ooolI
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-
-#EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",ZEE AFLAM
-http://149.100.11.252:8019/play/a04a
-#EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",ZEE ALWAN
-http://149.100.11.252:8019/play/a04b
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="BOLLYWOOD بوليود",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="BOLLYWOOD بوليود",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BOLLYWOOD بوليود",B4U AFLAM
 http://149.100.11.252:8019/play/a04c
 
