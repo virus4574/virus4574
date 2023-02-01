@@ -3456,6 +3456,8 @@ https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="تونسTUNISIE",Watania 1 🇹🇳
 https://hls.youtb.workers.dev/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kZUVuP" group-title="تونسTUNISIE",Watania 2 🇹🇳
+https://hls.youtb.workers.dev/channel/UCJW9gatYczI191TunQxMGbA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 🇹🇳
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM🇹🇳
@@ -3474,8 +3476,6 @@ http://217.182.137.206/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="تونسTUNISIE",🇹🇳الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Telvza TV
-http://149.100.11.252:8019/play/a037
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia  Educ 1
 http://149.100.11.252:8019/play/a035
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",Tunisia NAT 1
@@ -3617,6 +3617,8 @@ https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya alhadath
 http://82.212.74.100:8000/live/hls/8103.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW5rmPcXSw-kif9bmIKpcOPCepc0tcbeiEBnn-y=s900-c-k-c0x00ffffff-no-rj" group-title="ليبياLIBYA",LIB-قناة التناصح الفضائية🇱🇾
+https://hls.youtb.workers.dev/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA DRAMA
 http://149.100.11.252:8020/play/a03p
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA SPORT 1 HD
