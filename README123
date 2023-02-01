@@ -2795,6 +2795,8 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Jvhm55" group-title="سوريةSyria",قناة مسك
+https://hls.youtb.workers.dev/channel/UCrvsAwtrxZ0q31yU9JEBdWA.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
@@ -3335,7 +3337,10 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="تونسTUNISIE",Watania 1 🇹🇳
 https://hls.youtb.workers.dev/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kZUVuP" group-title="تونسTUNISIE",Watania 2 🇹🇳
+http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kZUVuP" group-title="تونسTUNISIE",Watania 2 🇹🇳
 https://hls.youtb.workers.dev/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" group-title="تونسTUNISIE",موزاييك 🇹🇳
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="تونسTUNISIE",Shems FM🇹🇳
@@ -3869,6 +3874,269 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba
 http://audiostreaming.itworkscdn.com:9066/;stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",ممونت كارلو FM📻
 http://live02.mc-doualiya.com/mc-doualiya.mp3
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="QURAN LIVE RADIO", Live Nablus Palestine((إذاعة القرآن الكريم نابلس)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",---Amazing short Recitations---
+https://Qurango.net/radio/tarateel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",--Quran Tafseer--
+http://live.mp3quran.net:9718/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",-Beautiful Recitations-
+http://live.mp3quran.net:9992/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",-Main Radio-
+http://live.mp3quran.net:8006/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",-Surah Al-Baqarah - Many Reciters-
+http://live.mp3quran.net:9722/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",-????? ??? ?? ???? ??????? ????? ???? ?????-
+http://live.mp3quran.net:8028/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdelbari Al-Toubayti_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdelbari_altoubayti
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdul Aziz Al-Ahmad_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdul_aziz_alahmad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulbari Mohammad_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulbari_mohammad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulbasit Abdulsamad_Rewayat Warsh A'n Nafi'
+https://Qurango.net/radio/abdulbasit_abdulsamad_warsh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulbasit Abdulsamad_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulbasit_abdulsamad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulbasit Abdulsamad_Almusshaf Al Mojawwad
+https://Qurango.net/radio/abdulbasit_abdulsamad_mojawwad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulhadi Kanakeri_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulhadi_kanakeri
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdullah Al-Johany_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdullah_aljohany
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdullah Al-Kandari_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdullah_alkandari
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Abdullah Al-Khalaf_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdullah_alkhalaf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdullah Al-Mattrod_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdullah_almattrod
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Abdullah Al-Mousa - Radio_Rewayat Hafs A'n Assem
+http://live.mp3quran.net:9706/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdullah Basfer_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdullah_basfer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdullah Khayyat_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdullah_khayyat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulmohsen Al-Qasim_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulmohsen_alqasim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulmohsin Al-Harthy_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulmohsin_alharthy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulmohsin Al-Obaikan_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulmohsin_alobaikan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulrahman Al-Majed_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulrahman_almajed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulrahman Alsudaes_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulrahman_alsudaes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulrasheed Soufi_Rewayat Khalaf A'n Hamzah
+https://Qurango.net/radio/abdulrasheed_soufi_assosi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulrasheed Soufi_Rewayat Assosi A'n Abi Amr
+https://Qurango.net/radio/abdulrasheed_soufi_khalaf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Abdulwadood Haneef_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/abdulwadood_haneef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Addokali Mohammad Alalim_Rewayat Qalon A'n Nafi'
+https://Qurango.net/radio/addokali_mohammad_alalim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Adel Al-Khalbany_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/adel_alkhalbany
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Adel Ryyan_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/adel_ryyan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmad Al-Ajmy_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmad_alajmy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmad Al-Hawashi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmad_alhawashi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmad Khader Al-Tarabulsi_Rewayat Qalon A'n Nafi'
+https://Qurango.net/radio/ahmad_khader_altarabulsi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmad Nauina_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmad_nauina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmad Saber_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmad_saber
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Ahmad Shaheen_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmad_shaheen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmed Al-trabulsi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmed_altrabulsi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ahmed Amer_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ahmed_amer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Akram Alalaqmi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/akram_alalaqmi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Al-Qaria Yassen_Rewayat Warsh A'n Nafi'
+https://Qurango.net/radio/alqaria_yassen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Alfateh Alzubair_Rewayat Aldori A'n Abi Amr
+https://Qurango.net/radio/alfateh_alzubair
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ali Alhuthaifi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ali_alhuthaifi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ali Alhuthaifi_Rewayat Qalon A'n Nafi'
+https://Qurango.net/radio/ali_alhuthaifi_qalon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ali Hajjaj Alsouasi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ali_hajjaj_alsouasi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ali Jaber_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ali_jaber
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Aloyoon Al-Koshi_Rewayat Warsh A'n Nafi'
+https://Qurango.net/radio/aloyoon_alkoshi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Alzain Mohammad Ahmad_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/alzain_mohammad_ahmad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Emad Hafez_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/emad_hafez
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Fares Abbad_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/fares_abbad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Hani Arrifai_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/hani_arrifai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Hatem Fareed Alwaer_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/hatem_fareed_alwaer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Hitham Aljadani_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/hitham_aljadani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ibrahim Al-Akdar_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/ibrahim_alakdar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Ibrahim Aldosari_Rewayat Warsh A'n Nafi'
+https://Qurango.net/radio/ibrahim_aldosari
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Idrees Abkr_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/idrees_abkr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Jamaan Alosaimi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/jamaan_alosaimi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Jamal Shaker Abdullah_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/jamal_shaker_abdullah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Khaled Al-Qahtani_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/khaled_alqahtani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Khalid Abdulkafi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/khalid_abdulkafi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Khalid Al-Jileel_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/khalid_aljileel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Khalid Almohana_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/khalid_almohana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Khalifa Altunaiji_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/khalifa_altunaiji
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Maher Al Meaqli_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/maher_al_meaqli
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Maher Shakhashero_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/maher_shakhashero
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmood Al rifai_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mahmood_al_rifai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmood AlSheimy_Rewayat AlDorai A'n Al-Kisa'ai
+https://Qurango.net/radio/mahmood_alsheimy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmoud Ali  Albanna_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mahmoud_ali__albanna
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmoud Ali  Albanna_Almusshaf Al Mojawwad
+https://Qurango.net/radio/mahmoud_ali__albanna_mojawwad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmoud Khalil Al-Hussary_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mahmoud_khalil_alhussary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmoud Khalil Al-Hussary_Almusshaf Al Mojawwad
+https://Qurango.net/radio/mahmoud_khalil_alhussary_mojawwad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mahmoud Khalil Al-Hussary_Rewayat Warsh A'n Nafi'
+https://Qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mishary Alafasi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mishary_alafasi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Moeedh Alharthi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/moeedh_alharthi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Abdullkarem_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammad_abdullkarem
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Abdullkarem_Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani
+https://Qurango.net/radio/mohammad_abdullkarem_alasbahani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Al-Abdullah_Rewayat AlDorai A'n Al-Kisa'ai
+https://Qurango.net/radio/mohammad_alabdullah_aldorai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Al-Abdullah_Rewayat Albizi and Qunbol A'n Ibn Katheer
+https://Qurango.net/radio/mohammad_alabdullah_albizi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Al-Tablaway_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammad_altablaway
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Rashad Alshareef_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammad_rashad_alshareef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammad Saleh Alim Shah_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammad_saleh_alim_shah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammed Al-Lohaidan_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammed_allohaidan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammed Ayyub_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammed Jibreel_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammed_jibreel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammed Osman Khan_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammed_osman_khan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammed Siddiq Al-Minshawi_Almusshaf Al Mojawwad
+https://Qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mohammed Siddiq Al-Minshawi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mohammed_siddiq_alminshawi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mousa Bilal_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mousa_bilal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Muftah Alsaltany_Ibn Thakwan A'n Ibn Amer
+https://Qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Muftah Alsaltany_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/muftah_alsaltany
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Muftah Alsaltany_Rewayat AlDorai A'n Al-Kisa'ai
+https://Qurango.net/radio/muftah_alsaltany_aldorai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Muftah Alsaltany_Rewayat Aldori A'n Abi Amr
+https://Qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mustafa Al-Lahoni_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mustafa_allahoni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mustafa Ismail_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mustafa_ismail
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Mustafa raad Alazawy_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/mustafa_raad_alazawy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Nabil Al Rifay_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/nabil_al_rifay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Nasser Almajed_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/nasser_almajed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Nasser Alqatami_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/nasser_alqatami
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Neamah Al-Hassan_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/neamah_alhassan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Omar Al-Qazabri_Rewayat Warsh A'n Nafi'
+https://Qurango.net/radio/omar_alqazabri
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Saad Al-Ghamdi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/saad_alghamdi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Saber Abdulhakm_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/saber_abdulhakm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Sahl Yassin_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/sahl_yassin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Salah Albudair_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/salah_albudair
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Salah Alhashim_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/salah_alhashim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Saud Al-Shuraim_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/saud_alshuraim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Sayeed Ramadan_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/sayeed_ramadan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Shaik Abu Bakr Al Shatri_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/shaik_abu_bakr_al_shatri
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Shirazad Taher_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/shirazad_taher
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Slaah Bukhatir_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/slaah_bukhatir
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Tareq Abdulgani daawob_Rewayat Qalon A'n Nafi'
+https://Qurango.net/radio/tareq_abdulgani_daawob
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Tawfeeq As-Sayegh_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/tawfeeq_assayegh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Waleed Alnaehi_Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet
+https://Qurango.net/radio/waleed_alnaehi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Yahya Hawwa_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/yahya_hawwa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Yasser Al-Dosari_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/yasser_aldosari
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Yasser Al-Mazroyee_Rewayat Rowis and Rawh A'n Yakoob Al Hadrami 
+https://Qurango.net/radio/yasser_almazroyee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Yasser Al-Qurashi_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/yasser_alqurashi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Yousef Alshoaey_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/yousef_alshoaey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Yousef Bin Noah Ahmad_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/yousef_bin_noah_ahmad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",Radio Zaki Daghistani_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/zaki_daghistani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ???? ???????_Rewayat Hafs A'n Assem
+http://live.mp3quran.net:8030/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ???? ?????_Rewayat Hafs A'n Assem
+http://live.mp3quran.net:8024/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ?????? ???????
+http://live.mp3quran.net:9936/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ??????? ??????
+http://live.mp3quran.net:8014/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ??????? ?????
+http://live.mp3quran.net:9728/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ???? ???????_Rewayat Hafs A'n Assem
+http://live.mp3quran.net:8026/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ???? ??????_Rewayat Hafs A'n Assem
+http://live.mp3quran.net:8022/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ???? ???? - ????? ??????-_Rewayat Hafs A'n Assem
+http://live.mp3quran.net:9700/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",????? ???? ???????_Rewayat Hafs A'n Assem
+https://Qurango.net/radio/nasser_alosfor
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="القرآن الكريم",[001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="القرآن الكريم",[002] Surah Al-Baqarah (Lembu Betina)
