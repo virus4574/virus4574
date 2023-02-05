@@ -1471,14 +1471,15 @@ https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="باقة art",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Aflam 1
-http://149.100.11.252:8019/play/a02t
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Aflam 2
-http://149.100.11.252:8019/play/a02u
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Hekayat 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1122_1.png" tvg-country="SA" tvg-url="" group-title="باقة art",ART Hekayat 1
 http://149.100.11.252:8019/play/a01b
-#EXTINF:0 tvg-id="ext" group-title="باقة art",Hekayat2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1182_1.png" tvg-country="SA" tvg-url="" group-title="باقة art",ART Hekayat 2
 http://149.100.11.252:8019/play/a01c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" tvg-country="SA" tvg-url="" group-title="باقة art",ART Aflam 1
+http://149.100.11.252:8019/play/a02t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" tvg-country="SA" tvg-url="" group-title="باقة art",ART Aflam 2
+http://149.100.11.252:8019/play/a02u
+
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="قنوات Almajd",Almajd 01
@@ -6961,7 +6962,7 @@ http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 kurd
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E7T78L"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ronahi TV
-http://185.236.229.50:8000/play/a015
+
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Gali Kurdistan
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",NRT 1 HD
@@ -7051,8 +7052,6 @@ http://ilinktv.xyz:1935/private/NirojHD_localDuhok/chunklist.m3u8
 http://172.107.94.243:9000/live/premium-aostv-free/download-4rm-aostv.asia/26379.ts
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Clip TV
 http://cdn1.karwan.tv/clip-tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurdmax Music TV
-https://kurdmaxmusic.kivi-besre.workers.dev/stream/WQg3A3N9qZQ/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Peshmerga TV
 http://baghdad.zinamedia.net/live/peshmergetv/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",AMED TV
@@ -7065,8 +7064,6 @@ http://tv.ezanvaktipro.com/hls/quran.m3u8
 http://217.74.16.163:9590/live/mixkurdish/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",BANGXWAZEN BADINAN
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Dasinya TV
-http://195.201.169.32/dasinya-tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",beIN 1 Premium FHD
 http://185.205.201.141/goldstv.com/YTJCvJWGtc/9377?check=3890362569
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",beIN 2 Premium FHD
