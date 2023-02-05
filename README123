@@ -155,10 +155,155 @@ http://txm.flysat.live:2089/152087208243161/152003418536112/199113
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 4⚽️
 http://txm.flysat.live:2089/152087208243161/152003418536112/199112
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",BEIN_SPORTS_1
+http://162.19.67.213:49214/BEIN_SPORTS_1/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",BEIN_SPORTS_2
+http://162.19.67.213:49214/BEIN_SPORTS_2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",BEIN_SPORTS_3
+http://162.19.67.213:49214/BEIN_SPORTS_3/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",BFM_TV
+http://162.19.67.213:49214/BFM_TV/hls/playlist.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="FRANCE VIP",BOOMERANG
+http://162.19.67.213:49214/BOOMERANG/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS
+http://162.19.67.213:49214/CANAL_PLUS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_CINEMA
+http://162.19.67.213:49214/CANAL_PLUS_CINEMA/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_DECALE
+http://162.19.67.213:49214/CANAL_PLUS_DECALE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_DOCS
+http://162.19.67.213:49214/CANAL_PLUS_DOCS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_FORMULA1
+http://162.19.67.213:49214/CANAL_PLUS_FORMULA1/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_GRAND_ECRAN
+http://162.19.67.213:49214/CANAL_PLUS_GRAND_ECRAN/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_KIDS
+http://162.19.67.213:49214/CANAL_PLUS_KIDS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_MOTOGP
+http://162.19.67.213:49214/CANAL_PLUS_MOTOGP/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_PREMIER_LEAGUE
+http://162.19.67.213:49214/CANAL_PLUS_PREMIER_LEAGUE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_SERIES
+http://162.19.67.213:49214/CANAL_PLUS_SERIES/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CINE_PLUS_CLASSIC
+http://162.19.67.213:49214/CINE_PLUS_CLASSIC/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CINE_PLUS_CLUB
+http://162.19.67.213:49214/CINE_PLUS_CLUB/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CINE_PLUS_EMOTION
+http://162.19.67.213:49214/CINE_PLUS_EMOTION/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CINE_PLUS_FAMIZ
+http://162.19.67.213:49214/CINE_PLUS_FAMIZ/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CINE_PLUS_FRISSON
+http://162.19.67.213:49214/CINE_PLUS_FRISSON/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CINE_PLUS_PREMIER
+http://162.19.67.213:49214/CINE_PLUS_PREMIER/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_SPORT
+http://162.19.67.213:49214/CANAL_PLUS_SPORT/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_PLUS_TOP14
+http://162.19.67.213:49214/CANAL_PLUS_TOP14/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CHASSE_ET_PECHE
+http://162.19.67.213:49214/CHASSE_ET_PECHE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="FRANCE VIP",CARTOON_NETWORK
+http://162.19.67.213:49214/CARTOON_NETWORK/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",COMEDIE_PLUS
+http://162.19.67.213:49214/COMEDIE_PLUS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ComedyCentralHD.mx" group-title="FRANCE VIP",COMEDY_CENTRAL
+http://162.19.67.213:49214/COMEDY_CENTRAL/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CSTAR_HITS_FRANCE
+http://162.19.67.213:49214/CSTAR_HITS_FRANCE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="disney" group-title="FRANCE VIP",DISNEY_CHANNEL
+http://162.19.67.213:49214/DISNEY_CHANNEL/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",DISNEY_JUNIOR
+http://162.19.67.213:49214/DISNEY_JUNIOR/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",EUROSPORT_1
+http://162.19.67.213:49214/EUROSPORT_1/hls/playlist.m3u8
+#EXTINF:0 tvg-id="Eurosport2.hr" group-title="FRANCE VIP",EUROSPORT_2
+http://162.19.67.213:49214/EUROSPORT_2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",FOOT_PLUS_24_24
+http://162.19.67.213:49214/FOOT_PLUS_24_24/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",FRANCE_2
+http://162.19.67.213:49214/FRANCE_2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",MULTISPORTS_1
+http://162.19.67.213:49214/MULTISPORTS_1/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",MULTISPORTS_3
+http://162.19.67.213:49214/MULTISPORTS_3/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",MULTISPORTS_4
+http://162.19.67.213:49214/MULTISPORTS_4/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",MULTISPORTS_6
+http://162.19.67.213:49214/MULTISPORTS_6/hls/playlist.m3u8
+#EXTINF:0 tvg-id="NatGeo.de" group-title="FRANCE VIP",NATIONAL_GEO
+http://162.19.67.213:49214/NATIONAL_GEO/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",NATIONAL_GEOGRAPHIC_WILD
+http://162.19.67.213:49214/NATIONAL_GEOGRAPHIC_WILD/hls/playlist.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="FRANCE VIP",NICKELODEON
+http://162.19.67.213:49214/NICKELODEON/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",NICKELODEON_JUNIOR
+http://162.19.67.213:49214/NICKELODEON_JUNIOR/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",OCS_CHOC
+http://162.19.67.213:49214/OCS_CHOC/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",OCS_CITY
+http://162.19.67.213:49214/OCS_CITY/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",NOVELAS_TV
+http://162.19.67.213:49214/NOVELAS_TV/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",OCS_GEANTS
+http://162.19.67.213:49214/OCS_GEANTS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",OCS_MAX
+http://162.19.67.213:49214/OCS_MAX/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",RFM_TV
+http://162.19.67.213:49214/RFM_TV/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",NICKELODEON_TEEN
+http://162.19.67.213:49214/NICKELODEON_TEEN/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CLIQUE_TV
+http://162.19.67.213:49214/CLIQUE_TV/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",INFOSPORT_PLUS
+http://162.19.67.213:49214/INFOSPORT_PLUS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE VIP",ANIMAUX
+http://162.19.67.213:49214/ANIMAUX/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",GOLF_PLUS
+http://162.19.67.213:49214/GOLF_PLUS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="LCP.fr" group-title="FRANCE VIP",LCP
+http://162.19.67.213:49214/LCP/hls/playlist.m3u8
+#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE VIP",CSTAR
+http://162.19.67.213:49214/CSTAR/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",L_EQUIPE
+http://162.19.67.213:49214/L_EQUIPE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE VIP",EQUIDIA
+http://162.19.67.213:49214/EQUIDIA/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",MULTISPORTS_2
+http://162.19.67.213:49214/MULTISPORTS_2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",MULTISPORTS_5
+http://162.19.67.213:49214/MULTISPORTS_5/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ARTE.de" group-title="FRANCE VIP",ARTE
+http://162.19.67.213:49214/ARTE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",ARTE_ALLEMAND
+http://162.19.67.213:49214/ARTE_ALLEMAND/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",AUTOMOTO_LA_CHAINE
+http://162.19.67.213:49214/AUTOMOTO_LA_CHAINE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE VIP",CANAL_J
+http://162.19.67.213:49214/CANAL_J/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="VIP SPORT EUR",VIP SPORT EUR⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="VIP SPORT EUR",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTM3U
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",Eurosport 1
+http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",Eurosport 2
+http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_1
+http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_2
+http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_3
+http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_4
+http://51.178.36.235:49214/DAZN_4/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_F1
+http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
+
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
 http://93.155.227.38:555/m3u8/diamasporthd.m3u8
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/FYTGoig.png",[$]DIEMA SPORT 2HD
