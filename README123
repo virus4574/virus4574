@@ -6255,6 +6255,8 @@ http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",🇮🇶كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZ9QYM" group-title="العراق IRAQ",قناة دجلة Utv Iraqi🇮🇶
+https://mn-nl.mncdn.org/utviraqi/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV🇮🇶
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="العراق IRAQ",قناة دجلة Dijlah TV (Backup)🇮🇶
@@ -6281,16 +6283,20 @@ https://listen.radioking.com/radio/96766/stream/136030
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="العراق IRAQ",ALetejah TV🇮🇶
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AlGhadeer
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AlGhadeer🇮🇶
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rafidain
-https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rafidain+
-https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/arrafidaintv/live_640p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rasheed
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Aletejah TV🇮🇶
+http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rasheed🇮🇶
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",بلاي
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",🇮🇶بلاي
 http://95.216.180.111:1935/live/68/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Afaq-tv🇮🇶
+http://95.216.180.111:1935/live/1/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Iraqia-News🇮🇶
+http://95.216.180.111:1935/live/115/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",iShtarHD🇮🇶
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u
 
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
