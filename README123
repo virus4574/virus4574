@@ -1177,8 +1177,6 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",KSA Sports 4
 https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ALrabiaaTV SPORTS
-http://185.236.229.50:8000/play/a05p
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="رياضية SPORT",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
@@ -6275,13 +6273,9 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="العراق IRAQ",Zagros🇮🇶
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="العراق IRAQ",🇮🇶قناة دجلة طرب
-https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Dijlah Tarab🇮🇶
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JIH7PQ" group-title="العراق IRAQ",🇮🇶قناة دجلة طرب
 https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="العراق IRAQ",Dijlah fm
-https://listen.radioking.com/radio/96766/stream/136030
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38unqej" group-title="العراق IRAQ", 🇮🇶راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsNUcJ" group-title="العراق IRAQ",iNEWS🇮🇶
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
@@ -6291,28 +6285,13 @@ http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rafidain
 https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rafidain+
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/arrafidaintv/live_640p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",Al Rasheed
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",بلاي
 http://95.216.180.111:1935/live/68/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",IRAQ 24 HD
-http://149.100.11.252:8020/play/a039
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AL SHARQIYA HD
-http://149.100.11.252:8020/play/a035
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",AL SUMARIA HD
-http://149.100.11.252:8020/play/a038
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UxuklO" group-title="العراق IRAQ",UTV Iraq HD🇮🇶
-http://185.236.229.50:8000/play/a00z
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3tnXMyJ" group-title="العراق IRAQ",AL AYAM HD🇮🇶
-http://185.236.229.50:8000/play/a05o
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UyLTSx" group-title="العراق IRAQ",AL AHAD HD🇮🇶
-http://185.236.229.50:8000/play/a05q
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3WYPBq5" group-title="العراق IRAQ",AFAQ TV🇮🇶
-http://185.236.229.50:8000/play/a05e
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3wT0xJK" group-title="العراق IRAQ",12Arabia🇮🇶
-http://185.236.229.50:8000/play/a03d
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
@@ -6351,14 +6330,6 @@ http://149.100.11.252:8020/play/a03o
 http://149.100.11.252:8020/play/a043
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
 http://149.100.11.252:8020/play/a049
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
-http://149.100.11.252:8020/play/a048
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Ayat TV
-http://149.100.11.252:8020/play/a03t
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Boha Drama
-http://149.100.11.252:8020/play/a03q
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CATV
-http://149.100.11.252:8020/play/a03a
 #EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
 http://149.100.11.252:8020/play/a04a
 #EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
@@ -6771,8 +6742,6 @@ https://master.starmena-cloud.com/hls/almasar.m3u8
 http://82.212.74.100:8000/live/hls/8103.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW5rmPcXSw-kif9bmIKpcOPCepc0tcbeiEBnn-y=s900-c-k-c0x00ffffff-no-rj" group-title="ليبياLIBYA",LIB-قناة التناصح الفضائية🇱🇾
 https://hls.youtb.workers.dev/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA DRAMA
-http://149.100.11.252:8020/play/a03p
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA SPORT 1 HD
 http://149.100.11.252:8020/play/a046
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA 218
@@ -7962,8 +7931,6 @@ https://stream.holol.com/live/ayat/playlist.m3u8
 https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🕌اسلاميةIslami",Iqraa Europe Africa🕌
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3UBh3IX" group-title="🕌اسلاميةIslami",Menhag Alnbowa
-http://185.236.229.50:8000/play/a03e
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",makkahtv🕌
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://noble.tv/assets/images/default.jpg" group-title="🕌اسلاميةIslami",Noble tv🕌
