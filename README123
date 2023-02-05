@@ -7022,7 +7022,6 @@ http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Barin Family
 http://baskhd.ddns.net:40/live/BarinfamilyHD/chunklist.m3u8
-
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",DUHOK TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist.m3u8
@@ -7126,8 +7125,6 @@ http://161.97.142.119:8080/hls/shakroktv.m3u8
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Mihrab TV
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Sada TV
-http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask TV
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Zagros TV
@@ -7200,18 +7197,17 @@ http://cdn1.karwan.tv/spi-tv/index.m3u8
 http://baskhd.ddns.net:40/live/rain/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Astera Documentary
 http://212.224.84.217:2200/EX/Astera_Documentary-kr/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN MOVIE
-http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN QURAN
-http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN DOC
-http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN DRAMA
-http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN Clip
-http://mmn.mypsx.net:1935/live/mmnhdclip/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN KIDS
-http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",SHOW 2
+http://baskhd.ddns.net:40/live/ShowTV/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDMAX SHOW HD+ KUR
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW2_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDMAX HD+ KUR
+https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxS0rani!/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",PAYAM TV HD+
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDSAT NEWS HD+
+http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
