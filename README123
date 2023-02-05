@@ -38,25 +38,25 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",beIN SPORTS
 http://194.37.92.14:12000/play/a0da
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS 1 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",beIN SPORTS 2 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/Mc4etpx.png",beIN SPORTS 3 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein3_Premuim.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 1 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 2 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 3 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 4 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 5 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 6 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 7 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein7.m3u8
+
 
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/XJhUZeH.png",[$]BEIN SPORTS NEWS HD⚽️
 http://194.37.92.14:12000/play/a0db
@@ -6265,7 +6265,7 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 http://95.216.180.111:1935/live/10/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="🇮🇶العراق IRAQ",IRQ-AL Sharqiya TV HD🇮🇶
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="🇮🇶العراق IRAQ",IRQ-AL Sharqiya News HD🇮🇶
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HXV8aN" group-title="🇮🇶العراق IRAQ",IRQ-AL Sharqiya News HD🇮🇶
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364rE7I" group-title="🇮🇶العراق IRAQ",IRQ-AL Hurra HD🇮🇶
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
@@ -6284,7 +6284,7 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NLCeEq" group-title="🇮🇶العراق IRAQ",ALetejah TV🇮🇶
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Xe8g08" group-title="🇮🇶العراق IRAQ",AlGhadeer🇮🇶
-https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+http://95.216.180.111:1935/live/2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Rwr6y9" group-title="🇮🇶العراق IRAQ",Al Rasheed🇮🇶
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wXutEM" group-title="🇮🇶العراق IRAQ",🇮🇶بلادي
@@ -6294,7 +6294,9 @@ http://95.216.180.111:1935/live/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kZpaBZ" group-title="🇮🇶العراق IRAQ",Iraqia-News🇮🇶
 http://95.216.180.111:1935/live/115/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3E59nbN" group-title="🇮🇶العراق IRAQ",iShtarHD🇮🇶
-http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
+#EXTINF:-1 group-title="🇮🇶العراق IRAQ" tvg-logo="https://bit.ly/3jvcrH1", 🇮🇶الموصلية
+http://95.216.180.111:1935/live/3/chunklist.m3u8
 
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
