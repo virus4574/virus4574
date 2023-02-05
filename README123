@@ -1763,6 +1763,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="📰الاخبارNEWS",BBC ARABIC +📰
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="📰الاخبارNEWS",BBC ARABIC +📰+
+http://95.216.180.111:1935/live/106/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="📰الاخبارNEWS",AL ALAM HD📰
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="📰الاخبارNEWS",WATAN HD📰
@@ -6313,7 +6315,7 @@ http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8
 http://95.216.180.111:1935/live/3/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lcOF32" group-title="🇮🇶العراق IRAQ",🇮🇶قناة الايام الفضائية
 http://95.216.180.111:1935/live/6/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",News🇮🇶
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3UyLTSx" group-title="🇮🇶العراق IRAQ",العهد🇮🇶
 http://95.216.180.111:1935/live/7/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HVAabF" group-title="🇮🇶العراق IRAQ",🇮🇶وكالة انباء الفرات نيوز
 http://95.216.180.111:1935/live/10/chunklist.m3u8
@@ -6321,12 +6323,12 @@ http://95.216.180.111:1935/live/10/chunklist.m3u8
 http://95.216.180.111:1935/live/18/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HElhKq" group-title="🇮🇶العراق IRAQ",🇮🇶الطليعة الفضائية
 http://95.216.180.111:1935/live/36/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",🇮🇶كربلاء الفضائية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HVhdH3" group-title="🇮🇶العراق IRAQ",🇮🇶كربلاء الفضائية
 http://95.216.180.111:1935/live/45/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40q3Ndz" group-title="🇮🇶العراق IRAQ",🇮🇶شهاب
+http://95.216.180.111:1935/live/67/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3l9NQbg" group-title="🇮🇶العراق IRAQ",الكونز
+http://95.216.180.111:1935/live/118/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",
