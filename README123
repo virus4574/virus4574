@@ -1802,8 +1802,6 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="📰الاخبارNEWS",ALkhalij TV📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰الاخبارNEWS",CNBC Arabia📰
-https://hls.youtb.workers.dev/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰
 http://146.19.16.201:8001/play/a031
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰+
@@ -4662,10 +4660,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="🏖️مناظر طبيعية",Naturescape
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="" group-title="🏖️مناظر طبيعية",Relaxing Sleep Live 4k🏖️
-https://hls.youtb.workers.dev/channel/UC3NCdyJUZrJq_0LzKJo_cCQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🏖️مناظر طبيعية",Dream Música Live 4k🏖️
-https://hls.youtb.workers.dev/channel/UCpLow10iz3-cofN_570bwPQ.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="أطفال Children",أطفال
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",كيف احصل على الكود
@@ -4687,12 +4681,9 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Amou Yazid Tofola TV
 http://185.236.229.117:8000/play/a01d
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Toyor Aljanah
-https://hls.youtb.workers.dev/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Toyor Aljanah
 http://185.236.229.50:8002/play/a030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="أطفال Children",SPACETOON
@@ -6044,8 +6035,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Jvhm55" group-title="سوريةSyria",قناة مسك
-https://hls.youtb.workers.dev/channel/UCrvsAwtrxZ0q31yU9JEBdWA.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
@@ -6727,12 +6716,9 @@ http://185.236.229.50:8002/play/a047
 http://185.236.229.50:8002/play/a03f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="تونسTUNISIE",ZAYTOONA
 http://185.236.229.50:8002/play/a03d
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="تونسTUNISIE",Watania 1 🇹🇳
-https://hls.youtb.workers.dev/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kZUVuP" group-title="تونسTUNISIE",Watania 2 🇹🇳
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kZUVuP" group-title="تونسTUNISIE",Watania 2 🇹🇳
-https://hls.youtb.workers.dev/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
@@ -6807,8 +6793,6 @@ https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="ليبياLIBYA",Libya alhadath
 http://82.212.74.100:8000/live/hls/8103.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW5rmPcXSw-kif9bmIKpcOPCepc0tcbeiEBnn-y=s900-c-k-c0x00ffffff-no-rj" group-title="ليبياLIBYA",LIB-قناة التناصح الفضائية🇱🇾
-https://hls.youtb.workers.dev/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA SPORT 1 HD
 http://149.100.11.252:8020/play/a046
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبياLIBYA",LIBYA 218
@@ -6869,8 +6853,6 @@ http://194.37.92.14:12000/play/a0di
 http://194.37.92.14:12000/play/a0d6
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="موريتانيةMauritanie",موريتانيةMauritanie
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",قناة الموريتانية
-https://hls.youtb.workers.dev/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",قناة الموريتانية
 http://194.37.92.14:12000/play/a06h
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",ALMOURABITOUNE
@@ -7093,8 +7075,6 @@ http://82.212.74.5:8000/live/hls/7728.m3u8
 http://95.216.180.111:1935/live/46/chunklist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/nhGnJp8F/image1.png",Al Ghad Almoshrek 🇾🇪
 http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bNDJlO0.png" group-title="🇾🇪اليمن Yemen",Belqees TV 🇾🇪
-https://hls.youtb.workers.dev/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇾🇪اليمن Yemen",Aden Almustakilla
 http://185.236.229.50:8002/play/a03h
 
