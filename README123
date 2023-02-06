@@ -106,7 +106,11 @@ http://167.172.17.19/SSC3/tracks-v1a1/mono.m3u8
 http://167.172.17.19/SSC4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 5
 http://167.172.17.19/SSC5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="" group-title="SSC SPORT",SSC Extra 2
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 1
+http://167.172.17.19/SSCEXTRA1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 2
+http://167.172.17.19/SSCEXTRA2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 2
 http://194.37.92.14:12000/play/a0bs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
