@@ -1120,13 +1120,11 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam🇱🇧
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",aliman🇱🇧
-https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Aliman TV🇱🇧
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DKF5up" group-title="لبنانLEBANON",aliman🇱🇧
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN🇱🇧
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HDxMpM" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",NBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Al Wifak🇱🇧
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
@@ -1134,22 +1132,24 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 https://live1.presstv.ir/live/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",ALJADEED TV HD
-http://194.37.92.14:12000/play/a09a
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International HD
-http://194.37.92.14:12000/play/a099
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN HD
-http://194.37.92.14:12000/play/a09c
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",MTV Lebanon HD
-http://194.37.92.14:12000/play/a021
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",One HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HDxMpM" group-title="لبنانLEBANON",One HD
 http://194.37.92.14:12000/play/a09f
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV HD
+#EXTINF:-1 tvg-id="" tvg-name="LBN: LBC INTERNATIONAL" tvg-logo="http://pro.netmos.ovh/img/LBC.INTERNATIONAL.png" group-title="لبنانLEBANON",LBN: LBC INTERNATIONAL
+http://194.37.92.14:12000/play/a099
+#EXTINF:-1 tvg-id="" tvg-name="LBN: OTV" tvg-logo="http://pro.netmos.ovh/img/OTV.png" group-title="LEBANON",LBN: OTV
 http://194.37.92.14:12000/play/a09b
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Teleliban TV
+#EXTINF:-1 tvg-id="" tvg-name="LBN: JADEED HD" tvg-logo="http://pro.netmos.ovh/img/AlJadeedTV.png" group-title="لبنانLEBANON",LBN: JADEED HD
+http://194.37.92.14:12000/play/a09a
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",LBN: NBN
+http://194.37.92.14:12000/play/a09c
+#EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON
 http://194.37.92.14:12000/play/a0d4
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Teleliban TV
+#EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON
 http://194.37.92.14:12000/play/a0bu
+#EXTINF:-1 tvg-id="" tvg-name="LBN: MTV HD" tvg-logo="http://pro.netmos.ovh/img/MTV.LIBAN.png" group-title="لبنانLEBANON",LBN: MTV HD
+http://194.37.92.14:12000/play/a021
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",🇵🇸كيف احصل على الكود
