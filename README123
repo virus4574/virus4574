@@ -112,8 +112,6 @@ http://167.172.17.19/SSC5/tracks-v1a1/mono.m3u8
 http://167.172.17.19/SSCEXTRA1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 2
 http://167.172.17.19/SSCEXTRA2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 2
-http://194.37.92.14:12000/play/a0bs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
@@ -122,8 +120,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed SD
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="" group-title="SSC SPORT",SSC7
-http://194.37.92.14:12000/play/a0bs
+
 
 #EXTINF:-1 tvg-id="ext" group-title="مصارعه حره WWE",WWE
 https://bit.ly/3xYLaRh
@@ -415,16 +412,6 @@ http://149.100.11.252:8019/play/a01b
 #EXTINF:-1 tvg-id="" tvg-name="EG: ART HEKAYAT 2" tvg-logo="http://pro.netmos.ovh/img/arthekayat2.png" group-title="باقة art",ART HEKAYAT 2
 http://149.100.11.252:8019/play/a01c
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="قنوات Almajd",Almajd 01
-http://194.37.92.14:12000/play/a05f
-#EXTINF:0 tvg-id="ext" group-title="قنوات Almajd",Almajd 02
-http://194.37.92.14:12000/play/a05g
-#EXTINF:0 tvg-id="ext" group-title="قنوات Almajd",Almajd 03
-http://194.37.92.14:12000/play/a05h
-#EXTINF:0 tvg-id="ext" group-title="قنوات Almajd",Almajd 04
-http://194.37.92.14:12000/play/a05i
-
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies English ",AMC East (720p)
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
@@ -592,8 +579,6 @@ https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰
 http://146.19.16.201:8001/play/a031
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3E8oKz0" group-title="📰الاخبارNEWS",RT ARABIC HD📰+
-http://194.37.92.14:12000/play/a01r
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="📰الاخبارNEWS",France 24 Arabic📰
 http://95.216.180.111:1935/live/26/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="الوثائقية documentary",الوثائقية documentary🏞️
@@ -1986,53 +1971,7 @@ https://edge.taghtia.com/sa/13.m3u8
 https://edge.taghtia.com/sa/14.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z2GN96" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة جدة
 https://edge.taghtia.com/sa/15.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 01
-http://194.37.92.14:12000/play/a0c3
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 02
-http://194.37.92.14:12000/play/a0c4
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 03
-http://194.37.92.14:12000/play/a0c5
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 04
-http://194.37.92.14:12000/play/a0c6
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 05
-http://194.37.92.14:12000/play/a0c7
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 06
-http://194.37.92.14:12000/play/a0c8
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 07
-http://194.37.92.14:12000/play/a0c9
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 08
-http://194.37.92.14:12000/play/a0ca
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 09
-http://194.37.92.14:12000/play/a0cb
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 10
-http://194.37.92.14:12000/play/a0cc
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 11
-http://194.37.92.14:12000/play/a0cd
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 12
-http://194.37.92.14:12000/play/a0ce
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 13
-http://194.37.92.14:12000/play/a0cg
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 14
-http://194.37.92.14:12000/play/a0ch
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 15
-http://194.37.92.14:12000/play/a0ci
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 16
-http://194.37.92.14:12000/play/a0cj
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 17
-http://194.37.92.14:12000/play/a0ck
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 18
-http://194.37.92.14:12000/play/a0cl
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 19
-http://194.37.92.14:12000/play/a0cm
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 20
-http://194.37.92.14:12000/play/a0cn
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 21
-http://194.37.92.14:12000/play/a0co
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 22
-http://194.37.92.14:12000/play/a0cp
-#EXTINF:0 tvg-id="ext" group-title="🇸🇦السعودية Saudi-Arabia",iEN Doros 23
-http://194.37.92.14:12000/play/a0cq
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="🇦🇪الامارات EMIRATES",الامارات EMIRATES 🇦🇪
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇦🇪الامارات EMIRATES",🇦🇪كيف احصل على الكود
