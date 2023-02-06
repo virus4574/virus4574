@@ -1157,7 +1157,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ngg0uF" group-title="🇵🇸فلسطينPALESTINE",🇵🇸وكـالـة مـعـا الاخـبـارية
 http://htvmada.mada.ps:8888/maannews/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="🇵🇸فلسطينPALESTINE",AWDAH TV🇵🇸
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gCrKMl" group-title="🇵🇸فلسطينPALESTINE",Hettin🇵🇸
 https://live.hettin.tv/stream/hls/hettin.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="🇵🇸فلسطينPALESTINE",PAL-Rajeen TV🇵🇸
@@ -1169,7 +1169,7 @@ http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine HD🇵🇸
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="🇵🇸فلسطينPALESTINE",PAL-Musawa tv🇵🇸
-http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="🇵🇸فلسطينPALESTINE",PAL-Musawa tv HD🇵🇸
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine live🇵🇸
@@ -1210,9 +1210,11 @@ http://9090video.mobtada.com:1935/live/9090ONLINE/h.o.s.s.a.m.RADIO.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i.ibb.co/dLyP0JK/WWW.png", 🇵🇸تلفزيون حكاية
 http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://png.pngtree.com/templates/md/20180527/md_5b0a4140b468a.jpg" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://png.pngtree.com/templates/md/20180527/md_5b0a4140b468a.jpg" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="🇯🇴الاردنJORDAN",Roya TV FHD🇯🇴
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
