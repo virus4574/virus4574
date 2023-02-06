@@ -174,34 +174,10 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="RMC SPORT",BEIN SPORT 1 FRANCE⚽️
-http://warkop.cf/80/bein/14.m3u8
-#EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="RMC SPORT",BEIN SPORT 2 FRANCE⚽️
-http://warkop.cf/80/bein/15.m3u8
-#EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="RMC SPORT",BEIN SPORT 3 FRANCE⚽️
-http://warkop.cf/80/bein/16.m3u8
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 1 HD⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199117
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 1⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199116
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 2 HD⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199115
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 2⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199114
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 3⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199113
-#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 4⚽️
-http://txm.flysat.live:2089/152087208243161/152003418536112/199112
-
 #EXTINF:-1 tvg-id="ext" group-title="VIP SPORT EUR",VIP SPORT EUR⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="VIP SPORT EUR",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-
 #EXTM3U
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",Eurosport 1
 http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
