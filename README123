@@ -7141,8 +7141,6 @@ https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 http://uk3.internet-radio.com:8011/stream
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurd Channel HD
 https://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH",afarin KidsTV
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",KTV KURDI
@@ -7155,10 +7153,6 @@ http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
 http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Knn
 http://knntv.ddns.net:40/live/knn/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",K24 HD
-http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Chaw HD
-http://baskhd.ddns.net:40/live/chawhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN documentary ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radiofarsy ᴴᴰ
@@ -7179,6 +7173,8 @@ http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Afarin Kids ᴴᴰ
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",AFARIN KIDS
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",WAAR TV HD
 https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
 #EXTINF:0 tvg-id="ATV.am" group-title="KURDISH",ATV HD
@@ -7233,14 +7229,8 @@ http://baghdad.zinamedia.net/ku/live-Tom-Jerry/video.m3u8
 http://seetvlivee.badinan.xyz:1935/private/HelhelokTV-Kids/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",SHAKROK TV
 http://161.97.142.119:8080/hls/shakroktv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",AFARIN KIDS
-https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Mihrab TV
-http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask TV
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Zagros TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurdi Tv
 http://baskhd.ddns.net:40/live/ShowTV/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Zayala TV
@@ -7249,8 +7239,6 @@ https://cdn1.karwan.tv/zayala-tv/tracks-v1a1/mono.m3u8
 https://cdn1.karwan.tv/ifinity-tv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Kanal 21
 http://k21hd.mypsx.net:40/live/KANALI/chunklist_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kanal 21
-http://baskhd.ddns.net:40/live/ShowTV/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MED MUZIK
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",TRT KURDI TV
@@ -7261,10 +7249,6 @@ http://198.100.158.231:1935/live/nrt2/playlist.m3u8
 http://198.100.158.231:1935/live/nettv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Erbil TV
 http://erbiltv.ddns.net:1935/live/ErbilTv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",GALI KURDSTAN TV
-https://live.bradosti.net/live/GaliKurdistan/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",KURDSAT TV
-http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",KNN TV
 http://knntv.ddns.net:40/live/knn/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Halabja TV
