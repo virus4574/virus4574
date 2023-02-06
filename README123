@@ -7124,8 +7124,6 @@ http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklis
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ava Entertainment
 http://server.sibfungold.info:8080/live/FahdAllmania/Ut1nidIR@nidIR/53069.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 Kurd
-http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH",sterktv
 http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Au0ZzV"tvg-country="IQ"tvg-url="" group-title="KURDISH",4 kurd
@@ -7153,6 +7151,8 @@ http://baskhd.ddns.net:40/live/MihrabTV/chunklist.m3u8
 http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Knn
 http://knntv.ddns.net:40/live/knn/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",DUHOK TV
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN documentary ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radiofarsy ᴴᴰ
@@ -7265,7 +7265,6 @@ http://cdn1.karwan.tv/esra-tv-1/index.m3u8
 http://cdn1.karwan.tv/spi-quran/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Spi TV
 http://cdn1.karwan.tv/spi-tv/index.m3u8
-
 
 #EXTINF:-1 tvg-id="ext" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
