@@ -37,6 +37,10 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",beIN SPORTS
 http://194.37.92.14:12000/play/a0da
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة HD
+https://mo3ad@vsd74.mycdn.me/hls/1442177223195.m3u8/sig/XKUfVGw-h_0/expires/1675687576072/srcIp/196.119.110.31/urls/45.136.20.46/clientType/0/srcAg/CHROME_ANDROID/mid/2993023032859/1442177223195_high/index.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD
+https://mo3ad@vsd74.mycdn.me:443/hls/1442177223195.m3u8/sig/XKUfVGw-h_0/expires/1675687576072/srcIp/196.119.110.31/urls/45.136.20.46/clientType/0/srcAg/CHROME_ANDROID/mid/2993023032859/1442177223195_medium/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS 1 PREMIUM 🇶🇦
 
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",beIN SPORTS 2 PREMIUM 🇶🇦
@@ -1522,6 +1526,19 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC News
 https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 1
+https://ssc-1-ak.akamaized.net/out/v1/f58b632a8f914474965044251a9800a8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 1
+http://167.172.17.19/SSC1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 2
+http://167.172.17.19/SSC2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 3
+http://167.172.17.19/SSC3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 4
+http://167.172.17.19/SSC4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 5
+http://167.172.17.19/SSC5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
