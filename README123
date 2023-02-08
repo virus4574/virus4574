@@ -126,7 +126,6 @@ http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_7.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 7 🇶🇦++
 http://62.182.82.104/BEIN_SPORT_7_HD/index.m3u8?token=test&v=1673204766768
 
-
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/XJhUZeH.png",[$]BEIN SPORTS NEWS HD⚽️
 http://194.37.92.14:12000/play/a0db
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein 1
@@ -144,16 +143,16 @@ http://warkop.cf/80/bein/10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra⚽️
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I8TSlw" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="بين سبور BEIN SPORT VIP",⚽️كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I8TSlw" group-title="بين سبور BEIN SPORT VIP",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:0 tvg-id="ext" group-title="بين سبور BEIN SPORT VIP",النسخة المدفوعة AirMax TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I8TSlw" group-title="بين سبور BEIN SPORT VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 
-#EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SPORT CHANNELS
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",كيف احصل على الكود
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 1
