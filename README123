@@ -146,6 +146,11 @@ http://88.99.216.157:5080/WebRTCApp/streams/SSC3.m3u8
 http://88.99.216.157:5080/WebRTCApp/streams/SSC4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC•5
 http://88.99.216.157:5080/WebRTCApp/streams/SSC5.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC Extra 1
+http://88.99.216.157:5080/WebRTCApp/streams/SSC1_Extra.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC Extra 1
+http://88.99.216.157:5080/WebRTCApp/streams/SSC2_Extra.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC•1
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC•2
