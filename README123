@@ -2751,6 +2751,8 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT 1 FHD
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ATV UHD
+https://59c7ea6bec1c6.streamlock.net/filboxlive/atv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ATV UHD
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ATV UHD
 http://195.142.1.211:4022/udp/224.2.2.19:10001
@@ -2766,6 +2768,8 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",FOX TV HD
+https://59c7ea6bec1c6.streamlock.net/filboxlive/foxtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",FOX TV HD
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",FOX TV HD
