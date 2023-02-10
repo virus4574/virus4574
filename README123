@@ -108,6 +108,21 @@ http://warkop.cf/80/bein/10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra⚽️
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
+
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS XTRA 1HD
+http://87.120.36.196:28888/udp/239.17.1.26:1234
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS XTRA 2HD
+http://87.120.36.196:28888/udp/239.17.1.27:1234
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS PREMIUM 1HD
+http://87.120.36.196:28888/udp/239.17.1.97:1234
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS PREMIUM 2HD
+http://87.120.36.196:28888/udp/239.17.1.98:1234
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS PREMIUM 3HD
+http://87.120.36.196:28888/udp/239.17.1.99:1234
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS NBA HD
+http://87.120.36.196:28888/udp/239.17.1.100:1234
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title=بين سبور BEIN SPORT VIP",⚽️كيف احصل على الكود
