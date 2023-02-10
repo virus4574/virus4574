@@ -1262,12 +1262,14 @@ https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.postimg.cc/CMkSy1Pq/siAiiws.jpg" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv SD🇯🇴
-https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_480p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv 🇯🇴
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="🇯🇴الاردنJORDAN",ALmamlka TV SD🇯🇴
 https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
+https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="🇯🇴الاردنJORDAN",ALmamlka TV 🇯🇴
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPbcDI" group-title="🇯🇴الاردنJORDAN",Jawhara FM🇯🇴
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
