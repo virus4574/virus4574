@@ -182,17 +182,6 @@ http://77.207.0.25:4000/play/a033
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",RMC SPORT 3 FR
 http://77.207.0.25:4000/play/a03y
 
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",⚽RMC•Sport•1_FHD⚽
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2808&extension=ts&play_token=IqnJp0hGLf
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",⚽RMC•SPORT•2_FHD⚽
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2810&extension=ts&play_token=CCeUyoMoHe
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",⚽RMC•SPORT•3_FHD⚽
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2812&extension=ts&play_token=SIJWlGm92o
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",⚽RMC•SPORT•4_FHD⚽
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=2815&extension=ts&play_token=0SWd5Ozroh
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",⚽RMC•SPORT•5_FHD⚽
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=58388&extension=ts&play_token=z0kKwB8jRa
-
 #EXTINF:-1  tvg-logo="" group-title="ZiggoSport NL⚽",ZiggoSport~Docu
 http://82.197.214.59:4002/play/a033/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="ZiggoSport NL⚽",ZiggoSport~Golf
