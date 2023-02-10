@@ -1419,55 +1419,6 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",,Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ABC TV
-http://149.100.11.252:8020/play/a03o
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL Oula HD
-http://149.100.11.252:8020/play/a043
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
-http://149.100.11.252:8020/play/a049
-#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
-http://149.100.11.252:8020/play/a04a
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
-http://149.100.11.252:8020/play/a04c
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Dolly Cinema
-http://149.100.11.252:8020/play/a03v
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Dolly Drama
-http://149.100.11.252:8020/play/a03u
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Dolly Mosalsalat
-http://149.100.11.252:8020/play/a03w
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Musawa HD
-http://149.100.11.252:8020/play/a03y
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nedjma TV
-http://149.100.11.252:8020/play/a050
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Cinema
-http://149.100.11.252:8020/play/a04l
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Comedy
-http://149.100.11.252:8020/play/a04g
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
-http://149.100.11.252:8020/play/a045
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Drama
-http://149.100.11.252:8020/play/a04i
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
-http://149.100.11.252:8020/play/a044
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Life
-http://149.100.11.252:8020/play/a04h
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News
-http://149.100.11.252:8020/play/a04f
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile News HD
-http://149.100.11.252:8020/play/a04k
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Sport
-http://149.100.11.252:8020/play/a04j
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
-http://149.100.11.252:8020/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON E HD
-http://149.100.11.252:8020/play/a04o
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
-http://149.100.11.252:8020/play/a04p
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
-http://149.100.11.252:8020/play/a04q
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
-http://149.100.11.252:8020/play/a04n
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
@@ -1578,8 +1529,6 @@ http://217.182.137.206/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" group-title="🇹🇳تونسTUNISIE",🇹🇳الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇳تونسTUNISIE",ZAYTOONA🇹🇳
-http://149.100.11.252:8020/play/a03l
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia Educ 1🇹🇳
 http://185.236.229.117:8000/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia NAT 1🇹🇳
@@ -1611,8 +1560,6 @@ https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya alhadath🇱🇾
 http://82.212.74.100:8000/live/hls/8103.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD🇱🇾
-http://149.100.11.252:8020/play/a046
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
