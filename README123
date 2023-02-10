@@ -1119,8 +1119,13 @@ https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 https://ikomg1.s.llnwi.net/alyaum-tv/stream_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما
 http://162.55.32.203:1935/live/smil:mystream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="سوريةSyria" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV
+http://157.90.243.220:1935/live/_definst_/smil:mystream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="سوريةSyria" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV+
+http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام
@@ -1143,6 +1148,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3YI6iGv" group-title="لبنانLEBANON",Al Ittihad🇱🇧
 http://95.216.180.111:1935/live/30/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3YI6iGv" group-title="لبنانLEBANON",Al Ittihad🇱🇧
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
@@ -1151,8 +1158,6 @@ http://95.216.180.111:1935/live/43/chunklist.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD🇱🇧
 http://95.216.180.111:1935/live/66/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="لبنانLEBANON",LBN-ALWIFAK TV SD🇱🇧
-https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD🇱🇧
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3G6lSTW" group-title="لبنانLEBANON",Nabaa TV🇱🇧
