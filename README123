@@ -153,6 +153,8 @@ http://167.172.17.19/SSCEXTRA1/index.m3u8
 http://167.172.17.19/SSCEXTRA2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3JMCfcp" group-title="SSC SPORT",AD Sports Premium 1 HD
 http://103.145.13.31/13/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3JMCfcp" group-title="SSC SPORT",AD Sports Premium 1 HD
+http://103.145.13.31/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3JMCfcp" group-title="SSC SPORT",AD Sports Premium 2 HD
 http://103.145.13.31/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3JMCfcp" group-title="SSC SPORT",AD Sports Premium 2 SD
@@ -221,21 +223,20 @@ https://bit.ly/34ooolI
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTM3U
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",Eurosport 1
-http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",Eurosport 2
-http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_1
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/4PjvXZb.png",[$]DAZN 1HD
 http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_2
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Lymel4H.png",[$]DAZN 2HD
 http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_3
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/b5GzLy7.png",[$]DAZN 3HD
 http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_4
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/MbWl6zI.png",[$]DAZN 4HD
 http://51.178.36.235:49214/DAZN_4/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="",DAZN_F1
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/SS2j0Bf.png",[$]DAZN F1HD
 http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1ES
+http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2ES
+http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
 
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
 http://93.155.227.38:555/m3u8/diamasporthd.m3u8
