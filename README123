@@ -1121,8 +1121,6 @@ https://ikomg1.s.llnwi.net/alyaum-tv/stream_2.m3u8
 http://162.55.32.203:1935/live/smil:mystream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="سوريةSyria" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV
 http://157.90.243.220:1935/live/_definst_/smil:mystream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="سوريةSyria" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV+
-http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 
@@ -1375,9 +1373,12 @@ http://95.216.180.111:1935/live/67/index.m3u8
 http://95.216.180.111:1935/live/118/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HASo1Q" group-title="🇮🇶العراق IRAQ",عراق المستقبل
 https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RRrffV" group-title="🇮🇶العراق IRAQ",قناة النجباء الفضائية 🇮🇶
+https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HH92Nc" group-title="🇮🇶العراق IRAQ",12Arabia
 http://149.62.177.114:8000/play/a032/index.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
+https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
