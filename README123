@@ -63,6 +63,34 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein6.m3u8
 http://88.99.216.157:5080/WebRTCApp/streams/Bein7.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/XJhUZeH.png",[$]BEIN SPORTS NEWS HD⚽️
 http://194.37.92.14:12000/play/a0db
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",BeinSports Premium 1 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein11_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS", BeinSports Premium 2 (ARB)
+
+##EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS", BeinSports Premium 3 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein1_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 1 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein1_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 2 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein2_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 3 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein3_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 4 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein4_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 5 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein5_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/SPORTS_6-1.png" group-title="BEIN SPORTS",BeinSports 6 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein6_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 7 (ARB)
+http://54.37.82.205:8081/liveorigin/hd-bein7_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 1 (EN)
+http://54.37.82.205:8081/liveorigin/hd-bein11_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 2 (EN)
+http://54.37.82.205:8081/liveorigin/hd-bein12_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 3 (EN)
+http://54.37.82.205:8081/liveorigin/hd-bein13_480/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein 1
 http://warkop.cf/89/bein/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein 2
