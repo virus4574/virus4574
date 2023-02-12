@@ -274,15 +274,15 @@ http://162.19.67.213:49214/INFOSPORT_PLUS/hls/playlist.m3u8
 http://162.19.67.213:49214/EUROSPORT_1/hls/playlist.m3u8
 #EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
 http://162.19.67.213:49214/EUROSPORT_2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",BEIN SPORTS 1 HD FR
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://77.207.0.25:4000/play/a03m
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",BEIN SPORTS 2 HD FR
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
 http://77.207.0.25:4000/play/a03n
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",RMC SPORT 1 FR
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/yAXBr0H.png",[$]RMC SPORT 1HD
 http://77.207.0.25:4000/play/a038
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",RMC SPORT 2 FR
-http://77.207.0.25:4000/play/a033
-#EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",RMC SPORT 3 FR
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/j9yfbc1.png",[$]RMC SPORT 2HD
+http://77.207.0.25:4000/play/a038
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/STqxt5f.png",[$]RMC SPORT 3HD
 http://77.207.0.25:4000/play/a03y
 
 
