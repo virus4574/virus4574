@@ -241,6 +241,34 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="RMC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD 
+http://162.19.67.213:49214/BEIN_SPORTS_1/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://162.19.67.213:49214/BEIN_SPORTS_2/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://162.19.67.213:49214/BEIN_SPORTS_3/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD 
+http://162.19.67.213:49214/BEIN_SPORTS_1/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://162.19.67.213:49214/BEIN_SPORTS_2/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://162.19.67.213:49214/BEIN_SPORTS_3/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/JkhZpZU.png",[$]+SPORT HD
+http://162.19.67.213:49214/CANAL_PLUS_SPORT/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/eKtJ4tC.png",[$]CANAL+ FORMULA 1HD
+http://162.19.67.213:49214/CANAL_PLUS_FORMULA1/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/eyGL2GZ.png",[$]CANAL+ PREMIER LEAGUE HD
+http://162.19.67.213:49214/CANAL_PLUS_PREMIER_LEAGUE/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/yjaPx4P.png",[$]CANAL+ MOTOGP HD
+http://162.19.67.213:49214/CANAL_PLUS_MOTOGP/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/0qCeBki.png",[$]L'EQUIPE
+http://162.19.67.213:49214/L_EQUIPE/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/XnXfQgH.png",[$]INFOSPORT+ HD
+http://162.19.67.213:49214/INFOSPORT_PLUS/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
+http://162.19.67.213:49214/EUROSPORT_1/hls/playlist.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
+http://162.19.67.213:49214/EUROSPORT_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",BEIN SPORTS 1 HD FR
 http://77.207.0.25:4000/play/a03m
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",BEIN SPORTS 2 HD FR
