@@ -165,6 +165,29 @@ http://54.37.82.205:8081/liveorigin/hd-bein12_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 3 (EN)
 http://54.37.82.205:8081/liveorigin/hd-bein13_480/playlist.m3u8
 
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEIN SPORTS",beIN Sports 1 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6123/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORTS",beIN Sports 3 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6124/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEIN SPORTS",beIN Sports 4 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6125/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEIN SPORTS",beIN Sports 5 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6126/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORTS",beIN Sports 6 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6127/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORTS",beIN Sports 7 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6128/index.m3u8
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEIN SPORTS",beIN Sports 8 HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6129/index.m3u8
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="BEIN SPORTS",beIN Sports 2 Premium HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6130/index.m3u8
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="BEIN SPORTS",beIN Sports 1 Premium HD QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6131/index.m3u8
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="BEIN SPORTS",beIN Sports 1 HD EN
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6132/index.m3u8
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="BEIN SPORTS",beIN Sports 2 HD EN
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6133/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title=بين سبور BEIN SPORT VIP",⚽️كيف احصل على الكود
@@ -570,6 +593,32 @@ https://bit.ly/3xYLaRh
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة NETFLIX",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="beINMovies2Action.qa" group-title="Bein MEDIA1",beIN Movies HD2 ACTION
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6134/index.m3u8
+#EXTINF:0 tvg-id="beINMovies3Drama.qa" group-title="Bein MEDIA1",beIN Movies HD3 DRAMA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6135/index.m3u8
+#EXTINF:0 tvg-id="beINMovies4Family.qa" group-title="Bein MEDIA1",beIN Movies HD4 FAMILY
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6136/index.m3u8
+#EXTINF:0 tvg-id="beINDrama.qa" group-title="Bein MEDIA1",beIN Drama QA
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6137/index.m3u8
+#EXTINF:0 tvg-id="beJunior.qa" group-title="Bein MEDIA1",beIN Junior
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6140/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIA1",beIN DTX
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6143/index.m3u8
+#EXTINF:0 tvg-id="beINGourmet.qa" group-title="Bein MEDIA1",beIN Groummet
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6141/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein MEDIA1",beIN Outdoor
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6139/index.m3u8
+#EXTINF:0 tvg-id="Fatafeat.qa" group-title="Bein MEDIA1",beIN Fatafeat
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6142/index.m3u8
+#EXTINF:0 tvg-id="FoxFamilyMovies.qa" group-title="Bein MEDIA1",beIN Fox Movies HD
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6145/index.m3u8
+#EXTINF:0 tvg-id="FXHDBlack.qa" group-title="Bein MEDIA1",beIN FX MOVIES HD
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6144/index.m3u8
+#EXTINF:0 tvg-id="beINSeries1.qa" group-title="Bein MEDIA1",beIN Series HD 1
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6138/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Bein MEDIA",▂ ▄ ▅ ▆☆ Bein MEDIA ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
