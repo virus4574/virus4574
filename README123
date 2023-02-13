@@ -64,7 +64,6 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 7 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein7.m3u8
 
-
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD 
 http://167.172.17.19/BeinPremuim1HD/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD 
@@ -142,6 +141,7 @@ http://54.37.82.205:8081/liveorigin/hd-bein10_480/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS", BeinSports Premium 3 (ARB)
 http://54.37.82.205:8081/liveorigin/hd-bein1_480/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 1 (ARB)
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS", BeinSports 2 (ARB)
@@ -720,13 +720,6 @@ https://cdxaws-ak.akamaized.net/v1/channel/Style_/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/shahid/Masr.png" group-title="باقة شاهد الأصلية",Masr
 https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد نت",▂ ▄ ▅ ▆☆ باقة شاهد نت ☆▆ ▅ ▄ ▂ ▁
@@ -1895,6 +1888,8 @@ https://bit.ly/3xYLaRh
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="🇧🇭البحرين Bahrain",Bahrain Sports 1🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="🇧🇭البحرين Bahrain",Bahrain Sports 1🇧🇭
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="🇧🇭البحرين Bahrain",Bahrain Sports 2🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/OPw6U7j.jpg" group-title="🇧🇭البحرين Bahrain",Bahrain Quran🇧🇭
