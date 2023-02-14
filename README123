@@ -1185,6 +1185,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action SD
 https://epg.pw/stream/8cfed6b6a322b1daaf8758e64a079952e81065e8455dc13b49d95dc5b99b5d83.ctv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RXIjkm" group-title="أم بي سيMBC",|MBC| max SD
+https://epg.pw/stream/68db52d23db0e5c6cceecb4baa5d1e8679ec66049f87ce8e16037fea65972afe.ctv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QeYubR" group-title="أم بي سيMBC",|MBC| Panorama SD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.almrsal.com/wp-content/uploads/2015/08/zdrseedk.com_.jpg" group-title="أم بي سيMBC",|MBC| زد-رصيدك SD
@@ -1199,6 +1201,8 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="أم بي سيMBC",|MBC| Action FHD
 https://epg.pw/stream/8cfed6b6a322b1daaf8758e64a079952e81065e8455dc13b49d95dc5b99b5d83.ctv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RXIjkm" group-title="أم بي سيMBC",|MBC| max FHD
+https://epg.pw/stream/bcf5c172956903a6580764c06a0ecf498e09a546474e9da23e6abaf8a09cde77.ctv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="أم بي سيMBC",|MBC| Iraq FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="أم بي سيMBC",|MBC| Masr FHD
@@ -1272,7 +1276,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="أم بي سيMBC",MY-MBC IRAQ 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="أم بي سيMBC",MY-MBC ACTION 
-https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index.m3u8
+https://epg.pw/stream/8cfed6b6a322b1daaf8758e64a079952e81065e8455dc13b49d95dc5b99b5d83.ctv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="أم بي سيMBC",MY-MBC Bolleywod 
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg" group-title="أم بي سيMBC",MY-MBC Drama 
