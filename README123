@@ -364,46 +364,6 @@ https://bit.ly/34ooolI
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/4PjvXZb.png",[$]DAZN 1HD
-http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Lymel4H.png",[$]DAZN 2HD
-http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/b5GzLy7.png",[$]DAZN 3HD
-http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/MbWl6zI.png",[$]DAZN 4HD
-http://51.178.36.235:49214/DAZN_4/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/SS2j0Bf.png",[$]DAZN F1HD
-http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1ES
-http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2ES
-http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
-
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
-http://93.155.227.38:555/m3u8/diamasporthd.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/FYTGoig.png",[$]DIEMA SPORT 2HD
-http://93.155.227.38:555/m3u8/diemasport2hd.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/GeHtpHs.png",[$]DIEMA SPORT 3HD
-http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/myHlQ53.png",[$]RING HD
-http://93.155.227.38:555/m3u8/ringbghd.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Ot3OwUb.png",[$]MAX SPORT 1HD
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/4k1yFMJ.png",[$]MAX SPORT 2HD
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/5x6O7O4.png",[$]MAX SPORT 3HD
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/yQkiW9M.png",[$]MAX SPORT 4HD
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/roSYks4.png",[$]ARENA SPORT 1HD
-http://93.155.227.38:555/m3u8/arenasport1.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/8Y17J1X.png",[$]ARENA SPORT 2HD
-http://93.155.227.38:555/m3u8/arenasport2.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/6HVRUZ3.png",[$]ARENA SPORT 3HD
-http://93.155.227.38:555/m3u8/arenasport3.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/UF2jsNa.png",[$]ARENA SPORT 4HD
-http://93.155.227.38:555/m3u8/arenasport4.m3u8
-
 #EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 1
 http://195.154.179.234:1234/stream/btsport1/master.m3u8
 #EXTINF:0 tvg-id="BTSport2.uk" group-title="VIP SPORT EUR",BT Sport 2
@@ -432,7 +392,30 @@ http://195.154.179.234:1234/stream/skyspnfl/master.m3u8
 http://195.154.179.234:1234/stream/skysppremier/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkySpRecing
 http://195.154.179.234:1234/stream/skysprecing/master.m3u8
-
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
+http://93.155.227.38:555/m3u8/diamasporthd.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/FYTGoig.png",[$]DIEMA SPORT 2HD
+http://93.155.227.38:555/m3u8/diemasport2hd.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/GeHtpHs.png",[$]DIEMA SPORT 3HD
+http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/myHlQ53.png",[$]RING HD
+http://93.155.227.38:555/m3u8/ringbghd.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Ot3OwUb.png",[$]MAX SPORT 1HD
+http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/4k1yFMJ.png",[$]MAX SPORT 2HD
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/5x6O7O4.png",[$]MAX SPORT 3HD
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/yQkiW9M.png",[$]MAX SPORT 4HD
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/roSYks4.png",[$]ARENA SPORT 1HD
+http://93.155.227.38:555/m3u8/arenasport1.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/8Y17J1X.png",[$]ARENA SPORT 2HD
+http://93.155.227.38:555/m3u8/arenasport2.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/6HVRUZ3.png",[$]ARENA SPORT 3HD
+http://93.155.227.38:555/m3u8/arenasport3.m3u8
+#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/UF2jsNa.png",[$]ARENA SPORT 4HD
+http://93.155.227.38:555/m3u8/arenasport4.m3u8
 
 #EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Bq7gTT0.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8?token=test
