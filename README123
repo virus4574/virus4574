@@ -1440,6 +1440,25 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 https://live1.presstv.ir/live/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3HYSoKr" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",aljadeed 4k
+https://epg.pw/stream/0dadc0fe97fd221299cf5450441561e7673c69b34840d8bead824c5d63638c3a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",jadeed hd
+https://epg.pw/stream/ee151bbbfd76331bf1d74f4b5141ce05c265db80ad0950bc7d887e27bd853aed.ctv
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://bit.ly/3YV3So1" group-title="لبنانLEBANON",tele lebanon5
+https://epg.pw/stream/5573f1e3f0b7b4e87c6d8f8a8a148b01ce848d20b4484e59cb23512b2f96e8ea.ctv
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="لبنانLEBANON",ldc lebanon hd +6h
+https://epg.pw/stream/807e793d398b830394e698b918d590c9e2a6741345917445d384c696a6b77e5c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="لبنانLEBANON",[SD]nbn (540p)
+https://epg.pw/stream/53d3e4afbdea44e31b9e669a8371c89d9fb44898607826bd13c73216ae5d202f.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="لبنانLEBANON",nbn
+https://epg.pw/stream/c5b01855f28d4263e324979b0583e3b67db684cf2bd47d6024d1c0b19c497188.ctv
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="لبنانLEBANON",NBN (540p)
+https://epg.pw/stream/ee81a87da3bae558a3a8935418c4e7822768164cce18092eeadbedf367dc6252.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="لبنانLEBANON",future
+https://epg.pw/stream/f1fb2b08b91812975f37ad059bdcf3b1275013e4660f8bf684244e2ec2edd5ff.ctv
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="لبنانLEBANON",hawacom
+https://epg.pw/stream/05d6e6952168af4b31e4d07205e2e83db8594c8b9b44b56e437fce6fcf38fe40.ctv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HDxMpM" group-title="لبنانLEBANON",One HD🇱🇧
 http://194.37.92.14:12000/play/a09f
 #EXTINF:-1 tvg-id="" tvg-name="LBN: LBC INTERNATIONAL" tvg-logo="http://pro.netmos.ovh/img/LBC.INTERNATIONAL.png" group-title="لبنانLEBANON",LBN: LBC INTERNATIONAL🇱🇧
