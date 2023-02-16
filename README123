@@ -45,8 +45,6 @@ http://bblive.ddns.net:8080/live/ldsport/ldsport/6939.m3u8
 http://217.74.16.163:9590/live/RAM-TV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 1 PREMIUM 🇶🇦+
-https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048736
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 2 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 3 PREMIUM 🇶🇦
@@ -67,25 +65,25 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein6.m3u8
 http://88.99.216.157:5080/WebRTCApp/streams/Bein7.m3u8
 
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD 
-http://167.172.17.19/BeinPremuim1HD/index.m3u8
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048736
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD 
-http://167.172.17.19/BeinPremuim2HD/index.m3u8
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://167.172.17.19/BeinPremuim3HD/index.m3u8
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD 
-http://167.172.17.19/BeinSports1HD/index.m3u8
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD 
-http://167.172.17.19/BeinSports2HD/index.m3u8
+
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD 
-http://167.172.17.19/BeinSports3HD/index.m3u8
+
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD 
-http://167.172.17.19/BeinSports4HD/index.m3u8
+
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD 
-http://167.172.17.19/BeinSports5HD/index.m3u8
+
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD 
-http://167.172.17.19/BeinSports6HD/index.m3u8
+
 #EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD 
-http://167.172.17.19/BeinSports7HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 1 PREMIUM++ 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
