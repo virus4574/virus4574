@@ -695,8 +695,8 @@ https://shls-live-ak.akamaized.net/out/v1/81153498b61444bfaef4ff09b55e55aa/index
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Malab/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",WWE
 https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",Turki
+https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة شاهد الأصلية",
 
 
@@ -1278,7 +1278,7 @@ https://ssc-1-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GyDd8A" group-title="روتانا ROTANA",Rotana Classic SD
 https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD
-https://ssc-1-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
+https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD
 https://rotanastudios-rotanaDrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q6ZeyO" group-title="روتانا ROTANA",LBC HD
@@ -1288,11 +1288,11 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnOi05" group-title="روتانا ROTANA",Rotana Comedy
 https://rotanastudios-rotanaComedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GuEuNG" group-title="روتانا ROTANA",Rotana Khalijia SD
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
+https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LXDK4T" group-title="روتانا ROTANA",Rotana Kids SD
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.taghtia.com/assets/channels/rotana.png" group-title="روتانا ROTANA",Rotana+ SD
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
+https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="روتانا ROTANA",MUS:AR-RADIO ROTANA
@@ -1304,15 +1304,15 @@ https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="روتانا ROTANA",Rotana Classic LOW
 https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD LOW
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_5.m3u8
+https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="روتانا ROTANA",Rotana Khalijia LOW
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_5.m3u8
+https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="روتانا ROTANA",Rotana Kids LOW
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="روتانا ROTANA",Rotana Music LOW
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="روتانا ROTANA",Rotana+ LOW
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_5.m3u8
+https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="روتانا ROTANA",Rotana Cinema 
 https://rotanacinema-egy-prod-dub-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="روتانا ROTANA",Rotana Cinema HD KSA 
@@ -1320,13 +1320,13 @@ https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="روتانا ROTANA",Rotana Classic 
 https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="روتانا ROTANA",Rotana Drama HD 
-https://ssc-1-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="روتانا ROTANA",Rotana Khalijia 
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="روتانا ROTANA",Rotana Kids 
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="روتانا ROTANA",Rotana+ 
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="سوريةSyria",سوريةSyria
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="سوريةSyria",كيف احصل على الكود
@@ -1351,13 +1351,20 @@ http://162.55.32.203:1935/live/smil:mystream1.smil/playlist.m3u8
 http://157.90.243.220:1935/live/_definst_/smil:mystream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريةSyria",Ettarbawiya التربوية
+http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية 
+http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
+http://vod.ortas.sy:1935/oLive/drama05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام 
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريةSyria",Ettarbawiya التربوية 
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا 
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="لبنانLEBANON",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
