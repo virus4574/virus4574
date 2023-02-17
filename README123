@@ -1018,6 +1018,8 @@ http://95.216.180.111:1935/live/67/index.m3u8
 https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",Duck TV
+https://mmm-ducktv-4-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="أطفال Children",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="ext" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="أطفال Children", PBS KIDS
@@ -1252,19 +1254,21 @@ http://194.37.92.14:12000/play/a01e
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="روتانا ROTANA",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="روتانا ROTANA",Rotana Cinema SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY7Ki9" group-title="روتانا ROTANA",Rotana Cinema SD
 https://rotanacinema-egy-prod-dub-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY7Ki9" group-title="روتانا ROTANA",Rotana Cinema المصدر الثاني
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY7Ki9" group-title="روتانا ROTANA",Rotana Cinema HD KSA SD
 https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GyDd8A" group-title="روتانا ROTANA",Rotana Classic SD
-https://ssc-1-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GyDd8A" group-title="روتانا ROTANA",Rotana Classic SD
 https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GyDd8A" group-title="روتانا ROTANA",Rotana Classic المصدر الثاني
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD
 https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lUVByP" group-title="روتانا ROTANA",Rotana Drama المصدر الثاني
 https://rotanastudios-rotanaDrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q6ZeyO" group-title="روتانا ROTANA",LBC HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.postimg.cc/cLWd6qH6/download-2.jpg" group-title="روتانا ROTANA",LBC HD
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JhpzrD" group-title="روتانا ROTANA",Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
