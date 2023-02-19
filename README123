@@ -241,6 +241,8 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/F6Ul4KU.png",SSC 1 🇸🇦
 http://103.145.13.31/12/index.m3u8
+#EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/F6Ul4KU.png",SSC 1 🇸🇦
+http://88.99.216.157:5080/WebRTCApp/streams/SSC1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 2 🇸🇦
 http://88.99.216.157:5080/WebRTCApp/streams/SSC2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 3 🇸🇦
@@ -265,6 +267,8 @@ http://103.145.13.31/7/index.m3u8
 #EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/0zOlyTo.png",STARZPLAY•SPORTS•HD 🇦🇪
 http://103.145.13.31/5/index.m3u8 
 
+#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 1+ 🇸🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 2+ 🇸🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 3+ 🇸🇦
@@ -1666,6 +1670,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBNR24" group-title="🇲🇦المغربMAROCCO",Medi 1 TV Arabic🇲🇦
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="🇲🇦المغربMAROCCO",MEDI 1 FR
+http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHd6D6" group-title="🇲🇦المغربMAROCCO",M 24 HD🇲🇦
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TpEk1" group-title="🇲🇦المغربMAROCCO",Télé Maroc🇲🇦
@@ -1728,7 +1734,7 @@ http://live.watania1.tn:1935/live/watanya1.stream/chunklist.m3u8
 http://live.watania2.tn:1935/live/watanya2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Baya TV 🇹🇳
 http://37.187.28.55:1935/bayatv/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="P" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="🇹🇳تونسTUNISIE",Watania 1 🇹🇳
 http://194.37.92.14:12000/play/a0aq
@@ -1764,6 +1770,7 @@ http://185.236.229.117:8000/play/a002
 http://185.236.229.117:8000/play/a007
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇳تونسTUNISIE",Tunisia Nat1 HD🇹🇳
 http://185.236.229.117:8000/play/a02x
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV HD
