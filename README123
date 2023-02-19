@@ -296,7 +296,11 @@ https://bit.ly/3gj9PK5
 #EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://77.207.0.25:4000/play/a03m
 #EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+https://mpdplayer.izqhjzepxsrvrwl.sbs/4862/index.m3u8
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
 http://77.207.0.25:4000/play/a03n
+#EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+https://mpdplayer.izqhjzepxsrvrwl.sbs/4863/index.m3u8
 #EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/yAXBr0H.png",[$]RMC SPORT 1HD
 http://77.207.0.25:4000/play/a038
 #EXTINF:0 group-title="RMC SPORT" tvg-logo="https://i.imgur.com/j9yfbc1.png",[$]RMC SPORT 2HD
@@ -337,6 +341,12 @@ http://195.154.179.234:1234/stream/btsport2/master.m3u8
 http://195.154.179.234:1234/stream/btsport3/master.m3u8
 #EXTINF:0 tvg-id="BTSportESPN.uk" group-title="VIP SPORT EUR",BT Sport 4
 http://195.154.179.234:1234/stream/btsport4/master.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 1
+http://pakin.worldtvip.co/uk_bt_sports_1_hd/index.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 2
+http://pakin.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 3
+http://pakin.worldtvip.co/uk_bt_sports_3_hd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspArena
 http://195.154.179.234:1234/stream/skysparena/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspCricet
