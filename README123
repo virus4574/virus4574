@@ -403,6 +403,47 @@ https://bit.ly/34ooolI
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Premier Football 1
+https://tr.cett.my.id/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Premier Football 2
+https://tr.cett.my.id/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Premier Football 3
+https://tr.cett.my.id/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Premier Football 4
+https://tr.cett.my.id/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Premier Football 5
+https://tr.cett.my.id/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",TrueSports 1
+https://tr.cett.my.id/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",TrueSports 2
+https://tr.cett.my.id/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",TrueSports 3
+https://tr.cett.my.id/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",TrueSports 4
+https://tr.cett.my.id/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="SkySportFootball.it" group-title="VIP SPORT EUR",Sky Sport Football
+http://204.12.247.162:8080/premium35/mono.m3u8
+#EXTINF:0 tvg-id="SkySportArena.it" group-title="VIP SPORT EUR",Sky Sport Arena
+http://204.12.247.162:8080/premium36/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Dazn 1 Sport
+http://204.12.247.162:8080/premium426/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Dazn 2 Sport
+http://204.12.247.162:8080/premium427/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Arena 1 Sport
+http://204.12.247.162:8080/premium429/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Arena 2 Sport
+http://204.12.247.162:8080/premium582/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Arena 3 Sport
+http://204.12.247.162:8080/premium431/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Arena 4 Sport
+http://204.12.247.162:8080/premium581/mono.m3u8
+#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="VIP SPORT EUR",Diema Sport
+http://204.12.247.162:8080/premium465/mono.m3u8
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="VIP SPORT EUR",Diema Sport 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Diema Sport 3
+http://204.12.247.162:8080/premium467/mono.m3u8
 #EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 1
 http://195.154.179.234:1234/stream/btsport1/master.m3u8
 #EXTINF:0 tvg-id="BTSport2.uk" group-title="VIP SPORT EUR",BT Sport 2
