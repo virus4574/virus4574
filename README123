@@ -46,10 +46,11 @@ https://cdn2.livehd720.com/hlsbeinp1/beinp1/playlist.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD
 https://cdn2.livehd720.com/hlsbeinp7/beinp7/playlist.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD
-
+http://204.12.247.162:8080/premium49/mono.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD
-
-
+http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD
+http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 1 Premium SD ⚽" tvg-logo="https://i.ibb.co/R43g0kk/p1sd.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN ⚽ 1 Premium SD ⚽
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 2 Premium SD ⚽" tvg-logo="https://i.ibb.co/1rzGCtj/p2sd.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN ⚽ 2 Premium SD ⚽
@@ -1663,7 +1664,7 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZxyVy" group-title="🇲🇦المغربMAROCCO",AL Aoula laayoune TV🇲🇦
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
