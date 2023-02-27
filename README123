@@ -61,6 +61,8 @@ http://204.12.247.162:8080/premium49/mono.m3u8
 http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD 12
 http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",beIN SPORTS المباريات المهمة SD 13
+https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 1 Premium SD ⚽" tvg-logo="https://i.ibb.co/R43g0kk/p1sd.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN ⚽ 1 Premium SD ⚽
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
