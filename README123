@@ -2168,6 +2168,11 @@ http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="🇸🇴الصومالSomalia‎",SBC🇸🇴
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SN2TV" tvg-logo="" group-title="🇸🇴الصومالSomalia‎",VIP SO: SN2TV
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/chunks.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Dacwa TV" tvg-logo="" group-title="🇸🇴الصومالSomalia‎",VIP SO: Dacwa TV
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="KURDISH",KURDISH 
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="KURDISH",النسخة المدفوعة AirMax TV
