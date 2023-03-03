@@ -356,19 +356,19 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/F6Ul4KU.png",SSC 1 🇸🇦
 http://103.145.13.31/12/index.m3u8
 #EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/F6Ul4KU.png",SSC 1 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 2 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 3 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 4 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC 5 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 1 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC1_Extra.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://bit.ly/3dQNPFL" group-title="SSC SPORT",SSC Extra 2 🇸🇦
-http://88.99.216.157:5080/WebRTCApp/streams/SSC2_Extra.m3u8
+
 
 #EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/rJY5VbT.png",AD Sports Premium 1 HD 🇦🇪
 http://103.145.13.31/13/index.m3u8 
@@ -380,22 +380,6 @@ http://103.145.13.31/14/index.m3u8
 http://103.145.13.31/7/index.m3u8
 #EXTINF:-1 group-title="SSC SPORT" tvg-logo="https://i.imgur.com/0zOlyTo.png",STARZPLAY•SPORTS•HD 🇦🇪
 http://103.145.13.31/5/index.m3u8 
-
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 1+ 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 2+ 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 3+ 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC3.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 4+ 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC4.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC 5+ 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC5.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC Extra 1 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1_Extra.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SSC SPORT",SSC Extra 2 🇸🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2_Extra.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SSC SPORT",فورملا-1 FHD 🇸🇦
 https://shls-live-ak.akamaized.net/out/v1/789c88ad335e4547ad14a84c19a5ba31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
