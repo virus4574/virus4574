@@ -2279,12 +2279,6 @@ http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/393338
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="KURDISH",beIN Sport 2 FHD
 http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/329314
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="KURDISH",beIN Sport 3 FHD
-http://88.99.216.157:5080/WebRTCApp/streams/Bein3.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="KURDISH",beIN Sport 4 FHD
-http://88.99.216.157:5080/WebRTCApp/streams/Bein4.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="KURDISH",beIN Sport 5 FHD
-http://88.99.216.157:5080/WebRTCApp/streams/Bein5.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="KURDISH",beIN 1 Test
 http://pro.netmos.ovh:7355/live/D949817863601/234433529827/12778.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Ld Life Sports
@@ -8887,11 +8881,7 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 1 PREMIUM 🇶🇦
-http://s@88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 1 PREMIUM 🇶🇦
 http://s@62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 2 PREMIUM 🇶🇦
-http://s@88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 2 PREMIUM 🇶🇦
 http://s@62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",CANAL 10 🇦🇷
@@ -9122,22 +9112,6 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein5.m3u8
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein6.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 7 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 1 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 2 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 3 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein3_Premuim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 1 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 2 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 3 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 4 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",beIN SPORTS 5 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Beinsport 1 PREMIUM 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Beinsport 2 PREMIUM 🇶🇦
