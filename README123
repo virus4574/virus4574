@@ -867,9 +867,24 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة MAJESTIC",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة art",▂ ▄ ▅ ▆☆ ART ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Almajd",▂ ▄ ▅ ▆☆ Almajd ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title=="باقة art",النسخة المدفوعة AirMax TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title=="باقة Almajd",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title=="باقة Almajd",Almajd 01
+http://146.19.16.206:8029/play/a04o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title=="باقة Almajd",Almajd 02
+http://146.19.16.206:8029/play/a04p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title=="باقة Almajd",Almajd 03
+http://146.19.16.206:8029/play/a04q
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title=="باقة Almajd",Almajd 04
+http://146.19.16.206:8029/play/a04r
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title=="باقة Almajd",Almajd 05
+http://146.19.16.206:8029/play/a04s
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ او اس انOSN ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies English ",AMC East (720p)
@@ -1156,6 +1171,10 @@ https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Amou Yazid Tofola TV
 http://185.236.229.117:8000/play/a01d
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Karameesh TV
+http://146.19.16.211:8033/play/a04j
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Wanasat Baby
+http://146.19.16.211:8033/play/a04n
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40q3Ndz" group-title="أطفال Children",شهاب
 http://95.216.180.111:1935/live/67/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
@@ -1537,19 +1556,30 @@ http://95.216.180.111:1935/live/15/chunklist.m3u8
 http://194.37.92.14:12000/play/a09f
 #EXTINF:-1 tvg-id="" tvg-name="LBN: LBC INTERNATIONAL" tvg-logo="http://pro.netmos.ovh/img/LBC.INTERNATIONAL.png" group-title="لبنانLEBANON",LBN: LBC INTERNATIONAL🇱🇧
 http://194.37.92.14:12000/play/a099
+#EXTINF:-1 tvg-id="" tvg-name="LBN: LBC INTERNATIONAL" tvg-logo="http://pro.netmos.ovh/img/LBC.INTERNATIONAL.png" group-title="لبنانLEBANON",LBN: LBC INTERNATIONAL🇱🇧
+http://146.19.16.206:8029/play/a02v
 #EXTINF:-1 tvg-id="" tvg-name="LBN: OTV" tvg-logo="http://pro.netmos.ovh/img/OTV.png" group-title="لبنانLEBANON",LBN: OTV🇱🇧
 http://194.37.92.14:12000/play/a09b
+#EXTINF:-1 tvg-id="" tvg-name="LBN: OTV" tvg-logo="http://pro.netmos.ovh/img/OTV.png" group-title="لبنانLEBANON",LBN: OTV🇱🇧
+http://146.19.16.206:8029/play/a02x
 #EXTINF:-1 tvg-id="" tvg-name="LBN: JADEED HD" tvg-logo="http://pro.netmos.ovh/img/AlJadeedTV.png" group-title="لبنانLEBANON",LBN: JADEED HD🇱🇧
 http://194.37.92.14:12000/play/a09a
+#EXTINF:-1 tvg-id="" tvg-name="LBN: JADEED HD" tvg-logo="http://pro.netmos.ovh/img/AlJadeedTV.png" group-title="لبنانLEBANON",LBN: JADEED HD🇱🇧
+http://146.19.16.206:8029/play/a02w
 #EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",LBN: NBN🇱🇧
 http://194.37.92.14:12000/play/a09c
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",LBN: NBN🇱🇧
+http://146.19.16.206:8029/play/a02y
 #EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON🇱🇧
 http://194.37.92.14:12000/play/a0d4
 #EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON🇱🇧
 http://194.37.92.14:12000/play/a0bu
+#EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON🇱🇧
+http://146.19.16.206:8029/play/a031
 #EXTINF:-1 tvg-id="" tvg-name="LBN: MTV HD" tvg-logo="http://pro.netmos.ovh/img/MTV.LIBAN.png" group-title="لبنانLEBANON",LBN: MTV HD🇱🇧
 http://194.37.92.14:12000/play/a021
-
+htt#EXTINF:-1 tvg-id="" tvg-name="LBN: MTV HD" tvg-logo="http://pro.netmos.ovh/img/MTV.LIBAN.png" group-title="لبنانLEBANON",LBN: MTV HD🇱🇧
+http://146.19.16.206:8029/play/a02t
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",🇵🇸كيف احصل على الكود
@@ -1610,6 +1640,8 @@ http://htvint.mada.ps:8889//orient/index.m3u8
 http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Palestine Sport
+http://146.19.16.206:8029/play/a02s
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
@@ -1891,7 +1923,6 @@ https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV HD
 https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="🇱🇾ليبياLIBYA",LIB-Salam TV🇱🇾
@@ -1953,6 +1984,20 @@ https://bit.ly/3xYLaRh
 http://194.37.92.14:12000/play/a06h
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",ALMOURABITOUNE
 http://194.37.92.14:12000/play/a06c
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",AL BARLEMANIA
+http://146.19.16.206:8029/play/a03n
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",AL MOURITANIYA HD
+http://146.19.16.206:8029/play/a03o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",ALMOURABITOUNE
+http://146.19.16.206:8029/play/a03h
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",Arriadia MR
+http://146.19.16.206:8029/play/a03m
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",Athagavia MR
+http://146.19.16.206:8029/play/a03l
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",CHINGUIT TV
+http://146.19.16.206:8029/play/a03j
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="موريتانيةMauritanie",DAVA TV
+http://146.19.16.206:8029/play/a03k
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3VLU7HP" group-title="🇶🇦قطر Qatar",Qatar 1 TV HD🇶🇦
@@ -2007,6 +2052,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3D33oTp" group-title="🇴🇲سلطنة عمان Oman",Oman الإذاعة-الإنجليزية🇴🇲
 https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇴🇲سلطنة عمان Oman",Oman Majan TV HD
+http://146.19.16.206:8029/play/a050
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇦السعودية Saudi-Arabia",Saudi-Arabia tv
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦كيف احصل على الكود
