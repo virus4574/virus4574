@@ -1989,9 +1989,9 @@ http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playl
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sS0oDA" group-title="🇦🇪الامارات EMIRATES",DUB-DUBAI Racing 🇦🇪
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7p4nW" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi TV 🇦🇪
-https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="🇦🇪الامارات EMIRATES",DUB-AL Emarat HD 🇦🇪
-https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3aw1bFp" group-title="🇦🇪الامارات EMIRATES",sharqiya from kalba 🇦🇪
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xq48" group-title="🇦🇪الامارات EMIRATES",AL Sharjah TV 🇦🇪
@@ -2001,7 +2001,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="🇦🇪الامارات EMIRATES",DUB-Aldafrahtv 🇦🇪
 https://stream-02.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfOYzXEHcTT2xgNxuaiNGpabPpKXYhc6F23MbaRlOS_WB)/dm/3/x8cxw6h/s/live-2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZTxvW" group-title="🇦🇪الامارات EMIRATES",Yas TV 🇦🇪
-https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",Baynounah TV🇦🇪
