@@ -5618,16 +5618,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622882350f6aad0008c76e
 
 
 #EXTM3U
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2364.png" ,Setanta Sports 1 HD
-http://hls.stb.md/SETANTA_HD_H264/tracks-v1a1/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjUuMTQ3LjQ4LjUwIiwibmJmIjoxNjYyOTQ5NzUyLCJleHAiOjE2NjMwMzYxNTIsImlhdCI6MTY2Mjk0OTc1MiwiaXNzIjoic3RiLnN0YXJuZXQubWQifQ.X0eRlClCVyQt_shf9OfedY937zSXa9dp1BfNxSPmRcU
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2363.png" ,Setanta Sports 2 HD
-https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2052.png" ,Eurosport 1 HD
-https://livetv.mylifeisgood.ml/channels/eurosport1ru
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2052.png" ,Eurosport 1
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/3735.png",Eurosport 2 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://pl.ottglanz.tv/icon/6904.png",Eurosport 2
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://i.ibb.co/3M61Vkf/SGN-09-18-2021-1631958888546.png",Extreme Sports
@@ -5640,10 +5632,6 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="رياضية SPORT",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT",Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2055.png" ,Viasat Sport HD
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2055.png" ,Viasat Sport HD
