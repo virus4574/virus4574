@@ -1484,7 +1484,6 @@ http://31.146.176.94:80/setanta1/index.m3u8?
 http://89.254.128.5:22280/setanta_sports_hd/video.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 2HD
 http://31.146.176.94:80/setanta2/index.m3u8?
-
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/e6KzGbp.png",[$]TSN 1HD
 http://143.244.60.30/TSN_1/index.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/aNXqJY9.png",[$]TSN 2HD
@@ -1555,6 +1554,8 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ALRabiaa Sport
+http://162.212.178.69:4042/bysid/205
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
@@ -2262,12 +2263,18 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC 2
 http://194.37.92.14:12000/play/a01c
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC 2
+http://149.18.45.19:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC Action
 http://194.37.92.14:12000/play/a01d
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC MAX
 http://194.37.92.14:12000/play/a01e
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC MAX
+http://149.18.45.19:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC Drama
 http://194.37.92.14:12000/play/a019
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سي احتياطيMBC",MBC Drama
+http://149.18.45.19:8000/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3xYLaRh
@@ -2562,6 +2569,8 @@ https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="🇮🇶العراق IRAQ",قناة دجلة Dijlah TV (Backup)🇮🇶
 http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV🇮🇶
+http://162.212.178.69:4042/bysid/817
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3O3obuC" group-title="🇮🇶العراق IRAQ",🇮🇶قناه الفرات
 http://95.216.180.111:1935/live/10/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I0cLqH" group-title="🇮🇶العراق IRAQ",ALrafidain tv 🇮🇶
@@ -2780,7 +2789,8 @@ http://185.236.229.117:8000/play/a02x
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV HD
 https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Canal Algerie
+http://162.212.178.69:4242/bysid/808
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lPawL9" group-title="🇱🇾ليبياLIBYA",LIB-Salam TV🇱🇾
@@ -2797,11 +2807,16 @@ https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya alhadath🇱🇾
 http://82.212.74.100:8000/live/hls/8103.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Wataniya🇱🇾
+http://162.212.178.69:4242/bysid/811
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
 https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
+http://162.212.178.69:4242/bysid/803
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",South Sudan🇸🇩
+http://162.212.178.69:4242/bysid/814
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Nile River🇸🇩
 http://194.37.92.14:12000/play/a035
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Sudania 24 HD🇸🇩
