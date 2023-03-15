@@ -1499,9 +1499,6 @@ http://143.244.60.30/TSN_4/index.m3u8
 http://143.244.60.30/NBATV/index.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT",VIP SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT",كيف احصل على الكود
@@ -2459,7 +2456,7 @@ http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine live HD🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestinee TV🇵🇸
-https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8
+https://cdg8.edge.technocdn.com/palestiniantv_source/live/chunks.m3u8?nimblesessionid=141362338
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestinee TV🇵🇸+
 http://146.19.16.211:8033/play/a06m
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="🇵🇸فلسطينPALESTINE",Palestine-AL YAUM🇵🇸
@@ -2795,15 +2792,19 @@ https://media2.livaat.com/Libyah-Mostaqbal-New/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="🇱🇾ليبياLIBYA",قناة الوسط - WTV🇱🇾
-https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qKfLOp" group-title="🇱🇾ليبياLIBYA",Libya Bussness🇱🇾
 https://media1.livaat.com/live/Libya-bussness/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya alhadath🇱🇾
 http://82.212.74.100:8000/live/hls/8103.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya libyas
+https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Wataniya🇱🇾
 http://162.212.178.69:4242/bysid/811
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Wataniya🇱🇾+
+https://bozztv.com/inim03/live1/giniko_libya/chunks.m3u8?
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇩السودانSUDAN",السودانSUDAN🇸🇩
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
@@ -2999,6 +3000,8 @@ https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",Baynounah TV🇦🇪
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",AL-Jaleyah tv🇦🇪
+https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇾🇪اليمن Yemen",Yemen tv🇾🇪
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇾🇪اليمن Yemen",🇾🇪كيف احصل على الكود
