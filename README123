@@ -1570,6 +1570,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ALRabiaa Sport
+http://162.212.178.70:4842/bysid/205
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
@@ -2536,6 +2538,8 @@ https://s1.ettehadlive.com/live/3/index.m3u8
 http://149.62.177.114:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",Al Rabiaa TV
+http://162.212.178.70:4842/bysid/817
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="المصرية Egypt",🇪🇬كيف احصل على الكود
