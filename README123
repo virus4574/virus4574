@@ -2410,6 +2410,8 @@ http://htvint.mada.ps:8889//orient/index.m3u8
 http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
+http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
