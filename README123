@@ -429,6 +429,17 @@ http://168.121.46.90:4000/play/a03k/index.m3u8
 
 
 
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",ARENA SPORT 3 HD RS
+http://45.14.39.11:4445/Eurosport2HD/index.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",ARENA SPORT 4 HD RS
+http://45.14.39.11:4445/Eurosport1HD/index.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Setanta Qazaqstan HD
+http://5.75.248.51:8000/play/a001/index.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Setanta 1 Qazaqstan HD
+http://5.75.248.51:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Setanta 2 Qazaqstan HD
+http://5.75.248.51:8000/play/a003/index.m3u8
+
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/BBT4vwi.png",[$]ARENA SPORT PREMIUM 1HD🇷🇸
 http://82.118.0.14:8000/play/5100/index.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/TcvMkOP.png",[$]ARENA SPORT PREMIUM 2HD🇷🇸
@@ -457,6 +468,27 @@ http://94.156.59.247:8899/udp/239.1.3.36:4000
 http://94.156.59.247:8899/udp/239.1.3.37:4000
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JIrABVE.png",[$]ARENA SPORT 5HD🇧🇦
 http://94.156.59.247:8899/udp/239.1.3.76:4000
+
+
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Eleven Sports 1 4K
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Eleven Sports 1 HD
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Eleven Sports 2 HD
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Eleven Sports 3 HD
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="",Eleven Sports 4 HD
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CFl3zRU.png",Eleven Sports 1 HD
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JcANqBJ.png",Eleven Sports 2 HD
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/1Akxat2.png",Eleven Sports 3 HD
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=ZKF89T31BF
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/TeqAoTS.png",Eleven Sports 4 HD
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=ZKF89T31BF
 
 
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT TV 1HD 🇵🇹
@@ -2404,7 +2436,7 @@ http://htvint.mada.ps:8889//orient/index.m3u8
 http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
