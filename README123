@@ -842,40 +842,7 @@ http://204.12.247.162:8080/premium465/mono.m3u8
 http://204.12.247.162:8080/premium466/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Diema Sport 3
 http://204.12.247.162:8080/premium467/mono.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 1
-http://195.154.179.234:1234/stream/btsport1/master.m3u8
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="VIP SPORT EUR",BT Sport 2
-http://195.154.179.234:1234/stream/btsport2/master.m3u8
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="VIP SPORT EUR",BT Sport 3
-http://195.154.179.234:1234/stream/btsport3/master.m3u8
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="VIP SPORT EUR",BT Sport 4
-http://195.154.179.234:1234/stream/btsport4/master.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 1
-http://pakin.worldtvip.co/uk_bt_sports_1_hd/index.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 2
-http://pakin.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="VIP SPORT EUR",BT Sport 3
-http://pakin.worldtvip.co/uk_bt_sports_3_hd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspArena
-http://195.154.179.234:1234/stream/skysparena/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspCricet
-http://195.154.179.234:1234/stream/skyspcricet/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",skyspEvent
-http://195.154.179.234:1234/stream/skyspevent/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspF1
-http://195.154.179.234:1234/stream/skyspf1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspFootbol
-http://195.154.179.234:1234/stream/skyspfootbol/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspGolf
-http://195.154.179.234:1234/stream/skyspgolf/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",skyspNewst
-http://195.154.179.234:1234/stream/skyspnewst/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkySpNFL
-http://195.154.179.234:1234/stream/skyspnfl/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkyspPremier
-http://195.154.179.234:1234/stream/skysppremier/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",SkySpRecing
-http://195.154.179.234:1234/stream/skysprecing/master.m3u8
+
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
 http://93.155.227.38:555/m3u8/diamasporthd.m3u8
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/FYTGoig.png",[$]DIEMA SPORT 2HD
