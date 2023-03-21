@@ -2046,6 +2046,8 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p4BHBn" group-title="أم بي سيMBC",|MBC| Masr 2 SD
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="أم بي سيMBC",|MBC| Drama SD
+https://shls-live-ak.akamaized.net/out/v1/8dde0be593a94d819094a81ee624039c/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/yZC4C7e.png" group-title="أم بي سيMBC",|MBC| Drama+ SD
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="أم بي سيMBC",|MBC| Bollywood SD
@@ -2071,6 +2073,8 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p4BHBn" group-title="أم بي سيMBC",|MBC| Masr 2 FHD
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="أم بي سيMBC",|MBC| Drama FHD
+https://shls-live-ak.akamaized.net/out/v1/8dde0be593a94d819094a81ee624039c/index_7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="أم بي سيMBC",|MBC| Drama+ FHD
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="أم بي سيMBC",|MBC| Bollywood FHD
@@ -2091,6 +2095,8 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p4BHBn" group-title="أم بي سيMBC",|MBC| Masr 2 HD
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="أم بي سيMBC",|MBC| Drama HD
+https://shls-live-ak.akamaized.net/out/v1/8dde0be593a94d819094a81ee624039c/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="أم بي سيMBC",|MBC| Drama+ HD
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="أم بي سيMBC",|MBC| Bollywood HD
@@ -2112,7 +2118,7 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p4BHBn" group-title="أم بي سيMBC",|MBC| Masr 2 LOW
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="أم بي سيMBC",|MBC| Drama LOW
-
+https://shls-live-ak.akamaized.net/out/v1/8dde0be593a94d819094a81ee624039c/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="أم بي سيMBC",|MBC| Drama+ LOW
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="أم بي سيMBC",|MBC| Bollywood LOW
@@ -2132,7 +2138,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="أم بي سيMBC",MY-MBC Bolleywod 
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="أم بي سيMBC",|MBC| Drama
-
+https://shls-live-ak.akamaized.net/out/v1/8dde0be593a94d819094a81ee624039c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://tvfcdn.com/big/mbc-plus-drama-hd.jpg" group-title="أم بي سيMBC",MY-MBC Drama  Plus 
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1009450954461237248/KA75GzF4.jpg" group-title="أم بي سيMBC",MY-MBC Masr 
