@@ -1,4 +1,36 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/atv.png" ,Azad Azərbaycan TV
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/arb.png" ,ARB
+https://stream.seotoolsm.com/AZ-arb.m3u8
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/arb24.png" ,ARB 24
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/itv.png" ,İctimai TV
+https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=446042
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/aztv.png" ,AzTV
+https://stream.seotoolsm.com/AZ-aztv.m3u8
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/idman.png" ,İdman TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://raw.githubusercontent.com/bbksgrv/tv/main/space.png" ,Space TV
+https://stream.seotoolsm.com/AZ-space.m3u8
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" ,Mədəniyyət TV
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=97c1b7408827f10b5d1bac9290a40a6a7653305d-ef4264634f380fb298210136a25fc6a6-1675022919-1675012119
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" ,Dünya TV
+https://stream.seotoolsm.com/AZ-dunya.m3u8
+#EXTINF:-1 group-title="Azerbaijan" ,Az Star
+https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1995174942_b3096000.m3u8?hash=5082990660ec036b3340a40a5bfeef4b
+#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB Kəpəz
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 tvg-id="ATV2.at" group-title="Azerbaijan",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0 tvg-id="cbc" group-title="Azerbaijan",CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title=Austria",Austria TV
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="ext" group-title="Austria",Dorf TV
@@ -4836,31 +4868,6 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Australia",ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB
-http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB Günəş
-http://149.255.152.199/arbgunes.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB Kəpəz
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ARB Kəpəz
-https://streams.livetv.az/arbkepez/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ATV 1
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ATV 1
-http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
-#EXTINF:0 tvg-id="ATV2.at" group-title="Azerbaijan",ATV 2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Azerbaijan",ATV 4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:0 tvg-id="cbc" group-title="Azerbaijan",CBC
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="impact" group-title="Azerbaijan",ITV
-https://node19.connect.az:8086/ch1/ch1.hi.m3u8
-#EXTINF:0 tvg-id="impact" group-title="Azerbaijan",ITV
-https://node19.connect.az:8086/ch1/ch1.med.m3u8
 
 #EXTINF:0 tvg-id="8channel" group-title="Belarus",8 канал (Беларусь)
 http://91.215.176.238:8000/8channel
