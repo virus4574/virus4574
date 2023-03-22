@@ -5823,34 +5823,112 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Norway",TV Haugaland
 https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
 
-#EXTINF:0 tvg-id="1hdru" group-title="Russia",1HD Music Television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="1hdru" group-title="Russia",1HD Music Television
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Russia" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru" ,НТВ Право
+https://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png" ,НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9D%D0%A2%D0%92_%D0%A1%D1%82%D0%B8%D0%BB%D1%8C_%282017%29.svg/revision/latest?cb=20180518165310&path-prefix=ru" ,НТВ Стиль
+https://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://brandrealism.ru/images/logo-ntv-hit.png" ,НТВ хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1 group-title="Russia" ,Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Russia" ,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russia",Первый канал HD
+http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Russia",Первый HD
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 group-title="Russia",Первый канал (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Russia",Первый канал HD (+4)
+http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1 group-title="Russia",Первый канал (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 group-title="Russia",Первый канал (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="Russia",Соловьёв Live
+
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
+
+#EXTINF:-1 group-title="Russia",РОССИЯ 1
+
+http://31.210.208.167:80/russia1/index.m3u8?token=test
+#EXTINF:-1 group-title="Russia",РОССИЯ 1
+http://78.25.155.47:1309/channel/Ros1.ts
+#EXTINF:-1 group-title="Russia",Россия 1 (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Russia",Россия 1 (+5)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="Russia",Россия 1 (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Russia",Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Russia",Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Russia",НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Russia",НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntv.m3u8
+#EXTINF:-1 group-title="Russia",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Russia",НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Russia",НТВ (+1)
+http://ntv-hls-orig.cdnvideo.ru/ntv1_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Russia",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Russia",НТВ (+2)
+http://ntv-hls-orig.cdnvideo.ru/ntv2_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Russia",НТВ (+4)
+http://ntv-hls-orig.cdnvideo.ru/ntv4_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Russia",НТВ (+7)
+http://ntv-hls-orig.cdnvideo.ru/ntv7_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Russia",НТВ Хит
+https://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1 group-title="Russia",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Russia",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Russia",Пятый канал
+https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+#EXTINF:-1 group-title="Russia",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Russia",ТВ Центр
+https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
+#EXTINF:-1 group-title="Russia",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russia",РЕН ТВ HD
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="rentv" ,РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Russia",Рен ТВ
+http://78.25.155.47:1309/channel/REN.ts
+#EXTINF:-1 group-title="Russia",Звезда
+http://78.25.155.47:1309/channel/Zvezda.ts
+#EXTINF:-1 group-title="Russia",Звезда
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="domashny",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="otr",ОТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Russia",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Russia",ТВ3 HD
+https://livetv.mylifeisgood.ml/channels/tv3hd.m3u8
+
+
 #EXTINF:0 tvg-id="1hdru" group-title="Russia",1HD Music Television
 https://sc.id-tv.kz/1hd_34_35.m3u8
-#EXTINF:0 tvg-id="podmoskovie" group-title="Russia",360°)
-https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:0 tvg-id="podmoskovie" group-title="Russia",360°
-https://video1.in-news.ru/360/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Russia",47 Канал
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-#EXTINF:0 tvg-id="8-kanal" group-title="Russia",8 Канал
-http://176.99.110.252/stream8/playlist.m3u8
 #EXTINF:0 tvg-id="8-kanal" group-title="Russia",8 Канал
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:0 tvg-id="9volna" group-title="Russia",ACB TV
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:0 tvg-id="9volna" group-title="Russia",ACB TV
-https://strm.yandex.ru/kal/acb/acb0.m3u8
-#EXTINF:0 tvg-id="amedia-hit" group-title="Russia",Amedia Hit
-http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
 #EXTINF:0 tvg-id="amedia-hit" group-title="Russia",Amedia Hit
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
-#EXTINF:0 tvg-id="AXN.bg" group-title="Russia",AXN
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:0 tvg-id="bollywood-hd" group-title="Russia",Bollywood HD
-http://89.106.234.5:80/bollywood_hd_34_35.m3u8
 #EXTINF:0 tvg-id="bollywood-hd" group-title="Russia",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Russia",Brics TV
@@ -6575,17 +6653,6 @@ http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Russia",Эхо TV (Рязань))
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="muztv" group-title="Russia",Ю
-http://51.68.141.106:8081/tv/u-3sa/playlist.m3u8
-#EXTINF:0 tvg-id="muztv" group-title="Russia",Ю
-https://video-4-206.rutube.ru/stream/194.190.76.10/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ugra" group-title="Russia",Югра)
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Russia",Юрган
-http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Russia",ЮТВ (Чебоксары)
-http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="Thailand",Channel 7 HD
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
