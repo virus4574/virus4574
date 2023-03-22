@@ -2199,8 +2199,6 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="Rai1.it" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Italy",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s29/04.m3u8
-#EXTINF:0 tvg-id="Rai1.it" group-title="Italy",Rai 1 HD
-http://31.220.41.86:8081/live/it-rai1.stream/chunks.m3u8
 #EXTINF:0 tvg-id="Rai1.it" group-title="Italy",RAI 2
 http://95.107.132.105/out/u/450_2.m3u8
 #EXTINF:0 tvg-id="Rai3.it" group-title="Italy",Rai 3
@@ -2213,8 +2211,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Italy",RAI 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Italy",RAI 4K
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Italy",RAI 5
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Italy",RAI Gulp
@@ -2231,53 +2227,11 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Italy",Rai Premium
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:0 tvg-id="RaiNews.it" group-title="Italy",Rai News 24
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-id="RaiItalia.cl" group-title="Italy",Rai Italia
 http://45.238.54.70:8000/play/a024
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Italy",Camera Deputati
-http://146.19.16.209:8018/play/a05n
-#EXTINF:0 tvg-id="RSILa1.ch" group-title="Italy",RSI LA 1 HD
-http://146.19.16.209:8018/play/a063
-#EXTINF:0 tvg-id="RSILa2.ch" group-title="Italy",RSI LA 2 HD
-http://146.19.16.209:8018/play/a064
-#EXTINF:0 tvg-id="RTS2.rs" group-title="Italy",RTS Deux HD
-http://146.19.16.209:8018/play/a061
-#EXTINF:0 tvg-id="RTS1.rs" group-title="Italy",RTS Un HD
-http://146.19.16.209:8018/play/a060
-#EXTINF:0 tvg-id="Rai1.it" group-title="Italy",Rai 1
-http://146.19.16.209:8018/play/a05j
-#EXTINF:0 tvg-id="Rai2.it" group-title="Italy",Rai 2
-http://146.19.16.209:8018/play/a05k
-#EXTINF:0 tvg-id="Rai3.it" group-title="Italy",Rai 3
-http://146.19.16.209:8018/play/a05l
-#EXTINF:0 tvg-id="ext" group-title="Italy",Rai 3 TGR Puglia
-http://146.19.16.209:8018/play/a05w
-#EXTINF:0 tvg-id="Rai5.it" group-title="Italy",Rai 5 HD
-http://146.19.16.209:8018/play/a05v
-#EXTINF:0 tvg-id="RaiGulp.it" group-title="Italy",Rai Gulp HD
-http://146.19.16.209:8018/play/a05s
-#EXTINF:0 tvg-id="RaiNews.it" group-title="Italy",Rai News 24 HD
-http://146.19.16.209:8018/play/a05r
-#EXTINF:0 tvg-id="RaiPremium.it" group-title="Italy",Rai Premium HD
-http://146.19.16.209:8018/play/a05q
-#EXTINF:0 tvg-id="RaiScuola.it" group-title="Italy",Rai Scuola HD
-http://146.19.16.209:8018/play/a05p
-#EXTINF:0 tvg-id="RaiSportPlus.it" group-title="Italy",Rai Sport + HD
-http://146.19.16.209:8018/play/a05u
-#EXTINF:0 tvg-id="RaiStoria.it" group-title="Italy",Rai Storia HD
-http://146.19.16.209:8018/play/a05m
-#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Italy",Rai YoYo HD
-http://146.19.16.209:8018/play/a05t
-#EXTINF:0 tvg-id="SRF1.ch" group-title="Italy",SRF 1 HD
-http://146.19.16.209:8018/play/a05y
-#EXTINF:0 tvg-id="SRFinfo.ch" group-title="Italy",SRF info HD
-http://146.19.16.209:8018/play/a062
-#EXTINF:0 tvg-id="SRF2.ch" group-title="Italy",SRF zwei HD
-http://146.19.16.209:8018/play/a05z
-#EXTINF:0 tvg-id="ext" group-title="Italy",Senato
-http://146.19.16.209:8018/play/a05o
 #EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-logo="" group-title="Italy",12 TV Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italy",51 Radio TV
@@ -2652,8 +2606,6 @@ https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 tvg-name="Radio Zeta TV" tvg-id="" group-title="Italy" tvg-logo="",Radio Zeta TV
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="Italy" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Italy",Rai Sport
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="Italy",RDS Social TV
