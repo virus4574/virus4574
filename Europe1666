@@ -319,8 +319,103 @@ https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playl
 
 ----------------
 
+#EXTM3U
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP1
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+
+----------------
+
+#EXTINF:0 tvg-id="AgroTV.ro" group-title="Romania",AgroTV (404p)
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:0 tvg-id="AlephNews.ro" group-title="Romania",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Romania",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Romania",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:0 tvg-id="CredoTV.ro" group-title="Romania",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania",Est TV (Neamt)
+http://89.38.8.130:39435
+#EXTINF:0 tvg-id="ext" group-title="Romania",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania",MEDIA REGIONAL
+http://83.103.150.198:8080
+#EXTINF:0 tvg-id="ext" group-title="Romania",Naşul TV
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="PrimaTV.ro" group-title="Romania",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:0 tvg-id="ext" group-title="Romania",Pro TV (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:0 tvg-id="ext" group-title="Romania",Telestar1
+http://193.34.109.10:8090
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Romania",TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Romania",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:0 tvg-id="TVR3.ro" group-title="Romania",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:0 tvg-id="TVRCluj.ro" group-title="Romania",TVR Cluj
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+#EXTINF:0 tvg-id="TVRCraiova.ro" group-title="Romania",TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+#EXTINF:0 tvg-id="TVRIasi.ro" group-title="Romania",TVR Iași
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+#EXTINF:0 tvg-id="TVRInternational.ro" group-title="Romania",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:0 tvg-id="TVRMoldova.ro" group-title="Romania",TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+#EXTINF:0 tvg-id="TVRTarguMures.ro" group-title="Romania",TVR Târgu Mureș
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+#EXTINF:0 tvg-id="TVRTimisoara.ro" group-title="Romania",TVR Timișoara
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Romania",TVSat
+http://89.38.8.130:39443
+#EXTINF:0 tvg-id="ext" group-title="Romania",TV SE
+http://89.38.8.130:39419
+#EXTINF:0 tvg-id="ext" group-title="Romania",Profit.ro
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:0 tvg-id="ext" group-title="Romania",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+
+----------------
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/3vv7aoM.jpg",Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/NefH5qZ.png",RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/x9jcMwu.png",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/h8Fv80L.png",TVMAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
+----------------
+
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Switzerland TV
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele1.ch" tvg-id="" group-title="Switzerland" tvg-logo="https://icanlive.tv/pictures/tele1.jpg",Tele 1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Tele M1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:0 tvg-id="CANAL9.dk" group-title="Switzerland",Canal 9
@@ -337,18 +432,12 @@ https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist.m3u8
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Switzerland",Rogue TV
-http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Switzerland",Tele Bärn
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
 #EXTINF:0 tvg-id="TeleBielingue.ch" group-title="Switzerland",Tele Bielingue
 https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",TVM 3
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",TeleBarn
 https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Switzerland",Telebasel HD (288p)
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",TeleBielingue
 https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",TVM3
@@ -3581,73 +3670,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309
 #EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="spania",Pluto TV Documentales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTM3U
-#EXTINF:0 tvg-id="Canal11.pt" group-title="Portugal",Canal 11
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:0 tvg-id="ARTV.pt" group-title="Portugal",Canal Parlamento
-https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Igreja Online
-http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Radio Clube TV
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP1
-http://162.212.178.69:41042/bysid/608
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:0 tvg-id="TVFatima.pt" group-title="Portugal",TV Fátima
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:0 tvg-id="TVFatima.pt" group-title="Portugal",TV Fátima
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-#EXTINF:0 tvg-id="TVIReality.pt" group-title="Portugal",TVI Reality
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná Córdoba
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA-1 PORTUGAL
-http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná 2
-http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA MAPUTO
-http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA MAPUTO
-http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (ESP)
-http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (RU)
-http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (ENG)
-http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV MANA (FR)
-http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TV Maná 1
-http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-country="GR" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="Greece" tvg-name="ΕΡΤ 1",ΕΡΤ 1
@@ -5052,145 +5075,6 @@ https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3
 #EXTINF:0 tvg-id="ext" group-title="Czech Republic",Šlágr 2
 http://92.62.234.233/slagr2.m3u
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Romania",A7TV
-https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:0 tvg-id="AgroTV.ro" group-title="Romania",AgroTV (404p)
-https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:0 tvg-id="AlephNews.ro" group-title="Romania",Aleph News
-https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Romania",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Romania",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:0 tvg-id="Antena1.ro" group-title="Romania",Antena 1
-https://iptv-all.lanesh4d0w.repl.co/romania/a1
-#EXTINF:0 tvg-id="Antena3.ro" group-title="Romania",Antena 3
-https://iptv-all.lanesh4d0w.repl.co/romania/a3
-#EXTINF:0 tvg-id="ext" group-title="Romania",Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0 tvg-id="AntenaInternational.ro" group-title="Romania",Antena International
-https://iptv-all.lanesh4d0w.repl.co/romania/ai
-#EXTINF:0 tvg-id="ext" group-title="Romania",Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",AntenaSport
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:0 tvg-id="Antena2.ro" group-title="Romania",Antena Stars
-https://iptv-all.lanesh4d0w.repl.co/romania/astars
-#EXTINF:0 tvg-id="ext" group-title="Romania",B1
-https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Canal33
-https://fms-https1.mediadirect.ro/live3/canal33.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Columna TV
-rtmp://columna1.arya.ro:1935/live/columnatv1
-#EXTINF:0 tvg-id="ext" group-title="Romania",Cook&Play
-https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Cornea TV
-http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="CredoTV.ro" group-title="Romania",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Romania" user-agent="iPhone",Digi 24
-https://iptv-all.lanesh4d0w.repl.co/romania/digi24
-#EXTINF:0 tvg-id="ext" group-title="Romania",Est TV (Neamt)
-http://89.38.8.130:39435
-#EXTINF:0 tvg-id="gtv.il" group-title="Romania",GTV
-rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF:0 tvg-id="EuforiaLifestyle.ro" group-title="Romania",Happy Channel
-https://iptv-all.lanesh4d0w.repl.co/romania/happy-channel
-#EXTINF:0 tvg-id="ext" group-title="Romania",Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:0 tvg-id="KanalD.ro" group-title="Romania",Kanal D (384p)
-https://stream1.kanald.ro/iphone/live.m3u8
-#EXTINF:0 tvg-id="KissTV.ro" group-title="Romania",Kiss TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
-#EXTINF:0 tvg-id="ext" group-title="Romania",Light Channel
-http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",MEDIA REGIONAL
-http://83.103.150.198:8080
-#EXTINF:0 tvg-id="ext" group-title="Romania",Mireasa
-https://iptv-all.lanesh4d0w.repl.co/romania/mireasa
-#EXTINF:0 tvg-id="MoozDance.ro" group-title="Romania",MoozDance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:0 tvg-id="MoozHits.ro" group-title="Romania",MoozHits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:0 tvg-id="MoozRo.ro" group-title="Romania",MoozRo
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Naşul TV
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Nova TV Brasov
-http://novapress.ro:1935/live/nova/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Ploiesti TV
-rtmp://v1.arya.ro:1935/live/ptv1.flv
-#EXTINF:0 tvg-id="PrimaTV.ro" group-title="Romania",Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
-#EXTINF:0 tvg-id="ext" group-title="Romania",Pro TV (1080p)
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:0 tvg-id="ext" group-title="Romania",Rapsodia TV
-rtmp://rapsodia1.arya.ro:1935/live/rapsodiatv1
-#EXTINF:0 tvg-id="RealitateaTV.ro" group-title="Romania",Realitatea FM (Studio)
-https://live.realitatea.net/livertmp/plus/playlist.m3u8
-#EXTINF:0 tvg-id="RealitateaTV.ro" group-title="Romania",Realitatea Plus
-https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0 tvg-id="RockTV.it" group-title="Romania",Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Sangeorz TV (396p)
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:0 tvg-id="ext" group-title="Romania",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:0 tvg-id="Speranta.ro" group-title="Romania",Speranta TV
-http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-#EXTINF:0 tvg-id="Speranta.ro" group-title="Romania",Speranta TV
-http://us200.streamkit.tv/edge/sperantatv_1200/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",SuperTV (1080p)
-http://live.supertv.ro:1935/live/smil:hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",Telestar1
-http://193.34.109.10:8090
-#EXTINF:0 tvg-id="ext" group-title="Romania",Telestar1
-http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:0 tvg-id="TravelMix.ro" group-title="Romania",Travel Mix (1080p)
-http://89.38.8.131:39520
-#EXTINF:0 tvg-id="ext" group-title="Romania",TVPlus Suceava
-http://85.186.146.34:8080
-#EXTINF:0 tvg-id="TVR1.ro" group-title="Romania",TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
-#EXTINF:0 tvg-id="TVR2.ro" group-title="Romania",TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
-#EXTINF:0 tvg-id="TVR3.ro" group-title="Romania",TVR 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
-#EXTINF:0 tvg-id="TVRCluj.ro" group-title="Romania",TVR Cluj
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
-#EXTINF:0 tvg-id="TVRCraiova.ro" group-title="Romania",TVR Craiova
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
-#EXTINF:0 tvg-id="TVRIasi.ro" group-title="Romania",TVR Iași
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
-#EXTINF:0 tvg-id="TVRInternational.ro" group-title="Romania",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
-#EXTINF:0 tvg-id="TVRMoldova.ro" group-title="Romania",TVR Moldova
-https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
-#EXTINF:0 tvg-id="TVRTarguMures.ro" group-title="Romania",TVR Târgu Mureș
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
-#EXTINF:0 tvg-id="TVRTimisoara.ro" group-title="Romania",TVR Timișoara
-https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Romania",TVSat
-http://89.38.8.130:39443
-#EXTINF:0 tvg-id="ext" group-title="Romania",TV SE
-http://89.38.8.130:39419
-#EXTINF:0 tvg-id="UTV.ro" group-title="Romania" user-agent="iPhone",UTV
-https://iptv-all.lanesh4d0w.repl.co/romania/utv
-#EXTINF:0 tvg-id="ext" group-title="Romania",VP TV
-http://89.38.8.130:39437
-#EXTINF:0 tvg-id="ext" group-title="Romania",ZU Radio TV
-https://iptv-all.lanesh4d0w.repl.co/romania/zuradiotv
-#EXTINF:0 tvg-id="ext" group-title="Romania",Profit.ro
-https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
-#EXTINF:0 tvg-id="ext" group-title="Romania",Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ZUTV.ro" group-title="Romania",ZU TV
-https://iptv-all.lanesh4d0w.repl.co/romania/zutv
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_3_(1)
