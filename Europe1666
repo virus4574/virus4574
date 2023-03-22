@@ -409,7 +409,10 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/h8Fv80L.png",TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
-
+#EXTINF:-1 tvg-name="NRT 4 Monclova" tvg-logo="https://i.imgur.com/IudKE0n.png" tvg-id="noticiasnrt.com" group-title="MEXICO",NRT 4 Monclova
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" group-title="MEXICO",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 ----------------
 
 #EXTINF:0 tvg-id="ext" group-title="Switzerland",Switzerland TV
