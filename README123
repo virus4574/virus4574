@@ -2312,7 +2312,7 @@ https://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DKF5up" group-title="لبنانLEBANON",aliman🇱🇧
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HDxMpM" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+https://1333578254.rsc.cdn77.org/1333578254/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",NBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HvKNl6" group-title="لبنانLEBANON",Al Wifak🇱🇧
@@ -2553,7 +2553,8 @@ https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",,Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-
+#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="المصرية Egypt",CBC
+https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
