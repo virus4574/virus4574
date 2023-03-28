@@ -2235,6 +2235,8 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaum-tv/stream_2.m3u8
+#EXTINF:-1 group-title="سوريةSyria" tvg-logo="",قناة مسك
+https://ythls.onrender.com/channel/UCrvsAwtrxZ0q31yU9JEBdWA.m3u8
 #EXTINF:-1 group-title="سوريةSyria" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV
 https://stream.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
@@ -2535,9 +2537,11 @@ https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",القاهرة والناس
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",eXtra News
+https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",بث مباشر افلام عربي
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
-
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",بث مباشر لمسلسل الكبير اوي
+https://ythls.onrender.com/channel/UCMBXjVFU51CJ047U1Wp3JKQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
