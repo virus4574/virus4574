@@ -1745,6 +1745,8 @@ https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MphckC" group-title="📰الاخبارNEWS",ALMAMLKA 📰
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" group-title="📰الاخبارNEWS", 📰المشهد
+https://bcovlive-a.akamaihd.net/179f03ac9b434844b909d7f63b4da4d7/ap-south-1/6313884884001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="📰الاخبارNEWS",SKY NEWS ARABIC 📰
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="📰الاخبارNEWS",BBC ARABIC 📰
@@ -2532,8 +2534,8 @@ https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3M5UNW3" group-title="المصرية Egypt",Alfath Sonnah TV
 https://alfat7-q.com:5443/LiveApp/streams/713332814575062108399616.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42T6kxM" group-title="المصرية Egypt",Watan TV🇪🇬
-https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JWpf2d" group-title="المصرية Egypt",,Huda TV
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JWpf2d" group-title="المصرية Egypt",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/VZmLIY2.png" group-title="المصرية Egypt",CBC
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
@@ -2549,6 +2551,9 @@ https://ythls.onrender.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
 https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nvtA4S" group-title="المصرية Egypt",Al Qahera News
 https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alshoub.tv/wp-content/uploads/2022/11/logo-red.png" group-title="المصرية Egypt",الشّعوب
+https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Madani TV
 http://185.236.229.50:8002/play/a00v
@@ -2825,6 +2830,8 @@ https://bit.ly/3xYLaRh
 https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="🇸🇩السودانSUDAN",Sudan TV🇸🇩
 http://162.212.178.69:4242/bysid/803
+#EXTINF:-1 tvg-id="" tvg-logo="https://sudania24tv.com/storage/2022/09/s24-logo.jpg" group-title="🇸🇩السودانSUDAN",قناة سودانية 24 🇸🇩
+https://samson.streamerr.co:8081/sudania24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",South Sudan🇸🇩
 http://162.212.178.69:4242/bysid/814
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Nile River🇸🇩
@@ -3028,7 +3035,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",🇰🇼كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="🇰🇼الكويت Kuwait",Kuwait Alrai TV FHD🇰🇼
-https://media2.streambrothers.com:1936/8106/8106/chunklist.m3u8
+https://svs.itworkscdn.net/itwlive/itw.smil/itw_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
 http://194.37.92.14:12000/play/a0a7
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
