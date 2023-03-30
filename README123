@@ -2184,7 +2184,7 @@ https://rotanastudios-rotanaComedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LXDK4T" group-title="روتانا ROTANA",Rotana Kids SD
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/RC0XZrb/rotanaplus.png" group-title="روتانا ROTANA",Rotana+ SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42QudX1" group-title="روتانا ROTANA",Rotana+ SD
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
@@ -2218,7 +2218,7 @@ https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d
 https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/PN8G6F8/rotanakids.png" group-title="روتانا ROTANA",Rotana Kids 
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/RC0XZrb/rotanaplus.png" group-title="روتانا ROTANA",Rotana+ 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42QudX1" group-title="روتانا ROTANA",Rotana+ 
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="سوريةSyria",سوريةSyria
@@ -2991,7 +2991,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="🇦🇪الامارات EMIRATES",DUB-Al Wousta HD 🇦🇪
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="🇦🇪الامارات EMIRATES",DUB-Aldafrahtv 🇦🇪
-https://stream-02.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfOYzXEHcTT2xgNxuaiNGpabPpKXYhc6F23MbaRlOS_WB)/dm/3/x8cxw6h/s/live-2.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZTxvW" group-title="🇦🇪الامارات EMIRATES",Yas TV 🇦🇪
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/433PAV1" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
@@ -3839,18 +3839,22 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="" tvg-logo="https://qaf.tv/wp-content/uploads/2022/03/logo-2022.svg" group-title="🕌اسلاميةIslami",🕌قــاف
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://daawah.tv/wp-content/uploads/2023/02/logo-43-1.png" group-title="🕌اسلاميةIslami",🕌دعوة
+https://cdg8.edge.technocdn.com/daawahtv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.iqraa.com/images/lastlogo1.png" group-title="🕌اسلاميةIslami",🕌إقرأ
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="🕌اسلاميةIslami",🕌مــكّة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Ayaat
 https://stream.holol.com/live/ayat/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🕌اسلاميةIslami",Iqraa🕌
-https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🕌اسلاميةIslami",Iqraa Europe Africa🕌
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",makkahtv🕌
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://noble.tv/assets/images/default.jpg" group-title="🕌اسلاميةIslami",Noble tv🕌
 http://70.33.184.237:1443/arabic-test/arabic-test/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌قاف التفاعلية
-https://mn-nl.mncdn.com/qaf/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3YskGSO" group-title="🕌اسلاميةIslami",🕌اهل القران
 https://www.ahlualquran.tv:25463/live/ahlutv/live-tv/1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",🕌المعالي
