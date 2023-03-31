@@ -3039,32 +3039,14 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="🇰🇼الكويت Kuwait",Kuwait MarinaFM🇰🇼
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇴الصومالSomalia‎",28 الصومالSomalia🇸🇴
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇴الصومالSomalia‎",الصومالSomalia🇸🇴
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="🇸🇴الصومالSomalia‎",Horn Cable TV🇸🇴
-http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="🇸🇴الصومالSomalia‎",Somali National TV🇸🇴
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.hctv.tv/wp-content/uploads/2018/12/HCTV_90x90.png" group-title="🇸🇴الصومالSomalia‎",Horn Cable TV🇸🇴
-http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3auAUY5" group-title="🇸🇴الصومالSomalia‎",Bulsho TV🇸🇴
-https://ap02.iqplay.tv:8082/iqb8002/bu1sho41/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3M08xOt" group-title="🇸🇴الصومالSomalia‎",Puntland TV🇸🇴
-https://ap02.iqplay.tv:8082/iqb8002/p2t25/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://shaashada.com/images/somalicable.png" group-title="🇸🇴الصومالSomalia‎",Somali cable🇸🇴
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="🇸🇴الصومالSomalia‎",Universal TV🇸🇴
-https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://kalsantv.com/wp-content/uploads/2017/11/new-size.png" group-title="🇸🇴الصومالSomalia‎",Kalsan TV🇸🇴
-http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="🇸🇴الصومالSomalia‎",Kalsan TV🇸🇴
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="🇸🇴الصومالSomalia‎",SBC🇸🇴
-http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SN2TV" tvg-logo="" group-title="🇸🇴الصومالSomalia‎",VIP SO: SN2TV
-https://ap02.iqplay.tv:8082/iqb8002/s2tve/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Dacwa TV" tvg-logo="" group-title="🇸🇴الصومالSomalia‎",VIP SO: Dacwa TV
-https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="KURDISH",KURDISH 
 https://bit.ly/3xYLaRh
@@ -3077,12 +3059,12 @@ http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show
 http://198.100.158.231:1935/live/kurdmaxshowkur1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/MojrqNd.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KURDMAX HD KUR
-http://198.100.158.231:1935/live/kurdmaxkur1/chunklist.m3u8
+https://5aa8c7549bfa9.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/p7eAbYD.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurd نيوز
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lZPTzl"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurd نيوز
 http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ava Entertainment
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
@@ -3156,8 +3138,6 @@ http://stream.piroztv.live/Piroz-TV/index.m3u8
 http://live.ilinktv.xyz:1935/private/BefrinHD_LocalTV/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",NIROJ TV
 http://ilinktv.xyz:1935/private/NirojHD_localDuhok/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Clip TV
-http://cdn1.karwan.tv/clip-tv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Peshmerga TV
 http://baghdad.zinamedia.net/live/peshmergetv/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",AMED TV
@@ -3166,28 +3146,14 @@ http://live.amedradyotv.net:8080/hls/ferat.m3u8
 https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Makka Tv Quran Live
 http://tv.ezanvaktipro.com/hls/quran.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Mix Kurdish
-http://217.74.16.163:9590/live/mixkurdish/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",BANGXWAZEN BADINAN
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="KURDISH",beIN Sport 1 FHD
-http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/393338
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="KURDISH",beIN Sport 2 FHD
-http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/329314
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="KURDISH",beIN 1 Test
-http://pro.netmos.ovh:7355/live/D949817863601/234433529827/12778.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Ld Life Sports
-http://bblive.ddns.net:8080/live/ldsport/ldsport/6939.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Ram Sport
 http://217.74.16.163:9590/live/RAM-TV/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kurdistan Sport
-http://bblive.ddns.net:8080/live/ksport/ksport/935.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Zina Cartoon
 http://baghdad.zinamedia.net/live/zinatvcartoon/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Tom and Jerry
 http://baghdad.zinamedia.net/ku/live-Tom-Jerry/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Helhelok tv
-http://seetvlivee.badinan.xyz:1935/private/HelhelokTV-Kids/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",SHAKROK TV
 http://161.97.142.119:8080/hls/shakroktv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Bask TV
@@ -3198,22 +3164,16 @@ http://baskhd.ddns.net:40/live/ShowTV/stream.m3u8
 https://cdn1.karwan.tv/zayala-tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Infinity TV
 https://cdn1.karwan.tv/ifinity-tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Kanal 21
-http://k21hd.mypsx.net:40/live/KANALI/chunklist_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MED MUZIK
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",TRT KURDI TV
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="NETtv.svn" group-title="KURDISH",NET TV
-http://198.100.158.231:1935/live/nettv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Erbil TV
 http://erbiltv.ddns.net:1935/live/ErbilTv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",KNN TV
 http://knntv.ddns.net:40/live/knn/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Halabja TV
 http://baskhd.ddns.net:40/live/halabjatv/chunklist_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",Znar TV
-http://halowtest.fun:8089/Halowtv/Znartv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",SOZ TV
 http://217.74.16.163:9590/live/soztv/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",SOZ Quran
