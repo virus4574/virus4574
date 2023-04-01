@@ -834,24 +834,6 @@ http://livetv.ktv.zone/67/play.m3u8
 http://livetv.ktv.zone/68/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",67. 3 SAT
 http://livetv.ktv.zone/69/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",78. Telesur
-http://livetv.ktv.zone/80/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",79. Galicia TV Europa
-http://livetv.ktv.zone/81/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",80. AD Sport1
-http://livetv.ktv.zone/82/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",81. Al Sharqiya
-http://livetv.ktv.zone/83/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",82. Al Arabiya
-http://livetv.ktv.zone/84/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",84. Sky News Arabia
-http://livetv.ktv.zone/86/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",85. Dubai TV
-http://livetv.ktv.zone/87/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",86. Dubai Sports
-http://livetv.ktv.zone/88/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",87. Sama Dubai
-http://livetv.ktv.zone/89/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",89. VOX (GER)
 http://livetv.ktv.zone/91/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",90. Record Inter
@@ -906,22 +888,6 @@ http://livetv.ktv.zone/102/play.m3u8
 http://livetv.ktv.zone/1/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",125. RTS Deux
 http://livetv.ktv.zone/2/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",126. SRF 1
-http://livetv.ktv.zone/128/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",127. RSI La 1
-http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",128. Rai 1
-http://livetv.ktv.zone/130/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",129. Rai 2
-http://livetv.ktv.zone/131/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",130. Rai 3
-http://livetv.ktv.zone/132/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",131. Rai News
-http://livetv.ktv.zone/133/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",191. Dorcel TV
-http://livetv.ktv.zone/191/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",210. France 3
-http://livetv.ktv.zone/209/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",211. France 3 Alpes
 http://livetv.ktv.zone/210/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",212. France 3 Alsace
@@ -1153,6 +1119,50 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Action
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Action
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Comedies
+https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Comedies
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Spotlight
+https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Spotlight
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Anime Digital Network
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV BBC Doctor Who
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV BBC Drama
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Documentaires
+https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Documentaires
+https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Drames
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Drames
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Gusto.tv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV L'Atelier des Chefs
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Romance
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Top Films
+https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",Rakuten TV Top Films
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Luxembourg",Chamber TV (1080p)
