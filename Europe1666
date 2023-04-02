@@ -265,6 +265,39 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzzikWorldwideSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Worldwide Serbia
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qYPQaYf.png" group-title="Albanian",Rrokum
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Albanian",RTK 1 HD
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="",RTK 2 HD
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Albanian",RTK 3
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Albanian",RTK 4
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",TV Arta
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/yt1q1x.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",RTV Dukagjini
+https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/ygqkzt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",RTV Besa
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",Kohavision
+https://cdn.vpplayer.tech/agmipnzy/livestream/0E9A6FA7-4ED3-41B8-AAE2-46E7FFE72454/master_file.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",RTV21
+https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/zy1zzz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",Zeri TV
+https://ub1doy938d.gjirafa.net/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/zyqy1y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",TV Prizreni
+https://ub1doy938d.gjirafa.net/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/zy1ztx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",ATV Live
+https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/zyq001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",Kanal10
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/yky0y1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",Syri Vision
+https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8
+
+
 ----------------
 
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Belgium TV
@@ -3464,72 +3497,6 @@ http://51.15.253.148/hls/stream.m3u8
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Afghanistan TV",Tuti
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK1
-http://162.55.88.21/rtk1stream/rtk1.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK2
-http://162.55.88.21/rtk2stream/rtk2.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK3
-http://162.55.88.21/rtk3stream/rtk3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK4
-http://162.55.88.21/rtk4stream/rtk4.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="Albania", RTK1 SAT
-http://162.55.88.21/rtksatstream/rtksat.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",ABC News
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:0 tvg-id="News24.al" group-title="Albania",News 24 (392p)
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 3 (406p)
-https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 24 (406p)
-https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Agro (560p)
-https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Femijë)
-https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Film (406p)
-https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Gjirokastra (560p)
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Korça (560p)
-https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Kukësi (560p)
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Kuvend (560p)
-https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Muzike
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Plus (560p)
-https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Shkollë
-https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Shqip (406p)
-https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Sport
-https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:0 tvg-id="SyriTV.al" group-title="Albania",Syri TV
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV 7 Albania
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Apollon
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Opoja
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",21 Plus)
-http://46.29.169.15:4001/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",ATD
-http://46.99.146.236/0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",Shqiponja
-http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",ALPO
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",7 HD
-https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV SCAN
-http://edge01eu.ekranet.com/scantv/index.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Argentina",5TV (Corrientes)
