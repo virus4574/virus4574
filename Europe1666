@@ -216,51 +216,53 @@ http://rtmp.one.by:2300
 
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bs/mtel.ba.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
-#EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Serbia",BN TV (480p)
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Serbia",BN TV
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Serbia",Red TV (720p)
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Serbia",Red TV
 https://live.rednet.rs/providus/redtv_multi.m3u8
-#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/BLqAC0b.png" group-title="Serbia",Sandzak TV (576p)
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/BLqAC0b.png" group-title="Serbia",Sandzak TV
 https://vod1.laki.eu/sandzak/video.m3u8
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/bE1Vksp.png" group-title="Serbia",TV Duga Plus (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/bE1Vksp.png" group-title="Serbia",TV Duga Plus
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="https://i.imgur.com/I2LoCFF.png" group-title="Serbia",TV Hram (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="https://i.imgur.com/I2LoCFF.png" group-title="Serbia",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-id="PiKanal.rs" tvg-logo="https://i.imgur.com/X4vBCVA.png" group-title="Serbia",TV Pi Canal Pirot (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="PiKanal.rs" tvg-logo="https://i.imgur.com/X4vBCVA.png" group-title="Serbia",TV Pi Canal Pirot
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-logo="https://i.imgur.com/eLvd3yd.png" group-title="Serbia",TV Pirot (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-logo="https://i.imgur.com/eLvd3yd.png" group-title="Serbia",TV Pirot
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" group-title="Serbia",TVCG 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" group-title="Serbia",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" group-title="Serbia",TVCG 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" group-title="Serbia",TVCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Serbia",TVCG MNE (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Serbia",TVCG MNE
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Serbia",EbS+ Live (Europe by Satellite) (1080p)
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Serbia",EbS+ Live (Europe by Satellite)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="https://i.imgur.com/HBPnUD5.png" group-title="Serbia",Kurir TV (360p)
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="https://i.imgur.com/HBPnUD5.png" group-title="Serbia",Kurir TV
 https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
-#EXTINF:-1 tvg-id="MuzzikAMVA2020.rs" tvg-logo="https://i.imgur.com/cgvLP1E.png" group-title="Serbia",Muzzik AMVA 2020 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="" group-title="Serbia",RTV Novi Pazar
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 tvg-id="MuzzikAMVA2020.rs" tvg-logo="https://i.imgur.com/cgvLP1E.png" group-title="Serbia",Muzzik AMVA 2020
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikCafeClubSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Cafe&Club Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikCafeClubSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Cafe&Club Serbia
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikHipHopSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik HipHop Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikHipHopSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik HipHop Serbia
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikJekaSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Jeka Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikJekaSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Jeka Serbia
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikMediteraneoSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Mediteraneo Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikMediteraneoSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Mediteraneo Serbia
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikOKKSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik OKK Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikOKKSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik OKK Serbia
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikReplaySerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Replay Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikReplaySerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Replay Serbia
 https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikRockRollSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikRockRollSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Rock&Roll Serbia
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikSaculatacSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Saculatac Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikSaculatacSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Saculatac Serbia
 https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikTVSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik TV Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikTVSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik TV Serbia
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzzikWorldwideSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Worldwide Serbia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MuzzikWorldwideSerbia.rs" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Serbia",Muzzik Worldwide Serbia
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 ----------------
