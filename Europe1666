@@ -214,6 +214,114 @@ http://rtmp.one.by:2200
 #EXTINF:0 tvg-id="muzika1" group-title="Belarus",Первый Музыкальный RU
 http://rtmp.one.by:2300
 
+#EXTM3U
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Serbia",Klan Kosova
+http://93.157.62.180/KlanKosova/index.m3u8
+#EXTINF:0 tvg-id="KurirTV.ba" group-title="Serbia",Kurir TV (360p)
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:0 tvg-id="KurirTV.ba" group-title="Serbia",Kurir TV (720p)
+http://51.15.154.138/providus/live2805_hq/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",MIS Televizija (720p) [Not 24/7]
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik AMVA 2020 (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Cafe&Club Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik HipHop Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Jeka Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Mediteraneo Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik OKK Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Replay Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Saculatac Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik TV Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik Worldwide Serbia (720p) [Geo-blocked]
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Nisville TV RS (720p)
+http://92.60.237.32:1935/live/nisville/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Pi Canal Pirot (576p) [Not 24/7]
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:0 tvg-id="PinkExtra.rs" group-title="Serbia",Pink Extra (576p)
+http://109.105.201.198/PINKEXTRA/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Pink Family (576p)
+http://109.105.201.198/PINKFAMILY/playlist.m3u8
+#EXTINF:0 tvg-id="PinkFilm.rs" group-title="Serbia",Pink Film (576p)
+http://109.105.201.198/PINKFILM/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Pink Folk 1 (576p)
+http://109.105.201.198/PINKFOLK/playlist.m3u8
+#EXTINF:0 tvg-id="PinkKoncert.rs" group-title="Serbia",Pink Koncert (576p)
+http://109.105.201.198/PINKKONCERT/playlist.m3u8
+#EXTINF:0 tvg-id="PinkMovies.rs" group-title="Serbia",Pink Movies (576p)
+http://109.105.201.198/PINKMOVIES/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Pink n Roll (360p)
+http://109.105.201.198/PINKROLL/playlist.m3u8
+#EXTINF:0 tvg-id="PinkPedia.rs" group-title="Serbia",Pink Pedia (576p)
+http://109.105.201.198/PINKPEDIA/playlist.m3u8
+#EXTINF:0 tvg-id="PinkSciFiFantasy.rs" group-title="Serbia",Pink Sci-Fi & Fantasy (576p)
+http://109.105.201.198/PINKSCIFI/playlist.m3u8
+#EXTINF:0 tvg-id="PinkSerije.rs" group-title="Serbia",Pink Serije (576p)
+http://109.105.201.198/PINKSERIJE/playlist.m3u8
+#EXTINF:0 tvg-id="PinkWorld.rs" group-title="Serbia",Pink World (360p)
+http://109.105.201.198/PINKWORLD/playlist.m3u8
+#EXTINF:0 tvg-id="PinkWorldCinema.rs" group-title="Serbia",Pink World Cinema (576p)
+http://109.105.201.198/PINKWORLDCINEMA/playlist.m3u8
+#EXTINF:0 tvg-id="PinkZabava.rs" group-title="Serbia",Pink Zabava (360p)
+http://109.105.201.198/PINKZABAVA/playlist.m3u8
+#EXTINF:0 tvg-id="RedTV.rs" group-title="Serbia",Red TV (720p)
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:0 tvg-id="RedTV.rs" group-title="Serbia",Red TV (720p)
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:0 tvg-id="RTV1.rs" group-title="Serbia",RTV 1 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:0 tvg-id="RTV1.rs" group-title="Serbia",RTV 1 (576p)
+rtsp://212.200.255.151/rtv1
+#EXTINF:0 tvg-id="RTV2.rs" group-title="Serbia",RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
+#EXTINF:0 tvg-id="RTV2.rs" group-title="Serbia",RTV 2 (576p) [Not 24/7]
+rtsp://212.200.255.151/rtv2
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Sandzak TV (576p)
+https://vod1.laki.eu/sandzak/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Duga Plus (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Hram (576p) [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Pirot (240p) [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Valjevo Plus (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvvaljevoplus
+#EXTINF:0 tvg-id="ext" group-title="Serbia",K23 TV (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/televizijak23
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV K9 [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/kanal_9ns
+#EXTINF:0 tvg-id="ext" group-title="Serbia",RTV Bap (480p)
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",Muzzik (720p)
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Serbia",RTS 1 (720p) [Not 24/7]
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Kikinda [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvkikindalive
+#EXTINF:0 tvg-id="RTVNoviPazar.rs" group-title="Serbia",RTV Novi Pazar
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Kragujevac (576p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/televizijakragujevac
+#EXTINF:0 tvg-id="ext" group-title="Serbia",SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Serbia",TV Belle Amie (540p)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:0 tvg-id="ZicoTV.rs" group-title="Serbia",Zico TV (540p)
+https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/y1k0kk.m3u8
+
 ----------------
 
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Belgium TV
