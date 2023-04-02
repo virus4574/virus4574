@@ -267,7 +267,7 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Albanian",RTK 1 HD
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="",RTK 2 HD
+#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title=""Albanian"",RTSH 2 HD
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Albanian",RTK 3
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
@@ -279,7 +279,22 @@ https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/yt1q1x.m3u8
 https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="" group-title="Albanian",Kohavision
 https://cdn.vpplayer.tech/agmipnzy/livestream/0E9A6FA7-4ED3-41B8-AAE2-46E7FFE72454/master_file.m3u8
-
+#EXTINF:-1 tvg-id="7HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="Albanian",7 HD
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Albanian",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ALPO.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="Albanian",ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="ATD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="Albanian",ATD
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Albanian",News 24
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/albanian.jpg" group-title="Albanian",Peace TV Albanian
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Albanian",TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="Albanian",TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 ----------------
 
 #EXTINF:0 tvg-id="ext" group-title="Belgium",Belgium TV
