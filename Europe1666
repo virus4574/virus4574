@@ -218,46 +218,10 @@ http://rtmp.one.by:2300
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bs/mtel.ba.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Serbia",BN TV (480p)
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="NisvilleTV.rs" tvg-logo="https://i.imgur.com/cbtgd2h.png" group-title="Serbia",Nisville TV RS (720p)
-http://92.60.237.32:1935/live/nisville/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkExtra.rs" tvg-logo="https://i.imgur.com/jPEcmDx.png" group-title="Serbia",Pink Extra (576p)
-http://109.105.201.198/PINKEXTRA/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-logo="https://i.imgur.com/H6IRGOd.png" group-title="Serbia",Pink Family (576p)
-http://109.105.201.198/PINKFAMILY/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-logo="https://i.imgur.com/6gf0gsg.png" group-title="Serbia",Pink Film (576p)
-http://109.105.201.198/PINKFILM/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkFolk1.rs" tvg-logo="https://i.imgur.com/BgvkboG.png" group-title="Serbia",Pink Folk 1 (576p)
-http://109.105.201.198/PINKFOLK/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkKoncert.rs" tvg-logo="https://i.imgur.com/epgj0aB.png" group-title="Serbia",Pink Koncert (576p)
-http://109.105.201.198/PINKKONCERT/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-logo="https://i.imgur.com/6elghS2.png" group-title="Serbia",Pink Movies (576p)
-http://109.105.201.198/PINKMOVIES/playlist.m3u8
-#EXTINF:-1 tvg-id="PinknRoll.rs" tvg-logo="https://i.imgur.com/Ij5XIRL.png" group-title="Serbia",Pink n Roll (360p)
-http://109.105.201.198/PINKROLL/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkPedia.rs" tvg-logo="https://i.imgur.com/JJaE16s.png" group-title="Serbia",Pink Pedia (576p)
-http://109.105.201.198/PINKPEDIA/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkSciFiFantasy.rs" tvg-logo="https://i.imgur.com/kCwpgf7.png" group-title="Serbia",Pink Sci-Fi & Fantasy (576p)
-http://109.105.201.198/PINKSCIFI/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkSerije.rs" tvg-logo="https://i.imgur.com/Hs06WsX.png" group-title="Serbia",Pink Serije (576p)
-http://109.105.201.198/PINKSERIJE/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkWorld.rs" tvg-logo="https://i.imgur.com/ceJnPiG.png" group-title="Serbia",Pink World (360p)
-http://109.105.201.198/PINKWORLD/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkWorldCinema.rs" tvg-logo="https://i.imgur.com/rbzHDEo.png" group-title="Serbia",Pink World Cinema (576p)
-http://109.105.201.198/PINKWORLDCINEMA/playlist.m3u8
-#EXTINF:-1 tvg-id="PinkZabava.rs" tvg-logo="https://i.imgur.com/VqF3P6S.png" group-title="Serbia",Pink Zabava (360p)
-http://109.105.201.198/PINKZABAVA/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Serbia",Red TV (720p)
 https://live.rednet.rs/providus/redtv_multi.m3u8
-#EXTINF:-1 tvg-id="RTV1.rs" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Serbia",RTV 1 (576p) [Not 24/7]
-mmsh://212.200.255.151/rtv1
-#EXTINF:-1 tvg-id="RTV2.rs" tvg-logo="https://i.imgur.com/skpr66t.png" group-title="Serbia",RTV 2 (576p) [Not 24/7]
-mmsh://212.200.255.151/rtv2
-#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/Vn0DKBN.png" group-title="Serbia",RTV AS (576p)
-https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="https://i.imgur.com/BLqAC0b.png" group-title="Serbia",Sandzak TV (576p)
 https://vod1.laki.eu/sandzak/video.m3u8
-#EXTINF:-1 tvg-id="TelevizijaTV7.me" tvg-logo="https://i.imgur.com/BzA57wA.png" group-title="Serbia",Televizija TV7 (480p)
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/index.m3u8
 #EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/bE1Vksp.png" group-title="Serbia",TV Duga Plus (480p) [Not 24/7]
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="https://i.imgur.com/I2LoCFF.png" group-title="Serbia",TV Hram (576p) [Not 24/7]
