@@ -745,10 +745,10 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone-pt.xml.gz"
 #EXTINF:-1 group-title="Portugal" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -759,7 +759,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjMgMjoxNDo1OCBQTSZoYXNoX3ZhbHVlPWN0N3lNTmIxL1AvYUxQaTlxV0JtaEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZWFiN2FlMy05ZWVjLTRjZTYtOWNkNi04YmRkZjdkYmFlYjk=/
 #EXTINF:-1 group-title="Portugal" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
