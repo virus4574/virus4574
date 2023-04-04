@@ -4884,12 +4884,8 @@ https://s6.hopslan.com/sat1q1/index.m3u8?token=80fdb1890923995f12a5b82ab964b6710
 https://s6.hopslan.com/voxq1/index.m3u8?token=1bd3abc8ae93ee580933a2c1b4cf8ee61bfcc137-cf975fe93b7b777b16dfd91a2e90c6c7-1670632776-1670621976
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67197_dark_360w_270h.png" group-title="DEUTSCH",Kabel 1
 https://s6.hopslan.com/kabel1q1/index.m3u8?token=000673a0c6c10b5b8c7a53811c6434ad12e0a4f8-3a8fe06ca9b40d594883486b183a692c-1670632778-1670621978
-#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" group-title="DEUTSCH",Das Erste Ⓖ
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",de:Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://i.imgur.com/JosNLQ0.png" group-title="DEUTSCH",ZDF Ⓖ
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" group-title="DEUTSCH",3sat Ⓖ
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/640px-Arte_Logo_2011.svg.png" group-title="DEUTSCH",ARTE Ⓖ
@@ -5046,8 +5042,6 @@ http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
 http://sc.id-tv.kz/DaVinci_38_39.m3u8
 #EXTINF:0 tvg-id="DasErste.de" group-title="DEUTSCH",Das Erste
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:0 tvg-id="DasErste.de" group-title="DEUTSCH",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DASDING 90.8
 https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
 #EXTINF:0 tvg-id="DeutschesMusikFernsehen.de" group-title="DEUTSCH",Deutsches Musik Fernsehen
