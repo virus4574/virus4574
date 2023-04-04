@@ -2666,6 +2666,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-1.png" group-title="spania", LA 1 CATALUNYA
 https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr_720.m3u8
+#EXTINF:-1 group-title="spania" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="spania" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 group-title="spania" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESAJ4500019AM" tvg-id="ESAJ4500019AM" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/88/ESAJ4500019AM_20220323T082019.png" group-title="spania",Comedias - Rakuten TV
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
