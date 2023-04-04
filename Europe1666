@@ -2600,14 +2600,30 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="spania",spania TV
 https://bit.ly/3xYLaRh
-#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-clan.png" group-title="spania", CLAN
-https://rtvelivestreamv3.akamaized.net/clan/clan_main_dvr_720.m3u8
-
-
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ➾ rtveᴴᴰ 
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ➾ La 1ᴴᴰ 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",🇪🇸 ➾ La 2ᴴᴰ 
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",🇪🇸 ➾ La 2ᴴᴰ 
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://sck.pm/sc9k",🇪🇸 ➾ Galicia Americaᴴᴰ 
+http://america-crtvg.flumotion.com:80/crtvg/america_high/chunks.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://sck.pm/sc9k",🇪🇸 ➾ Galicia Europaᴴᴰ 
+http://europa-crtvg.flumotion.com:80/crtvg/europa_high/chunks.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",🇪🇸 ➾ Aragon tv Internacional
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://www.telemadrid.es/2018/08/28/favicon_ICO.ico?hash=d7c54ef560fbc93645f196c4aa138aa3fbe9250f",🇪🇸 ➾ TeleMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net:443/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",🇪🇸 ➾ La Otra
+https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" group-title="spania" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist.m3u8
 #EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-1.png" group-title="spania", LA 1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
 #EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-2.png" group-title="spania", LA 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 #EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-24h.png" group-title="spania", 24H
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 #EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-24h.png" group-title="spania", 24H
