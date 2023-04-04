@@ -4948,57 +4948,6 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="DEUTSCH",Nick Ⓖ
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="fox-hd" group-title="DEUTSCH",Fox HD
-http://89.252.203.170:8000/play/a018/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Kabel Eins Doku HD
-http://89.252.203.170:8000/play/a007/index.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="DEUTSCH",MTV HD
-http://89.252.203.170:8000/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NITRO HD
-http://89.252.203.170:8000/play/a010/index.m3u8
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DEUTSCH",Pro7 MAXX HD
-http://89.252.203.170:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="Pro7.de" group-title="DEUTSCH",ProSieben HD
-http://89.252.203.170:8000/play/a003/index.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL HD
-http://89.252.203.170:8000/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="RTL2.de" group-title="DEUTSCH",RTLII HD
-http://89.252.203.170:8000/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="Sat1.de" group-title="DEUTSCH",SAT.1 HD
-http://89.252.203.170:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-id="Sixx.de" group-title="DEUTSCH",SIXX HD
-http://89.252.203.170:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="DEUTSCH",SUPER RTL HD
-http://89.252.203.170:8000/play/a00z/index.m3u8
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="DEUTSCH",SYFY HD
-http://89.252.203.170:8000/play/a019/index.m3u8
-#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="DEUTSCH",Sky Cinema Best Of HD
-http://89.252.203.170:8000/play/a017/index.m3u8
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="DEUTSCH",Sky Cinema Family
-http://89.252.203.170:8000/play/a01f/index.m3u8
-#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="DEUTSCH",Sky Cinema Thriller HD
-http://89.252.203.170:8000/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sky Krimi HD
-http://89.252.203.170:8000/play/a013/index.m3u8
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="DEUTSCH",Sky Sport Bundesliga 1 HD
-http://89.252.203.170:8000/play/a016/index.m3u8
-#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="DEUTSCH",Sky Sport Bundesliga 4 HD
-http://89.252.203.170:8000/play/a01d/index.m3u8
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="DEUTSCH",TLC HD
-http://89.252.203.170:8000/play/a00k/index.m3u8
-#EXTINF:0 tvg-id="TNTFilm.de" group-title="DEUTSCH",TNT Film HD
-http://89.252.203.170:8000/play/a015/index.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="DEUTSCH",VOX HD
-http://89.252.203.170:8000/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Warner TV Film HD
-http://89.252.203.170:8000/play/a01o/index.m3u8
-#EXTINF:0 tvg-id="ZeeOne.de" group-title="DEUTSCH",Zee One HD
-http://89.252.203.170:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="Kabel.de" group-title="DEUTSCH",kabel eins HD
-http://89.252.203.170:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ntv.de" group-title="DEUTSCH",n-tv HD
-http://89.252.203.170:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="DEUTSCH",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF HD(مشغل GSE)
