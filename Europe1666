@@ -2600,302 +2600,119 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="spania",spania TV
 https://bit.ly/3xYLaRh
-#EXTINF:0 tvg-id="ext" group-title="spania",7 La Rioja
-https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",7 Noticias
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",25 TV
-https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",101 Tele Antequera
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",101TV Malaga
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0 tvg-id="324.es" group-title="spania",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
-#EXTINF:0 tvg-id="324.es" group-title="spania",324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Activa TV
-https://streamtv.mediasector.es/hls/activatv/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Alacantí TV
-https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Alcarria TV
-http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="Apunt.es" group-title="spania",À Punt
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Aragón Radio (Zaragoza
-https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
-#EXTINF:0 tvg-id="AragonTV.es" group-title="spania",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Bailén TV
-http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",betevé
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:0 tvg-id="ext" group-title="spania",Bon Dia TV
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 10 Empordà
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="spania",Canal 24 Horas
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@429494/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 25 TV (Barbastro)
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 56
-https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal 2000 La Solana
-http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Diocesano
-https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Doñana
-https://secure5.todostreaming.es/live/division-alm.m3u8
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="spania",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Málaga RTV
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal San Roque
-https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz
-http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz
-http://217.125.136.93:8080/canalsierradecadiz720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Sierra de Cádiz)
-http://217.125.136.93:8080/canalsierradecadiz576.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Canal Super 3
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
-#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",CCMA Exclusiu 1
-https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",CCMA Exclusiu 2
-https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",CMM TV
-http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 1
-https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 2
-https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 3
-https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 4
-https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Congreso de los Diputados 5
-https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Costa Noroeste TV
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Diez TV
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",EiTB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:0 tvg-id="ETB1.es" group-title="spania",EITB
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",El 33
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",ESNE TV
-https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="spania",Esport3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="spania",Esport3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ETB1.es" group-title="spania",ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",ETB Eventos 1
-https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Goiena Eus
-https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Hamaika Telebista
-https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Arabic
-https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Baladas
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Chill Out
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Classic
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Dance
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Folk
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Gym
-https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Hits
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Jazz
-https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Kids
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Latin
-https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Relax
-https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",HQM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Imás TV
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Interalmeria TV
-https://interalmeria.tv/directo/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Islatel (404p
-https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Junta Castilla y León
-https://16escalones-live2.flumotion.com/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="spania",La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Avila
-https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Bierzo
-https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Burgos
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Leon
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Palencia (270p
-https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Salamanca
-https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Segovia
-https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Soria
-https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Valladolid
-https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 8 Zamora
-https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:0 tvg-id="LaOtra.es" group-title="spania",LaOtra
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La Urban TV
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Levante TV (320p
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Logos TV
-http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Logos TV
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Maestrat TV
-https://stream.maestrat.tv/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mar TV
-http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Mírame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",NIUS
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Noroeste TV
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Oizmendi Telebista (404p
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
-#EXTINF:0 tvg-id="OndaCadiz.es" group-title="spania",Onda Cádiz
-https://adc-hls.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Pequeradio
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-clan.png" group-title="spania", CLAN
+https://rtvelivestreamv3.akamaized.net/clan/clan_main_dvr_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-clan.png" group-title="spania", CLAN OPC.2
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/index_1500_av-b.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-1.png" group-title="spania", LA 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-1.png" group-title="spania", LA 1 OPC.2
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-2.png" group-title="spania", LA 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-2.png" group-title="spania", LA 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-24h.png" group-title="spania", 24H
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-24h.png" group-title="spania", 24H
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-tdp.png" group-title="spania", TDP
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-tdp.png" group-title="spania", TDP OPC.2
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_2800_av-p.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-accion.png" group-title="spania", RAKUTEN ACCION
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-comedia.png" group-title="spania", RAKUTEN COMEDIA
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-drama.png" group-title="spania", RAKUTEN DRAMA
+https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-en-familia.png" group-title="spania", RAKUTEN EN FAMILIA
+https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-stories.png" group-title="spania", RAKUTEN STORIES
+https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-mytime.png" group-title="spania", RAKUTEN MY TIME
+https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/1280x720_2560800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-tastemade.png" group-title="spania", RAKUTEN TASTEMADE
+https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/1280x720_2855600/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-explore.png" group-title="spania", RAKUTEN EXPLORE
+https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-explorebytvplayer-es-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-love-nature.png" group-title="spania", RAKUTEN LOVE NATURE
+https://amg00090-blueantmedia-loncastilian-rakuten-9j56c.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-lovenature-castilian-rakuten/CDN/1280x720_2525600/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-clubbing.png" group-title="spania", RAKUTEN CLUBBING
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-qwest-jazz-and-beyond.png" group-title="spania", RAKUTEN QWEST JAZZ & BEYOND
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-qwest-mix.png" group-title="spania", RAKUTEN QWEST MIX
+https://qwestmix-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestmix-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-qwest-classic.png" group-title="spania", RAKUTEN QWEST CLASSIC
+https://qwestclassic-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestclassic-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-insight-tv.png" group-title="spania", RAKUTEN INSIGHT TV
+https://insighttv-spa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-insighttv-spa-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rakuten-scifi.png" group-title="spania", RAKUTEN SERIES SCIFI
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b304838b-e36a-4a7d-88df-d815dfc16a69/5.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-runtime.png" group-title="spania", RUNTIME
+https://ammo-espanol-plex.amagi.tv/playlistR1080p.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-paramount-network.png" group-title="spania", PARAMOUNT NETWORK
+https://cdn.edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount-avc1_1480000=10002-mp4a_144800_spa=20001.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-cosmo.png" group-title="spania", COSMO
+http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w292592912_b3128000_sling.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-pequeradio.png" group-title="spania", PEQUERADIO TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Platzi TV
-https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",+24)
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Punt 3 Vall Uixó
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Radio Televisión Melilla
-https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTVE)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTV Vida
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Sal Televisión
-https://www.tdtchannels.com/stream/saltv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Sevilla FC TV
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Solidaria TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TAC 12
-https://nodo01-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TAC 12
-https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
-#EXTINF:0 tvg-id="Taroteame.es" group-title="spania",Tarotéame
-http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:0 tvg-id="Telemadrid.es" group-title="spania",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TeleRibera
-http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Tele Safor
-https://video.telesafor.com/hls/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",teve.cat
-https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Tuya La Janda Televisión
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV3CAT
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV3CAT
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV3 Catalunya
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Artequatre
-https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:0 tvg-id="tvG2.es" group-title="spania",tvG2
-https://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="tvG2.es" group-title="spania",tvG2
-https://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG América
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Cultural
-https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="fox-crime" group-title="spania",TVG Europa
-https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Evento 1
-https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Evento 5
-https://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Infantil
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Momento
-https://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG Musigal
-https://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVM Córdoba (414p
-http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVM Córdoba (414p
-https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TV Vega Baja)
-http://185.29.68.24/tvb.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",A3Series Internacional
-https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:0 tvg-id="La7.it" group-title="spania",LA7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 1 Canarias)
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-telemadrid.png" group-title="spania", TELEMADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-telemadrid-la-otra.png" group-title="spania", TELEMADRID LA OTRA
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-8-mediterraneo.png" group-title="spania", LA 8 MEDITERRANEO
+https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live1500/index.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-canal-sur-andalucia.png" group-title="spania", CANAL SUR ANDALUCIA
+https://cdnlive.shooowit.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-canal-extremadura.png" group-title="spania", CANAL EXTREMADURA
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-a-punt.png" group-title="spania", A PUNT
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-levante-tv.png" group-title="spania", LEVANTE TV
+https://live-edge-lon-1.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/levantetvlive/index.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-televalencia.png" group-title="spania", TELE VALENCIA
+https://live-edge-lon-2.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-onda-valencia.png" group-title="spania", ONDA VALENCIA
+https://cloudvideo.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-alicanti-tv.png" group-title="spania", ALICANTI TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-tv-de-alicante.png" group-title="spania", TELEVISION DE ALICANTE
+https://emision.arpamedia.es:4343/hls/emisionalicante.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-mtmad.png" group-title="spania", MTMAD
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-logos-tv.png" group-title="spania", LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/chunklist_w100646042.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-logos-kids.png" group-title="spania", LOGOS KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w989363810.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-logos-tv-salud.png" group-title="spania", LOGOS SALUD
+https://streamer1.streamhost.org/salive/logossaludH/chunklist_w979516178.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-logos-tv-estudio.png" group-title="spania", LOGOS ESTUDIO
+https://streamer1.streamhost.org/salive/logosdirectaH/chunklist_w1957788111.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-univers-tv.png" group-title="spania", UNIVERS TV
+https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/chunklist_w826415828.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-one-tv.png" group-title="spania", ONE TV
+https://limited23.todostreaming.es/live/onesport-livestream.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-codigo-tv.png" group-title="spania", CODIGO TV
+https://streaming-audio-1.magentalabs.es:19360/codigotv/codigotv.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-rt.png" group-title="spania", RT
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-dw.png" group-title="spania", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-france24.png" group-title="spania", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-hispan-tv.png" group-title="spania", HISPAN TV
+https://live.presstv.ir/live/live.smil/chunklist_w287376598_b644100_slen.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-1.png" group-title="spania", LA 1 CATALUNYA
+https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-la-2.png" group-title="spania", LA 2 CATALUNYA
+https://rtvelivestreamv3.akamaized.net/cat/la2_cat_main_dvr_720.m3u8
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-super3.png" group-title="spania", SUPER 3 CATALUNYA
+https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b4128000_DVR.m3u8
+
+#EXTINF: 0 tvg-logo="https://tvlatina.github.io/m3u-ssiptv/logos/es-7-region-murcia.png" group-title="spania", 7 REGION MURCIA
+https://obelix.nopiensomas.com/stream/abr/first_720.m3u8
 #EXTINF:-1 channel-id="samsung-ESAJ4500019AM" tvg-id="ESAJ4500019AM" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/88/ESAJ4500019AM_20220323T082019.png" group-title="spania",Comedias - Rakuten TV
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-ESAJ4500024LR" tvg-id="ESAJ4500024LR" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20220323T082025.png" group-title="spania",Euronews en directo
