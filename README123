@@ -160,19 +160,6 @@ http://warkop.cf/80/bein/10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra⚽️
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS XTRA 1HD
-http://87.120.36.196:28888/udp/239.17.1.26:1234
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS XTRA 2HD
-http://87.120.36.196:28888/udp/239.17.1.27:1234
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS PREMIUM 1HD
-http://87.120.36.196:28888/udp/239.17.1.97:1234
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS PREMIUM 2HD
-http://87.120.36.196:28888/udp/239.17.1.98:1234
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS PREMIUM 3HD
-http://87.120.36.196:28888/udp/239.17.1.99:1234
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]BEIN SPORTS NBA HD
-http://87.120.36.196:28888/udp/239.17.1.100:1234
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 1 Premium FHD" tvg-logo="https://i.ibb.co/2yrMX3d/p1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN ⚽ 1 Premium FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 2 Premium FHD" tvg-logo="https://i.ibb.co/Tr9Ps9f/p2.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN ⚽ 2 Premium FHD
@@ -196,79 +183,6 @@ http://87.120.36.196:28888/udp/239.17.1.100:1234
 #EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 2 EN HD" tvg-logo="https://i.ibb.co/ydTHJb7/2enhd.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",⚽ | beIN Sports 2 EN HD
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 3 EN HD" tvg-logo="https://i.ibb.co/DC2r5T0/3enhd.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",⚽ | beIN Sports 3 EN HD
-
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="BEIN SPORTS1",QA: beIN Sports Premium 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/109
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="BEIN SPORTS1",QA: beIN Sports Premium 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280145
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="BEIN SPORTS1",QA: beIN Sports Premium 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280249
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="BEIN SPORTS1",QA: beIN Sports 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/100
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="BEIN SPORTS1",QA: beIN Sports 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/101
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="BEIN SPORTS1",QA: beIN Sports 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/102
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="BEIN SPORTS1",QA: beIN Sports 4
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/103
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="BEIN SPORTS1",QA: beIN Sports 5
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/104
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="BEIN SPORTS1",QA: beIN Sports 6
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/105
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="BEIN SPORTS1",QA: beIN Sports 7
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/106
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="QA: beIN Sports AFC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5a43b04dad6fc10852b84369bf4226c3.png" group-title="BEIN SPORTS1",QA: beIN Sports AFC
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296113
-#EXTINF:-1 tvg-id="beinsports2afc.qa" tvg-name="QA: beIN Sports AFC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a6b48b1b17ffce6736fa804d10ab5015.png" group-title="BEIN SPORTS1",QA: beIN Sports AFC 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296115
-#EXTINF:-1 tvg-id="beinsports3afc.qa" tvg-name="QA: beIN Sports AFC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/dd2dfdddf7a246cecc4752a917da0a9a.png" group-title="BEIN SPORTS1",QA: beIN Sports AFC 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296119
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="BEIN SPORTS1",QA: beIN Sports English 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/110
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="BEIN SPORTS1",QA: beIN Sports English 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/111
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="BEIN SPORTS1",QA: beIN Sports English 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267769
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="QA: beIN Sports Max 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/9a1e4669f1aee94451e4c865bed6d009.png" group-title="BEIN SPORTS1",QA: beIN Sports Max 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296991
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="QA: beIN Sports Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/676f68d7821d270b1e0403c3a04fa06e.png" group-title="BEIN SPORTS1",QA: beIN Sports Max 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/199001
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/399e773b5d324d6ac7d9b1d77de11e97.png" group-title="BEIN SPORTS1",QA: beIN Sports Max 4
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/13813
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png" group-title="BEIN SPORTS1",QA: beIN Sports NBA
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/15962
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="QA: beIN Sports News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="BEIN SPORTS1",QA: beIN Sports News
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1266
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="QA: beIN Sports Xtra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="BEIN SPORTS1",QA: beIN Sports Xtra 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290037
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="BEIN SPORTS1",QA: beIN Sports Xtra 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283294
-
-
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Beinp 1
-http://62.138.18.19:11001/live/beinp1.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Beinp 2
-http://62.138.18.19:11001/live/beinp2.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Beinp 3
-http://62.138.18.19:11001/live/beinp3.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Bein 1
-http://62.138.18.19:11001/live/bein1.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Bein 2
-http://62.138.18.19:11001/live/bein2.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Bein 3
-http://62.138.18.19:11001/live/bein3.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Bein 4
-http://62.138.18.19:11001/live/bein4.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Bein 5
-http://62.138.18.19:11001/live/bein5.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Bein 6
-http://62.138.18.19:11001/live/bein6.ts?uid=ipaudio
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",prem 1
-http://radio.gogo-stalker.com:8080/bein1dz/mpegts
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",prem 2
-http://radio.gogo-stalker.com:8080/bein2dz/mpegts
-#EXTINF:0 tvg-id="ext" group-title="RADIO BEIN SPORTS",Prem 3 
-http://radio.gogo-stalker.com:8080/raddz10/mpegts
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
