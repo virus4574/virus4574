@@ -3761,7 +3761,7 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/14760698.png" group-title="|TR|🇹🇷❤️TURKEY",TRT SPOR
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11342765.png" group-title="|TR|🇹🇷❤️TURKEY",TRT SPOR YILDIZ
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/126788
+
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="|TR|🇹🇷❤️TURKEY",TRT HABER
 https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="|TR|🇹🇷❤️TURKEY",TRT TÜRK
@@ -3786,17 +3786,12 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014050.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA TV LISE
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT 1 FHD
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ATV UHD
 https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="|TR|🇹🇷❤️TURKEY",ATV ᵁᴴᴰ⁺™
 http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="|TR|🇹🇷❤️TURKEY",A2 ᵁᴴᴰ⁺
 http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
-#EXTINF:-1 tvg-id="2559" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="|TR|🇹🇷❤️TURKEY",Azad TV
-http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="|TR|🇹🇷❤️TURKEY",STAR TV UHD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="|TR|🇹🇷❤️TURKEY",STAR TV HD
@@ -3813,12 +3808,6 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",FOX TV HD
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://bit.ly/2VIYmtm"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT Belgesel TR
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://bit.ly/2VIYmtm"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT Belgesel TR
-https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://bit.ly/3u2Bjs1"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT Belgesel TR
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="|TR|🇹🇷❤️TURKEY",TV8 UHD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="|TR|🇹🇷❤️TURKEY",TV8 UHD
@@ -3829,6 +3818,10 @@ http://135.125.234.9:8081/tv8/index.m3u8
 http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/2318/index.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV8.5 UHD
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
+#EXTINF:0 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="|TR|🇹🇷❤️TURKEY",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="|TR|🇹🇷❤️TURKEY",Kanal 7
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR|🇹🇷❤️TURKEY",DIYANET TV
 https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR|🇹🇷❤️TURKEY",DIYANET TV
@@ -3839,20 +3832,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" logo="https://bit.ly/3yUIowe", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA ILK
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA ILK
-https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1JbF8xB/ortaoku22.png.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA ORTA
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1JbF8xB/ortaoku22.png.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA ORTA
-https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/v42mWjF/lise22.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA LISE
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/v42mWjF/lise22.png" group-title="|TR|🇹🇷❤️TURKEY",TRT EBA LISE
-https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="|TR|🇹🇷❤️TURKEY",TRT ÇOCUK (backup)
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TEVE2 UHD
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ATV Avrupa 
@@ -3915,8 +3894,6 @@ http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" tvg-logo="https://i.resimyukle.xyz/MH7c3O.jpeg",NR1 TÜRK HD
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
-#EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" tvg-logo="https://i.resimyukle.xyz/cVa0V2.jpeg" tvg-id="TRTMuzik.tr",TRT MÜZIK HD
-https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" tvg-logo="https://i.resimyukle.xyz/RWSaNc.png" tvg-id="DreamTurk.tr",DREAM TÜRK HD
 https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" tvg-logo="https://i.resimyukle.xyz/55LeUG.jpg" tvg-id="PowerTV.tr",POWER TV HD
@@ -3929,10 +3906,6 @@ http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="|TR|🇹🇷❤️TURKEY", A SPOR UHD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="|TR|🇹🇷❤️TURKEY", TRT SPOR 1 HD
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="|TR|🇹🇷❤️TURKEY", TRT SPOR 2 HD
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="|TR|🇹🇷❤️TURKEY", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR|🇹🇷❤️TURKEY",GALATASARAY TV
@@ -3945,27 +3918,8 @@ http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png" group-title="|TR|🇹🇷❤️TURKEY",TAY TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-
-#EXTINF:0 tvg-id="UcankusTV.tr" group-title="|TR|🇹🇷❤️TURKEY",UçanKuş TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Bein Sports Haber+
-http://antalya.tvizlehd.com/live/beinsporthaber.m3u8
-https://59c7ea6bec1c6.streamlock.net/live/beinsporthaber.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Show(مشغل GSE)
-http://antalya.tvizlehd.com/live/showtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Kanal D(مشغل GSE)
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Kanal D(مشغل GSE)+
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Kanal 7
-https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Kanal 7+
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:0 tvg-id="YabanTV.tr" group-title="|TR|🇹🇷❤️TURKEY",Yaban TV
-http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="|TR|🇹🇷❤️TURKEY",Star TV HD
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="yaban tv" tvg-name="TR: Yaban TV HD" tvg-logo="https://bit.ly/3Ugw9E9" group-title=""|TR|🇹🇷❤️TURKEY",Yaban TV HD
+https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w2128911474.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="|TR|🇹🇷❤️TURKEY",POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="|TR|🇹🇷❤️TURKEY",POWER TÜRK
@@ -4790,123 +4744,6 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-8ZETT6ASNcw/X6rtovIj1xI/AAAAAAAAAPsc/pZvpgfiKKxcqEf20KffuceVQFCLwV0cS/ PNG", ViZYON 58 SiVAS
 http://yerelmedya.tv:1935/vizyon58/bant1/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPOR 1 HD (MAC SAATI)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: BEIN SPOR 1 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/63445
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 1 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40760
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 UHD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 1 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40761
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 (GECIKMESIZ)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 1 (GECIKMESIZ)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40762
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BeIN SPORTS 1 4K (2160P)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: BeIN SPORTS 1 4K (2160P)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40759
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 HD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40763
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 UHD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 2 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40764
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 (Yedek)" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 2 (Yedek)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40765
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 HD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 3 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40766
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 UHD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 3 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40767
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: Bein SPORTS 4 HD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Bein SPORTS 4 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40768
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 UHD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: beIN SPORTS 4 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40769
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: beIN SPORTS 5 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140573
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 UHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: beIN SPORTS 5 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140574
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN SPORTS MAX 1 UHD" tvg-logo="https://i.ibb.co/hLm58rM/bein-sports-max-1-qa-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: beIN SPORTS MAX 1 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40770
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN SPORTS MAX 2 UHD" tvg-logo="https://i.ibb.co/Nn04gp5/bein-sports-max-2-qa-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: beIN SPORTS MAX 2 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40771
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/sbpWcfv/bein-sports-haber-qa-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: beIN SPORTS HABER HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40758
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 1 FHD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104602
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 1 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104665
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 2 FHD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104129
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 2 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104666
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 3 FHD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104603
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 3 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104667
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 4 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106418
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 4 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/141289
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 5 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106421
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 5 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106420
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 6 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106423
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 6 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106422
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 7 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106526
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 7 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106525
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 8 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106528
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EXXEN SPORT 8 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106527
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Tivibu SPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/154982
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 1 HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Tivibu SPOR 1 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40772
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Tivibu SPOR 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40773
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Tivibu SPOR 3 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40774
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 4 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F885%2Ftivibu-spor-4-1.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: Tivibu SPOR 4 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/145502
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR UHD" tvg-logo="https://i.ibb.co/CwXHTHp/spor-smart-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: SMARTSPOR UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40775
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR HD" tvg-logo="https://i.ibb.co/CwXHTHp/spor-smart-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: SMARTSPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40776
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTSPOR 2 HD" tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: SMARTSPOR 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/98598
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT UHD" tvg-logo="https://i.ibb.co/Npb6g2P/s-sport-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: S SPORT UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40777
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="https://i.ibb.co/Npb6g2P/s-sport-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: S SPORT HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40778
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: S SPORT 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/82732
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +" tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: S SPORT +
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140501
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/6HLY6nZ/index.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EUROSPORT 1 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40780
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/1KZbZDy/Eurosport2.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: EUROSPORT 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40781
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://cors.zimjs.com/http://tv.cinegold.vip:8080/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: TRT SPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40782
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR UHD" tvg-logo="https://cors.zimjs.com/http://tv.cinegold.vip:8080/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: TRT SPOR UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40783
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: A SPOR HD+
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/45700
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: A SPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40784
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiGHTBOX HD" tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: FiGHTBOX HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/60290
-#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV HD" tvg-logo="https://i.ibb.co/S6NDPm8/fbtv-fenerbahce.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: FB TV HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40786
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: GS TV HD" tvg-logo="https://i.ibb.co/r4wcYJD/galatasaray-tv.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: GS TV HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40787
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV" tvg-logo="https://i.ibb.co/vk80hbr/nb.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: NBA TV
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40788
-#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD" tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: TAY TV HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/60289
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: T.A.Y TV" tvg-logo="https://i.ibb.co/8cv6bs6/turkiye-jokey-kulubu.png" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: T.A.Y TV
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40789
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY Sport",TR: TRT SPOR YILDIZ
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/126788
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="DEUTSCH",DEUTSCH TV
 https://bit.ly/3xYLaRh
