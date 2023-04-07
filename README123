@@ -620,8 +620,6 @@ https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/U4mZPbE.png",[$]A SPOR HD🇹🇷
 http://66.160.192.241/aspor/index.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/U4mZPbE.png",[$]A SPOR🇹🇷
-http://trkvz-live.daioncdn.net:80/aspor/aspor_1080p.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/vYyd6lA.png",[$]TRT SPOR HD🇹🇷
 http://66.160.192.241/trtspor/index.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/vYyd6lA.png",[$]TRT SPOR 🇹🇷
@@ -3953,7 +3951,7 @@ http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" tvg-logo="https://i.resimyukle.xyz/6BxQ6c.png" tvg-id="KralTV.tr",KRAL TV HD
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="|TR|🇹🇷❤️TURKEY", A SPOR UHD
-https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="|TR|🇹🇷❤️TURKEY", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR|🇹🇷❤️TURKEY",GALATASARAY TV
@@ -4769,28 +4767,8 @@ http://54.37.162.234:30124/kanal42/kanal42/playlist.m3u8
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-e0hX43YpPc4/Xos44ubcydI/AAAAAAAAALbI/WjQq7w2wVtwLE161600NBAiqtl0sGQc/ tv52-yeni.png", TV 52 HD
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130 ", TV 63 URFA [OYNAT]
-http://212.28.87.162:8000/play/a02p/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUJJooDKCorvil3J_3sZAVNNVQHgKsoZu1TwmvyKzdJsAcmZydYifqTHDicqcu1d98gccBgbXiKhmHvsEW5K2rSrmrP0XUVPm3n-zS8cqvHXCeR5Hkvyks7E7dogPn5BaCVWlJVpHCC2wapKvaQLttHw5oppYvHblW1XgfUB4QwoPByi_qbARSbJWGTg/s150/tv-264 -izle-vipotv-turkey.png", TV 264 SAKARYA TV
-http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-Kb0Re66PGgQ/YUA2ixQeKFI/AAAAAAAAAUas/0pQKDaw3vzkDSp3WbxjX5rx604QSCL/YCLAJSCL. png", TRAKYA TÜRK HD
-https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-Kb0Re66PGgQ/YUA2ixQeKFI/AAAAAAAAAUas/0pQKDaw3vzkDSp3WbxjX5rx604QSCL/YCLAJSCL. png", TRAKYA TÜRK YEDEK
-https://helga.iptv2022.com/Trakya_Turk_TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjA6vLJ8cC5rZkJstY5DxZEIpUguAxxRO3-PRimP01Z2qW5LoSa4-VZs7tcjFxSuPDAoMcEDFGAC9kxJ8V8kTSB7d9xOxHOksQ8qkduYbkqzbCZWfQBQt2TwlJb1KlBpFIrohmAyZy25Me4O18Y4pnUSvLAH3QJQXbR7ABfgO460gaS88CNGfrhv1w3Tw=w139-h44", TOKAT TV
-https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw0gSNrG4C24T6WFoth9UElz0xWOGf8TzIjnmGfyQ_YAGBPBAsuDPowdeAl-s09HTpjGUSk4p_p4zAbcoC9rgNzdQnacplJya9Swi_nV-lMbALGFO5LAVaoSauGetiPVyoVhbJ7BHEChjJCHPbd7IwIZjrmIGrAC59TP4m66ixkQcg98cpZYKBRxDuMA/s150/tokat -super-tv-radyo-izle-vipotv-turkiye.png", TURHAL SÜPER TV
-http://50.7.136.162:1935/canlitv/tokatsupertv/chunklist_w1423267677.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw0gSNrG4C24T6WFoth9UElz0xWOGf8TzIjnmGfyQ_YAGBPBAsuDPowdeAl-s09HTpjGUSk4p_p4zAbcoC9rgNzdQnacplJya9Swi_nV-lMbALGFO5LAVaoSauGetiPVyoVhbJ7BHEChjJCHPbd7IwIZjrmIGrAC59TP4m66ixkQcg98cpZYKBRxDuMA/s150/tokat -super-tv-radyo-izle-vipotv-turkiye.png", TURHAL SÜPER TV YEDEK
-https://helga.iptv2022.com/TokatsuperTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-ixODbZD4LdU/YHIKJfVd1OI/AAAAAAAASiA/k6pLIjWk7ZMuw08KaNp12mVHQF24lfE/ urfa.png", UR FANATİK TV
-http://yerelmedya.tv:1935/urfanatiktv/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-ixODbZD4LdU/YHIKJfVd1OI/AAAAAAAASiA/k6pLIjWk7ZMuw08KaNp12mVHQF24lfE/ urfa.png", UR FANATİK TV YEDEK
-https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitFXoCUDvRsanj82H-Fvt0XVaIlpyaMqMa-pycb7jEoGmmUVnd2PHPKH_hh06MiN9-Q6MmNnwbbIyZ1L4_4DLzM6Vv66PCxe69-AY-pefnPdGUh8UpTmW5K8BOQNzzBIzI -VSvu1tbEkWok52T4BdA_dQQEoRKziUGKevdvIJmi5ukLQzNZbUqnyQeWw", VAN GÖLÜ TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://1.bp.blogspot.com/-8ZETT6ASNcw/X6rtovIj1xI/AAAAAAAAAPsc/pZvpgfiKKxcqEf20KffuceVQFCLwV0cS/ PNG", ViZYON 58 SiVAS
-http://yerelmedya.tv:1935/vizyon58/bant1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="DEUTSCH",DEUTSCH TV
@@ -10550,10 +10528,6 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TRT 1 🇹🇷
-http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",aspor 🇹🇷
-http://66.160.192.241/aspor/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SPORTS TV 🇹🇷
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SPORTV TUR 🇹🇷
