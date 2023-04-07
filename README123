@@ -3834,8 +3834,58 @@ https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TEVE2 UHD
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="|TR|🇹🇷❤️TURKEY",TEBER STAR
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="|TR|🇹🇷❤️TURKEY",TEBER ON TV
+https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",TELEON TV HD
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", YANSIMA KLASİK TV
+https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",TR:YANSIMA TV
+https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",TEBER Y.GEÇİDİ TV
+http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", DEM int TV
+http://77.68.121.3/hls/stream.m3u8
+#EXTINF:22 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV HD 
+http://135.125.234.9:8081/krttv/index.m3u8
+#EXTINF: 28 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="|TR|🇹🇷❤️TURKEY", TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", TOKAT TV
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", BÜLTEN TV
+https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:14 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2kLuvJJuGMGMbLE7mneCtg4kDLYDP3wvfkHSgFo1mEN2FJGtBhVIfJOJNIfzyzilwiOweh03rqgPDfnsEA-41mBoWLjova6a0aI7VrB3pfns-Yt71RyBZU0J0kA_oopI66qyl7diKoDOF534spVjTrTL_VejZES-7zEUeHOQn_l6IsTGsutwD4RbM1Q/w136-h53/HACIBEKTAS.jpg", HACI BEKTAŞ TV HD
+http://tv86905.radyotelekomtv.com:22808/hacibektastv/hacibektastv/sec-f5-v1-a1.m3u8
+#EXTINF: 23 tvg-logo=/İLKGÜN_TV.png" group-title="|TR|🇹🇷❤️TURKEY",İLK GÜN TV
+https://bit.ly/3y5WuL8
+#EXTINF: 16 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="|TR|🇹🇷❤️TURKEY", SZC TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+#EXTINF:17 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", DEGiSiM TV
+http://bit.ly/3hfFvAW?/chunklist.m3u8
+#EXTINF:18 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
+http://135.125.234.9:8081/tele1/index.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",CINE1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:56 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:57 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID FHD TR
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",tiviTÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ATV Avrupa 
-http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/296360.m3u8
+
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="|TR|🇹🇷❤️TURKEY",EUROSTAR TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",SHOW TÜRK UHD
@@ -3873,7 +3923,7 @@ https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 #EXTINF:0 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HABER 24
 https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TGRT HABER
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",A HABER
@@ -4171,7 +4221,7 @@ https://59cba4d34b678.streamlock.net/canlitv/kanallikya/chunklist_w1357892334.m3
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d235caec-24f3-47ba-92af-ebfed5825072.png" group-title= "|TR|🇹🇷❤️TURKEY", Kanal Ordu
 http://live.arkumedia.com:1935/kanalordutv/kanalordutv/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9f00ccad-90ec-4cdd-b2bf-e23eee2baec3.png" group-title= "|TR|🇹🇷❤️TURKEY", Kanal Urfa
-https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
+https://broadcasttr.com:446/kanalurfa/bant1/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/142a083b-23d5-4830-b591-4daacf001119.png" group-title= "|TR|🇹🇷❤️TURKEY", Kanal Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/892972f2-86da-4be4-8b6c-a0e9083a1197.png" group-title= "|TR|🇹🇷❤️TURKEY",Karadeniz Türk
@@ -5256,8 +5306,6 @@ https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m
 https://jola.live:16200/tesastv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",tiviTÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",tv318 Südost-Niedersachen
 http://62.113.221.3/tv318-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Bayern Live
