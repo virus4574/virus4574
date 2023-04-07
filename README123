@@ -2980,6 +2980,12 @@ https://5aa8c7549bfa9.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/p7eAbYD.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="Kirkuk TV" tvg-name="Kirkuk TV" tvg-logo="https://bit.ly/414K2ra" group-title="KURDISH",Kirkuk TV
+https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdsat News" tvg-name="Kurdsat News" tvg-logo="https://bit.ly/3mlWAvB" group-title="KURDISH",Kurdsat News
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:-1 tvg-id="Sterk TV" tvg-name="Sterk TV" tvg-logo="https://bit.ly/3Gq8lrH" group-title="KURDISH",Sterk TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lZPTzl"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurd نيوز
 http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ava Entertainment
@@ -3080,9 +3086,9 @@ http://baskhd.ddns.net:40/live/ShowTV/stream.m3u8
 https://cdn1.karwan.tv/zayala-tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Infinity TV
 https://cdn1.karwan.tv/ifinity-tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",MED MUZIK
+#EXTINF:-1 tvg-id="MED Muzik" tvg-name="MED Muzik" tvg-logo="https://bit.ly/3KI9NZ8" group-title="KURDISH",MED Muzik
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="KURDISH",TRT KURDI TV
+#EXTINF:-1 tvg-id="TRT KURDI" tvg-name="TRT KURDI" tvg-logo="https://bit.ly/419HTup" group-title="KURDISH",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Erbil TV
 http://erbiltv.ddns.net:1935/live/ErbilTv/playlist.m3u8
