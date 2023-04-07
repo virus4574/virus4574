@@ -3894,10 +3894,7 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",BEYAZ TV UHD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="|TR|🇹🇷❤️TURKEY",SHOW MAX UHD
-http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
-#EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",NTV
-https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",CNN TÜRK UHD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HABERTÜRK UHD
@@ -3916,20 +3913,15 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HABER 24
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:0 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HABER 24
-https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",A HABER
 http://195.142.1.211:4022/udp/224.2.2.20:10001
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ÜLKE TV
-http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",ÜLKE TV
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HALK TV
-https://halktv-live.ercdn.net:443/halktv/halktv.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HALK TV
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 group-title="|TR|🇹🇷❤️TURKEY" tvg-logo="https://i.resimyukle.xyz/SVdKCV.jpeg",HABER 61 TV
