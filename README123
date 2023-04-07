@@ -3856,7 +3856,7 @@ https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
-#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY", RIZE TÜRK
+#EXTINF: 28 tvg-logo="https://bit.ly/3MqGVG7" group-title="|TR|🇹🇷❤️TURKEY", RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:14 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2kLuvJJuGMGMbLE7mneCtg4kDLYDP3wvfkHSgFo1mEN2FJGtBhVIfJOJNIfzyzilwiOweh03rqgPDfnsEA-41mBoWLjova6a0aI7VrB3pfns-Yt71RyBZU0J0kA_oopI66qyl7diKoDOF534spVjTrTL_VejZES-7zEUeHOQn_l6IsTGsutwD4RbM1Q/w136-h53/HACIBEKTAS.jpg", HACI BEKTAŞ TV HD
 http://tv86905.radyotelekomtv.com:22808/hacibektastv/hacibektastv/sec-f5-v1-a1.m3u8
@@ -3866,7 +3866,7 @@ https://bit.ly/3y5WuL8
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 #EXTINF:18 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
 http://135.125.234.9:8081/tele1/index.m3u8
-#EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",EM TV
+#EXTINF: 28 tvg-logo="https://bit.ly/41ajFQN" group-title="|TR|🇹🇷❤️TURKEY",EM TV
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF: 28 tvg-logo="" group-title="|TR|🇹🇷❤️TURKEY",TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
@@ -3911,7 +3911,14 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",HABER 24
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV 100 HD
+
+#EXTINF:0 type="stream" channelId="3330" group-title="|TR|🇹🇷❤️TURKEY" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330", BOOMERANG HD [BLU]
+https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="40" group-title="|TR|🇹🇷❤️TURKEY" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", Cartoon Network HD
+https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="|TR|🇹🇷❤️TURKEY" logo="https://bit.ly/43rEPvV", TRT COCUK HD YEDEK
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/3MpMSmP"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV 100 HD
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV NET HD
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
@@ -3951,7 +3958,7 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV4 
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",WOMAN TV HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/3Kh2A0F"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",WOMAN TV HD
 https://mn-nl.mncdn.com/blutv_womantv/womantv_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",fortuna TÜRK TV 
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/chunks.m3u8
@@ -4140,7 +4147,7 @@ https://mn-nl.mncdn.com/blutv_vuslattv2/live_720p2000000kbps/index.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TRT BELGESEL HD
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",DMAX HD
+#EXTINF:0 tvg-logo="https://bit.ly/40W9Czi"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/43g1MBS"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
@@ -10090,8 +10097,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TELEVIVO 🇺🇾
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",BEIN 🇩🇴
