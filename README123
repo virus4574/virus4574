@@ -3814,8 +3814,8 @@ http://135.125.234.9:8081/tv8/index.m3u8
 http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/2318/index.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV8.5 UHD
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
-#EXTINF:0 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="|TR|🇹🇷❤️TURKEY",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TV8 INT
+http://95.0.226.197:8000/play/a037
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="|TR|🇹🇷❤️TURKEY",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="|TR|🇹🇷❤️TURKEY",DIYANET TV
@@ -4008,10 +4008,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",BURSA ASTV
 https://h125.artiyerelmedya.net/astv/bant1/chunks.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="|TR|🇹🇷❤️TURKEY",TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8
