@@ -1883,16 +1883,14 @@ https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320" group-title="philippines",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=320&height=320" group-title="philippines",,Panamericana
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=320&height=320" group-title="philippines",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="philippines",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="philippines",TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3KbLyGOOI4KBmCggi_BfgKDP7UcvqQVzhcyhe=s900-c-k-c0x00ffffff-no-rj" group-title="philippines",CULTURA24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b564000_sles.m3u8
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=320&height=320" group-title="philippines",Tele2000
-https://servilive.com:3126/live/tele2000live.m3u8
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist.m3u8
 #EXTINF:-1 tvg-id="Asiritv.pe" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="philippines",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="philippines",Central TV 
