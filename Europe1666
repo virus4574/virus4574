@@ -1317,17 +1317,17 @@ https://svt1-c.akamaized.net/se/svt1/master.m3u8
 https://svt2-c.akamaized.net/se/svt2/master.m3u8
 #EXTINF:-1 tvg-name="SVT 24   Ⓖ" tvg-logo="https://i.imgur.com/o9M7Tiq.png" tvg-id="SVT24.se" group-title="Sweden",SVT 24 [ VPN ]
 https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:-1 tvg-id="" status="blocked",SVT Kunskapskanalen [ VPN ]
+#EXTINF:0 tvg-id="ext" group-title="Sweden",SVT Kunskapskanalen [ VPN ]
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
 #EXTINF:-1 tvg-name="ATG Live" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="ATGLive.se" group-title="Sweden",ATG Live
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="Undefined",SVT1
+#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="Sweden",SVT1
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7350/index.m3u8
-#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="Undefined",SVT2
+#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="Sweden",SVT2
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7351/index.m3u8
-#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="Undefined",SVT24
+#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="Sweden",SVT24
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7352/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",,Caza y Pesca HD ES
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Caza y Pesca HD ES
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7346/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",TV12 HD SE
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7353/index.m3u8
