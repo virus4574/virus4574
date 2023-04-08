@@ -1347,8 +1347,6 @@ https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Sweden",EbS+ Live
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Denmark",Denmark
 https://bit.ly/3xYLaRh
@@ -1391,6 +1389,40 @@ https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Norway",Kanal 10 Asia (540p)
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="MTV3Ava.fi" group-title="Finland",AVA
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:0 tvg-id="Frii.fi" group-title="Finland",Frii
+https://live-fi.tvkaista.net/frii/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",Himlen TV7 (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",INEZ (720p) [ VPN ]
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",KotiTV (720p) [Not 24/7]
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
+#EXTINF:0 tvg-id="TheVoice.fi" group-title="Finland",Kutonen
+https://live-fi.tvkaista.net/kutonen/live.m3u8
+#EXTINF:0 tvg-id="MTV3.fi" group-title="Finland",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",NärTV (360p)
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",Небеса ТВ7 (720p)
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:0 tvg-id="TV7.ee" group-title="Finland",Taevas TV7 (720p)
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",Taivas TV7 (720p)
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Finland",TLC
+https://live-fi.tvkaista.net/tlc/live.m3u8
+#EXTINF:0 tvg-id="TV5.fi" group-title="Finland",TV5
+https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",YLE TV Teema & Fem (720p) [ VPN ]
+https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",YLE TV 1 (720p) [ VPN ]
+https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Finland",YLE TV 2 (720p) [ VPN ]
+https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
@@ -3077,21 +3109,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309
 #EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="spania",Pluto TV Documentales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTM3U
-#EXTINF:0 tvg-id="AlfaTV.fi" group-title="Finland",AlfaTV
-https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Finland",Himlen TV7
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Finland",Небеса ТВ7
-https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-#EXTINF:0 tvg-id="TV7.ee" group-title="Finland",Taevas TV7
-https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Finland",Taivas TV7
-https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Finland",YLE TV 1
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Finland",YLE TV 2
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="BelsatTV.pl" group-title="Poland",Белсат ТВ
