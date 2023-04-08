@@ -1440,6 +1440,8 @@ https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 rtmp://video.radio-banovina.hr:1935/live/myStream
 #EXTINF:0 tvg-id="ext" group-title="Croatia",STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="2229" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/2229.png" group-title="Croatia",Epic Drama
+http://hyqzethr.megatv.fun/iptv/8WRTKMHEDD5DNN/1048/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+1.png" group-title="Poland",TVP 1
 https://strims.top/tv/tvp1.m3u8
