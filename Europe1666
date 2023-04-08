@@ -1315,13 +1315,23 @@ https://bit.ly/3xYLaRh
 https://svt1-c.akamaized.net/se/svt1/master.m3u8
 #EXTINF:-1 tvg-name="SVT 2   Ⓖ" tvg-logo="https://i.imgur.com/iB3veGx.png" tvg-id="SVT2.se" group-title="Sweden",SVT 2 [ VPN ]
 https://svt2-c.akamaized.net/se/svt2/master.m3u8
-#EXTINF:-1 tvg-name="ATG Live" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="ATGLive.se" group-title="Sweden",ATG Live
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-name="SVT 24   Ⓖ" tvg-logo="https://i.imgur.com/o9M7Tiq.png" tvg-id="SVT24.se" group-title="Sweden",SVT 24 [ VPN ]
 https://svtb-c.akamaized.net/se/svtb/master.m3u8
 #EXTINF:-1 tvg-id="" status="blocked",SVT Kunskapskanalen [ VPN ]
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden"Västmanlands TV
+#EXTINF:-1 tvg-name="ATG Live" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="ATGLive.se" group-title="Sweden",ATG Live
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="Undefined",SVT1
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7350/index.m3u8
+#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="Undefined",SVT2
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7351/index.m3u8
+#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="Undefined",SVT24
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7352/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",,Caza y Pesca HD ES
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7346/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",TV12 HD SE
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7353/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden",Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Kanal 10 Asia
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist.m3u8
@@ -1331,6 +1341,16 @@ https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Fuel TV
 https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KotiTV.fi" tvg-logo="https://i.imgur.com/zkXpvJ8.png" group-title="Sweden",KotiTV
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
+#EXTINF:-1 tvg-id="NarTV.fi" tvg-logo="https://i.imgur.com/Ht5yePq.png" group-title="Sweden",NärTV
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Sweden",EbS Live
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Sweden",EbS+ Live
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
