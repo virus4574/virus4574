@@ -1907,6 +1907,12 @@ http://ott-cdn.ucom.am/s29/04.m3u8
 http://95.107.132.105/out/u/450_2.m3u8
 #EXTINF:0 tvg-id="Rai3.it" group-title="Italy",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="Italy", Rai Play 1
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chunklist.m3u8
+#EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="Italy",RAI NEWS
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Italy" tvg-logo="https://i.imgur.com/Vg4MUGQ.png",Rai Italia Asia
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Italy",RAI 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Italy",RAI 2 
