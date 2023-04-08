@@ -1350,6 +1350,28 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Sweden",Himlen TV7
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Denmark",Denmark
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-name="DR1    Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-id="DR1.dk" group-title="Denmark",DR1 [ VPN ]
+https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master.m3u8
+#EXTINF:-1 tvg-name="DR2      Ⓖ" tvg-logo="https://i.imgur.com/b79UKYN.png" tvg-id="DR2.dk" group-title="Denmark",DR2 [ VPN ]
+https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master.m3u8
+#EXTINF:-1 tvg-name="DR Ramasjang  Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-id="DRRamasjang.dk" group-title="Denmark",DR Ramasjang [ VPN ]
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+#EXTINF:-1 tvg-name="DR1    Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-id="DR1.dk" group-title="Denmark",DR1 HD DK
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7354/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark",Kanal 4 HD DK
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7358/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2/Bornholm
+https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV2/Lorry
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+#EXTINF:0 tvg-id="TV2Ostjylland.dk" group-title="Denmark",TV2/Østjylland
+https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Denmark",TV2 Fyn
+https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="|FR|🇫🇷💙 FRANCE",M6
@@ -1805,21 +1827,6 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Luxembourg",RTL (1080p)
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Denmark",Denmark
-https://bit.ly/3xYLaRh
-#EXTM3U
-#EXTINF:0 tvg-id="KanalHovedstaden.dk" group-title="Denmark",Kanal Hovedstaden
-https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv
-http://stream.kkr.dk/live/kkr/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV2/Bornholm
-https://live.tv2bornholm.dk/stream/live/playlist.m3u8
-#EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV2/Lorry
-https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-#EXTINF:0 tvg-id="TV2Ostjylland.dk" group-title="Denmark",TV2/Østjylland
-https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Denmark",TV2 Fyn
-https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="OireachtasTV.uk" group-title="Ireland",Oireachtas TV
