@@ -1308,32 +1308,29 @@ https://656702029fac42c3b72b26bcb4071d0d.mediatailor.us-east-1.amazonaws.com/v1/
 https://f0cb39c8a7804fc8a6e320aad94f4f70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenTVShows/playlist.m3u8?ads.wurl_channel=437&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-CHAJ35000021Z" tvg-id="CHAJ35000021Z" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/CHAJ35000021Z_20210923T010435.png" group-title="Switzerland",Actionfilme - Rakuten TV
 https://4e3fc6758e274fa9a967ce11e50536de.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=435&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Sweden TV
 https://bit.ly/3xYLaRh
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Aftonbladet TV
-https://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1 tvg-id="SVT1.se" status="blocked",SVT1 [ VPN ]
+https://svt1-c.akamaized.net/se/svt1/master.m3u8
+#EXTINF:-1 tvg-id="SVT2.se" status="blocked",SVT2 [ VPN ]
+https://svt2-c.akamaized.net/se/svt2/master.m3u8
+#EXTINF:-1 tvg-id="SVT24.se" status="blocked",SVT24 [ VPN ]
+https://svtb-c.akamaized.net/se/svtb/master.m3u8
+#EXTINF:-1 tvg-id="" status="blocked",SVT Kunskapskanalen [ VPN ]
+https://svtk-c.akamaized.net/se/svtk/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sweden"Västmanlands TV
+https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Azerbaijan News TV
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Di TV
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Expressen TV
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Expressen TV
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Kanal 10 Asia
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Oppna Kanalen
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
-#EXTINF:0 tvg-id="TV4.se" group-title="Sweden",TV4
-https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",Fuel TV
 https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Stingray Karaoke (Sweden)
-https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
