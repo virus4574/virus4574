@@ -1373,7 +1373,7 @@ https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0
 https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="Norway",NRK1 [ VPN ]
 https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title=""Norway",NRK2 [ VPN ]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title="Norway",NRK2 [ VPN ]
 https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="Norway",NRK3 [ VPN ]
 https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
@@ -1438,6 +1438,31 @@ https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/7q3g8AS.png" group-title="Croatia" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Radio Televizija Banovina
 rtmp://video.radio-banovina.hr:1935/live/myStream
+#EXTINF:0 tvg-id="ext" group-title="Croatia",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+1.png" group-title="Poland",TVP 1
+https://strims.top/tv/tvp1.m3u8
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+2.png" group-title="Poland",TVP 2
+https://strims.top/tv/tvp2.m3u8
+#EXTINF:0 tvg-id="BelsatTV.pl" group-title="Poland",Белсат ТВ
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",dlaCiebie.tv
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",Telewizja Toruń
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0 tvg-id="TVRegionalnaLubin.pl" group-title="Poland",TV Regionalna (Lubin)
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TV Toruń
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Poland",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
@@ -3130,43 +3155,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b9edc4a4ca6100070bb4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="spania",Pluto TV Documentales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="BelsatTV.pl" group-title="Poland",Белсат ТВ
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",dlaCiebie.tv
-http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Echo24
-https://live-insysgo.cf.insyscd.net/echo24.720.smil/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="Poland",Ezo TV
-http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Radio Czworka
-http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Sfera TV
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Telewizja Toruń
-http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Trwam TV (480p)
-http://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",TV Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:0 tvg-id="TVRegionalnaLubin.pl" group-title="Poland",TV Regionalna (Lubin)
-https://tvreg.klemit.net/regionalna/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
-#EXTINF:0 tvg-id="TVT.pl" group-title="Poland",TVT
-http://176.107.129.219/media/tvt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",TV Toruń
-http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:0 tvg-id="TVtrwam.pl" group-title="Poland",TV Trwam (480p)
-https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",TV REPUBLIKA
-http://188.47.212.71/jupiter/o1-cl1/live/tvrepublika/live.m3u8
 
 
 #EXTM3U
