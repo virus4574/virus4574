@@ -1371,6 +1371,26 @@ https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3li
 #EXTINF:0 tvg-id="avi" group-title="Denmark",TV2 Fyn
 https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Norway",Norway
+https://bit.ly/3xYLaRh
+#EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="Norway",NRK1 [ VPN ]
+https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title=""Norway",NRK2 [ VPN ]
+https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="Norway",NRK3 [ VPN ]
+https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway",NRK Super [ VPN ]
+https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway",TV Modum (720p)
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway",Frikanalen (720p)
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Norway",Kanal 10 Asia (540p)
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
@@ -4470,17 +4490,6 @@ http://92.246.85.119:8000/play/a0f8
 http://92.246.85.119:8000/play/a0ey
 #EXTINF:0 tvg-id="ext" group-title="Iran",radionama_KHALIJEFARS
 http://92.246.85.119:8000/play/a0dv
-
-#EXTINF:0 tvg-id="ext" group-title="Norway",Kanal 10 Norge)
-https://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
-#EXTINF:0 tvg-id="Kanal10.no" group-title="Norway",Kanal 10 Norge
-https://cdn-kanal10.crossnet.net/kanal10no/mp4:live1/chunklist.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Norway",MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Norway",TV Haugaland
-https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="Russia" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
