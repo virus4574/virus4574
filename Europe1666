@@ -4574,7 +4574,7 @@ http://92.62.234.233/slagr2.m3u
 
 #EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="Iran",IRIB TV1
 https://cdnw.telewebion.com/tv1/live/playlist.m3u8
-+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="Iran",IRIB TV1
+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="Iran",IRIB TV1
 https://live.aionet.ir/hls/tv1/tv1.m3u8
 +#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" tvg-url="" group-title="Iran",IRIB TV2
 https://cdnw.telewebion.com/tv2/live/playlist.m3u8
@@ -4692,22 +4692,22 @@ EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="
 https://cdnw.telewebion.com/atrak/live/playlist.m3u8
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Khoozestan
 https://cdnw.telewebion.com/khoozestan/live/playlist.m3u8
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Kish
+https://cdnw.telewebion.com/kish/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Kordestan
+https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Mahabad
+https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Mazandaran
+https://cdnw.telewebion.com/tabarestan/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Noor
+https://cdnw.telewebion.com/noor/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Qazvin
+https://cdnw.telewebion.com/qazvin/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Sabalan
+https://cdnw.telewebion.com/sabalan/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Sahand
+https://cdnw.telewebion.com/sahand/live/playlist.m3u8
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
 
 
