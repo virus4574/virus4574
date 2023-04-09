@@ -1600,6 +1600,28 @@ https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 http://s1.media-planet.sk/live/reduta/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Slovakia",Televizia OSEM
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJOJ.sk" status="online" group-title="Slovakia",TV JOJ (1080p)
+https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
+#EXTINF:-1 tvg-id="JOJPlus.sk" status="online" group-title="Slovakia",JOJ Plus (1080p)
+https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
+#EXTINF:-1 tvg-id="JOJPlus.sk" status="online" group-title="Slovakia",JOJ Plus (1080p)
+https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="JOJWau.sk" status="online" group-title="Slovakia",JOJ Wau (1080p)
+https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
+#EXTINF:-1 tvg-id="Jojko.sk" status="online" group-title="Slovakia",Jojko (1080p)
+https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
+#EXTINF:-1 tvg-id="JOJCinema.sk" status="online" group-title="Slovakia",JOJ Cinema (1080p)
+https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
+#EXTINF:-1 tvg-id="CSFilm.cz" status="online" group-title="Slovakia",CS Film (1080p)
+https://st01-1.iptv.joj.sk/106-tv-pc.m3u8
+#EXTINF:-1 tvg-id="CSHistory.cz" status="online" group-title="Slovakia",CS History (1080p)
+https://st01-1.iptv.joj.sk/107-tv-pc.m3u8
+#EXTINF:-1 tvg-id="CSMystery.cz" status="online" group-title="Slovakia",CS Mystery (1080p)
+https://st01-1.iptv.joj.sk/108-tv-pc.m3u8
+#EXTINF:-1 tvg-id="" status="online" group-title="Slovakia",(1080p)
+https://st01-1.iptv.joj.sk/112-tv-pc.m3u8
+#EXTINF:-1 tvg-id="" status="online" group-title="Slovakia",(1080p)
+https://st01-1.iptv.joj.sk/113-tv-pc.m3u8
 
 
 #EXTM3U
@@ -2140,6 +2162,29 @@ http://62.176.77.22:9781/play/a00d
 #EXTINF:0 tvg-id="ext" group-title="Bulgaria",Travel Channel
 http://62.176.77.22:9781/play/a00e
 
+
+#EXTINF:-1 tvg-id="AbazaTV.ru" status="online" group-title="Georgia",Abaza TV
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" status="online" group-title="Georgia",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" status="online" group-title="Georgia",Formula
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" status="online" group-title="Georgia",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" status="online" group-title="Georgia",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" status="online" group-title="Georgia",Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="RioniTV.ge" status="online" group-title="Georgia",Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-id="1TV.ge" status="online" group-title="Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge" group-title="Georgia",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="PosTV.ge" group-title="Georgia",Pos TV
+https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" group-title="Georgia",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
