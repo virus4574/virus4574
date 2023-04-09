@@ -1997,19 +1997,50 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hungary",ATV (160p)
 http://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hungary",Balaton TV
+#EXTINF:-1 tvg-id="" tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="Hungary",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hungary",DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hungary",Halom TV (540p)
+#EXTINF:-1 tvg-id="" tvg-name="Halom TV" tvg-logo="https://i.imgur.com/F2bSjDY.png" group-title="Hungary",Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
 #EXTINF:0 tvg-id="Hatoscsatorna.hu" group-title="Hungary",Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hungary",Kecskemeti TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hungary",TV7 Bekescsaba
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bekescsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="Hungary",TV7 Bekescsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
+
+#EXTINF:0 tvg-id="Balkanika.svn" group-title="Bulgaria",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",AMC
+http://62.176.77.22:9781/play/a008
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Alfa TV
+http://62.176.77.22:9781/play/a00h
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",BNT 4
+http://62.176.77.22:9781/play/a00b
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Bulgare
+http://62.176.77.22:9781/play/a00k
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",DM Sat
+http://62.176.77.22:9781/play/a00c
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Discovery Science
+http://62.176.77.22:9781/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Evrokom
+http://62.176.77.22:9781/play/a00j
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",FilmBox Plus
+http://62.176.77.22:9781/play/a009
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Fine Living
+http://62.176.77.22:9781/play/a00a
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",MAX sport 3
+http://62.176.77.22:9781/play/a00i
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Movie Star
+http://62.176.77.22:9781/play/a00f
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",TV1000
+http://62.176.77.22:9781/play/a00d
+#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Travel Channel
+http://62.176.77.22:9781/play/a00e
 
 
 
@@ -4255,25 +4286,6 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Viva Web TV
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 
-
-#EXTINF:0 tvg-id="ext" group-title="Brunei",RTB Sukmaindera
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:0 tvg-id="Balkanika.svn" group-title="Bulgaria",Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria",BTK)
-http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Bulgaria On Air)
-http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Bulgaria On Air)
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Light Channel
-https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:0 tvg-id="travel" group-title="Bulgaria",Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVPlus.bg" group-title="Bulgaria",TV+
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:0 tvg-id="TVPlus.bg" group-title="Bulgaria",TV+
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CANADA",5AAB TV
