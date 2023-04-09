@@ -4572,19 +4572,19 @@ https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3
 http://92.62.234.233/slagr2.m3u
 
 
-#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="Iran",IRIB TV1
+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-url="" group-title="Iran",IRIB TV1
 https://cdnw.telewebion.com/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="Iran",IRIB TV1
+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-url="" group-title="Iran",IRIB TV1
 https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" tvg-url="" group-title="Iran",IRIB TV2
+#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-url="" group-title="Iran",IRIB TV2
 https://cdnw.telewebion.com/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" tvg-url="" group-title="Iran",IRIB TV3
+#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-url="" group-title="Iran",IRIB TV3
 https://cdnw.telewebion.com/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" tvg-url="" group-title="Iran",IRIB TV3 
+#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-url="" group-title="Iran",IRIB TV3 
 https://gr1-cdn.sepehrtv.ir/vod/auto_convert/vpn/out_0.m3u8
-#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" tvg-url="" group-title="Iran",IRIB TV3
+#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-url="" group-title="Iran",IRIB TV3
 https://ca-rt.onetv.app/IRIBChannel3/index-0.m3u8
-#EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv4.png" tvg-url="" group-title="Iran",IRIB TV4
+#EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="https://bit.ly/417CqnO" tvg-url="" group-title="Iran",IRIB TV4
 https://cdnw.telewebion.com/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" tvg-url="" group-title="Iran",IRIB TV5
 https://cdnw.telewebion.com/tehran/live/playlist.m3u8
@@ -4708,23 +4708,12 @@ EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="
 https://cdnw.telewebion.com/sabalan/live/playlist.m3u8
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Sahand
 https://cdnw.telewebion.com/sahand/live/playlist.m3u8
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",
-
-
-
-
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Semnan
+https://cdnw.telewebion.com/semnan/live/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="Iran" tvg-name="" tvg-logo=" ",Taban
+https://cdnw.telewebion.com/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran" tvg-name="" tvg-logo=" ",IRIB IRINN
 http://194.37.92.14:12000/play/a06o
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_3_(1)
-https://cdnw.telewebion.com/tv3/live/720p/index.m3u8?x_live_session=_nullCookie
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_3_(2)
-https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_Varzesh_(1)
-https://cdnw.telewebion.com/varzesh/live/720p/index.m3u8?x_live_session=_nullCookie
-#EXTINF:0 tvg-id="ext" group-title="Iran",IRIB_Varzesh_(2)
-https://live.aionet.ir/hls/varzesh/varzesh_540/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Manoto
-https://edge-cdn1.manoto.click/live_1500.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Iran_International
 https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",BBC_Per
@@ -4733,26 +4722,18 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Parnian
 https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Pmc
+#EXTINF:-1 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title=Iran",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Pmc_Royale
-http://51.210.199.29/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Radio_Javan
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w791571516_b1992000.m3u8
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="VOA.cl" group-title="Iran",VOA
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0720/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Pars
-https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_One
 http://51.210.199.21/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Music
 http://51.210.199.24/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Sonnati
-http://51.210.199.58/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Comedy
 http://51.210.199.27/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Cinema
-http://51.210.199.15/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Family
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana_Iranian
@@ -4765,100 +4746,21 @@ http://51.210.227.147/hls/stream.m3u8
 http://51.210.199.14/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persiana Junior
 http://51.210.199.18/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Al Zahra TV
-https://live.al-zahratv.com/live/playlist2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Andisheh TV
-https://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",AVA Family
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",AVA Series
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Ayeneh TV
-https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Caltex TV
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Canada Star TV
-https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Cine Film
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Cineseries
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",EBC1 TV
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",iFILM Arabic
-https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",iFILM English
-https://live1.presstv.com/live/ifilmen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",iFILM Persian 1
-https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",iFILM Persian 2
-https://live1.presstv.com/live/ifilm2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Imam Hussein TV 1
-https://live.imamhossaintv.com/live/ih103/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",INTV Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 1
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 2
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 3
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 4
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Karbala Live 5
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Mihan TV
-https://iptv.mihantv.com/live/playlist1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Mohabat TV
-http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Mohabat TV
-https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Navahang TV
-http://163.172.134.85/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Omid Javedan
 https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Parnian TV
-https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Pars TV (240p)
-https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Parsiland TV
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Payvand TV
-https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",Persian Bazar
 https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
-#EXTINF:0 tvg-id="PressTV.uk" group-title="Iran",Press TV
-https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Radio Farda)
-https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Radio Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Rangarang TV
-https://iptv.rangarang.us/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Sahar Urdu
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",SAT7 PARS
-https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",SAT7 TURK
-https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",TBN Nejat TV
-https://api.new.livestream.com/accounts/27460990/events/8266913/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",Tin TV
-https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Iran",TIN TV)
-https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Iran",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/eNGthNI.jpg" group-title="Iran",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+
+#EXTINF:-1 tvg-id="TinTV.ir" tvg-name="Tin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="FARSI",Tin TV (720p)
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Russia" tvg-logo="http://epg.cdntv.online/img/4.png" ,НТВ
