@@ -2013,8 +2013,38 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
 #EXTINF:0 tvg-id="Balkanika.svn" group-title="Bulgaria",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria",Light Channel
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" status="blocked" group-title="Bulgaria",100% Auto Moto TV 
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTK.bg" status="timeout" group-title="Bulgaria",BTK
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Evrokom.bg" status="online" group-title="Bulgaria",Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LightChannel.bg" status="online" group-title="Bulgaria",Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="RMTV.bg" group-title="Bulgaria",RMTV (288p)
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" group-title="Bulgaria",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="TravelTV.bg" group-title="Bulgaria",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" group-title="Bulgaria",Code Health TV
+https://cdn3.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg" group-title="Bulgaria",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="B1BBox.bg" group-title="Bulgaria",B1B Box
+https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TiankovFolk.bg" group-title="Bulgaria",Tiankov Folk 
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-id="TVDarts.bg" group-title="Bulgaria",TV Darts
+https://streamer103.neterra.tv/darts/live.m3u8
+#EXTINF:-1 tvg-id="TVart.bg" group-title="Bulgaria",TVart
+https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg" group-title="Bulgaria",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bulgaria",EuroFolk TV
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
+#EXTINF:-1 tvg-id="TV1.bg" group-title="Bulgaria",TV 1
+https://tv1.cloudcdn.bg:8081/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bulgaria",AMC
 http://62.176.77.22:9781/play/a008
 #EXTINF:0 tvg-id="ext" group-title="Bulgaria",Alfa TV
