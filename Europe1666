@@ -1933,7 +1933,19 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Ⓨ
-https://www.youtube.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ/live
+https://ythls.onrender.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ.m3u8
+#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Ⓨ
+https://c201-node61-cdn.connectmedia.hu/110301/f8da7eeef1ecaaa74ebad5cf0ae9863e/64321c51/index.m3u8
+#EXTINF:-1 tvg-name="M2 Ⓨ" tvg-logo="https://bit.ly/3mcSLsR" tvg-id="M1.hu" group-title="Hungary",M2 Ⓨ
+https://c401-node62-cdn.connectmedia.hu/110302/761fca841fd0e8abc5621592594791aa/64321d00/index.m3u8
+#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://bit.ly/3mcEwEt" tvg-id="M1.hu" group-title="Hungary",M4 Ⓨ
+https://c402-node61-cdn.connectmedia.hu/110109/b00f2a49f63e00e21f658a5e7678acd1/64321e85/index.m3u8
+#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://bit.ly/3mcEwEt" tvg-id="M1.hu" group-title="Hungary",M4 Ⓨ
+https://c201-node62-cdn.connectmedia.hu/110109/52a2e85826473f60d1354a54095e5c8a/64321e54/index.m3u8
+#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://bit.ly/3UiQvwI" tvg-id="M1.hu" group-title="Hungary",M5 Ⓨ
+https://c202-node62-cdn.connectmedia.hu/110105/d24e295e85cfe1c468a35be69108fa40/64321ebe/index.m3u8
+#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://bit.ly/3GuS0SC" tvg-id="M1.hu" group-title="Hungary",Duna 
+https://c402-node61-cdn.connectmedia.hu/110303/803c8de0603a5f6564d4a55384704111/64321f3f/index.m3u8
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" tvg-id="TV2.hu" group-title="Hungary",TV2
