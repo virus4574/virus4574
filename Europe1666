@@ -4576,7 +4576,7 @@ http://92.62.234.233/slagr2.m3u
 https://cdnw.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="Iran",IRIB TV1
 https://live.aionet.ir/hls/tv1/tv1.m3u8
-+#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" tvg-url="" group-title="Iran",IRIB TV2
+#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" tvg-url="" group-title="Iran",IRIB TV2
 https://cdnw.telewebion.com/tv2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" tvg-url="" group-title="Iran",IRIB TV3
 https://cdnw.telewebion.com/tv3/live/playlist.m3u8
