@@ -3251,6 +3251,22 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="🇧Bosnia and Herzegovina",BHRT
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="🇧Bosnia and Herzegovina",BN TV
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVBPK.ba" tvg-logo="https://i.imgur.com/g639yyT.jpg" group-title="🇧Bosnia and Herzegovina",RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="🇧Bosnia and Herzegovina",RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇧Bosnia and Herzegovina",Super TV Media
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="🇧Bosnia and Herzegovina",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="🇧Bosnia and Herzegovina",TV Slon Extra
+http://31.47.0.130:8082
+
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="|FR|🇫🇷💙 FRANCE",M6
