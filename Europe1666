@@ -2560,9 +2560,7 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 tvg-id="21TV.am" tvg-logo="https://i.imgur.com/jSvTwk5.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",21TV
 http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="🇦🇲Armenia",Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="AmgaTV.am" tvg-logo="https://i.imgur.com/VKvYQ3v.png" group-title="🇦🇲Armenia",Amga TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AmgaTV.am" tvg-logo="https://i.imgur.com/VKvYQ3v.png" group-title="🇦🇲Armenia",Amga TV
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-logo="https://i.imgur.com/IxOFvqz.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Premium
 http://ott-cdn.ucom.am/s83/index.m3u8
@@ -2576,8 +2574,6 @@ http://ott-cdn.ucom.am/s66/index.m3u8
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaKomedi.am" tvg-logo="https://i.imgur.com/pvF7dGN.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Քոմեդի (480p)
 http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="🇦🇲Armenia",ARTE [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-id="ARTNTV.am" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" group-title="🇦🇲Armenia",ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-id="ATV.am" tvg-logo="https://i.imgur.com/BRQTJib.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",ATV
@@ -2592,8 +2588,7 @@ http://ott-cdn.ucom.am/s94/index.m3u8
 http://ott-cdn.ucom.am/s73/index.m3u8
 #EXTINF:-1 tvg-id="ATVFilmzone.am" tvg-logo="https://i.imgur.com/uWBrDpV.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",ATV Ֆիլմզոն 
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-id="AzerbaijanNewsTV.se" tvg-logo="https://i.imgur.com/Kw17XfP.png" group-title="🇦🇲Armenia",Azerbaijan News TV (720p) [Not 24/7]
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BBCWorldNewsEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇦🇲Armenia",Bloomberg TV EMEA Live Event
@@ -2604,26 +2599,9 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="🇦🇲Armenia",CNN International Germany
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="🇦🇲Armenia",EbS Live
-https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="🇦🇲Armenia",EbS+ Live
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="🇦🇲Armenia",EWTN Europe
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="🇦🇲Armenia",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FreshTV.am" tvg-logo="https://i.imgur.com/gcFSxrm.png" group-title="🇦🇲Armenia",Fresh TV
-https://freshtv.catcast.tv/content/33718/index.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/AZBod7u.png" group-title="🇦🇲Armenia",Galicia TV Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="HorizonArmenian.am" tvg-logo="https://i.imgur.com/3mCMRTv.png" group-title="🇦🇲Armenia",Horizon Armenian
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="🇦🇲Armenia",NTV Europe
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="🇦🇲Armenia",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="🇦🇲Armenia",Three Angels Broadcasting Network International
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="🇦🇲Armenia",TV3CAT
@@ -2638,14 +2616,10 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-logo="https://i.imgur.com/AvP7giY.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Արմենիա TV
 http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 tvg-id="ArmNews.am" tvg-logo="https://i.imgur.com/wEYG6pw.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Արմնյուզ
-http://ott-cdn.ucom.am/s11/index.m3u8
 #EXTINF:-1 tvg-id="YerkirMediaTV.am" tvg-logo="https://i.imgur.com/FKpxkVH.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Երկիր Մեդիա
 http://ott-cdn.ucom.am/s7/index.m3u8
 #EXTINF:-1 tvg-id="KentronTV.am" tvg-logo="https://i.imgur.com/gY26kwH.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Կենտրոն 
 http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="H2.am" tvg-logo="https://i.imgur.com/MLmJDyP.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Հ2
-http://ott-cdn.ucom.am/s2/index.m3u8
 #EXTINF:-1 tvg-id="NorHayastanTV.am" tvg-logo="https://i.imgur.com/QH7VytI.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Նոր Հայաստան
 http://ott-cdn.ucom.am/s12/index.m3u8
 #EXTINF:-1 tvg-id="ShantTV.am" tvg-logo="https://i.imgur.com/AyitGj7.png" group-title="🇦🇲Armenia" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Շանթ
