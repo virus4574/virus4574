@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="🇸🇬Singapore" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="🇸🇬Singapore",Aniplus (Indonesian subtitle) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="🇸🇬Singapore",Cartoon Network Asia
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel5.sg" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="🇸🇬Singapore",Channel 5 [Geo-blocked]
-https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
-#EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="🇸🇬Singapore",Channel 8 [Geo-blocked]
-https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
-#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="🇸🇬Singapore",CNA [Geo-blocked]
-https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
-#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="🇸🇬Singapore" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",CNBC Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/DjI6SS1.png" group-title="🇸🇬Singapore",GEM 
-http://210.210.155.37/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="🇸🇬Singapore",HBO Family Asia 
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇬Singapore",HITS (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-logo="https://i.imgur.com/SWKyYNP.png" group-title="🇸🇬Singapore",meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-logo="https://i.imgur.com/ea0iGfA.png" group-title="🇸🇬Singapore",ONE TV Asia
-http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇬Singapore",Rock Entertainment  [Geo-blocked]
-http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇬Singapore",Rock Extreme  [Geo-blocked]
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-id="Suria.sg" tvg-logo="https://i.imgur.com/9xWAwzy.png" group-title="🇸🇬Singapore",Suria [Geo-blocked]
-https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
-#EXTINF:-1 tvg-id="TechStorm.sg" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="🇸🇬Singapore",Tech Storm  [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-#EXTINF:-1 tvg-id="Vasantham.sg" tvg-logo="https://i.imgur.com/vqVEcuT.png" group-title="🇸🇬Singapore",Vasantham [Geo-blocked]
-https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 
 
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
