@@ -4305,6 +4305,33 @@ http://91.220.221.60/gtv_hls/gtv_03.m3u8
 https://stream.veseljak.tv/hls/stream.m3u8
 
 
+#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="🇨🇾Cyprus"Alfa Sport
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",BRT 1 HD 
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",BRT 1 HD
+http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1 tvg-id="BRT3.cy" tvg-logo="https://i.imgur.com/uczNZ3E.png" group-title="🇨🇾Cyprus",BRT 3 
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-id="CityChannel.cy" tvg-logo="https://i.imgur.com/oo2fxta.png" group-title="🇨🇾Cyprus",City Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",Reload
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="RIK1.cy" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="🇨🇾Cyprus",RIK 1 (CYBC 1) [Geo-blocked]
+http://l6.cloudskep.com/rikcy/rik1/playlist.m3u8
+#EXTINF:-1 tvg-id="RIK2.cy" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="🇨🇾Cyprus",RIK 2 (CYBC 2) [Geo-blocked]
+http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
+#EXTINF:-1 tvg-id="RIKHD.cy" tvg-logo="https://i.imgur.com/xQnHaPy.png" group-title="🇨🇾Cyprus",RIK HD (CYBC HD) [Geo-blocked]
+http://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="🇨🇾Cyprus",Sigma (576p)
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",Vouli TV 
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",Vouli TV
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/kFg2SD1.png" group-title="🇨🇾Cyprus",ΡΙΚ Sat
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
@@ -5987,44 +6014,6 @@ https://h6le2.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Estonia",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",Ada TV
-https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",Alfa Sport
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",BRT 1 HD
-http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",BRT 1 HD
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",BRT 2 HD
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",BRT 3
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",City Channel
-https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",Digital TV
-https://l8.cloudskep.com/digital/dtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",Kuzey Kibris TV
-http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",Reload
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",RΙΚ Sat
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:0 tvg-id="vouli.gr" group-title="Cyprus",Vouli TV
-https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:0 tvg-id="vouli.gr" group-title="Cyprus",Vouli TV
-https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",SAT-7 KIDS
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",SAT-7 ARABIC
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",SAT-7 PARS
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cyprus",SAT-7 TÜRK
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 
 
 #EXTM3U
