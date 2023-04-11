@@ -1,54 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="🇦🇹Austria",Austria TV
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-name="Antenne Vorarlberg (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="🇦🇹Austria",Antenne Vorarlberg (Webradio)
+#EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="🇦🇹Austria" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
+#EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="🇦🇹Austria",Dorf TV 
 https://stream.openplayout.org/hls/dorftv/live.m3u8
-#EXTINF:-1 tvg-name="FS1 Salzburg" tvg-id="FS1 Salzburg" tvg-logo="https://i.imgur.com/P5pc813.png" group-title="🇦🇹Austria",FS1 Salzburg
+#EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="🇦🇹Austria",FS1 Salzburg  
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="🇦🇹Austria",Hitradio Ö3 (Webradio)
+#EXTINF:-1 tvg-id="GoTV.at" tvg-logo="https://i.imgur.com/jPSryfu.png" group-title="🇦🇹Austria",GoTV 
+https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
+#EXTINF:-1 tvg-id="HitradioO3.at" tvg-logo="https://i.imgur.com/pFKnkU0.png" group-title="🇦🇹Austria",Hitradio Ö3  
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="🇦🇹Austria",K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-name="Ländle Tv" tvg-id="laendletv.com" group-title="🇦🇹Austria" tvg-logo="https://i.imgur.com/g2Hdysr.jpg",Ländle Tv
-https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="🇦🇹Austria" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="R9 TV" tvg-id="R9Osterreich.at" group-title="🇦🇹Austria" tvg-logo="https://i.imgur.com/Wu6SMvb.png",R9 TV
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SchauTV" tvg-id="schautv.at" group-title="🇦🇹Austria" tvg-logo="https://image.schautv.at/images/cfs_616w/3123676/schautv_homepagebanner_twitter.png",SchauTV
-https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="🇦🇹Austria",Teins TV
-http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:-1 tvg-name="Tirol TV" tvg-id="Tiroltv.at" tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="🇦🇹Austria",Tirol TV
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="🇦🇹Austria",Uppera Balkan
-http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:-1 tvg-name="W24 TV" tvg-id="w24.at" group-title="🇦🇹Austria" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
-https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",FS1 Salzburg
-https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",Krone.TV
+#EXTINF:-1 tvg-id="KTV.at" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="🇦🇹Austria",K-TV 
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KroneTV.at" tvg-logo="https://i.imgur.com/3N3N7rG.png" group-title="🇦🇹Austria",Krone.TV 
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",RTV
-http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:0 tvg-id="SchauTV.at" group-title="🇦🇹Austria",SchauTV
-https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",Swamiji TV
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",Teins TV
-https://live1.markenfunk.com/t1/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",Uppera Balkan
-http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:0 tvg-id="W24.at" group-title="🇦🇹Austria",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",oe24 TV
+#EXTINF:-1 tvg-id="Kronehit.at" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="🇦🇹Austria",Kronehit 
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",Ländle Tv 
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="M4.at" tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="🇦🇹Austria",M4 (1090p) 
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M4TV.at" tvg-logo="https://i.imgur.com/1pJaEi6.png" group-title="🇦🇹Austria",M4TV [Geo-blocked]
+https://streaming.m4tv.at/live/m4tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Oe24TV.at" tvg-logo="https://i.imgur.com/QlLig1u.png" group-title="🇦🇹Austria",oe24 TV 
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OktoTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Okto.svg/512px-Okto.svg.png" group-title="🇦🇹Austria",Okto TV 
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-logo="https://i.imgur.com/HljoOpC.png" group-title="🇦🇹Austria",ORF 1  [Geo-blocked]
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-logo="https://i.imgur.com/svgv2q5.png" group-title="🇦🇹Austria",ORF 2 (540p) [Geo-blocked]
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" group-title="🇦🇹Austria",ORF 3  [Geo-blocked]
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="🇦🇹Austria",ORF Sport+ (540p) [Geo-blocked]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="P3tv.at" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="🇦🇹Austria",P3tv  
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-id="R9.at" tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="🇦🇹Austria",R9  
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.at" tvg-logo="https://i.imgur.com/HhnLCqO.png" group-title="🇦🇹Austria",Rakuten Comedy Movies Austria 
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png" group-title="🇦🇹Austria",RTV 
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",SchauTV 
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-logo="https://i.imgur.com/9Z9Pn1p.png" group-title="🇦🇹Austria",ServusTV [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-id="SwamijiTV.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="🇦🇹Austria",Swamiji TV  
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TirolTV.at" tvg-logo="https://i.imgur.com/Xw6uc6W.png" group-title="🇦🇹Austria",Tirol TV  
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="🇦🇹Austria",TV 1 Oberösterreich 
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-logo="https://i.imgur.com/eqcmi5G.png" group-title="🇦🇹Austria",Uppera Balkan  [Geo-blocked]
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="🇦🇹Austria",W24  
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="🇳🇱Netherlands",1Twente TV 
