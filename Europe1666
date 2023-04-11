@@ -4154,6 +4154,14 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="LRTLituanica.lt" tvg-logo="https://bit.ly/3zKYzgn" group-title="🇱🇹Lithuania",LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica/index.m3u8
+#EXTINF:-1 tvg-id="M1.lt" tvg-logo="https://i.imgur.com/dGhizFW.png" group-title="🇱🇹Lithuania",M-1
+http://m-1.data.lt/m-1/smil:m-1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="PowerHitRadio.lt" tvg-logo="https://i.imgur.com/GOlQbfC.png" group-title="🇱🇹Lithuania",Power Hit Radio
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="|FR|🇫🇷💙 FRANCE",M6
@@ -5959,14 +5967,6 @@ https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
 https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:0 tvg-id="TVNet.tr" group-title="Latvia",TVNET
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-id="ltv-world" group-title="Lithuania",LRT Lituanica
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:0 tvg-id="m-1" group-title="Lithuania",M-1
-http://m-1.data.lt/m-1/smil:m-1.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lithuania",Power Hit Radio
-https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="Curaçao",Nos Païs
