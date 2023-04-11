@@ -4305,23 +4305,15 @@ http://91.220.221.60/gtv_hls/gtv_03.m3u8
 https://stream.veseljak.tv/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="🇨🇾Cyprus"Alfa Sport
+#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="🇨🇾Cyprus",Alfa Sport
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",BRT 1 HD 
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",BRT 1 HD
-http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
-#EXTINF:-1 tvg-id="BRT3.cy" tvg-logo="https://i.imgur.com/uczNZ3E.png" group-title="🇨🇾Cyprus",BRT 3 
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="CityChannel.cy" tvg-logo="https://i.imgur.com/oo2fxta.png" group-title="🇨🇾Cyprus",City Channel
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",Reload
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="RIK1.cy" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="🇨🇾Cyprus",RIK 1 (CYBC 1) [Geo-blocked]
-http://l6.cloudskep.com/rikcy/rik1/playlist.m3u8
-#EXTINF:-1 tvg-id="RIK2.cy" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="🇨🇾Cyprus",RIK 2 (CYBC 2) [Geo-blocked]
-http://l6.cloudskep.com/rikcy/rik2/playlist.m3u8
-#EXTINF:-1 tvg-id="RIKHD.cy" tvg-logo="https://i.imgur.com/xQnHaPy.png" group-title="🇨🇾Cyprus",RIK HD (CYBC HD) [Geo-blocked]
-http://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8
 #EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="🇨🇾Cyprus",Sigma (576p)
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇾Cyprus",Vouli TV 
@@ -4331,6 +4323,23 @@ https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6j
 #EXTINF:-1 tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/kFg2SD1.png" group-title="🇨🇾Cyprus",ΡΙΚ Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="🇪🇪Estonia",ETV2 
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6403/index.m3u8
+#EXTINF:-1 tvg-id="ETV.ee" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="🇪🇪Estonia",ETV 
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6402/index.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="🇪🇪Estonia",ETV+ 
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/14133/index.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="🇪🇪Estonia",Life TV 
+https://lifetv.bitflip.ee/live/stream1.m3u8
+
+
+#EXTINF:-1 tvg-id="LatvijasRadio2.lv" tvg-logo="https://i.imgur.com/coBeMaw.png" group-title="🇱🇻Latvia",Latvijas Radio 2
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+#EXTINF:-1 tvg-id="LatvijasRadio3Klasika.lv" tvg-logo="https://i.imgur.com/0dp2rMz.png" group-title="🇱🇻Latvia",Latvijas Radio 3 Klasika
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNET.lv" tvg-logo="https://i.imgur.com/jzv1ssE.png" group-title="🇱🇻Latvia",TVNET
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
@@ -5996,35 +6005,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309
 #EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="spania",Pluto TV Documentales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ETV2.ee" group-title="Estonia",ETV2
-https://errstreams4.cdn.eurovisioncdn.net/live/etv2.m3u8
-#EXTINF:0 tvg-id="ETV.ee" group-title="Estonia",ETV
-https://errstreams4.cdn.eurovisioncdn.net/live/etv.m3u8
-#EXTINF:0 tvg-id="ETV.ee" group-title="Estonia",ETV
-https://sb.err.ee/live/etv.m3u8
-#EXTINF:0 tvg-id="ETVPlus.ee" group-title="Estonia",ETV+
-https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Estonia",Life TV
-https://lifetv.bitflip.ee/live/stream1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Estonia",Riigikogu
-https://h6le2.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Estonia",TBN Baltia
-http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Latvia",Latvijas Radio 1
-https://5a44e5b800a41.streamlock.net/liveVLR1/mp4:LR1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Latvia",Latvijas Radio 2
-https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Latvia",Latvijas Radio 3 Klasika
-https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:0 tvg-id="TVNet.tr" group-title="Latvia",TVNET
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.imgur.com/LD97XyN.png" group-title="United States",A&E (Best of)
