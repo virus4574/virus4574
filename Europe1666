@@ -4271,6 +4271,21 @@ http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/D7RBtZ2.png" group-title="🇹🇲Turkmenistan",Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-id="Asgabat.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/ashgabat.png" group-title="🇹🇲Turkmenistan",Aşgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="🇹🇲Turkmenistan",Miras
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-logo="https://i.imgur.com/Ap7l2jC.png" group-title="🇹🇲Turkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="🇹🇲Turkmenistan",Türkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="🇹🇲Turkmenistan",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/yaslyk.png" group-title="🇹🇲Turkmenistan",Ýaşlyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
@@ -6101,38 +6116,6 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Thailand",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Altyn Asyr TV
-https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Asgabat TV
-https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Miras
-https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmen Owazy
-https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan TV
-https://alpha.tv.online.tm/hls/ch007_400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Türkmenistan TV
-https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Turkmenistan",Yaslyk TV
-https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Uganda",NBS TV
-https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBSTV_stream_qb/5-20-hls/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Uganda",Salt TV)
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.imgur.com/LD97XyN.png" group-title="United States",A&E (Best of)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
