@@ -5,44 +5,26 @@
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="EcotelTV.ec" tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="🇪🇨Ecuador",Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="🇪🇨Ecuador",Ecuavisa
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="🇪🇨Ecuador",EducaTV
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSolNetworkTV.ec" tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="🇪🇨Ecuador",El Sol Network TV
 https://rctvhd.net:8081/elsol105fm/index.m3u8
 #EXTINF:-1 tvg-id="ElSolTV.ec" tvg-logo="https://i.imgur.com/ToaQxon.png" group-title="🇪🇨Ecuador",El Sol Radio y Television
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
-#EXTINF:-1 tvg-id="FMMundo.ec" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="🇪🇨Ecuador",FM Mundo
-https://streamingwowza.com:19360/fmmundolive/fmmundolive.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="🇪🇨Ecuador",Hechos Ecuador 
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="LoretoTV.ec" tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="🇪🇨Ecuador",Loreto TV
 https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 #EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="🇪🇨Ecuador",Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
-#EXTINF:-1 tvg-id="Nortvision.ec" tvg-logo="https://i.imgur.com/tkDA6j6.png" group-title="🇪🇨Ecuador",Nortvisión
-https://plataformavideo.com:19360/nortvision/nortvision.m3u8
-#EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="🇪🇨Ecuador",Oromar TV
-https://stream.oromartv.com:8082/hls/oromartv.m3u8
-#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="🇪🇨Ecuador",Puruwa TV
-https://mediacp.us:8081/8054/index.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="🇪🇨Ecuador",RTS 
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
-#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="🇪🇨Ecuador",RTU
-https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 #EXTINF:-1 tvg-id="SonoOndaTV.ec" tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="🇪🇨Ecuador",Sono Onda TV
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8
 #EXTINF:-1 tvg-id="Telerama.ec" tvg-logo="https://i.imgur.com/J6Mc42H.png" group-title="🇪🇨Ecuador",Telerama
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://i.imgur.com/k6h5Cz2.png" group-title="🇪🇨Ecuador",TVC 
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
-#EXTINF:-1 tvg-id="WuanPlus.ec" tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="🇪🇨Ecuador",Wuan+
-https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="🇪🇨Ecuador",Zaracay TV
-https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="🇩🇴Dominican",Amé 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
