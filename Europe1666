@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ANTV.pa" tvg-logo="https://i.imgur.com/UAqcj4Z.png" group-title="🇵🇦Panama",ANTV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bdc928e938f54ab280e8bfa0e265eddd/playlist.m3u8
+#EXTINF:-1 tvg-id="CabinaRPCRadio.pa" tvg-logo="https://i.imgur.com/BIxfM03.png" group-title="🇵🇦Panama",Cabina RPC Radio 
+https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
+#EXTINF:-1 tvg-id="CabinaTelemetroRadio.pa" tvg-logo="https://i.imgur.com/X9NLS5K.png" group-title="🇵🇦Panama",Cabina Telemetro Radio 
+https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="🇵🇦Panama",DreikoTv 
+https://cloudvideo.servers10.com:8081/8242/index.m3u8
+#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="🇵🇦Panama",Nex TV (Canal 21)
+http://209.91.213.10:8088/play/a01o
+#EXTINF:-1 tvg-id="OyeTV.pa" tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="🇵🇦Panama",Oye TV [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://i.imgur.com/DzYPhdZ.png" group-title="🇵🇦Panama",RPC [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="🇵🇦Panama",Telemetro [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+#EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="🇵🇦Panama",TVMax
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="🇵🇦Panama",TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
