@@ -2,18 +2,12 @@
 
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="🇮🇩Indonesia",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV  [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTINF:-1 tvg-id="Ainos.id" tvg-logo="https://i.imgur.com/C62qtRz.png" group-title="🇮🇩Indonesia",Ainos (576i)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇩Indonesia",Alwafa Tarim TV (Am Media)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="🇮🇩Indonesia",ANTV  [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV  [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇩Indonesia",ATVLI
 https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="🇮🇩Indonesia",Bali TV [Geo-blocked]
@@ -76,8 +70,6 @@ https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 #EXTINF:-1 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="🇮🇩Indonesia" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Hijrah TV  [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:-1 tvg-id="HopeChannelIndonesia.id" tvg-logo="https://i.imgur.com/vXFS7Fi.png" group-title="Religious",Hope Channel Indonesia
-https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="🇮🇩Indonesia",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="🇮🇩Indonesia",I AM CHANNEL 
