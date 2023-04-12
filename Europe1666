@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Canal9.ni" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="🇳🇮Nicaragua",Canal 9
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="🇳🇮Nicaragua",Canal 10
+http://138.117.4.70:8075/channel10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇮Nicaragua",CDNN23
+http://138.117.4.70:8075/channel23/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇮Nicaragua",La Rock 22
+http://138.117.4.70:8075/channel22/playlist.m3u8
+#EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://i.imgur.com/iSpZ2Ng.png" group-title="🇳🇮Nicaragua",Telenica Canal 8 (tn8)
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.ni" tvg-logo="https://i.imgur.com/heZeqPQ.png" group-title="🇳🇮Nicaragua",TV RED Canal 11
+http://138.117.4.70:8075/channel11/playlist.m3u8
+#EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="🇳🇮Nicaragua",Vos Tv
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="🇳🇮Nicaragua",WTV Canal 20
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+
 #EXTINF:-1 tvg-id="BrianTV.la" tvg-logo="https://i.imgur.com/zG1WNgU.jpg" group-title="🇱🇦Laos",Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DaoLaneXangTV.la" tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="🇱🇦Laos",Dao Lane Xang 
