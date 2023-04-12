@@ -1,6 +1,48 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="ACNN.ng" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="🇳🇬Nigeria",ACNN 
+https://webstreaming.viewmedia.tv/web_014/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV1.ng" tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="🇳🇬Nigeria",Africa TV 1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV2.ng" tvg-logo="https://i.imgur.com/GXa37c7.png" group-title="🇳🇬Nigeria",Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-logo="https://i.imgur.com/iibE9WL.png" group-title="🇳🇬Nigeria",Africa TV3 
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇳🇬Nigeria",Bloomberg TV EMEA Live Event
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="CaughtUpTV.ng" tvg-logo="https://i.imgur.com/7jeoulU.png" group-title="🇳🇬Nigeria",Caught-Up TV 
+https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="🇳🇬Nigeria",Channels TV
+https://ythls.onrender.com/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="🇳🇬Nigeria",CNBC Africa 
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveTV.ng" tvg-logo="https://i.imgur.com/wOlMfCR.png" group-title="🇳🇬Nigeria",Dove TV
+https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8
+#EXTINF:-1 tvg-id="GalaxyTV.ng" tvg-logo="https://i.imgur.com/BV0JuyX.png" group-title="🇳🇬Nigeria",Galaxy TV 
+https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldPersia.ng" tvg-logo="https://i.imgur.com/Vd2xPxh.png" group-title="🇳🇬Nigeria",LoveWorld Persia 
+https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="🇳🇬Nigeria",News Central 
+https://ythls.onrender.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8
+#EXTINF:-1 tvg-id="NTAInternational.ng" tvg-logo="https://i.imgur.com/mN8j8CR.png" group-title="🇳🇬Nigeria",NTA International 
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="🇳🇬Nigeria",Tele 7
+https://vdo.panelstreaming.live:3736/live/tele7live.m3u8
+#EXTINF:-1 tvg-id="TVC.ng" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="🇳🇬Nigeria",TVC 
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="🇳🇬Nigeria",TVC News
+https://ythls.onrender.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
+#EXTINF:-1 tvg-id="WapTV.ng" tvg-logo="https://i.imgur.com/Djng8pI.png" group-title="🇳🇬Nigeria",Wap TV 
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="🇳🇬Nigeria",Wazobia Max TV Abuja
+https://wazobia.live:8333/channel/wmaxabuja.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="🇳🇬Nigeria",Wazobia Max TV Nigeria 
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="🇳🇬Nigeria",Wazobia Max TV Port Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Ausbiz TV
