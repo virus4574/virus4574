@@ -1,5 +1,30 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k8qpvHb.png" group-title="🇲🇩Moldova",Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 tvg-id="BaltiTV.md" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="🇲🇩Moldova",Bălţi TV [Geo-blocked]
+http://77.89.199.174:8000/play/1024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",Drochia
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="🇲🇩Moldova",Moldova1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-id="Moldova2.md" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="🇲🇩Moldova",Moldova2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",Moldova TV
+http://89.38.8.130:39435
+#EXTINF:-1 tvg-id="NorocTV.md" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="🇲🇩Moldova",Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 tvg-id="PublikaTV.md" tvg-logo="https://i.imgur.com/Vyx6wo5.png" group-title="🇲🇩Moldova",Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="🇲🇩Moldova",Vocea Basarabiei TV
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",ТНТ Exclusiv TV
+http://89.28.25.122/hls/tnt_md.m3u8
+
+
+
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="🇲🇾Malaysia",8TV [Geo-blocked]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="🇲🇾Malaysia",Astro Awani 
