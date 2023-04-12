@@ -1,5 +1,44 @@
 #EXTM3U
 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇰🇿Kazakhstan",7 канал 
+https://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-logo="https://i.imgur.com/5Bp9ljw.png" group-title="🇰🇿Kazakhstan",31 канал 
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="🇰🇿Kazakhstan",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="🇰🇿Kazakhstan",Atameken Business 
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="🇰🇿Kazakhstan",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="CaspianNews.kz" tvg-logo="https://i.imgur.com/QUu4Gv0.png" group-title="🇰🇿Kazakhstan",Caspian News 
+https://sc.id-tv.kz/CaspianNews.m3u8
+#EXTINF:-1 tvg-id="GakkuTV.kz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png" group-title="🇰🇿Kazakhstan",Gakku 
+https://sc.id-tv.kz/Gakku.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="🇰🇿Kazakhstan",Qazaqstan TV [Geo-blocked]
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇰🇿Kazakhstan",Qazaqstan TV International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-logo="https://i.imgur.com/Mjqwt8C.png" group-title="🇰🇿Kazakhstan",Алматы 
+https://sc.id-tv.kz/Almaty.m3u8
+#EXTINF:-1 tvg-id="AstanaTV.kz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astana_TV_Logo.png" group-title="🇰🇿Kazakhstan",Астана 
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 tvg-id="ElArna.kz" tvg-logo="https://i.imgur.com/XYsLe2Q.png" group-title="🇰🇿Kazakhstan",Ел Арна 
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="🇰🇿Kazakhstan",КТК 
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="🇰🇿Kazakhstan",МТРК 
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="🇰🇿Kazakhstan",Новое телевидение 
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ToiDuman.kz" tvg-logo="https://i.imgur.com/LIZtHfN.png" group-title="🇰🇿Kazakhstan",Той Думан 
+https://sc.id-tv.kz/ToiDuman.m3u8
+#EXTINF:-1 tvg-id="TuranTV.kz" tvg-logo="https://i.imgur.com/VagTPMo.png" group-title="🇰🇿Kazakhstan",Туран ТВ
+https://sc.id-tv.kz/TuranTV.m3u8
+#EXTINF:-1 tvg-id="Khabar24.kz" tvg-logo="https://i.imgur.com/x89nJgB.png" group-title="🇰🇿Kazakhstan",Хабар 24 
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="🇮🇩Indonesia",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="🇮🇩Indonesia",ANTV  [Geo-blocked]
