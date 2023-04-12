@@ -1,189 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="ACNN.ng" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="🇳🇬Nigeria",ACNN 
-https://webstreaming.viewmedia.tv/web_014/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricaTV1.ng" tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="🇳🇬Nigeria",Africa TV 1
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricaTV2.ng" tvg-logo="https://i.imgur.com/GXa37c7.png" group-title="🇳🇬Nigeria",Africa TV 2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-logo="https://i.imgur.com/iibE9WL.png" group-title="🇳🇬Nigeria",Africa TV3 
-http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇳🇬Nigeria",Bloomberg TV EMEA Live Event
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="CaughtUpTV.ng" tvg-logo="https://i.imgur.com/7jeoulU.png" group-title="🇳🇬Nigeria",Caught-Up TV 
-https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="🇳🇬Nigeria",Channels TV
-https://ythls.onrender.com/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
-#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="🇳🇬Nigeria",CNBC Africa 
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DoveTV.ng" tvg-logo="https://i.imgur.com/wOlMfCR.png" group-title="🇳🇬Nigeria",Dove TV
-https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8
-#EXTINF:-1 tvg-id="GalaxyTV.ng" tvg-logo="https://i.imgur.com/BV0JuyX.png" group-title="🇳🇬Nigeria",Galaxy TV 
-https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveWorldPersia.ng" tvg-logo="https://i.imgur.com/Vd2xPxh.png" group-title="🇳🇬Nigeria",LoveWorld Persia 
-https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="🇳🇬Nigeria",News Central 
-https://ythls.onrender.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8
-#EXTINF:-1 tvg-id="NTAInternational.ng" tvg-logo="https://i.imgur.com/mN8j8CR.png" group-title="🇳🇬Nigeria",NTA International 
-https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="🇳🇬Nigeria",Tele 7
-https://vdo.panelstreaming.live:3736/live/tele7live.m3u8
-#EXTINF:-1 tvg-id="TVC.ng" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="🇳🇬Nigeria",TVC 
-https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="🇳🇬Nigeria",TVC News
-https://ythls.onrender.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
-#EXTINF:-1 tvg-id="WapTV.ng" tvg-logo="https://i.imgur.com/Djng8pI.png" group-title="🇳🇬Nigeria",Wap TV 
-https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="🇳🇬Nigeria",Wazobia Max TV Abuja
-https://wazobia.live:8333/channel/wmaxabuja.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="🇳🇬Nigeria",Wazobia Max TV Nigeria 
-https://wazobia.live:8333/channel/wmax.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="🇳🇬Nigeria",Wazobia Max TV Port Harcourt
-https://wazobia.live:8333/channel/wmaxph.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Ausbiz TV
-https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Bloomberg Quicktake
-https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Bloomberg TV
-https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",CineView
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Bounty
-https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Clubbing TV
-https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Drybar Comedy
-https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Dust
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",EuroNews
-https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Gusto TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Horse and Country Free
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Introuble
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",InWonder
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Kartoon Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="KordiaTV.nz" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="🇳🇿New Zealand",Kordia TV
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Love Stories TV
-https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Made in Hollywood
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Magellen TV
-https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Mav TV Motorsports Network
-https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Motorvision.TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Mtrspt 1
-https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Now 90's
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="🇳🇿New Zealand",Parliament TV
-https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Pulse TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Real Crime
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Real Life
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Revry
-https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rialto.nz" tvg-logo="https://i.imgur.com/wGw0sGu.png" group-title="🇳🇿New Zealand",Rialto
-https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Ryan and Friends
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Smithsonian Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Tastemade International
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",The Design Network
-https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Three.nz" tvg-logo="https://i.imgur.com/kc57D8T.png" group-title="🇳🇿New Zealand",Three [Geo-blocked]
-https://livestreamdirect-three.mediaworks.nz/three.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Timeline
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Travel XP
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",True Crime Now
-https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNZ1.nz" tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="🇳🇿New Zealand",TVNZ 1 [Geo-blocked]
-https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
-#EXTINF:-1 tvg-id="TVNZ2.nz" tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="🇳🇿New Zealand",TVNZ 2 [Geo-blocked]
-https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",TVNZ Duke [Geo-blocked]
-https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
-#EXTINF:-1 tvg-id="WairarapaTV.nz" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="🇳🇿New Zealand",Wairarapa TV 
-https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Wonder
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Zoo Moo 
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Zoo Moo 
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",Drochia
-https://hls.drochia.tv/tv/web.m3u8
-#EXTINF:-1 tvg-id="Moldova1.md" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="🇲🇩Moldova",Moldova1
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1 tvg-id="Moldova2.md" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="🇲🇩Moldova",Moldova2
-http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",Moldova TV
-http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="PublikaTV.md" tvg-logo="https://i.imgur.com/Vyx6wo5.png" group-title="🇲🇩Moldova",Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",ТНТ Exclusiv TV
-http://89.28.25.122/hls/tnt_md.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="🇲🇾Malaysia",Astro Awani 
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="🇲🇾Malaysia",Bernama TV
-https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="🇲🇾Malaysia",CinemaWorld [Geo-blocked]
-http://210.210.155.35/dr9445/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇾Malaysia",RTM TV 1 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇾Malaysia",RTM TV 2 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="🇲🇾Malaysia",Sukan RTM [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="🇲🇾Malaysia",TV3  [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
-#EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="🇲🇾Malaysia",TV9  [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
-#EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="🇲🇾Malaysia",8TV [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
-
-
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="🇦🇹Austria",Dorf TV 
@@ -5176,6 +4993,181 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="🇩🇴Dominican",ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ACNN.ng" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="🇳🇬Nigeria",ACNN 
+https://webstreaming.viewmedia.tv/web_014/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV1.ng" tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="🇳🇬Nigeria",Africa TV 1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV2.ng" tvg-logo="https://i.imgur.com/GXa37c7.png" group-title="🇳🇬Nigeria",Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-logo="https://i.imgur.com/iibE9WL.png" group-title="🇳🇬Nigeria",Africa TV3 
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="CaughtUpTV.ng" tvg-logo="https://i.imgur.com/7jeoulU.png" group-title="🇳🇬Nigeria",Caught-Up TV 
+https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="🇳🇬Nigeria",Channels TV
+https://ythls.onrender.com/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
+#EXTINF:-1 tvg-id="DoveTV.ng" tvg-logo="https://i.imgur.com/wOlMfCR.png" group-title="🇳🇬Nigeria",Dove TV
+https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8
+#EXTINF:-1 tvg-id="GalaxyTV.ng" tvg-logo="https://i.imgur.com/BV0JuyX.png" group-title="🇳🇬Nigeria",Galaxy TV 
+https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldPersia.ng" tvg-logo="https://i.imgur.com/Vd2xPxh.png" group-title="🇳🇬Nigeria",LoveWorld Persia 
+https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="🇳🇬Nigeria",News Central 
+https://ythls.onrender.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8
+#EXTINF:-1 tvg-id="NTAInternational.ng" tvg-logo="https://i.imgur.com/mN8j8CR.png" group-title="🇳🇬Nigeria",NTA International 
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="🇳🇬Nigeria",TVC News
+https://ythls.onrender.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
+#EXTINF:-1 tvg-id="WapTV.ng" tvg-logo="https://i.imgur.com/Djng8pI.png" group-title="🇳🇬Nigeria",Wap TV 
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="🇳🇬Nigeria",Wazobia Max TV Abuja
+https://wazobia.live:8333/channel/wmaxabuja.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="🇳🇬Nigeria",Wazobia Max TV Nigeria 
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="🇳🇬Nigeria",Wazobia Max TV Port Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Ausbiz TV
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Bloomberg Quicktake
+https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Bloomberg TV
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",CineView
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Bounty
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Drybar Comedy
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Dust
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",EuroNews
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Introuble
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",InWonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="KordiaTV.nz" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="🇳🇿New Zealand",Kordia TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Love Stories TV
+https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Magellen TV
+https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Motorvision.TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Mtrspt 1
+https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="🇳🇿New Zealand",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Real Life
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Revry
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rialto.nz" tvg-logo="https://i.imgur.com/wGw0sGu.png" group-title="🇳🇿New Zealand",Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Smithsonian Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Tastemade International
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",The Design Network
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Three.nz" tvg-logo="https://i.imgur.com/kc57D8T.png" group-title="🇳🇿New Zealand",Three [Geo-blocked]
+https://livestreamdirect-three.mediaworks.nz/three.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",True Crime Now
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNZ1.nz" tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="🇳🇿New Zealand",TVNZ 1 [Geo-blocked]
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+#EXTINF:-1 tvg-id="TVNZ2.nz" tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="🇳🇿New Zealand",TVNZ 2 [Geo-blocked]
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",TVNZ Duke [Geo-blocked]
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+#EXTINF:-1 tvg-id="WairarapaTV.nz" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="🇳🇿New Zealand",Wairarapa TV 
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Zoo Moo 
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇿New Zealand",Zoo Moo 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",Drochia
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-id="Moldova1.md" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="🇲🇩Moldova",Moldova1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-id="Moldova2.md" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="🇲🇩Moldova",Moldova2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",Moldova TV
+http://89.38.8.130:39435
+#EXTINF:-1 tvg-id="PublikaTV.md" tvg-logo="https://i.imgur.com/Vyx6wo5.png" group-title="🇲🇩Moldova",Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇩Moldova",ТНТ Exclusiv TV
+http://89.28.25.122/hls/tnt_md.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="🇲🇾Malaysia",Astro Awani 
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="🇲🇾Malaysia",Bernama TV
+https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="🇲🇾Malaysia",CinemaWorld [Geo-blocked]
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇾Malaysia",RTM TV 1 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇾Malaysia",RTM TV 2 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="🇲🇾Malaysia",Sukan RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="🇲🇾Malaysia",TV3  [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+#EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="🇲🇾Malaysia",TV9  [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+#EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="🇲🇾Malaysia",8TV [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
