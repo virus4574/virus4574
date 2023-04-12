@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Althingi.is" tvg-logo="https://i.imgur.com/tKNPdea.png" group-title="🇮🇸Iceland",Althingi
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 tvg-id="N4.is" tvg-logo="https://i.imgur.com/71GEuIx.png" group-title="🇮🇸Iceland",N4 
+https://live.tv.c.is/n4/index.m3u8
+#EXTINF:-1 tvg-id="RUV.is" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png" group-title="🇮🇸Iceland",RUV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="RUV2.is" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/512px-R%C3%9AV_2_2019_logo.svg.png" group-title="🇮🇸Iceland",RUV2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇹Guatemala",Aurora Media Films
 http://204.12.202.90:8080/playgt/playgt2023/104
