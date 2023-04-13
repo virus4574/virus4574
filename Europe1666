@@ -6621,16 +6621,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 #EXTINF:-1 tvg-id="BusinessRockstars.us" tvg-logo="https://i.imgur.com/vfAMWLJ.png" group-title="🇺🇸United States",Business Rockstars
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
-#EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="🇺🇸United States",BUTV10 (Boston University)  
-http://butv10-livestream.bu.edu/live/live.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="🇺🇸United States",Buzzr 
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KCKSLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="🇺🇸United States",Buzzr (KCKS-LD1) 
-https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-id="CTV.us" tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="🇺🇸United States",Calabasas Channel 
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
-#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="🇺🇸United States",Camera Smile TV 
-https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="🇺🇸United States",Camp Spoopy 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",CampusLore
@@ -6643,26 +6638,16 @@ https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8
 https://reflect-stream15-capsmedia.cablecast.tv/live/live.m3u8
 #EXTINF:-1 tvg-id="CityTVCarlsbad.us" tvg-logo="https://i.imgur.com/G6h8efT.png" group-title="🇺🇸United States",Carlsbad City TV Channel (Carlsbad CA)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="🇺🇸United States",Cartoon Network East TVE Feed [Geo-Blocked] 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="🇺🇸United States",Cartoon Network West TVE Feed [Geo-Blocked]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="🇺🇸United States",Cats 24/7 (US)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",CBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",CBC News Highlights
-https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 tvg-id="KMTVDT1.us" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="🇺🇸United States",CBS 3 Omaha NE (KMTV-TV)
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 #EXTINF:-1 tvg-id="WRGBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="🇺🇸United States",CBS 6 Albany NY (WRGB)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 tvg-id="WPECDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="🇺🇸United States",CBS 12 West Palm Beach FL (WPEC)
 https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-#EXTINF:-1 tvg-id="WWJDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="🇺🇸United States",CBS (WWJ-DT1) Detroit MI
-https://16live00.akamaized.net/CBS_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WTAJDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="🇺🇸United States",CBS Altoona PA (WTAJ1)
-http://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
 #EXTINF:-1 tvg-id="WGCLDT1.us" tvg-logo="https://i.imgur.com/1yYlLZg.png" group-title="🇺🇸United States",CBS Atlanta GA (WGCL-DT1) 
 https://trn10.tulix.tv/WGCL-CBS/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="🇺🇸United States",CBS News Baltimore
@@ -6683,10 +6668,6 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="🇺🇸United States",CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="🇺🇸United States",CBS News Sacramento
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-#EXTINF:-1 tvg-id="WCTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="🇺🇸United States",CBS Tallahassee FL (WCTV1) 
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="https://i.imgur.com/GmA99Tt.png" group-title="🇺🇸United States",CBSN Bay Area CA 
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="🇺🇸United States",CBSN Minnesota MN
@@ -6697,20 +6678,14 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",CCX Media North Brooklyn Park MN 
 http://156.142.85.152/live/live.m3u8
-#EXTINF:-1 tvg-id="CelebritySceneTV.us" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="🇺🇸United States",Celebrity Scene TV
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="CerritosTV3.us" tvg-logo="https://i.imgur.com/huCBOIy.png" group-title="🇺🇸United States",Cerritos TV3 
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CFMTVChannel98.us" tvg-logo="https://i.imgur.com/LGs524I.png" group-title="🇺🇸United States",CFM TV Channel 98 
 http://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTV.us" tvg-logo="https://i.imgur.com/hNdQFtK.jpg" group-title="🇺🇸United States",Champaign Government Television (CGTV) (Champaign IL)
-https://reflect-champaign.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Channel 11
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="🇺🇸United States",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="WTWCDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/512px-Charge%21_Logo_2020.svg.png" group-title="🇺🇸United States",Charge! Tallahassee FL (WTWC-TV3) 
-https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV.us" tvg-logo="https://i.imgur.com/feFWTb8.jpg" group-title="🇺🇸United States",Charlotte County CC-TV (Charlotte County FA)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_002/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Cheddar News
@@ -6729,68 +6704,46 @@ https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="🇺🇸United States",Chef Roc Show 
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Chicken Soup For The Soul 
-https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-logo="https://i.imgur.com/L0vaDea.png" group-title="🇺🇸United States",Chino Hills City TV Channel 3/41 
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="ChiveTV.us" tvg-logo="https://i.imgur.com/iUMAOUq.png" group-title="🇺🇸United States",Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
+
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸United States",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="🇺🇸United States",Cine Sureño 
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="🇺🇸United States",Cinemax East  [Geo-blocked]
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePride.us" tvg-logo="https://i.imgur.com/Y4Wgq8I.png" group-title="🇺🇸United States",CinePride
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="🇺🇸United States",Cinevault 80s (540p)
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="🇺🇸United States",Cinevault Westerns (540p)
-https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="🇺🇸United States",Circle 
 https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTOP.us" tvg-logo="https://i.imgur.com/duM548G.png" group-title="🇺🇸United States",City of Oakland (KTOP) 
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-logo="https://i.imgur.com/8w3N2k3.png" group-title="🇺🇸United States",City TV Capital City Connection
-https://vblive-c.viebit.com/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/chunklist.m3u8
 #EXTINF:-1 tvg-id="CityTVSanDiego.us" tvg-logo="https://i.imgur.com/OfNV6I7.png" group-title="🇺🇸United States",CityTV San Diego 
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 tvg-id="Civilized.us" tvg-logo="https://i.imgur.com/cn5KDTc.png" group-title="🇺🇸United States",Civilized.  
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
 #EXTINF:-1 tvg-id="Clarity4K.us" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="🇺🇸United States",Clarity 4K 
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="🇺🇸United States",Classic Cinema (240p) 
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="🇺🇸United States",Classic Cinema
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-logo="https://i.imgur.com/55M8t19.png" group-title="🇺🇸United States",Classic Reruns TV 
-https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 #EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" group-title="🇺🇸United States",Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="🇺🇸United States",CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="🇺🇸United States",CNBC 
-https://16live00.akamaized.net/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="https://i.imgur.com/t4EXijz.png" group-title="🇺🇸United States",CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="🇺🇸United States",CNN en Español
-http://209.91.213.10:8088/play/a014
-#EXTINF:-1 tvg-id="CCPSEducationChannel.us" tvg-logo="https://i.imgur.com/62S7dI8.png" group-title="🇺🇸United States",Collier County Public Schools CCPS Education Channel (Naples FL) 
-https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CollierTV.us" tvg-logo="https://i.imgur.com/dkpTHI9.png" group-title="🇺🇸United States",Collier Television CTV (Naples FL)
-https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="🇺🇸United States",Comedy Central East 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4947590ba40f75dc29c26b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=400&terminate=false&userId=
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="🇺🇸United States",Comedy Dynamics 
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="🇺🇸United States",Comet [Geo-blocked]
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="Complex.us" tvg-logo="https://i.imgur.com/NdYARAZ.png" group-title="🇺🇸United States",Complex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ConcordTV.us" tvg-logo="https://i.imgur.com/1vh2a3H.png" group-title="🇺🇸United States",Concord TV (Concord CA)
-http://reflect-live-concord.cablecast.tv/live/live.m3u8
-#EXTINF:-1 tvg-id="ContraCostaTV.us" tvg-logo="https://i.imgur.com/3oYkwPc.png" group-title="🇺🇸United States",Contra Costa College TV [Geo-blocked]
-https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://i.imgur.com/49LrRwJ.png" group-title="🇺🇸United States",CONtv Anime 
-https://contvanime-roku-ingest.cinedigm.com/master.m3u8
+
 #EXTINF:-1 tvg-id="CookingPanda.us" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="🇺🇸United States",Cooking Panda 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 tvg-id="CoralGablesTV.us" tvg-logo="https://i.imgur.com/Z7QvRzd.png" group-title="🇺🇸United States",Coral Gables Television (Coral Gables FL)
@@ -6801,28 +6754,15 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="🇺🇸United States",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1 tvg-id="CourtTVMystery.us" tvg-logo="https://i.imgur.com/JotdfTw.png" group-title="🇺🇸United States",Court TV Mystery (WTXL-TV4) 
-https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Cowboy Theater
 https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8
 #EXTINF:-1 tvg-id="CoxEnfieldPublicAccess.us" tvg-logo="https://i.imgur.com/lFct7hq.png" group-title="🇺🇸United States",Cox Enfield Public Access Channel 15 (Einfield CT)
 http://184.177.41.241/live-10/live/live.m3u8
 #EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="🇺🇸United States",Crackle (XUMO) 
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CreaTVChannel27.us" tvg-logo="https://i.imgur.com/IYuv0RF.png" group-title="🇺🇸United States",CreaTV Bay Voice TV Channel 27 (San Jose CA)
-https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
-#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="🇺🇸United States",CreaTV Classrooms Channel 28 (San Jose CA)
-https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-id="CreaTVChannel15.us" tvg-logo="https://i.imgur.com/Lwzio0H.png" group-title="🇺🇸United States",CreaTV Community Channel 15 (San Jose CA)
-https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
-#EXTINF:-1 tvg-id="CreaTVChannel30.us" tvg-logo="https://i.imgur.com/O5GXlmE.png" group-title="🇺🇸United States",CreaTV The Outlet Channel 30 (San Jose CA)
-https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="🇺🇸United States",Crime 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CruzTV.us" tvg-logo="https://i.imgur.com/qOO2SaH.png" group-title="🇺🇸United States",Cruz TV
-https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamb/playlist.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png" group-title="🇺🇸United States",CSPAN1
-http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CTNCourtFeed.us" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="🇺🇸United States",CT-N Court Feed  
 http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="CTNLiveStream2.us" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="🇺🇸United States",CT-N Live Stream 2  
@@ -6835,13 +6775,12 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
 #EXTINF:-1 tvg-id="CutleryCornerNetwork.us" tvg-logo="https://i.imgur.com/GvX3MyE.png" group-title="🇺🇸United States",Cutlery Corner Network CCN
 https://ythls.onrender.com/channel/UCj3dt20MAZcvDN8GKeT2FBg.m3u8
-#EXTINF:-1 tvg-id="WUPADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="🇺🇸United States",CW Network Atlanta-GA (WUPA-DT1) 
-https://trn10.tulix.tv/WUPA-CW/index.m3u8
+
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-logo="https://i.imgur.com/vOvoHBC.png" group-title="🇺🇸United States",Cypress Public Access Channel 36 (Cypress CA) 
 https://edge-f.swagit.com/live/cypressca/smil:std-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="Dabl.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png" group-title="🇺🇸United States",Dabl 
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
-#EXTINF:-1 tvg-id="DallasCowboysCheerleaders.us" tvg-logo="https://i.imgur.com/73HlRCg.png" group-title="🇺🇸United States",Dallas Cowboy Cheerleaders (240p)
+#EXTINF:-1 tvg-id="DallasCowboysCheerleaders.us" tvg-logo="https://i.imgur.com/73HlRCg.png" group-title="🇺🇸United States",Dallas Cowboy Cheerleaders 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="🇺🇸United States",Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
@@ -6857,40 +6796,23 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DMTV.us" tvg-logo="https://i.imgur.com/M1eQ1eZ.png" group-title="🇺🇸United States",Del Mar TV
 https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Delicioso [Geo-blocked]
-https://unidfp-nlds139.global.ssl.fastly.net/nlds/univisionnow/cocina2/as/live/cocina2_hd_pc.m3u8?t1=
+
+
 #EXTINF:-1 tvg-id="DemandAfrica.us" tvg-logo="https://i.imgur.com/usqoEug.png" group-title="🇺🇸United States",Demand Africa
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Denver8TV.us" tvg-logo="https://i.imgur.com/wMIy5jb.png" group-title="🇺🇸United States",Denver 8 TV (Denver CO)
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Despierta [Geo-blocked]
-https://unidfp-nlds140.global.ssl.fastly.net/nlds/univisionnow/challenge28/as/live/challenge28_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="DickCavett.us" tvg-logo="https://i.imgur.com/3qTOYwk.png" group-title="🇺🇸United States",Dick Cavett (768p)
+#EXTINF:-1 tvg-id="DickCavett.us" tvg-logo="https://i.imgur.com/3qTOYwk.png" group-title="🇺🇸United States",Dick Cavett 
 https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8
-#EXTINF:-1 tvg-id="DidgahTV.us" tvg-logo="https://i.imgur.com/3SeAyBS.png" group-title="🇺🇸United States",Didgah TV 
-https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Dimensions
 https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Disney Channel Asia
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Disney Junior Asia
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Disney Junior Latinoamérica
-http://209.91.213.10:8088/play/a00n
-#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="🇺🇸United States",District of Columbia Network (DCN) 
-https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://i.imgur.com/naz0HAW.png" group-title="🇺🇸United States",Doctor Who
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Docurama.us" tvg-logo="https://i.imgur.com/2248nxX.png" group-title="🇺🇸United States",Docurama 
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="🇺🇸United States",Dove Channel 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="DramaLife.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true" group-title="🇺🇸United States",Drama Life
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",DryBar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
-#EXTINF:-1 tvg-id="DUSTx.us" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg" group-title="🇺🇸United States",DUSTx
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EarthxTV.us" tvg-logo="https://i.imgur.com/ZWWqiCb.png" group-title="🇺🇸United States",EarthxTV
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",EDGEsport 
@@ -6899,8 +6821,6 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",EDGEsport 
 https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",EDGEsport (US)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",El Conflecto 
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 #EXTINF:-1 tvg-id="ElSegundoMedia.us" tvg-logo="https://i.imgur.com/gX1yTIH.png" group-title="🇺🇸United States",El Segundo Media 
