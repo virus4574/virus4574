@@ -6853,28 +6853,17 @@ https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
 #EXTINF:-1 tvg-id="ExtremaTV.us" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="🇺🇸United States",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="EYE95America.us" tvg-logo="https://i.imgur.com/yTWdcWI.png" group-title="🇺🇸United States",EYE95 America  
-https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-id="FairTVEducationChannel.us" tvg-logo="https://i.imgur.com/kpgu1F1.png" group-title="🇺🇸United States",Fairfield FairTV Education Channel (Fairfield CT) 
 https://streams.helnix.com/autoHLS/900735315c2bc38b/900735315c2bc38b.m3u8
 #EXTINF:-1 tvg-id="FairTVGovernment.us" tvg-logo="https://i.imgur.com/u2WErtN.png" group-title="🇺🇸United States",Fairfield FairTV Government Channel (Fairfield CT) 
 https://streams.helnix.com/autoHLS/02d8dab006ef9ffd/02d8dab006ef9ffd.m3u8
-#EXTINF:-1 tvg-id="CityofFairfieldChannel26.us" tvg-logo="https://i.imgur.com/fiqaiUe.png" group-title="🇺🇸United States",Fairfield Government Access Channel 26 (Fairfield CA) [Geo-blocked]
-https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Fast&Fun Box (Russian) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/index.m3u8
-#EXTINF:-1 tvg-id="FPTV.us" tvg-logo="https://i.imgur.com/3nwZZ3I.png" group-title="🇺🇸United States",Fayetteville Public Television (FPTV) (Fayetteville AR) 
-https://ythls.onrender.com/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA.m3u8
-#EXTINF:-1 tvg-id="FCPublicMedia.us" tvg-logo="https://i.imgur.com/naLbZuo.png" group-title="🇺🇸United States",FC Public Media (Fort Collins CO) 
-https://reflect-fcpublicmedia.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="🇺🇸United States",Fernandina Beach City Meeting (Fernandina Beach FL) 
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FidoTV.us" tvg-logo="https://i.imgur.com/p13E4cf.png" group-title="🇺🇸United States",Fido TV 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/fido_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",FightBox HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s86/index.m3u8
 #EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/PoI9jpp.png" group-title="🇺🇸United States",Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/MRU0d3y.png" group-title="🇺🇸United States",Film Hub
@@ -6883,26 +6872,18 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="🇺🇸United States",FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="🇺🇸United States",FilmRise Forensic Files (XUMO) (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="🇺🇸United States",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="🇺🇸United States",FilmStreams
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="🇺🇸United States",Fireplace Lounge
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 tvg-id="FishTank.us" tvg-logo="https://i.imgur.com/4wz5GQi.png" group-title="🇺🇸United States",Fish Tank
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+
+
 #EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="🇺🇸United States",Fite 
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFlagstaff.us" tvg-logo="https://i.imgur.com/SZAwb17.png" group-title="🇺🇸United States",Flagstaff City Council Meeting (Flagstaff AZ)
 https://edge-f.swagit.com/live/flagstaffaz/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FolkTV.us" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="🇺🇸United States",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KFONTV.us" tvg-logo="https://i.imgur.com/MQHYm3V.png" group-title="🇺🇸United States",Fontana Community Television [Geo-blocked]
-https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="Food52.us" tvg-logo="https://i.imgur.com/cjvqjh2.png" group-title="🇺🇸United States",Food 52
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FLTV.us" tvg-logo="https://i.imgur.com/lQZ9RoB.png" group-title="🇺🇸United States",Fort Lauderdale FLTV (Fort Lauderdale FL)
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFortPierce.us" tvg-logo="https://i.imgur.com/2ChoSsi.png" group-title="🇺🇸United States",Fort Pierce Live Stream (Fort Pierce FL)
@@ -6941,28 +6922,17 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
 #EXTINF:-1 tvg-id="WWCPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="🇺🇸United States",FOX Altoona PA (WWCP1)
 http://trn03.tulix.tv/teleup-fox-wpmt-new1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="🇺🇸United States",Fox Business [Geo-blocked]
-http://199.66.95.242/1/1172/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Fox HD Russia
-https://sc.id-tv.kz/FOX_HD.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="🇺🇸United States",Fox News Channel
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KCPQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="🇺🇸United States",FOX Q13 Seattle WA (KCPQ)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="🇺🇸United States",Fox Soul  
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WTWCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="🇺🇸United States",Fox Tallahassee
-https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="🇺🇸United States",Fox Weather
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="🇺🇸United States",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Freebie TV 
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-#EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="🇺🇸United States",Freeform
-https://16live00.akamaized.net/FREEFORM/index.m3u8
 #EXTINF:-1 tvg-id="CMAC1.us" tvg-logo="https://i.imgur.com/PYhdQy9.png" group-title="🇺🇸United States",Fresno CMAC 1 Public Channel
 https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
 #EXTINF:-1 tvg-id="CMAC2.us" tvg-logo="https://i.imgur.com/O0sYOED.png" group-title="🇺🇸United States",Fresno CMAC 2 Education Channel
@@ -6971,28 +6941,16 @@ https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
 https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
 #EXTINF:-1 tvg-id="FTF.us" tvg-logo="https://i.imgur.com/wCAwYZ7.png" group-title="🇺🇸United States",FTF
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="🇺🇸United States",fubo Sports Network
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Fuel TV
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FunRoads.us" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="🇺🇸United States",Fun Roads (404p)
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="🇺🇸United States",Fun Roads 
 http://104.143.4.5:2080/funroads.m3u8
 #EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/17hqLxR.png" group-title="🇺🇸United States",Funny or Die
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Funnybone
 https://simultv.s.llnwi.net/o054/FunnyBone/interlink.m3u8
-#EXTINF:-1 tvg-id="FuseEast.us" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="🇺🇸United States",Fuse East
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Fútbol [Geo-blocked]
-https://unidfp-nlds153.global.ssl.fastly.net/nlds/univisionnow/futbol/as/live/futbol_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",FX Peru
-http://209.91.213.10:8088/play/a01z
 #EXTINF:-1 tvg-id="Community12TV.us" tvg-logo="https://i.imgur.com/Oel3q43.png" group-title="🇺🇸United States",Gainesville Community 12TV (Gainesville FL)
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
-#EXTINF:-1 tvg-id="GalavisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="🇺🇸United States",Galavisión East [Geo-blocked]
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="GalavisionWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="🇺🇸United States",Galavision West [Geo-blocked]
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="🇺🇸United States",Galicia TV América
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="GalvestonCountyTV.us" tvg-logo="https://i.imgur.com/uzjuxdI.png" group-title="🇺🇸United States",Galveston County TV 
@@ -7001,88 +6959,42 @@ https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="🇺🇸United States",Game Show Network East 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="GanjeHozourTV.us" tvg-logo="https://i.imgur.com/TnQYtKh.png" group-title="🇺🇸United States",Ganj e Hozour TV
-http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
 #EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us" tvg-logo="https://i.imgur.com/fU0ZhKD.png" group-title="🇺🇸United States",GBN Global Buddhist Network 
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
 #EXTINF:-1 tvg-id="KBPXLD5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png" group-title="🇺🇸United States",Geb Tv (KBPX LD5) 
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
-#EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-logo="https://i.imgur.com/WlHEpAu.png" group-title="🇺🇸United States",Gem Shopping Network
-https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Genesis TV 
-http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GFNTV.us" tvg-logo="https://i.imgur.com/pu4BC3M.png" group-title="🇺🇸United States",GFN TV 
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
-#EXTINF:-1 tvg-id="CMAPChannel18.us" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="🇺🇸United States",Gilroy CMAP TV Channel 18
-https://cmap.secure.footprint.net/egress/bhandler/cmap/streamb/playlist.m3u8
-#EXTINF:-1 tvg-id="CMAPChannel19.us" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="🇺🇸United States",Gilroy CMAP TV Channel 19
-https://cmap.secure.footprint.net/egress/bhandler/cmap/streamc/playlist.m3u8
-#EXTINF:-1 tvg-id="CMAPChannel20.us" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="🇺🇸United States",Gilroy CMAP TV Channel 20
-https://cmap.secure.footprint.net/egress/bhandler/cmap/streamd/playlist.m3u8
 #EXTINF:-1 tvg-id="Glamour.us" tvg-logo="https://i.imgur.com/W8RJdsZ.png" group-title="🇺🇸United States",Glamour
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Glendale11AZ.us" tvg-logo="https://i.imgur.com/jehiyV7.png" group-title="🇺🇸United States",Glendale 11 AZ 
-https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="GlendaleTV.us" tvg-logo="https://i.imgur.com/akbtQ33.png" group-title="🇺🇸United States",Glendale TV [Geo-blocked]
-https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="GlewedTV.us" tvg-logo="https://i.imgur.com/ppM9hQs.png" group-title="🇺🇸United States",Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="🇺🇸United States",Global Fashion Channel 
-https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="🇺🇸United States",Glory Kickboxing
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="🇺🇸United States",Go Traveler
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="KPCBDT1.us" tvg-logo="https://i.imgur.com/w1bK8YN.png" group-title="🇺🇸United States",God's Learning Channel 
-https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
-#EXTINF:-1 tvg-id="GCOtv.us" tvg-logo="https://i.imgur.com/zHBR2zR.png" group-title="🇺🇸United States",Golden Community Television (GCO.tv) (Golden CO) 
-https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="GQ.us" tvg-logo="https://i.imgur.com/mTiaf9I.png" group-title="🇺🇸United States",GQ
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="🇺🇸United States",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GreensboroTV.us" tvg-logo="https://i.imgur.com/wHb9BLd.png" group-title="🇺🇸United States",Greensboro TV (Greensboro NC)
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
-#EXTINF:-1 tvg-id="WTXLDT3.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="🇺🇸United States",Grit Tallahassee  
-https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="grvty.us" tvg-logo="https://i.imgur.com/7qPKYVh.png" group-title="🇺🇸United States",grvty 
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Gusto TV
-https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HKTV.us" tvg-logo="https://i.imgur.com/AYzdlMz.png" group-title="🇺🇸United States",Haddam Killingworth High School TV (HKTV)  [Geo-blocked]
-https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="🇺🇸United States",HappyKids 
-https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-logo="https://i.imgur.com/GSlfL8u.png" group-title="🇺🇸United States",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HarleyDavidsonFactoryTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="🇺🇸United States",Harley Davidson Factory TV  
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="🇺🇸United States",Harley Davidson Racing TV 
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1 tvg-id="HarleyDavidsonRidesTV.us" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="🇺🇸United States",Harley Davidson Rides TV  
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1 tvg-id="HeartlandWebFeed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="🇺🇸United States",Heartland
-https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="WTLHDT1.us" tvg-logo="https://i.imgur.com/S2zlGZK.png" group-title="🇺🇸United States",Heroes & Icons Tallahassee FL (WTLH1)
-https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HiYAH.us" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="🇺🇸United States",Hi-YAH! 
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HighTimes.us" tvg-logo="https://i.imgur.com/TaeeQnn.png" group-title="🇺🇸United States",High Times
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="🇺🇸United States",Hillsborough County TV HTV (Hillsborough County FL) 
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="🇺🇸United States",History East 
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="🇺🇸United States",HLN
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HNCFree.us" tvg-logo="https://i.imgur.com/IjY4hyA.png" group-title="🇺🇸United States",HNC Free 
 https://hncfree-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="🇺🇸United States",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="HonorTV.us" tvg-logo="https://i.imgur.com/ndNXGbD.png" group-title="🇺🇸United States",Honor TV
-https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="🇺🇸United States",Horrify 
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="HorseShoppingChannel.us" tvg-logo="https://i.imgur.com/ZNjtOdZ.png" group-title="🇺🇸United States",Horse Shopping Channel
@@ -7103,14 +7015,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="HBTV.us" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="🇺🇸United States",Huntington Beach TV Channel 3
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/huntingtonbeach/G0088_005/playlist.m3u8
-#EXTINF:-1 tvg-id="IDG.us" tvg-logo="https://i.imgur.com/oKE9qd3.png" group-title="🇺🇸United States",IDG
-https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 #EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="🇺🇸United States",IFC East
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="iFoodTV.us" tvg-logo="https://i.imgur.com/cBOkQtS.png" group-title="🇺🇸United States",iFood.TV 
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://i.imgur.com/1AcrX8T.png" group-title="🇺🇸United States",IGN 
-https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",Impact Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇸United States",IMPACT! Wrestling 
