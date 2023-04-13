@@ -4298,29 +4298,29 @@ https://s6.hopslan.com/kabel1q1/index.m3u8
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/bein.com.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml"
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="🇩🇪DEUTSCH",1-2-3 TV (270p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="🇩🇪DEUTSCH",3sat [Geo-blocked]
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="🇩🇪DEUTSCH",3sat [VPN]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="atv.de" tvg-logo="https://i.imgur.com/tupATym.png" group-title="🇩🇪DEUTSCH",a.tv  
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="🇩🇪DEUTSCH",ADRIA Music 
 https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Daily Animated  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Daily Animated  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Daily Live Action  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Daily Live Action  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Home Movies  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Home Movies  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Mr. Pickles  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Mr. Pickles  [VPN]
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Primal  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Primal  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Rick and Morty  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Rick and Morty  [VPN]
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Squidbillies  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Squidbillies  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Superjail!  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Superjail!  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Tim and Eric  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Adult Swim Tim and Eric  [VPN]
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
 #EXTINF:-1 tvg-id="AlexBerlin.de" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="🇩🇪DEUTSCH",Alex Berlin  
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
@@ -4334,7 +4334,7 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="🇩🇪DEUTSCH",ARD-alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title=""🇩🇪DEUTSCH",ARTE [Geo-blocked]
+#EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title=""🇩🇪DEUTSCH",ARTE [VPN]
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-id="AugsburgTV.de" tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="🇩🇪DEUTSCH",Augsburg TV
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
@@ -4350,7 +4350,7 @@ https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="BLKRegionalTV.de" tvg-logo="https://i.imgur.com/JLgnPG1.png" group-title="🇩🇪DEUTSCH",BLK TV  
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/xzJDNs5.png" group-title="🇩🇪DEUTSCH",BR Fernsehen Nord [Geo-blocked]
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/xzJDNs5.png" group-title="🇩🇪DEUTSCH",BR Fernsehen Nord [VPN]
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/wfqDL6Z.png" group-title="🇩🇪DEUTSCH",BR Fernsehen Süd
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
@@ -4358,7 +4358,7 @@ https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DaVinci.de" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="🇩🇪DEUTSCH",Da Vinci
 http://sc.id-tv.kz/DaVinci_38_39.m3u8
-#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="🇩🇪DEUTSCH",Das Erste [Geo-blocked]
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="🇩🇪DEUTSCH",Das Erste [VPN]
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="DASDING908.de" tvg-logo="https://i.imgur.com/rR44kv4.png" group-title="🇩🇪DEUTSCH",DASDING 90.8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
@@ -4373,9 +4373,9 @@ https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",DW 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇩🇪DEUTSCH",DW Deutsch  [Geo-blocked]
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="🇩🇪DEUTSCH",DW Deutsch  [VPN]
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🇩🇪DEUTSCH",DW Deutsch+  [Geo-blocked]
+#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🇩🇪DEUTSCH",DW Deutsch+  [VPN]
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 #EXTINF:-1 tvg-id="emsTVLingen.de" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="🇩🇪DEUTSCH",ems TV Lingen (280p)
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
@@ -4421,7 +4421,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="🇩🇪DEUTSCH",KaufBei TV
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://i.imgur.com/sDa6LFn.png" group-title="🇩🇪DEUTSCH",KiKA [Geo-blocked]
+#EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://i.imgur.com/sDa6LFn.png" group-title="🇩🇪DEUTSCH",KiKA [VPN]
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="🇩🇪DEUTSCH",KulturMD 
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
@@ -4439,15 +4439,15 @@ https://streaming.magenta-musik-360.de/csm/573871/magentamusik2/index.m3u8
 https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1 tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="🇩🇪DEUTSCH",MDF.1 
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="🇩🇪DEUTSCH",MDR Fernsehen Sachsen [Geo-blocked]
+#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="🇩🇪DEUTSCH",MDR Fernsehen Sachsen [VPN]
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="🇩🇪DEUTSCH",MDR Fernsehen Sachsen-Anhalt [Geo-blocked]
+#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="🇩🇪DEUTSCH",MDR Fernsehen Sachsen-Anhalt [VPN]
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenThuringen.de" tvg-logo="https://i.imgur.com/Vt31dQo.png" group-title="🇩🇪DEUTSCH",MDR Fernsehen Thüringen [Geo-blocked]
+#EXTINF:-1 tvg-id="MDRFernsehenThuringen.de" tvg-logo="https://i.imgur.com/Vt31dQo.png" group-title="🇩🇪DEUTSCH",MDR Fernsehen Thüringen [VPN]
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="🇩🇪DEUTSCH",More Than Sports TV 
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title=""🇩🇪DEUTSCH",MTV Germany [Geo-blocked]
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title=""🇩🇪DEUTSCH",MTV Germany [VPN]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="🇩🇪DEUTSCH",München TV  
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
@@ -4455,7 +4455,7 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",MyTVplus (Dresden)
 https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="🇩🇪DEUTSCH",n-tv [Geo-blocked]
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="🇩🇪DEUTSCH",n-tv [VPN]
 https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.m3u8
 #EXTINF:-1 tvg-id="naheTV.de" tvg-logo="https://i.imgur.com/w3yzJoK.png" group-title="🇩🇪DEUTSCH",naheTV
 https://s.ok54.de/nahetv/webstream/playlist.m3u8
@@ -4467,7 +4467,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenSchleswigHolstein.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="🇩🇪DEUTSCH",NDR Schleswig-Holstein
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-id="NickGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="🇩🇪DEUTSCH",Nick Germany [Geo-blocked]
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="🇩🇪DEUTSCH",Nick Germany [VPN]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="🇩🇪DEUTSCH",Niederbayern TV
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
@@ -4539,7 +4539,7 @@ https://oeins.de/live/studio.m3u8
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",ONE1 Slovenija 
 https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
-#EXTINF:-1 tvg-id="One.de" tvg-logo="https://i.imgur.com/U1D7l6K.png" group-title="🇩🇪DEUTSCH",One [Geo-blocked]
+#EXTINF:-1 tvg-id="One.de" tvg-logo="https://i.imgur.com/U1D7l6K.png" group-title="🇩🇪DEUTSCH",One [VPN]
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="🇩🇪DEUTSCH",Parlamentsfernsehen 1 
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
@@ -4549,7 +4549,7 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Parlamentsfernsehen 4 
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="🇩🇪DEUTSCH",Phoenix [Geo-blocked]
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="🇩🇪DEUTSCH",Phoenix [VPN]
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimalsGermany.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" group-title="🇩🇪DEUTSCH",Pluto TV Animals (Germany) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ae7b456c8cf265ce922&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=301&terminate=false&userId=
@@ -4615,7 +4615,7 @@ https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog
 http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="🇩🇪DEUTSCH",Radio 21 TV
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="🇩🇪DEUTSCH",Radio Bremen Fernsehen [Geo-blocked]
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="🇩🇪DEUTSCH",Radio Bremen Fernsehen [VPN]
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="🇩🇪DEUTSCH",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
@@ -4633,9 +4633,9 @@ https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="🇩🇪DEUTSCH",Ran 1 
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RBBBerlin.de" tvg-logo="https://i.imgur.com/1h6Kfli.png" group-title="🇩🇪DEUTSCH",RBB Berlin [Geo-blocked]
+#EXTINF:-1 tvg-id="RBBBerlin.de" tvg-logo="https://i.imgur.com/1h6Kfli.png" group-title="🇩🇪DEUTSCH",RBB Berlin [VPN]
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
-#EXTINF:-1 tvg-id="RBBBrandenburg.de" tvg-logo="https://i.imgur.com/mxmQmfQ.png" group-title="🇩🇪DEUTSCH",RBB Brandenburg [Geo-blocked]
+#EXTINF:-1 tvg-id="RBBBrandenburg.de" tvg-logo="https://i.imgur.com/mxmQmfQ.png" group-title="🇩🇪DEUTSCH",RBB Brandenburg [VPN]
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1 tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="🇩🇪DEUTSCH",RBW 
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
@@ -4659,7 +4659,7 @@ https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/p
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="🇩🇪DEUTSCH",Rock Antenne 
 https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="🇩🇪DEUTSCH",Rockland TV [Geo-blocked]
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="🇩🇪DEUTSCH",Rockland TV [VPN]
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="🇩🇪DEUTSCH",Saarland Fernsehen 1 
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
@@ -4673,13 +4673,13 @@ http://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playli
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="🇩🇪DEUTSCH",Seenluft24 
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="ServusTVGermany.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="🇩🇪DEUTSCH",ServusTV Deutschland [Geo-blocked]
+#EXTINF:-1 tvg-id="ServusTVGermany.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="🇩🇪DEUTSCH",ServusTV Deutschland [VPN]
 https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
 #EXTINF:-1 tvg-id="SonusFM.de" tvg-logo="https://i.imgur.com/h29rUcG.png" group-title="🇩🇪DEUTSCH",Sonus FM TV 
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
 #EXTINF:-1 tvg-id="SophiaTVEspanol.de" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="🇩🇪DEUTSCH",Sophia TV Español
 https://www.onairport.live/sophiatv-es-live/smil:sophia-tv-es.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="🇩🇪DEUTSCH",Sport 1 [Geo-blocked]
+#EXTINF:-1 tvg-id="Sport1.de" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="🇩🇪DEUTSCH",Sport 1 [VPN]
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png" group-title="🇩🇪DEUTSCH",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
@@ -4687,9 +4687,9 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="🇩🇪DEUTSCH",SWR 3 Visual Radio
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-logo="https://i.imgur.com/nEqGaWW.png" group-title="🇩🇪DEUTSCH",SWR Fernsehen Baden-Württemberg [Geo-blocked]
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-logo="https://i.imgur.com/nEqGaWW.png" group-title="🇩🇪DEUTSCH",SWR Fernsehen Baden-Württemberg [VPN]
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://i.imgur.com/h44EBSJ.png" group-title="🇩🇪DEUTSCH",SWR Fernsehen Rheinland-Pfalz [Geo-blocked]
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://i.imgur.com/h44EBSJ.png" group-title="🇩🇪DEUTSCH",SWR Fernsehen Rheinland-Pfalz [VPN]
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 tvg-id="Sylt1.de" tvg-logo="https://i.imgur.com/2Wh8OS5.png" group-title="🇩🇪DEUTSCH",Sylt1
 https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
@@ -4699,19 +4699,19 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeinsTV.de" tvg-logo="https://i.imgur.com/gMMk5TU.png" group-title="🇩🇪DEUTSCH",Teins TV  
 https://live1.markenfunk.com/t1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 1  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 1  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/test-1/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 3  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 3  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/test-3/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 4  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 4  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/test-4/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 5  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",test Channel 5  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/test-5/stream_de.m3u8
 #EXTINF:-1 tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="🇩🇪DEUTSCH",Tide TV 
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tiviTURK.de" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="🇩🇪DEUTSCH",tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Toonami  [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Toonami  [VPN]
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 #EXTINF:-1 tvg-id="TVBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png" group-title="🇩🇪DEUTSCH",TV Berlin
 https://live2.telvi.de/hls/tvberlin.m3u8
@@ -4729,31 +4729,31 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="🇩🇪DEUTSCH",WDR 1 Live
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/EvZh6V3.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Aachen [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/EvZh6V3.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Aachen [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/rhjEvwR.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Bielefeld [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/rhjEvwR.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Bielefeld [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenBonn.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Bonn [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenBonn.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Bonn [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Dortmund [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Dortmund [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Düsseldorf [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Düsseldorf [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Essen [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Essen [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenKoln.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Koln [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenKoln.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Koln [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenMunster.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Münster [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenMunster.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Münster [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Siegen [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Siegen [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Wuppertal [Geo-blocked]
+#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="🇩🇪DEUTSCH",WDR Fernsehen Wuppertal [VPN]
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-#EXTINF:-1 tvg-id="Welt.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="🇩🇪DEUTSCH",WELT [Geo-blocked]
+#EXTINF:-1 tvg-id="Welt.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="🇩🇪DEUTSCH",WELT [VPN]
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="🇩🇪DEUTSCH",Welt der Wunder TV
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Wir24 TV [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Wir24 TV [VPN]
 https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="🇩🇪DEUTSCH",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
@@ -4761,11 +4761,11 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇩🇪DEUTSCH",Xite
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="🇩🇪DEUTSCH",ZDF [Geo-blocked]
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="🇩🇪DEUTSCH",ZDF [VPN]
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="🇩🇪DEUTSCH",ZDFinfo [Geo-blocked]
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="🇩🇪DEUTSCH",ZDFinfo [VPN]
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="🇩🇪DEUTSCH",ZDFneo [Geo-blocked]
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="🇩🇪DEUTSCH",ZDFneo [VPN]
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="🇩🇪DEUTSCH",ZWEI2 Music 
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
