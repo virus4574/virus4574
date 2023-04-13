@@ -1,57 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="🇻🇪Venezuela",Anzoátegui TV
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇻🇪Venezuela",BitRadio
-https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalI.ve" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="🇻🇪Venezuela",Canal i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalNubehTV.ve" tvg-logo="https://i.imgur.com/qjMxX1d.png" group-title="🇻🇪Venezuela",Canal Nubeh TV
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CantinaTV.ve" tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="🇻🇪Venezuela",Cantina TV
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CorazonLlanero.ve" tvg-logo="https://i.imgur.com/NmQ8Dsu.png" group-title="🇻🇪Venezuela",Corazón Llanero
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="🇻🇪Venezuela",Esports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="🇻🇪Venezuela",Globovision
-https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
-#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="🇻🇪Venezuela",Italianissimo 
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="🇻🇪Venezuela",MDA Televisión
-https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="🇻🇪Venezuela",Oxigeno TV 
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Panavision.ve" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="🇻🇪Venezuela",Panavisión
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-#EXTINF:-1 tvg-id="PromarTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="🇻🇪Venezuela",PromarTV (Yaracuy)
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioCaracasRadio.ve" tvg-logo="https://i.imgur.com/QaKbK6w.png" group-title="🇻🇪Venezuela",Radio Caracas Radio 750
-https://ythls.onrender.com/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
-#EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="🇻🇪Venezuela",TeleAragua 
-http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪Venezuela",teleSUR
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="🇻🇪Venezuela",TeleSUR English
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
-#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="🇻🇪Venezuela",Televisora de Oriente 
-https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇻🇪Venezuela",TNO Radio
-https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVes.ve" tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="🇻🇪Venezuela",TVes
-https://rundle.deta.dev/hls/LIVE$TVes.ve/6.m3u8/Level(19012010)?end=END&start=LIVE
-#EXTINF:-1 tvg-id="TVS.ve" tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="🇻🇪Venezuela",TVS
-https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
-#EXTINF:-1 tvg-id="ValeTV.ve" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="🇻🇪Venezuela",Vale TV 
-https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
-#EXTINF:-1 tvg-id="VePlus.ve" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="🇻🇪Venezuela",Ve Plus 
-http://190.122.96.187:8888/http/006
-#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="🇻🇪Venezuela",Vepaco TV 
-https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
-#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="🇻🇪Venezuela",VPItv
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="🇨🇭Switzerland",Alpenland TV 
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
@@ -5472,6 +5419,59 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VNews.vn" tvg-logo="https://i.imgur.com/UyKxW4o.png" group-title="🇻🇳Vietnam",V News
 https://16371213858134.vnns.net/ttxvn_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="🇻🇪Venezuela",Anzoátegui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇻🇪Venezuela",BitRadio
+https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="🇻🇪Venezuela",Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalNubehTV.ve" tvg-logo="https://i.imgur.com/qjMxX1d.png" group-title="🇻🇪Venezuela",Canal Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CantinaTV.ve" tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="🇻🇪Venezuela",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CorazonLlanero.ve" tvg-logo="https://i.imgur.com/NmQ8Dsu.png" group-title="🇻🇪Venezuela",Corazón Llanero
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="🇻🇪Venezuela",Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="🇻🇪Venezuela",Globovision
+https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="🇻🇪Venezuela",Italianissimo 
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="🇻🇪Venezuela",MDA Televisión
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="🇻🇪Venezuela",Oxigeno TV 
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Panavision.ve" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="🇻🇪Venezuela",Panavisión
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="🇻🇪Venezuela",PromarTV (Yaracuy)
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCaracasRadio.ve" tvg-logo="https://i.imgur.com/QaKbK6w.png" group-title="🇻🇪Venezuela",Radio Caracas Radio 750
+https://ythls.onrender.com/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
+#EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="🇻🇪Venezuela",TeleAragua 
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪Venezuela",teleSUR
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="🇻🇪Venezuela",TeleSUR English
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="🇻🇪Venezuela",Televisora de Oriente 
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇻🇪Venezuela",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVes.ve" tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="🇻🇪Venezuela",TVes
+https://rundle.deta.dev/hls/LIVE$TVes.ve/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-id="TVS.ve" tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="🇻🇪Venezuela",TVS
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="🇻🇪Venezuela",Vale TV 
+https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
+#EXTINF:-1 tvg-id="VePlus.ve" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="🇻🇪Venezuela",Ve Plus 
+http://190.122.96.187:8888/http/006
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="🇻🇪Venezuela",Vepaco TV 
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="🇻🇪Venezuela",VPItv
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
