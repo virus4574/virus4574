@@ -1,5 +1,45 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇾Paraguay",ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-id="AlmayaTV.py" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="🇵🇾Paraguay",AlmayaTV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+#EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="🇵🇾Paraguay",C9N 
+https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
+#EXTINF:-1 tvg-id="DismarTV.py" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg" group-title="🇵🇾Paraguay",DismarTV
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🇵🇾Paraguay",DW Español 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="🇵🇾Paraguay",Educanal
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+#EXTINF:-1 tvg-id="EstacionCristal.py" tvg-logo="https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg" group-title="🇵🇾Paraguay",Estación Cristal
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="🇵🇾Paraguay",Farra Play
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png" group-title="🇵🇾Paraguay",MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-logo="https://i.imgur.com/vhoMFZK.png" group-title="🇵🇾Paraguay",Motor Sur Media
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.imgur.com/vnIkhRO.png" group-title="🇵🇾Paraguay",Ñanduti TV 
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+#EXTINF:-1 tvg-id="RTV12.py" tvg-logo="https://i.imgur.com/3Yh8gGn.png" group-title="🇵🇾Paraguay",RTV 12
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://i.imgur.com/HNlWRiF.png" group-title="🇵🇾Paraguay",SNT 
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
+#EXTINF:-1 tvg-id="SomosdelEste.py" tvg-logo="https://i.imgur.com/xkT9d1a.png" group-title="🇵🇾Paraguay",Somos Del Este
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-id="SucesoTV.py" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png" group-title="🇵🇾Paraguay",Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="🇵🇾Paraguay",Trece Paraguay
+https://stream.rpc.com.py/live/trece.m3u8
+#EXTINF:-1 tvg-id="TVAire.py" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="🇵🇾Paraguay",TV Aire
+https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="🇵🇾Paraguay",Unicanal 
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="🇵🇾Paraguay",Venus Media
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="🇨🇭Switzerland",Alpenland TV 
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭Switzerland",Canal Alpha Jura
