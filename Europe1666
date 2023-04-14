@@ -1379,9 +1379,9 @@ http://rtmp1.40e.hu:8000/live/ktv.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/mip1puB.png" group-title="Auto",100% Auto Moto TV 
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/mip1puB.png" group-title="🇧🇬Bulgaria",100% Auto Moto TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="BalkanikaTV.bg" tvg-logo="https://i.imgur.com/lnKH5SP.png" group-title="Music",Balkanika TV 
+#EXTINF:-1 tvg-id="BalkanikaTV.bg" tvg-logo="https://i.imgur.com/lnKH5SP.png" group-title="🇧🇬Bulgaria",Balkanika TV 
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="CityTV.bg" tvg-logo="https://i.imgur.com/StAvd35.png" group-title="🇧🇬Bulgaria",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
