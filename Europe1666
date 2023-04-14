@@ -1379,17 +1379,17 @@ http://rtmp1.40e.hu:8000/live/ktv.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
 
-#EXTINF:0 tvg-id="Balkanika.svn" group-title="🇧🇬Bulgaria",Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1 tvg-id="100AutoMotoTV.bg" status="blocked" group-title="🇧🇬Bulgaria",100% Auto Moto TV 
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/mip1puB.png" group-title="Auto",100% Auto Moto TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="BTK.bg" status="timeout" group-title="🇧🇬Bulgaria",BTK
-http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Evrokom.bg" status="online" group-title="🇧🇬Bulgaria",Evrokom
+#EXTINF:-1 tvg-id="BalkanikaTV.bg" tvg-logo="https://i.imgur.com/lnKH5SP.png" group-title="Music",Balkanika TV 
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-logo="https://i.imgur.com/StAvd35.png" group-title="🇧🇬Bulgaria",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="Evrokom.bg" tvg-logo="https://i.imgur.com/yqkU0l4.png" group-title="🇧🇬Bulgaria",Evrokom 
 https://live.ecomservice.bg/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LightChannel.bg" status="online" group-title="🇧🇬Bulgaria",Light Channel
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="🇧🇬Bulgaria",Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="RMTV.bg" group-title="🇧🇬Bulgaria",RMTV (288p)
+#EXTINF:-1 tvg-id="RMTV.bg" group-title="🇧🇬Bulgaria",RMTV
 http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" group-title="🇧🇬Bulgaria",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
@@ -1463,6 +1463,7 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://live.postv.media/stream/index.m3u8
 #EXTINF:-1 tvg-id="2TV.ge" group-title="🇬🇪Georgia",2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
 
 #EXTINF:-1 group-title="🇦🇫Afghanistan" tvg-logo="https://cdn.britannica.com/40/5340-050-AA46700D/Flag-Afghanistan.jpg",Ariana TV
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
