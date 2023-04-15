@@ -2550,9 +2550,9 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3LZ8NRv" group-title="🇹🇳تونسTUNISIE",نسمة-الجديدة 🇹🇳
 https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="🇹🇳تونسTUNISIE",Watania 1 🇹🇳
-http://live.watania1.tn:1935/live/watanya1.stream/chunklist.m3u8
+http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kZUVuP" group-title="🇹🇳تونسTUNISIE",Watania 2 🇹🇳
-http://live.watania2.tn:1935/live/watanya2.stream/chunklist.m3u8
+http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TTYfox" group-title="🇹🇳تونسTUNISIE",Baya TV 🇹🇳
 http://37.187.28.55:1935/bayatv/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
@@ -4044,7 +4044,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fc0f1de3-56cf-487e-ac22-65c655d9c992.png" group-title= "🇹🇷Turkey", Vuslat TV
 https://mn-nl.mncdn.com/blutv_vuslattv2/live_720p2000000kbps/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="🇹🇷Turkey", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",TRT BELGESEL HD
