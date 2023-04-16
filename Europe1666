@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",Sweden TV
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="🇸🇪Sweden",SVT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="🇸🇪Sweden",SVT1 [ VPN ]
 https://svt1-c.akamaized.net/se/svt1/master.m3u8
-#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="🇸🇪Sweden",SVT2 [Geo-blocked]
+#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="🇸🇪Sweden",SVT2 [ VPN ]
 https://svt2-c.akamaized.net/se/svt2/master.m3u8
-#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="🇸🇪Sweden",SVT24 [Geo-blocked]
+#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="🇸🇪Sweden",SVT24 [ VPN ]
 https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",SVT Kunskapskanalen [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",SVT Kunskapskanalen [ VPN ]
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sports",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
@@ -31,14 +31,6 @@ https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
 https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Mav TV Motorsports Network
 https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MiracleChannel.se" tvg-logo="https://i.imgur.com/yrt7Rw9.png" group-title="🇸🇪Sweden",Miracle Channel
-https://miracle.stream.boxigy.com/hls/miracle1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Museum TV Fast
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Myzen Fit
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="OppnaKanalen.se" tvg-logo="https://i.imgur.com/GWlstv5.png" group-title="🇸🇪Sweden",Oppna Kanalen
-https://edg03-prd-se-ixn.solidtango.com/edge/451iw2h/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",People are Awesome
 https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Radical Docs
@@ -63,16 +55,15 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="🇸🇪Sweden",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",TV4 Svensk Politik 
-https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
-#EXTINF:-1 tvg-id="VastmanlandsTV.se" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="🇸🇪Sweden",Västmanlands TV (720p)
+#EXTINF:-1 tvg-id="VastmanlandsTV.se" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="🇸🇪Sweden",Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",WildEarth [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",WildEarth [ VPN ]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",World Poker Tour
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="🇨🇭Switzerland",Alpenland TV 
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
