@@ -305,8 +305,6 @@ http://204.12.247.162:8080/premium465/mono.m3u8
 http://204.12.247.162:8080/premium466/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT EUR",Diema Sport 3
 http://204.12.247.162:8080/premium467/mono.m3u8
-
-
 #EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Bq7gTT0.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8?token=test
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/VktLPa5.png",[$]NOVA SPORT 1
@@ -329,8 +327,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/MijzVjy.png",[$]TNT SPORTS 5HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1HD
 https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2HD
@@ -356,6 +352,37 @@ http://nl01.spr24.net/162/mpegts?token=HrxUaQ8f8WVYtH
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/39p3g4P.png",[$]MIX SPORT 7HD
 http://nl01.spr24.net/106/mpegts?token=HrxUaQ8f8WVYtH
 
+
+#EXTINF:-1 tvg-id="" group-title="VIP SPORT EUR" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",🇫🇷 ⚽️➾ L'Equipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 tvg-id="" group-title="VIP SPORT EUR" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",🇫🇷 ⚽️➾ L'Equipe Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�1 
+https://donelfantastic.github.io/creativemedia/hls/asp1cmedia.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�2
+https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�3
+https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�4
+https://donelfantastic.github.io/creativemedia/hls/asp4cmedia.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_1_dd
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_2_dd
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_3_dd
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_4_dd
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_5_dd
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",SUKAN|Yusi_1_🇮🇩
+https://maper.info/useesport-1-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",SUKAN|Yusi_2_🇮🇩
+https://maper.info/useesport-2-shareext-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Spotv_1_🇲🇾
+https://maper.info/SPOTV-SHAREEXT-ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Spotv_2_🇲🇾
+https://maper.info/SPOTV-2-SHAREEXT-ts
 
 
 #EXTM3U
