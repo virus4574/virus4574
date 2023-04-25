@@ -4270,12 +4270,6 @@ https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 ----------------------------------------------------------------------------------------------------------------------
 
 
-
-#EXTM3U
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2052.png" ,Eurosport 1
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://pl.ottglanz.tv/icon/6904.png",Eurosport 2
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://i.ibb.co/3M61Vkf/SGN-09-18-2021-1631958888546.png",Extreme Sports
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg",MavTV Europe
@@ -4287,17 +4281,10 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2055.png" ,Viasat Sport HD
-https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2055.png" ,Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://persik.tv/images/channels/logos/10277.png",Viasat Sport HD
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://epg.it999.ru/img/2048.png" ,KHL
-https://sc.id-tv.kz:443/KHL_36_37.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="http://pl.ottglanz.tv/icon/9596.png",KHL Prime
-https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TV 2 Sporten
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",TVS Sports (960p)
