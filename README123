@@ -95,6 +95,17 @@ http://warkop.cf/89/bein/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ين سبور BEIN SPORT",Bein 3
 http://warkop.cf/89/bein/03.m3u8
 
+#EXTINF:0 group-title="ين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 1HD
+http://87.120.36.195:28888/udp/239.17.1.97:1234
+#EXTINF:0 group-title="ين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 2HD
+http://87.120.36.195:28888/udp/239.17.1.100:1234
+#EXTINF:0 group-title="ين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 3HD
+http://87.120.36.195:28888/udp/239.17.1.99:1234
+#EXTINF:0 group-title="ين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS MAX 1HD
+http://87.120.36.195:28888/udp/239.17.1.26:1234
+#EXTINF:0 group-title="ين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS MAX 2HD
+http://87.120.36.195:28888/udp/239.17.1.27:1234
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
