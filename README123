@@ -8671,14 +8671,28 @@ http://51.91.8.161:18000/M_Deportes_4/hls/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",CANAL + 2 POLONIA 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Orange Sport 3 HD 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.182:1234
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Orange Sport 3 HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1320823112?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Prima Sport 3 🇷🇴
+http://84.17.61.203:8086/udp/229.35.21.1:1234
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Prima Sport 3 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 1 🇭🇷
+http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 1 🇭🇷
+http://tbs-tv.com:8080/dark/kittylinetv/10246
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",NOVA SPORTS 2 🇬🇷
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",BEIN SPORTS 1 🇶🇦
 https://mo3ad@cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",BELARUS 5 🇧🇾
-rtmp://5.182.231.251:1935//2175
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORT 1 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 6 🇭🇷
@@ -8909,12 +8923,6 @@ http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",OVERSPORT 4 🇦🇱
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 1 PREMIUM 🇷🇸
-http://crypto.dns.army:8080/kum-panel/razmjena/4828.ts
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 2 PREMIUM 🇷🇸
-http://crypto.dns.army:8080/kum-panel/razmjena/4829.ts
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 3 PREMIUM 🇷🇸
-http://crypto.dns.army:8080/kum-panel/razmjena/4830.ts
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 1 🇷🇸
 http://204.12.247.162:8080/premium429/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena 1 HD 🇷🇸
@@ -8929,22 +8937,6 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 http://cloudcdn.tk:80/Visarhem/lQzhj3068/3184
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 4 🇷🇸
 http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 4 🇷🇸
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/3185
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 5 🇷🇸
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/3186
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Premium 1 🇧🇦
-http://82.118.0.14:8000/play/5100/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Premium 2 🇧🇦
-http://82.118.0.14:8000/play/5110/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Premium 3 🇧🇦
-http://82.118.0.14:8000/play/5120/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 4 🇧🇦
-http://82.118.0.14:8000/play/10/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 5 🇧🇦
-http://82.118.0.14:8000/play/11/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 6 🇧🇦
-http://82.118.0.14:8000/play/12/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena 1 HD  🇧🇦
 http://94.250.2.6:7374/play/a02m/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena 2 HD 🇧🇦
@@ -8953,28 +8945,12 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 1 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/19004
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ARENA SPORT 6 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/13828
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SK 1 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17252
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SK 2 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/13833
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SK 3 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/13834
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SK 4 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17249
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SK 5 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17250
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SK 6 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17251
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",MAX SPORT 1HD 🇧🇬
 https://bit.ly/3U3cbf3
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",MAX SPORT 2HD 🇧🇬
@@ -9219,6 +9195,8 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7305/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TVP Sport HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2520/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TV2 Sport 2 HD 🇳🇴
+http://195.222.7.26:7011/play/a02j
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SPORT 1 HD 🇮🇱
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2353/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SPORT 2 HD 🇮🇱
@@ -9233,10 +9211,6 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2391/index.m3u8
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12254/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SPORT 5 PLUS HD 🇮🇱
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",C MORE SPORT 1 🇸🇪
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2515/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",C MORE SPORT 1 🇸🇪
-http://bazaruto.top:8000/osvald.germanija/osvald5432/41282
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",CCTV5 🇨🇳
@@ -9269,6 +9243,10 @@ http://45.12.1.14:80/dsxBAoARh2/sXF4Np39/10253
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941564&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",K+ Sport 1 🇰🇭
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",K+ Sport 2 🇰🇭
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S SPORT 🇹🇷
 http://45.143.222.41:8080/dooby1312/b244f7ab/1753
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S SPORT 2 🇹🇷
@@ -9571,29 +9549,17 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:0 tvg-id="DigiSport1.ro" group-title="VIP SPORT",DIGI Sport 1
-http://5.15.2.36:4100/play/a017
-#EXTINF:0 tvg-id="DigiSport2.ro" group-title="VIP SPORT",DIGI Sport 2
-http://5.15.2.36:4100/play/a005
-#EXTINF:0 tvg-id="DigiSport3.ro" group-title="VIP SPORT",DIGI Sport 3
-http://5.15.2.36:4100/play/a018
-#EXTINF:0 tvg-id="DigiSport4.ro" group-title="VIP SPORT",DIGI Sport 4
-http://5.15.2.36:4100/play/a00o
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",TV2 Sport 2 HD (NO)
-http://195.222.7.26:7011/play/a02j
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Vivaro Arena
-http://178.160.249.200:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Vivaro sport
-http://178.160.249.200:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Vivaro sport +
-http://178.160.249.200:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",sport1tn
-http://14.225.44.14:5544/play/sport1tn/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",sdsport1
-http://103.82.24.168:5544/play/sdsport1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",sdsport2
-http://103.82.24.168:5544/play/sdsport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ALCARAZ
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ALCARAZ pista 1
 https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",PISTA 2
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",PISTA 3
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",PISTA 4
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",PISTA 5
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",PISTA 6
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="VIP SPORT",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
