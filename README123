@@ -39,6 +39,22 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 https://cdn2.livehd720.com/hlsbeinafc/beinafc/playlist.m3u8
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S02
 https://cdn1.livehd720.com/hlsbeinp1/bein/playlist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S03
+https://live5-slivertv.akamaized.net/hls/live/2015957/hls_streamer_us_central_0098/stream_e75rumf18mw8ykgs2fcm9v9dx_source/chunklist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S04
+https://live5-slivertv.akamaized.net/hls/live/2015857/hls_streamer_us_central_0002/stream_7n1jujwa5idwjj1p8wefap1pk_source/chunklist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S05
+https://live5-slivertv.akamaized.net/hls/live/2015860/hls_streamer_us_central_0005/stream_rqci2mguzfqi1qh02nkuj5s88_720p/chunklist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S06
+https://live5-slivertv.akamaized.net/hls/live/2015860/hls_streamer_us_central_0005/stream_rqci2mguzfqi1qh02nkuj5s88_source/chunklist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S06 EN
+https://forsportz.fordems.live/live/for-dems1/chunks.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S07 EN
+https://mo3ad@ovre.realbitsport.com/live/n-1/chunks.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S08
+https://cdn2.livehd720.com/hlsbeinp1/bein/playlist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S09 EN
+https://mo3ad@d3cpwdijdpum6e.cloudfront.net/edge/_wqi0x56t_/wqi0x56t/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="https://i.ibb.co/zF2htKY/1sd.png" group-title="بين سبور BEIN SPORT",beIN Sports 1 SD
 https://github.com/kusnadipepenk/ntn/raw/master/bs1.m3u8
