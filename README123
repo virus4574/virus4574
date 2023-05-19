@@ -47,6 +47,12 @@ https://cdn1.livehd720.com/hlsbeinp7/bein7/playlist.m3u8
 https://cdn2.livehd720.com/hlsbeinp1/bein/playlist.m3u8
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S06
 https://cdn1.livehd720.com/hlsbeinafc/beinafc/playlist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S07
+https://cdn1.livehd720.com/hlsstarz/starz/playlist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S08
+https://cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S09
+https://cdn2.livehd720.com/hlsbein3/bein3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="https://i.ibb.co/zF2htKY/1sd.png" group-title="بين سبور BEIN SPORT",beIN Sports 1 SD
 https://github.com/kusnadipepenk/ntn/raw/master/bs1.m3u8
@@ -77,6 +83,20 @@ https://bit.ly/34ooolI
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_2
+http://37.187.56.56:49214/SSC_2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_3
+http://37.187.56.56:49214/SSC_3/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_4
+http://37.187.56.56:49214/SSC_4/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC extra 1
+http://37.187.56.56:49214/SSC_Extra1/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_Extra 2
+http://37.187.56.56:49214/SSC_Extra_2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC extra 3
+http://37.187.56.56:49214/SSC_Extra3/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD 🇸🇦
@@ -99,6 +119,64 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3xYLaRh
 
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_EAST
+http://51.79.87.60:49214/SPORTSNET_EAST/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_ONE
+http://51.79.87.60:49214/SPORTSNET_ONE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_ONTARIO
+http://51.79.87.60:49214/SPORTSNET_ONTARIO/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_PACIFIC
+http://51.79.87.60:49214/SPORTSNET_PACIFIC/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_WEST
+http://51.79.87.60:49214/SPORTSNET_WEST/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_03
+http://51.79.87.60:49214/SUPER_SPORTS_03/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_04
+http://51.79.87.60:49214/SUPER_SPORTS_04/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_05
+http://51.79.87.60:49214/SUPER_SPORTS_05/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_06
+http://51.79.87.60:49214/SUPER_SPORTS_06/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_07
+http://51.79.87.60:49214/SUPER_SPORTS_07/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_08
+http://51.79.87.60:49214/SUPER_SPORTS_08/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_09
+http://51.79.87.60:49214/SUPER_SPORTS_09/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_10
+http://51.79.87.60:49214/SUPER_SPORTS_10/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_11
+http://51.79.87.60:49214/SUPER_SPORTS_11/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_12
+http://51.79.87.60:49214/SUPER_SPORTS_12/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",No name
+http://51.79.87.60:49214/SUPER_SPORTS_13/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_14
+http://51.79.87.60:49214/SUPER_SPORTS_14/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SUPER_SPORTS_15
+http://51.79.87.60:49214/SUPER_SPORTS_15/hls/playlist.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="SPORTS PREMIUM",TLC
+http://51.79.87.60:49214/TLC/hls/playlist.m3u8
+#EXTINF:0 tvg-id="TREE.ca" group-title="SPORTS PREMIUM",TREEHOUSE
+http://51.79.87.60:49214/TREEHOUSE/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",TSC
+http://51.79.87.60:49214/TSC/hls/playlist.m3u8
+#EXTINF:0 tvg-id="TSN1.ca" group-title="SPORTS PREMIUM",TSN1
+http://51.79.87.60:49214/TSN1/hls/playlist.m3u8
+#EXTINF:0 tvg-id="TSN2.ca" group-title="SPORTS PREMIUM",TSN2
+http://51.79.87.60:49214/TSN2/hls/playlist.m3u8
+#EXTINF:0 tvg-id="TSN3.ca" group-title="SPORTS PREMIUM",TSN3
+http://51.79.87.60:49214/TSN3/hls/playlist.m3u8
+#EXTINF:0 tvg-id="TSN4.ca" group-title="SPORTS PREMIUM",TSN4
+http://51.79.87.60:49214/TSN4/hls/playlist.m3u8
+#EXTINF:0 tvg-id="TSN5.ca" group-title="SPORTS PREMIUM",TSN5
+http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",TV2_SPORTS
+http://51.79.87.60:49214/TV2_SPORTS/hls/playlist.m3u8
+#EXTINF:0 tvg-id="tv5" group-title="SPORTS PREMIUM",TV5
+http://51.79.87.60:49214/TV5/hls/playlist.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" ,QAZSPORT
 https://edge01.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" ,SETANTA QAZAQSTAN 1
