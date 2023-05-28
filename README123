@@ -84,19 +84,6 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_2
-http://37.187.56.56:49214/SSC_2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_3
-http://37.187.56.56:49214/SSC_3/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_4
-http://37.187.56.56:49214/SSC_4/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC extra 1
-http://37.187.56.56:49214/SSC_Extra_1/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC_Extra 2
-http://37.187.56.56:49214/SSC_Extra_2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",SSC extra 3
-http://37.187.56.56:49214/SSC_Extra3/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD 🇸🇦
@@ -1602,6 +1589,17 @@ http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42bnvJu" group-title="🇵🇸فلسطينPALESTINE",alfajertv 1
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42bnvJu" group-title="🇵🇸فلسطينPALESTINE",alfajertv 2
+http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42bnvJu" group-title="🇵🇸فلسطينPALESTINE",alfajertv 3
+http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42bnvJu" group-title="🇵🇸فلسطينPALESTINE",alfajertv 4
+http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42bnvJu" group-title="🇵🇸فلسطينPALESTINE",alfajertv 5
+http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",الاردنJORDAN🇯🇴
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
