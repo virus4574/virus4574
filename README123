@@ -593,7 +593,14 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",Nile sport
+http://93.184.10.248/NileSport/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",Jordan sport
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",Ksa sport 1
+http://93.184.10.248/KSASport1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",Ksa sport 2
+http://93.184.10.248/KSASport2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ALRabiaa Sport
 http://162.212.178.70:4842/bysid/205
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة وياك VIP", باقة وياك VIP 
