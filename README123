@@ -342,8 +342,6 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e961RndFsW5
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9j7AJO6rfLrxWX01JPOxHU
 
 
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",VIP SPORT EUR⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",كيف احصل على الكود
@@ -787,6 +785,64 @@ https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Kabeer_Awi/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/416oo72" group-title="باقة شاهد الأصلية",Naser_Al_Qassaby
 https://cdxaws-ak.akamaized.net/v1/channel/Naser_Al_Qassaby/index_hls.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",Movies
+http://51.77.59.97:4000/play/a15
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",Movies-Action
+http://51.77.59.97:4000/play/a12
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",Movies-Thriller
+http://51.77.59.97:4000/play/a13
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",أفلام
+http://51.77.59.97:4000/play/a14
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",افلام-كوميدي
+http://51.77.59.97:4000/play/a16
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",الآنسة-فرح
+http://51.77.59.97:4000/play/a9
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",الأسطورة
+http://51.77.59.97:4000/play/a22
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",الحفرة
+http://51.77.59.97:4000/play/a5
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",الزعيم
+http://51.77.59.97:4000/play/a23
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",العاصوف
+http://51.77.59.97:4000/play/a11
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",الكبير-أوي
+http://51.77.59.97:4000/play/a6
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",المسرح
+http://51.77.59.97:4000/play/a19
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",الهيبة
+http://51.77.59.97:4000/play/a7
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",باب-الحارة
+http://51.77.59.97:4000/play/a10
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",بوليوود
+http://51.77.59.97:4000/play/a31
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",تركي
+http://51.77.59.97:4000/play/a29
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",جناية
+http://51.77.59.97:4000/play/a2
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",حسينوه
+http://51.77.59.97:4000/play/a24
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",خليجي
+http://51.77.59.97:4000/play/a26
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",رؤيا
+http://51.77.59.97:4000/play/a30
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",راشد-الماجد
+http://51.77.59.97:4000/play/a1
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",رمضان-2023
+http://51.77.59.97:4000/play/a3
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",شاهد-الأولى
+http://51.77.59.97:4000/play/a25
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",طاش
+http://51.77.59.97:4000/play/a4
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",عروس-بيروت
+http://51.77.59.97:4000/play/a8
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",كوميدي
+http://51.77.59.97:4000/play/a17
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",لاتيني
+http://51.77.59.97:4000/play/a32
+#EXTINF:0 tvg-id="ext" group-title="باقة أفلام",ليفانت
+http://51.77.59.97:4000/play/a28
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد نت", باقة شاهد نت 
 https://bit.ly/3xYLaRh
