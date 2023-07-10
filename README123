@@ -1665,7 +1665,7 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RzgVZC" group-title="🇯🇴الاردنJORDAN",alhqeqa🇯🇴
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/topics/16109018226082.png" group-title="🇯🇴الاردنJORDAN",A ONE🇯🇴
-http://master.starmena-cloud.com/hls/a1jo.m3u8
+https://master.starmena-cloud.com/hls/a1jo.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3TRK4R5" group-title="🇯🇴الاردنJORDAN",Ismaoona TV🇯🇴
 http://82.212.74.4:8000/live/2105.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Melody FM Jordan🇯🇴
@@ -2061,6 +2061,8 @@ https://bit.ly/3xYLaRh
 https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="الجزائرALGERIEN",Canal Algerie
 http://162.212.178.69:4242/bysid/808
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Canal Algérie 
+https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42BXapv" group-title="🇱🇾ليبياLIBYA",libyaalahrar
@@ -2097,6 +2099,8 @@ http://162.212.178.69:4242/bysid/803
 https://samson.streamerr.co:8081/sudania24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",BN2 HD🇸🇩
 http://194.37.92.14:12000/play/a0d6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Dabanga TV
+https://cdn-cf.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇷موريتانيةMauritanie",موريتانيةMauritanie
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nwzoew" group-title="🇲🇷موريتانيةMauritanie",🇲🇷قناة الموريتانية
@@ -2271,8 +2275,8 @@ https://svs.itworkscdn.net/alraitvlive/alraitv.smil/alraitv_480p_chunks.m3u8
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/alraitv_source_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
 http://194.37.92.14:12000/play/a0a7
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼+
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼++
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTV1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
 http://194.37.92.14:12000/play/a0a8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="🇰🇼الكويت Kuwait",kuwait ETHRAA FHD🇰🇼
@@ -3088,6 +3092,8 @@ http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Maher Al Meaqli-Kaf🕌
 http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Dua Channel 
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
