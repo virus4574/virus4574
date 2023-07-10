@@ -999,6 +999,12 @@ http://95.216.180.111:1935/live/111/playlist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="الوثائقية documentary",Kaifa TV🏞️
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Nat_Geo_Wild HD
+http://93.184.1.249:8080/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Fox_Life HD
+http://93.184.1.249:8080/Fox_Life/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Travel Channel HD
+http://93.184.1.249:8080/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="الوثائقية documentary",INWILD🏞️
 http://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Relax🏞️
