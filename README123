@@ -103,9 +103,18 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🏄Radical sports",Radical sports
 https://bit.ly/3xYLaRh
 
-
-
-#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",BT Sport 1 HD 
+http://212.8.253.117/BTSport1HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",BTSport 2 HD 
+http://212.8.253.117/BTSport2HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",foxsport2 HD 
+http://212.8.253.117/foxsport2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",viasatsport HD 
+http://212.8.253.117/viasatsport/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",espn HD 
+http://212.8.253.117/espn/index.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",espn2 HD 
+http://212.8.253.117/espn2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_EAST
 http://51.79.87.60:49214/SPORTSNET_EAST/hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_ONE
