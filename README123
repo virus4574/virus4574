@@ -100,8 +100,10 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🏎️🏍Motors Sports",Motors Sports
 https://bit.ly/3xYLaRh
 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🏄Radical sports",Radical sports
 https://bit.ly/3xYLaRh
+
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",BT Sport 1 HD 
 http://212.8.253.117/BTSport1HD/index.m3u8
@@ -115,6 +117,7 @@ http://212.8.253.117/viasatsport/index.m3u8
 http://212.8.253.117/espn/index.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",espn2 HD 
 http://212.8.253.117/espn2/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_EAST
 http://51.79.87.60:49214/SPORTSNET_EAST/hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_ONE
@@ -8312,6 +8315,16 @@ http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG-1675271915254.png",🇺🇸 🏎️🏍➾ Mavtv [Pluto]
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",Eurosport🚲🚲🚲🚲
+http://149.100.19.131:8080/Eurosport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",AIO Sport 1🚲🚲🚲
+https://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",Eurosport 1🚲🚲🚲🚲
+http://78.26.128.16:8081/89/index.m3u8 
+#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",EuroSport 1🚲🚲🚲🚲
+http://54.39.17.6:8080/eurosport/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="localnow_Ski TV" group-title="🏄Radical sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92",🇺🇸 🏄➾ Ski TV [localnow]
