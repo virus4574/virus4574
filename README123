@@ -2451,6 +2451,35 @@ http://cdn1.karwan.tv/spi-quran/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",Spi TV
 http://cdn1.karwan.tv/spi-tv/index.m3u8
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",radioshamfm
+http://radioshamfm.grtvstream.com:8400/;
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",ninar-fm
+http://ninarfm.grtvstream.com:8896/;stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",almadinafm
+https://stream.almadinafm.com/;stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",radio-sada
+http://192.99.8.192:3054/;stream.mp3/stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",mc-doualiya
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",fuse-fm
+http://192.95.23.89:4986/;stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",nojoom-fm
+http://185.105.4.53:4423/;stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",farah.fm
+https://radio.farah.fm
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",arabesque-fm
+http://185.4.87.79:8000/stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",jazeera-arabic fm
+https://live-hls-web-aja.getaj.net/AJA-b/06.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",RadioZenobia
+http://radioliveb.rtv.gov.sy:8002/RadioZenobia
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",mixfmsyria
+https://stream.mixfmsyria.net/;stream.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Radio Sada📻
