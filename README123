@@ -1543,6 +1543,8 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 https://1333578254.rsc.cdn77.org/1333578254/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="لبنانLEBANON",ONE TV LBN
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3K6JafH" group-title="لبنانLEBANON",صوت لبنان
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",NBN
 https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HvKNl6" group-title="لبنانLEBANON",Al Wifak🇱🇧
@@ -2452,41 +2454,37 @@ http://cdn1.karwan.tv/spi-tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="📻راديوRadio Music",HD Radio  Music📻
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Radio Sada📻
-http://sc8new.shoutcaststreaming.us:8032/stream.mp3
+http://192.99.8.192:3054/;stream.mp3/stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Fann FM Syria📻
 http://ice7.securenetsystems.net/CINA-FM?playSessionID=FECEF0EC-0EFC-10AA-E80480214456A151
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Fuse Fm📻
-http://192.99.17.12:4986/;stream.mp3
+http://192.95.23.89:4986/;stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Watan FM Syria📻
 http://192.99.170.8:5470/;/;stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Almadina FM Syria 📻راديو المدينة سوريا
-http://192.99.17.12:4978/;stream.mp3
+https://stream.almadinafm.com/;stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻راديو صوت الشباب
 http://82.137.248.16:1935/RShabab/RShababLive/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻راديو شام اف ام
-http://38.96.175.97:5980/;stream.mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻راديو شام اف ام
-http://5.39.218.151:8400/;
+https://radioshamfm.grtvstream.com:8400/stream
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",RadioSouryana📻
 http://radioliveb.rtv.gov.sy:8008/RadioSouryana
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",RadioShabab📻
-http://radioliveb.rtv.gov.sy:8002/RadioShabab
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",RadioDimshq📻
-http://radioliveb.rtv.gov.sy:8002/RadioDimshq
+https://streaming.zaytonatube.com:8081/Shabab_FM/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",artafm📻
 https://edge.mixlr.com/channel/qtgru
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻صوت لبنان
-http://vps1.osina.cloud:9318/;stream.mp3
+https://l3.itworkscdn.net/itwaudio/9054/stream
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Version FM📻
-http://5.39.218.151:8400/;stream.mp3
+https://versionfm.com:8100/stream
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻إذاعة البشائر
 http://audiostreaming.itworkscdn.com:9014/stream
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻راديو أورينت
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",alaan FM📻
-https://streamingcdn.alaan.tv/fm/fm/chunklist.m3u8
+https://www.akhbaralaan.net/radioalaan/audio/Pre-Mujaz-1.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻فرح اف ام
-http://radio.farah.fm:8015/;stream.mp3
+https://radio.farah.fm/?type=http
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻ميلودي اف ام
 http://streaming.inet.sy:8000/melodyfm
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻العاصمة إف إم
@@ -2494,7 +2492,7 @@ http://asima.out.airtime.pro:8000/asima_a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",📻راديو دلتا
 http://s45.myradiostream.com:18408/;stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",BBC Arabic FM📻
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba
+https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",إذاعة النور FM📻
 http://audiostreaming.itworkscdn.com:9066/;stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",ممونت كارلو FM📻
