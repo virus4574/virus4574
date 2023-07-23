@@ -37,20 +37,6 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S001
 https://cdn1.livehd720.com/hlsbeinp4/beinp4/playlist.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 1
-http://baghdad.zinamedia.net/ar-s/bein-1-stop-TimeSheft/video.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 2
-http://baghdad.zinamedia.net/ar-s/bein-2-stop-TimeSheft/video.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 3
-http://baghdad.zinamedia.net/ar-s/bein-3-stop-TimeSheft/video.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 4
-http://baghdad.zinamedia.net/ar-s/bein-4-stop-TimeSheft/video.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 5
-http://baghdad.zinamedia.net/ar-s/bein-5-stop-TimeSheft/video.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 6
-http://baghdad.zinamedia.net/ar-s/bein-6-stop-TimeSheft/video.m3u8
-#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="",BEIN sports 7
-http://baghdad.zinamedia.net/ar-s/bein-7-stop-TimeSheft/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="https://i.ibb.co/zF2htKY/1sd.png" group-title="بين سبور BEIN SPORT",beIN Sports 1 SD
 https://github.com/kusnadipepenk/ntn/raw/master/bs1.m3u8
@@ -105,18 +91,14 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3xYLaRh
 
 
-#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",BT Sport 1 HD 
-http://212.8.253.117/BTSport1HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",BTSport 2 HD 
-http://212.8.253.117/BTSport2HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",foxsport2 HD 
-http://212.8.253.117/foxsport2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",viasatsport HD 
-http://212.8.253.117/viasatsport/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",espn HD 
-http://212.8.253.117/espn/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",espn2 HD 
-http://212.8.253.117/espn2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",Over sport 1 
+http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",Over sport 2
+http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",Over sport 3
+http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",Over sport 4
+http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SPORTSNET_EAST
 http://51.79.87.60:49214/SPORTSNET_EAST/hls/playlist.m3u8
