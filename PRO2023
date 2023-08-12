@@ -1493,11 +1493,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",Mtv HD🇱🇧
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3YI6iGv" group-title="لبنانLEBANON",Al Ittihad🇱🇧
-https://live.alittihad.tv:444/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3YI6iGv" group-title="لبنانLEBANON",Al Ittihad🇱🇧
 http://95.216.180.111:1935/live/30/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3YI6iGv" group-title="لبنانLEBANON",Al Ittihad🇱🇧
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD🇱🇧
@@ -1506,44 +1502,21 @@ http://95.216.180.111:1935/live/43/chunklist.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD🇱🇧
 http://95.216.180.111:1935/live/66/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD🇱🇧
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3G6lSTW" group-title="لبنانLEBANON",Nabaa TV🇱🇧
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam🇱🇧
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DKF5up" group-title="لبنانLEBANON",aliman🇱🇧
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HDxMpM" group-title="لبنانLEBANON",One TV Lebanon🇱🇧
-https://1333578254.rsc.cdn77.org/1333578254/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="لبنانLEBANON",ONE TV LBN
+#EXTINF:0 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="لبنانLEBANON",ONE TV LBN🇱🇧
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3K6JafH" group-title="لبنانLEBANON",صوت لبنان
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltv_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",NBN
-https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HvKNl6" group-title="لبنانLEBANON",Al Wifak🇱🇧
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
-https://live1.presstv.ir/live/ifilmar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HDxMpM" group-title="لبنانLEBANON",One HD🇱🇧
-http://194.37.92.14:12000/play/a09f
-#EXTINF:-1 tvg-id="" tvg-name="LBN: LBC INTERNATIONAL" tvg-logo="http://pro.netmos.ovh/img/LBC.INTERNATIONAL.png" group-title="لبنانLEBANON",LBN: LBC INTERNATIONAL🇱🇧
-http://194.37.92.14:12000/play/a099
-#EXTINF:-1 tvg-id="" tvg-name="LBN: OTV" tvg-logo="http://pro.netmos.ovh/img/OTV.png" group-title="لبنانLEBANON",LBN: OTV🇱🇧
-http://194.37.92.14:12000/play/a09b
-#EXTINF:-1 tvg-id="" tvg-name="LBN: JADEED HD" tvg-logo="http://pro.netmos.ovh/img/AlJadeedTV.png" group-title="لبنانLEBANON",LBN: JADEED HD🇱🇧
-http://194.37.92.14:12000/play/a09a
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NBN" tvg-logo="http://pro.netmos.ovh/img/NBN.png" group-title="لبنانLEBANON",LBN: NBN🇱🇧
-http://194.37.92.14:12000/play/a09c
-#EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON🇱🇧
-http://194.37.92.14:12000/play/a0d4
-#EXTINF:-1 tvg-id="" tvg-name="LBN: TELE LEBANON" tvg-logo="http://pro.netmos.ovh/img/TELE.LIBAN.png" group-title="لبنانLEBANON",LBN: TELE LEBANON🇱🇧
-http://194.37.92.14:12000/play/a0bu
-#EXTINF:-1 tvg-id="" tvg-name="LBN: MTV HD" tvg-logo="http://pro.netmos.ovh/img/MTV.LIBAN.png" group-title="لبنانLEBANON",LBN: MTV HD🇱🇧
-http://194.37.92.14:12000/play/a021
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
