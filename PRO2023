@@ -107,8 +107,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/2R0I04L.png",[$]BEIN SPORTS XTRA N HD🇪🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
-
-
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/H5mOw96.png",[$]SPORT 1HD🇷🇺
 http://50.7.234.114:82/0162/index.m3u8?token=1kfJMDsTTp
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1HD🇷🇺
@@ -127,8 +125,6 @@ http://50.7.234.114:82/0215/index.m3u8?token=1kfJMDsTTp
 http://92.46.127.146:8080/qazsport/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ECJiorK.png",[$]5 Беларусь HD🇷🇺
 http://82.209.197.187:8080/udp/239.0.100.9:1234
-
-
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ngEDIQ5.png",[$]VIASAT SPORT HD🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/H5mOw96.png",[$]SPORT 1HD🇷🇺
@@ -236,8 +232,6 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Bq7gTT0.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8?token=test
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/QPmqn3U.png",[$]NOVA SPORT 3HD
-http://84.42.140.147:8890/hdmi
 #EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/TnLSwJT.png",[$]CANAL MOTOR
@@ -254,10 +248,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/MijzVjy.png",[$]TNT SPORTS 5HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1HD
-https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2HD
-https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/EuRaMuo.png",[$]SPORT PLUS 3HD
@@ -278,34 +268,11 @@ http://nl01.spr24.net/132/mpegts?token=HrxUaQ8f8WVYtH
 http://nl01.spr24.net/162/mpegts?token=HrxUaQ8f8WVYtH
 #EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/39p3g4P.png",[$]MIX SPORT 7HD
 http://nl01.spr24.net/106/mpegts?token=HrxUaQ8f8WVYtH
-
-
 #EXTINF:-1 tvg-id="" group-title="VIP SPORT EUR" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",🇫🇷 ⚽️➾ L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:-1 tvg-id="" group-title="VIP SPORT EUR" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",🇫🇷 ⚽️➾ L'Equipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�1 
-https://donelfantastic.github.io/creativemedia/hls/asp1cmedia.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�2
-https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�3
-https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",Astro|Supersports鈥�4
-https://donelfantastic.github.io/creativemedia/hls/asp4cmedia.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_1_dd
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_2_dd
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_3_dd
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_4_dd
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",AstroSport_5_dd
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",SUKAN|Yusi_1_🇮🇩
-https://maper.info/useesport-1-shareext-ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="VIP SPORT EUR",SUKAN|Yusi_2_🇮🇩
-https://maper.info/useesport-2-shareext-ts
+
 
 
 
@@ -321,42 +288,13 @@ https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="VIP SPORT 1 EUR",SS Maximo
 https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.premier.league.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="VIP SPORT 1 EUR",Supersports Liga
-http://fr01.spr24.net/24432/mpegts?token=cF2RCUH9syZxPd
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="VIP SPORT 1 EUR",Supersports Liga
-https://ch01.spr24.net/24432/mpegts?token=cF2RCUH9syZxPd
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="VIP SPORT 1 EUR",Supersports Cricket
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.cricket.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Action" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="VIP SPORT 1 EUR",Supersports Action
-https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/ss.action.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="VIP SPORT 1 EUR",Supersports Variety1
-https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.1.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="VIP SPORT 1 EUR",Supersports Variety2
-https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.2.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="VIP SPORT 1 EUR",BT SPORTS1
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9851&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="VIP SPORT 1 EUR",BT SPORTS2
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9849&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="VIP SPORT 1 EUR",BT SPORTS3
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9847&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="VIP SPORT 1 EUR",DAZN1
-https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.1.ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="VIP SPORT 1 EUR",DAZN15
-http://ch01.spr24.net/967/mpegts?token=9YFshVLyywbYy5
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="VIP SPORT 1 EUR",BEIN SPORTS CANADA
-https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/bein.sport.canada.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="VIP SPORT 1 EUR",BEIN SPORTS 1 FRENCH
 http://neczmabfa.to:80/play/1gHxwUVeCAwuuSeCDc2-W17Hx2TaF8r0f3zplcB7W6Lxq0rWISiIhxPT_JwPdgCS/ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 MAX" tvg-logo="https://imgur.com/fssQAhP.png" group-title="VIP SPORT 1 EUR",CBS SPORTS1
 https://tvnow.best/api/stream/willydavila7@gmail.com/320009/livetv.epg/cbs.sports.network.usa.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="VIP SPORT 1 EUR",ASTRO SUPER SPORTS
-http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23452
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="VIP SPORT 1 EUR",ASTRO SUPER SPORTS
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="VIP SPORT 1 EUR",ASTRO SUPER SPORTS
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="VIP SPORT 1 EUR",MUTV
-https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/mutv.uk.m3u8
+
 
 
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]EUROSPORT 1HD
