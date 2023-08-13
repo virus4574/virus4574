@@ -3993,8 +3993,7 @@ https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 ----------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://i.ibb.co/3M61Vkf/SGN-09-18-2021-1631958888546.png",Extreme Sports
-https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
+
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg",MavTV Europe
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT",Motor Racing
@@ -4053,22 +4052,14 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="رياضية SPORT", EVENTOS TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Alfa Sport
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",AntenaSport
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Arryadia 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="رياضية SPORT",Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",EDGEsport (1080p)
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ESTV (1080p)
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="FightNetwork.ca" group-title="رياضية SPORT",Fight Network (1080p)
@@ -4079,8 +4070,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",FTF
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Fuel TV (1080p)
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Glory Kickboxing
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Hard Knocks (1080p)
