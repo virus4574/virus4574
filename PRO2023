@@ -1397,6 +1397,14 @@ http://htvint.mada.ps:8889//orient/index.m3u8
 http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="Arabic" tvg-logo="https://bit.ly/3nvojdH" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3s3hja3" group-title="🇵🇸فلسطينPALESTINE",Post TV
+https://tv.qmedia.ps/hls/post_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/445c86Y" group-title="🇵🇸فلسطينPALESTINE",Post Sport TV
+https://tv.qmedia.ps/hls/tv_HD/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45r59q3" group-title="🇵🇸فلسطينPALESTINE",Hala Ramallah TV
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DYSgYG" group-title="🇵🇸فلسطينPALESTINE",Al-Quds Educational
+https://streaming2.qou.edu/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42bnvJu" group-title="🇵🇸فلسطينPALESTINE",alfajertv 1
