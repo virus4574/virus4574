@@ -455,6 +455,8 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد الأصلية",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="باقة شاهد الأصلية",افلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3s20Djp" group-title="باقة شاهد الأصلية",Fareed
 https://cdxaws-ak.akamaized.net/v1/channel/Fareed/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43IaM1I" group-title="باقة شاهد الأصلية",Al_Leaba
@@ -1603,6 +1605,8 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3TY9QmO" group-title="🇪🇬المصرية Egypt",CBC sofra🇪🇬
 https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png" group-title="🇪🇬المصرية Egypt",CBC sofra🇪🇬
+https://new.cache-stream.workers.dev/stream/UC--UtxrU7FWNCp0l7AG9EIw/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40ymKug" group-title="🇪🇬المصرية Egypt",🇪🇬القاهرة والناس
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42OJck9" group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
@@ -1862,8 +1866,8 @@ https://bit.ly/3xYLaRh
 https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="الجزائرALGERIEN",Canal Algerie
 http://162.212.178.69:4242/bysid/808
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Canal Algérie 
-https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" group-title="الجزائرALGERIEN",Canal Algérie الثانية
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
