@@ -2139,14 +2139,15 @@ http://82.212.74.98:8000/live/hls/7726.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYXzDd" group-title="🇾🇪اليمن Yemen",almahriah🇾🇪
 https://master.starmena-cloud.com/hls/almahriah.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KovTzW" group-title="🇾🇪اليمن Yemen",🇾🇪عدن
-http://82.212.74.5:8000/live/hls/7728.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44eNh0z" group-title="🇾🇪اليمن Yemen",🇾🇪عدن المستقلة
+https://ssh101.bozztv.com/ssh101/aictv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KovTzW" group-title="🇾🇪اليمن Yemen",🇾🇪عدن
 http://95.216.180.111:1935/live/46/playlist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/nhGnJp8F/image1.png",Al Ghad Almoshrek 🇾🇪
 http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Kjm1r1" group-title="🇾🇪اليمن Yemen",Belqees TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Kjm1r1" group-title="🇾🇪اليمن Yemen",Belqees TV🇾🇪
 https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",Kuwait TV🇰🇼
 https://bit.ly/3xYLaRh
