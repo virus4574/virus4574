@@ -374,6 +374,21 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hng6TCI.png",[$]ARENA SPORT 4HD
 http://94.250.2.6:7374/play/a012/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FIFA SPORTS",SKYSPORTS 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="FIFA SPORTS",SKYSPORTS 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="FIFA SPORTS",SKYSPORTS 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="FIFA SPORTS",SKYSPORTS 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="FIFA SPORTS",SKYSPORTS 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKYSPORTS 6
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKYSPORTS 7
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/MstKijI.png",[$]МАТЧ! NRPA
 https://bit.ly/3XFMpQs
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/CiBsvEe.png",[$]MATCH! BOEU HD
