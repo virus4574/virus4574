@@ -1431,6 +1431,8 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45uanRO" group-title="لبنانLEBANON",Spilebanon
 http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",alaan
+https://raw.githubusercontent.com/virus4574/virus4574/virus4574-patch-3/alaan
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
