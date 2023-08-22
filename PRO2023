@@ -1405,8 +1405,7 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QObCr8" group-title="لبنانLEBANON",Senses TV 
 https://proflix.app:8443/SENSES/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",alaan
-https://raw.githubusercontent.com/virus4574/virus4574/virus4574-patch-3/alaan
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
@@ -2099,6 +2098,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/p
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",AL-Jaleyah tv🇦🇪
 https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45kiVLx" group-title="🇦🇪الامارات EMIRATES",alaan🇦🇪
+https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇾🇪اليمن Yemen",Yemen tv🇾🇪
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇾🇪اليمن Yemen",🇾🇪كيف احصل على الكود
