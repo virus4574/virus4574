@@ -1040,8 +1040,14 @@ https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOOwm" group-title="أطفال Children",Toyor Aljanah
 https://ythls.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Amou Yazid Tofola TV
-http://185.236.229.117:8000/play/a01d
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Osn kids
+http://154.58.202.18:8080/osn_kids/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Nick
+http://154.58.202.18:8080/nick/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",disney HD
+http://154.58.202.18:8080/disney/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",CN
+http://154.58.202.18:8080/CN/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
 https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
@@ -1279,13 +1285,11 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3K0zqD7" group-title="أم بي سي احتياطيMBC",MBC 2
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3K0zqD7" group-title="أم بي سي احتياطيMBC",MBC 2
-
+http://154.58.202.18:8080/mbc2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40rEDe8" group-title="أم بي سي احتياطيMBC",MBC Action
-
+http://154.58.202.18:8080/mbcaction/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3G3z2CD" group-title="أم بي سي احتياطيMBC",MBC MAX
-
+http://154.58.202.18:8080/mbcmax/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="روتانا ROTANA",ROTANA HD
@@ -1432,6 +1436,8 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QObCr8" group-title="لبنانLEBANON",Senses TV 
 https://proflix.app:8443/SENSES/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Nbn
+http://154.58.202.18:8080/nbn/index.m3u8
 
 
 
