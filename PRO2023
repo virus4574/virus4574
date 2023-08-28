@@ -1707,6 +1707,8 @@ https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alshoub.tv/wp-content/uploads/2022/11/logo-red.png" group-title="🇪🇬المصرية Egypt",🇪🇬الشّعوب
 https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",DMC
+http://154.58.202.18:8080/DMC/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Madani TV🇪🇬
