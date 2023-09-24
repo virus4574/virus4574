@@ -85,6 +85,17 @@ http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMD
 http://176.119.29.17:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6WW1WSlRpQlRVRTlTVkZNZ055QlRSQT09OjIx/331f22a3-d7ab-4726-b4c1-a8462554c443.m3u8
 
 
+
+#EXTINF:-1 group-title="بين سبور BEIN SPORT" ,BEIN sports 1 
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 group-title="بين سبور BEIN SPORT" ,BEIN sports 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1 group-title="بين سبور BEIN SPORT" ,BEIN sports 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+#EXTINF:-1 group-title="بين سبور BEIN SPORT" ,BEIN sports 4
+https://stream.ayas.ir/hls2/bein4.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="بين سبور BEIN SPORT VIP",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title=بين سبور BEIN SPORT VIP",⚽️كيف احصل على الكود
