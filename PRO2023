@@ -517,6 +517,16 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد الأصلية",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QjiWcd" group-title="باقة شاهد الأصلية",حكايات-مرعبة
+https://cdxaws-ak.akamaized.net/v1/channel/Hekayat_Mor3ebah/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40iRkbR" group-title="باقة شاهد الأصلية",Spooky-Tales
+https://cdxaws-ak.akamaized.net/v1/channel/Spooky_Tales/index_hls.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MkGr3i" group-title="باقة شاهد الأصلية",Bollywood-HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45RBFBs" group-title="باقة شاهد الأصلية",Bollywood-Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTlEJO" group-title="باقة شاهد الأصلية",Ragel_We_Set_Settat
 https://cdxaws-ak.akamaized.net/v1/channel/Ragel_We_Set_Settat_Channel/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/46Kci5u" group-title="باقة شاهد الأصلية",25_Soal
@@ -1040,7 +1050,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أطفال Children",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44EUQhs" group-title="أطفال Children",ATFAAL
-https://cdxaws-ak.akamaized.net/v1/channel/ATFAAL/index_hls.m3u8
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="أطفال Children",MBC 3 FHD
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nuo4gY" group-title="أطفال Children",Rotana Kids HD
