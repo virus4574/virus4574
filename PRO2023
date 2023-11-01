@@ -1611,6 +1611,11 @@ https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3FHyEcq" group-title="🇪🇬المصرية Egypt",Al Qahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Madani TV🇪🇬
 http://185.236.229.50:8002/play/a00v
 #EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Madrastna 1🇪🇬
@@ -1822,6 +1827,11 @@ http://162.212.178.69:4242/bysid/808
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group-title="🇱🇾ليبياLIBYA",سلام
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="🇱🇾ليبياLIBYA",قناة الوسط - WTV🇱🇾
@@ -1917,6 +1927,9 @@ https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/inde
 https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40HBpTq" group-title="🇸🇦السعودية Saudi-Arabia",AL Ekhbaria +🇸🇦
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47fGyoS" group-title="🇸🇦السعودية Saudi-Arabia",السعودية الآن
+https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇸🇦السعودية Saudi-Arabia",قناة الواقع الفضائية🇸🇦
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3m0LLeB" group-title="🇸🇦السعودية Saudi-Arabia",Al Quran Al Kareem TV🇸🇦
@@ -2059,9 +2072,9 @@ https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KurdMax Show
 http://198.100.158.231:1935/live/kurdmaxshowkur1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/gNCSYvG.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdmax Show
-https://ca-rt.onetvapi.win/KurdmaxShow/index-0.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/MojrqNd.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",KURDMAX HD KUR
-https://5aa8c7549bfa9.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/p7eAbYD.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan 24
