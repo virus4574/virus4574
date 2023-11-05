@@ -802,7 +802,7 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j27VuW" group-title="📰الاخبارNEWS",DW ARABIC HD📰
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="📰الاخبارNEWS",AL KHALIJ HD📰
-http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36u7Xqk" group-title="📰الاخبارNEWS",TRT ARABIC HD📰
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰الاخبارNEWS",CGTN الاخبارNEWS📰
@@ -825,8 +825,8 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="📰الاخبارNEWS",Alsharq📰
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="📰الاخبارNEWS",ALkhalij TV📰
-https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKCRSP" group-title="📰الاخبارNEWS",Al Etejah TV📰
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" group-title="📰الاخبارNEWS",France 24 Arabic📰
 http://95.216.180.111:1935/live/26/chunklist.m3u8
 
