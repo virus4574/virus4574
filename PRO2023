@@ -3531,17 +3531,17 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",RTL
-https://s6.hopslan.com/rtlu111/index.m3u8
+https://s6.hopslan.com/rtlq1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTL II" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66610_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",RTL II
-https://s6.hopslan.com/rtl2q1/index.m3u8
+https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="PRO 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67203_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",PRO 7
-https://s6.hopslan.com/pro7q1/index.m3u8
+https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",SAT 1
-https://s6.hopslan.com/sat1q1/index.m3u8
+https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66616_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",VOX
-https://s6.hopslan.com/voxq1/index.m3u8
+https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67197_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",Kabel 1
-https://s6.hopslan.com/kabel1q1/index.m3u8
+https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/bein.com.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml"
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="🇩🇪DEUTSCH",1-2-3 TV (270p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
