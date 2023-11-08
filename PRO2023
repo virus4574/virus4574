@@ -783,6 +783,10 @@ https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="📰الاخبارNEWS",AL HADATH SD📰
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰الاخبارNEWS",Al Arabiya Business 
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKcegN" group-title="📰الاخبارNEWS",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Zwnsi" group-title="📰الاخبارNEWS",AL Asharq HD 📰
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Zwnsi" group-title="📰الاخبارNEWS",AL Asharq SD📰
@@ -1383,6 +1387,8 @@ http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestinee TV🇵🇸
 https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestinee TV🇵🇸+
+https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="🇵🇸فلسطينPALESTINE",Palestine-AL YAUM🇵🇸
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="🇵🇸فلسطينPALESTINE",AWDAH TV🇵🇸
