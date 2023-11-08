@@ -2850,7 +2850,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
-https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="🇹🇷Turkey",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900367.png" group-title="🇹🇷Turkey",TRT AVAZ
@@ -2886,8 +2886,6 @@ https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="🇹🇷Turkey",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="🇹🇷Turkey",SHOW TV HD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="🇹🇷Turkey",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="🇹🇷Turkey",SHOW TV HD
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
@@ -2895,14 +2893,10 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="🇹🇷Turkey",TV8 UHD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="🇹🇷Turkey",TV8 UHD
-http://135.125.234.9:8081/tv8/index.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="🇹🇷Turkey",TV8.5 UHD
-http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/2318/index.m3u8
-#EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="🇹🇷Turkey",TV8.5 UHD
-http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/56
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="🇹🇷Turkey",TV8 INT
-http://95.0.226.197:8000/play/a037
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21446
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="🇹🇷Turkey",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="🇹🇷Turkey",DIYANET TV
