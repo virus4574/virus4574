@@ -644,7 +644,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Arous_Beirut/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KgyUlS" group-title="باقة شاهد الأصلية",أفلام
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xw0DYl" group-title="باقة شاهد الأصلية",movies
-https://cdxaws-ak.akamaized.net/v1/channel/movies/index_hls.m3u8
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Z1lMoU" group-title="باقة شاهد الأصلية",Al_Malab
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Malab/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ixthyq" group-title="باقة شاهد الأصلية",WWE
@@ -1303,7 +1303,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="سوريةSyria",LANA TV
+https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3FcOvzo" group-title="سوريةSyria",Lana TV
 https://eitc3.secure2.footprint.net/hls/LTV2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
@@ -1787,6 +1788,7 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 https://radio.shemsfm.net/shems
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="🇹🇳تونسTUNISIE",TUNISIE 🇹🇳راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
