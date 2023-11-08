@@ -1780,8 +1780,17 @@ https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PwYz4T6/aswat.png" group-title="🇲🇦المغربMAROCCO",Radio Aswat 🇲🇦
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇳تونسTUNISIE",تونسTUNISIE🇹🇳
 https://bit.ly/3xYLaRh
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="🇹🇳تونسTUNISIE",WATANIA 1
+https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="🇹🇳تونسTUNISIE",WATANIA 2
+https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="🇹🇳تونسTUNISIE",NESSMA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" group-title="🇹🇳تونسTUNISIE",Shems FM🇹🇳
@@ -1790,20 +1799,30 @@ https://radio.shemsfm.net/shems
 http://streaming.toutech.net/live/jfm/index.m3u8
 
 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/JmRh3Xn/helwa.png" group-title="الجزائرALGERIEN",HELWA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="الجزائرALGERIEN",TV2 ALGERIE
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="الجزائرALGERIEN",ECHOROUK NEWS
+https://bledflix-echorouk-news.b-cdn.net/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="الجزائرALGERIEN",ECHOROUK TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouktv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="الجزائرALGERIEN",EL BILAD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="الجزائرALGERIEN",Canal Algerie
 http://162.212.178.69:4242/bysid/808
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" group-title="الجزائرALGERIEN",Canal Algérie الثانية
-https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group-title="🇱🇾ليبياLIBYA",سلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="🇱🇾ليبياLIBYA",قناة الوسط - WTV🇱🇾
@@ -3463,7 +3482,7 @@ https://broadcasttr.com:446/kanal33/bant1/chunklist.m3u8
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://www.kanal40tv.com/upload/tema/20200117__6504022479.jpg", KANAL 40 TV
 http://nrttn172.kesintisizyayin.com:29010/k40tv/k40tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://1.bp.blogspot.com/-T6YpgvHyghw/YJQUkyRLiEI/AAAAAAAATb0/LnO3FPEccFgo7aVmTuNILn4KLANALLAR/ png", KANAL 56
+#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://1.bp.blogspot.com/-T6YpgvHyghw/YJQUkyRLiEI/AAAAAAAATb0/LnO3FPEccFgo7aVmTuNILn4KLLAR/ png", KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://1.bp.blogspot.com/-HpYX80ykuRY/X6W4h_aWPcI/AAAAAAAAPnQ/sakqISaQo-ELJxit175TzqZCLOurlQV/ KANAL58.png", KANAL 58 YEDEK
 https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8
@@ -5098,9 +5117,9 @@ http://konya.sehirkameralari.com/live/52f89fa816e2b/HasBahCa.m3u8
 http://konya.sehirkameralari.com/live/594b8d6ec0d3d/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Konya-Kılıçarslan Şehir Meydanı
 http://konya.sehirkameralari.com/live/5902d8e46ae8a/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Konya-Mevlana - Üçler Kavşağı
+#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Konya-Mev - Üçler Kavşağı
 http://konya.sehirkameralari.com/live/52f8ac9765db4/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Konya-Mevlana Caddesi
+#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Konya-Mev Caddesi
 http://konya.sehirkameralari.com/live/5f106b8a0102b/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Konya-Mevlana Kültür Merkezi
 http://konya.sehirkameralari.com/live/52f8ac0de0eb2/HasBahCa.m3u8
