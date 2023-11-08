@@ -65,7 +65,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-sam
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",World Poker Tour
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
 
-
+#EXTINF:1 tvg-id="SRF1.ch" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/srf1.default.svg" group-title="🇨🇭Switzerland",SRF 1
+https://s6.hopslan.com/srf1/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="SRFZwei.ch" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/srfzwei.default.svg" group-title="🇨🇭Switzerland",SRF Zwei
+https://s6.hopslan.com/srf2/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="SRF1.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF 3
+https://s6.hopslan.com/3plus/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="SRF1.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF 4
+https://s6.hopslan.com/4plus/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="SRF1.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF 5
+https://s6.hopslan.com/3plus/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="SRF1.ch" tvg-logo="" group-title="🇨🇭Switzerland",SRF info
+https://s6.hopslan.com/srfinfo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="🇨🇭Switzerland",Alpenland TV 
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭Switzerland",Canal Alpha Jura
@@ -141,12 +152,23 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" tvg-id="ORF1.at" group-title="🇦🇹Austria",ORF 1 Ⓖ
+https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ORF 2 Ⓖ" tvg-logo="https://i.imgur.com/yPVDaXv.png" tvg-id="ORF2.at" group-title="🇦🇹Austria",ORF 2 Ⓖ
+https://s6.hopslan.com/orf2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ORF III Ⓖ" tvg-logo="https://i.imgur.com/6BuiUE7.png" tvg-id="ORFIII.at" group-title="🇦🇹Austria",ORF III Ⓖ
+https://s6.hopslan.com/orf3/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-name="Servus TV Ⓖ" tvg-logo="https://i.imgur.com/zDWhSxq.png" tvg-id="ServusTVOsterreich.at" group-title="🇦🇹Austria",Servus TV Ⓖ
+https://s6.hopslan.com/servusx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="" group-title="🇦🇹Austria",laendle TV
+https://s4.hopslan.com/landle/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="🇦🇹Austria",Dorf TV 
 https://stream.openplayout.org/hls/dorftv/live.m3u8
 #EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="🇦🇹Austria",FS1 Salzburg  
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+https://s4.hopslan.com/fs1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HitradioO3.at" tvg-logo="https://i.imgur.com/pFKnkU0.png" group-title="🇦🇹Austria",Hitradio Ö3  
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="KTV.at" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="🇦🇹Austria",K-TV 
