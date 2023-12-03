@@ -10269,16 +10269,10 @@ rtmp://93.189.60.202//1018
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 3 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA 🇪🇸
-http://ftp.look-tv.eu:8880/Pechotoro2/WRVpXpHNtyui/30989
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",VAMOS 🇪🇸
-http://ftp.look-tv.eu:8880/Pechotoro2/WRVpXpHNtyui/172
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORTS 1 HD 🇵🇹
-http://634665223615637251.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637251.ts
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORTS 1 HD 🇵🇹
-http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637251.ts
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA 🇪🇸
-http://667782866163571904.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/571904.ts
+http://250557523696320786.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/320786.ts
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",MAX SPORTS 4 🇧🇬
@@ -10333,6 +10327,10 @@ http://312834923831678927.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/678927.ts
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S SPORT 1 HD 🇹🇷
 http://proxytv.xyz:8080/bedribey/B87654321/115598
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S SPORT 1 HD 🇹🇷
+http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19070/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S SPORT 2 HD 🇹🇷
+http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19071/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",S SPORT 2 HD 🇹🇷
 http://proxytv.xyz:8080/bedribey/B87654321/6105
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA 🇪🇸
@@ -10345,6 +10343,8 @@ https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 http://312834923831394664.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/394664.ts
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORTS 2 HD 🇵🇹
 http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/394664.ts
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORTS 1 HD 🇵🇹
+http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORTS 1 HD 🇵🇹
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN SPORTS 1 HD 🇵🇹
@@ -10567,6 +10567,14 @@ http://62.176.77.22:9781/play/a00i
 http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Diema Sport 3 🇧🇬
 http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Nova Sp 🇧🇬
+http://88.203.157.4:9770/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Nova Sp 🇧🇬
+http://88.203.157.4:9770/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Ring_1 🇧🇬
+http://88.203.157.4:9770/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Ring_2 🇧🇬
+http://88.203.157.4:9770/play/a00o/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Eleven Sports 1 HD 🇵🇱
 http://45.65.112.49:8000/play/a05d
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Eleven Sports 2 HD 🇵🇱
@@ -10841,24 +10849,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7263/index.m3u8
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",ELEVEN Sports 1 🇵🇹
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/218261
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/218260
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://23.146.40.157:8080/sahinsimsek/FZBp6KtF23/72484
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://lista.deluxeprime.net:8080/box593/WKanZCqXtE5Z/228311
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://clubberprosstl.tech:8080/12/12/272480
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219985
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219986
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219987
-#EXTINF:0 tvg-id="ext" group-title="VIP SPORT",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
 #EXTINF:0 tvg-id="ext" group-title="VIP SPORT",Arena Sport 3 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
 #EXTINF:0 tvg-id="ort" group-title="VIP SPORT",1
