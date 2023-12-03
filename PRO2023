@@ -1198,8 +1198,12 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.postimg.cc/cLWd6qH6/download-2.jpg" group-title="روتانا ROTANA",LBC HD (1)
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JhpzrD" group-title="روتانا ROTANA",Rotana Music
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JhpzrD" group-title="روتانا ROTANA",Rotana Music المصدر الثاني
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnOi05" group-title="روتانا ROTANA",Rotana Comedy
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PnOi05" group-title="روتانا ROTANA",Rotana Comedy المصدر الثاني
 https://rotanastudios-rotanaComedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GuEuNG" group-title="روتانا ROTANA",Rotana Khalijia SD
 https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8
@@ -2787,6 +2791,8 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://alrahma.tv/images/logo-alrahma.jpg" group-title="🕌اسلاميةIslami",Al Rahma
+https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌اسلاميةIslami",🕌قــاف
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ZP1Jdp" group-title="🕌اسلاميةIslami",🕌دعوة
