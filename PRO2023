@@ -440,6 +440,29 @@ http://93.155.227.38/m3u8/arenasport4.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",ARENA SPORT 5
 http://93.155.227.38/m3u8/arenasport5.m3u8
 
+
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",DIEMA SPORT HD
+http://93.155.227.38/m3u8/diamasporthd.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",DIEMA SPORT 2 HD
+http://93.155.227.38/m3u8/diemasport2hd.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",DIEMA SPORT 3 HD
+http://93.155.227.38/m3u8/diemasport3hd.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",EURO FOLK HD
+http://93.155.227.38/m3u8/eurofolkhd.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",EUROSPORT HD
+http://93.155.227.38/m3u8/eurosporthd.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",EUROSPORT 2 HD
+http://93.155.227.38/m3u8/eurosport2hd.m3u8
+
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 1
+http://93.155.227.38/m3u8/webmtelsport_web.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 2
+http://93.155.227.38/m3u8/webmtelsport2_web.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 3
+http://93.155.227.38/m3u8/webmtelsport3_web.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 4
+http://93.155.227.38/m3u8/webmtelsport4_web.m3u8
+
 #EXTM3U
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FIFA SPORTS",SKYSPORTS 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
