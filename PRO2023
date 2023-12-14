@@ -428,18 +428,18 @@ https://tvnow.best/api/stream/willydavila7@gmail.com/320009/livetv.epg/cbs.sport
 
 
 
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]EUROSPORT 1HD
-http://91.233.215.250:7272/mlR5cGNUsvBxcv8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]EUROSPORT 2HD
-http://91.233.215.250:7272/4TViUcJR91U6Lzr
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/L6ALzLE.png",[$]ARENA SPORT 1HD
-http://94.250.2.6:7374/play/a02m/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/uPiHdsb.png",[$]ARENA SPORT 2HD
-http://94.250.2.6:7374/play/a02n/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/qihKQfe.png",[$]ARENA SPORT 3HD
-http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hng6TCI.png",[$]ARENA SPORT 4HD
-http://94.250.2.6:7374/play/a012/index.m3u8
+
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/L6ALzLE.png",ARENA SPORT 1
+http://93.155.227.38/m3u8/arenasport1.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/uPiHdsb.png",ARENA SPORT 2
+http://93.155.227.38/m3u8/arenasport2.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/qihKQfe.png",ARENA SPORT 3
+http://93.155.227.38/m3u8/arenasport3.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hng6TCI.png",ARENA SPORT 4
+http://93.155.227.38/m3u8/arenasport4.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",ARENA SPORT 5
+http://93.155.227.38/m3u8/arenasport5.m3u8
+
 #EXTM3U
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FIFA SPORTS",SKYSPORTS 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
