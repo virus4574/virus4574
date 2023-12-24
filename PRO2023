@@ -1423,16 +1423,15 @@ https://app.sama-tv.net/hls/samatv.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية 
-http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",Syrian News (1)
-http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",Syrian News
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
 http://gineu10.bozztv.com/gin-36bay4/ga-syrian-drama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sliL7L" group-title="سوريةSyria",Syrian Educational TV
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",Syrian News (1)
-http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام 
 https://media.ortas.live/Ortas_VOD/_definst_/mp4:Nour3//Alsabeqoon/SABQOON_27112023.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا 
