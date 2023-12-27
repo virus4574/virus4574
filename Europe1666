@@ -1274,12 +1274,83 @@ http://rtmp1.40e.hu:8000/live/ktv.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="BNT1.bg" group-title="🇧🇬Bulgaria",BNT 1
+http://93.155.227.38/m3u8/bntsd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",BNT 2 HD
+http://93.155.227.38/m3u8/bnt2hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",BOX HD
+http://93.155.227.38/m3u8/boxhd.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" group-title="🇧🇬Bulgaria",BTV HD
+http://93.155.227.38/m3u8/btvhd.m3u8
+#EXTINF:0 tvg-id="bTVAction.bg" group-title="🇧🇬Bulgaria",BTV Action HD
+http://93.155.227.38/m3u8/btvactionhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",BTV CINEMA HD
+http://93.155.227.38/m3u8/btvcinemahd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",BTV COMEDY HD
+http://93.155.227.38/m3u8/btvcomedyhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",BTV LADY HD
+http://93.155.227.38/m3u8/btvladyhd.m3u8
+#EXTINF:0 tvg-id="CITY.ca" group-title="🇧🇬Bulgaria",CITY
+http://93.155.227.38/m3u8/citysd.m3u8
+#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="🇧🇬Bulgaria",DIEMA SPORT HD
+http://93.155.227.38/m3u8/diamasporthd.m3u8
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="🇧🇬Bulgaria",DIEMA SPORT 2 HD
+http://93.155.227.38/m3u8/diemasport2hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",DIEMA SPORT 3 HD
+http://93.155.227.38/m3u8/diemasport3hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",EURO FOLK HD
+http://93.155.227.38/m3u8/eurofolkhd.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="🇧🇬Bulgaria",EUROSPORT HD
+http://93.155.227.38/m3u8/eurosporthd.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="🇧🇬Bulgaria",EUROSPORT 2 HD
+http://93.155.227.38/m3u8/eurosport2hd.m3u8
+#EXTINF:0 tvg-id="FANTV.bg" group-title="🇧🇬Bulgaria",FEN TV HD
+http://93.155.227.38/m3u8/fentvhd.m3u8
+#EXTINF:0 tvg-id="fox-hd" group-title="🇧🇬Bulgaria",FOX HD
+http://93.155.227.38/m3u8/foxhd.m3u8
+#EXTINF:0 tvg-id="Jukebox.de" group-title="🇧🇬Bulgaria",JUKEBOX
+http://93.155.227.38/m3u8/jukebox.m3u8
+#EXTINF:0 tvg-id="Hustler.br" group-title="🇧🇬Bulgaria",HUSTLER
+http://93.155.227.38/m3u8/hustler.m3u8
+#EXTINF:0 tvg-id="Magic.uk" group-title="🇧🇬Bulgaria",MAGIC TV
+http://93.155.227.38/m3u8/magictv.m3u8
+#EXTINF:0 tvg-id="MaxSport1.bg" group-title="🇧🇬Bulgaria",MAX SPORT 1
+http://93.155.227.38/m3u8/webmtelsport_web.m3u8
+#EXTINF:0 tvg-id="MaxSport2.bg" group-title="🇧🇬Bulgaria",MAX SPORT 2
+http://93.155.227.38/m3u8/webmtelsport2_web.m3u8
+#EXTINF:0 tvg-id="MaxSport3.bg" group-title="🇧🇬Bulgaria",MAX SPORT 3
+http://93.155.227.38/m3u8/webmtelsport3_web.m3u8
+#EXTINF:0 tvg-id="MaxSport4.bg" group-title="🇧🇬Bulgaria",MAX SPORT 4
+http://93.155.227.38/m3u8/webmtelsport4_web.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="🇧🇬Bulgaria",MTV LIVE HD
+http://93.155.227.38/m3u8/mtvlivehd.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="🇧🇬Bulgaria",NAT GEO HD
+http://93.155.227.38/m3u8/natgeohd.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="🇧🇬Bulgaria",NAT GEO WILD HD
+http://93.155.227.38/m3u8/natgeowildhd.m3u8
+#EXTINF:0 tvg-id="iq-hd" group-title="🇧🇬Bulgaria",PLANETA HD
+http://93.155.227.38/m3u8/planetahd.m3u8
+#EXTINF:0 tvg-id="PrivateTV.ero" group-title="🇧🇬Bulgaria",PRIVATE
+http://93.155.227.38/m3u8/private.m3u8
+#EXTINF:0 tvg-id="RINGBG.bg" group-title="🇧🇬Bulgaria",RING HD
+http://93.155.227.38/m3u8/ringbghd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",SCT
+http://93.155.227.38/m3u8/sct.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="🇧🇬Bulgaria",TLC HD
+http://93.155.227.38/m3u8/tlchd.m3u8
+#EXTINF:0 tvg-id="travel" group-title="🇧🇬Bulgaria",TRAVEL TV
+http://93.155.227.38/m3u8/travelhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",TV1 HD
+http://93.155.227.38/m3u8/tv1hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇧🇬Bulgaria",WEBCITY TV
+http://93.155.227.38/m3u8/webcitytv_web.m3u8
+
+
+
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/mip1puB.png" group-title="🇧🇬Bulgaria",100% Auto Moto TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="BalkanikaTV.bg" tvg-logo="https://i.imgur.com/lnKH5SP.png" group-title="🇧🇬Bulgaria",Balkanika TV 
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1 tvg-id="CityTV.bg" tvg-logo="https://i.imgur.com/StAvd35.png" group-title="🇧🇬Bulgaria",City TV
-https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="Evrokom.bg" tvg-logo="https://i.imgur.com/yqkU0l4.png" group-title="🇧🇬Bulgaria",Evrokom 
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LightChannel.bg" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="🇧🇬Bulgaria",Light Channel
@@ -1302,8 +1373,6 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/darts/live.m3u8
 #EXTINF:-1 tvg-id="TVart.bg" group-title="🇧🇬Bulgaria",TVart
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
-#EXTINF:-1 tvg-id="TiankovOrientFolk.bg" group-title="🇧🇬Bulgaria",Tiankov Orient Folk
-https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇧🇬Bulgaria",EuroFolk TV
 https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
 #EXTINF:-1 tvg-id="TV1.bg" group-title="🇧🇬Bulgaria",TV 1
