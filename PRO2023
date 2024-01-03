@@ -424,11 +424,11 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="رياضية SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="رياضية SPORT",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="رياضية SPORT",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ujLfv6" group-title="رياضية SPORT",Abu Dhabi Sports Yas TV
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="رياضية SPORT",Dubai SPORT 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="رياضية SPORT",Dubai SPORT 2
@@ -809,9 +809,9 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الوثائقية documentary",🏞️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi SD🏞️
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/stream_02/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
@@ -1838,9 +1838,9 @@ http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playl
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ziGN3K" group-title="🇦🇪الامارات EMIRATES",DUB-DUBAI Racing 2 🇦🇪
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7p4nW" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi TV 🇦🇪
-https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="🇦🇪الامارات EMIRATES",DUB-AL Emarat HD 🇦🇪
-https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3aw1bFp" group-title="🇦🇪الامارات EMIRATES",sharqiya from kalba 🇦🇪
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xq48" group-title="🇦🇪الامارات EMIRATES",AL Sharjah TV 🇦🇪
@@ -1856,7 +1856,7 @@ https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/433PAV1" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",Baynounah TV🇦🇪
-https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",AL-Jaleyah tv🇦🇪
 https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45kiVLx" group-title="🇦🇪الامارات EMIRATES",alaan🇦🇪
