@@ -593,7 +593,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://d.top4top.io/p_2581s0z0n1.png" group-title="باقة شاهد الأصلية",Top-Chef
 https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Iytd1y" group-title="باقة شاهد الأصلية",مسلسل الحفرة التركي
-https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
+https://cdxaws-ak.akamaized.net/v1/channel/The_Pit_Channel/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I6v4cB" group-title="باقة شاهد الأصلية",Arous_Beirut
 https://cdxaws-ak.akamaized.net/v1/channel/Arous_Beirut_/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KgyUlS" group-title="باقة شاهد الأصلية",أفلام
@@ -604,6 +604,7 @@ https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index
 https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/416oo72" group-title="باقة شاهد الأصلية",Naser_Al_Qassaby
 https://cdxaws-ak.akamaized.net/v1/channel/Naser_Al_Qassaby/index_hls.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Hala London",SPORT CHANNELS
 https://bit.ly/3xYLaRh
@@ -1319,7 +1320,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="🇵🇸فلسطينPALESTINE",PAL-AlQuds🇵🇸
-http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8
+https://s1.ettehadlive.com/live/11/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine HD🇵🇸
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="🇵🇸فلسطينPALESTINE",PAL-Musawa tv HD🇵🇸
