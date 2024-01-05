@@ -955,7 +955,7 @@ https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76ae
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="أطفال Children",BEIN :Cartoon_Network العربية
 https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="أطفال Children",Majid 
-https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a7ZM4N" group-title="أطفال Children",GULLI-BIL-ARABI
 https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3izHluV" group-title="أطفال Children",Atfal Wa Mawaheb
@@ -1319,6 +1319,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://qanawat.taghtia.com/assets/channels/audeh-tv.png" group-title="🇵🇸فلسطينPALESTINE",audeh TV
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="🇵🇸فلسطينPALESTINE",PAL-AlQuds🇵🇸
 https://s1.ettehadlive.com/live/11/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine HD🇵🇸
