@@ -1433,9 +1433,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
 http://95.216.180.111:1935/live/111/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png"الوثائقية documentary",ASHARQ DOCS🏞️
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="الوثائقية documentary",ASHARQ DOCS🏞️
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png"الوثائقية documentary",ASHARQ DOCS 2🏞️
+#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="الوثائقية documentary",ASHARQ DOCS 2🏞️
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
