@@ -1931,7 +1931,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD🇱🇧
 http://95.216.180.111:1935/live/66/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3G6lSTW" group-title="لبنانLEBANON",Nabaa TV🇱🇧
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="لبنانLEBANON",ALalam🇱🇧
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DKF5up" group-title="لبنانLEBANON",aliman🇱🇧
@@ -1946,13 +1946,6 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
-#EXTINF:-1 tvg-id="TL Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/TELE-LEBANON.jpeg" group-title="لبنانLEBANON",TL Lebanon (Auto)
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="NBN Lebanon" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/nbnlebanon.jpg" group-title="لبنانLEBANON",NBN Lebanon
-#EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
