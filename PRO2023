@@ -1425,6 +1425,8 @@ https://stream.meietv.de/live/meietv.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الوثائقية documentary",🏞️كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️+
+http://37.122.156.107:4000/play/11/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi SD🏞️
@@ -2377,6 +2379,10 @@ http://162.212.178.69:4242/bysid/803
 https://mn-nl.mncdn.com/tayba/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",Dabanga TV
 https://cdn-cf.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
+http://45.65.112.49:8000/play/a0nd
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
 https://bit.ly/3xYLaRh
