@@ -1831,8 +1831,6 @@ https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc867
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/YL1wKY8/Duhkwabas.png" group-title="روتانا ROTANA",ROTANA DUHK WABASS
 https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/YL1wKY8/Duhkwabas.png" group-title="روتانا ROTANA",ROTANA DUHK WABASS
-https://daiconnect.com/live/hls/rotana/dwbass/2863b804cde7974b846f64583832be11/.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3tHPG7B" group-title="روتانا ROTANA",SYDAT EL SHASHA
 https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/romance.png" group-title="روتانا ROTANA",Rotana Romance
@@ -1871,6 +1869,16 @@ https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d39
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42QudX1" group-title="روتانا ROTANA",Rotana+ 
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HysmwD" group-title="روتانا ROTANA VIP",Rotana M+ HD
+http://45.159.14.109:4022/udp/239.100.0.4:1234
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3u1WrBE" group-title="روتانا ROTANA VIP",Rotana Aflam+ HD
+http://45.159.14.109:4022/udp/239.100.0.5:1234
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Sz13Za" group-title="روتانا ROTANA VIP",Rotana Mplus HD
+http://45.159.14.109:4022/udp/239.100.0.16:1234
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42fuVwW" group-title="روتانا ROTANA VIP",Rotana Cinema France HD
+http://45.159.14.109:4022/udp/239.100.0.18:1234
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="سوريةSyria",سوريةSyria
 https://bit.ly/3xYLaRh
