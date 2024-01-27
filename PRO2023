@@ -7,6 +7,10 @@
 ياحيوانات بيكفي سرقه
 
 ياحيوانات بيكفي سرقه
+
+
+
+
  
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="قسم الدعم الفني للتطبيق",AiRMAX TV PRO❤️
 https://bit.ly/3xYLaRh
@@ -2022,6 +2026,8 @@ https://app.sama-tv.net/hls/samatv.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية +
+http://149.18.45.14:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية 
 
@@ -2029,8 +2035,10 @@ http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
 http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما+
+http://149.18.45.14:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sliL7L" group-title="سوريةSyria",Syrian Educational TV
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+http://149.18.45.14:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام 
 https://media.ortas.live/Ortas_VOD/_definst_/mp4:Nour3//Alsabeqoon/SABQOON_27112023.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا 
@@ -2076,6 +2084,14 @@ http://95.216.180.111:1935/live/15/chunklist.m3u8
 http://149.18.45.14:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International
 http://149.18.45.14:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN
+http://149.18.45.14:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV
+http://149.18.45.14:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Teleliban TV
+http://149.18.45.14:8000/play/a00b/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
@@ -2321,25 +2337,20 @@ https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/8vSNskY.png" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas 2
 https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47R9S51" group-title="🇪🇬المصرية Egypt",Bee movies
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
-
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zamalek Sports
+http://149.18.45.14:8000/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc
+http://149.18.45.14:8000/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc HD
+http://149.18.45.14:8000/play/a0be/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc drama
+http://149.18.45.14:8000/play/a0bi/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc masraheyat
+http://149.18.45.14:8000/play/a0bk/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
 http://149.18.45.14:8000/play/a0bn/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar One
@@ -2526,6 +2537,8 @@ https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
 http://5.253.46.190:7004/play/a0d4
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar HD
 http://5.253.46.190:7002/play/a0bj
