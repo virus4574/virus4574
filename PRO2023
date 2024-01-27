@@ -2031,6 +2031,21 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="🇯🇴الاردنJORDAN",ALmamlka TV 🇯🇴
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48PO3nV" group-title="🇯🇴الاردنJORDAN",Jordan Archive TV
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist/0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇯🇴الاردنJORDAN",Jordan Comedy TV
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ug5g5e" group-title="🇯🇴الاردنJORDAN",Jordan Drama TV
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist/0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48ORsTY" group-title="🇯🇴الاردنJORDAN",Jordan Tourism TV
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist/4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3u7Tm2W" group-title="🇯🇴الاردنJORDAN",Jordan Aghanina TV
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist/4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3SvXjYq" group-title="🇯🇴الاردنJORDAN",Jordan Matbakhna TV
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/4.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPbcDI" group-title="🇯🇴الاردنJORDAN",Jawhara FM🇯🇴
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RzgVZC" group-title="🇯🇴الاردنJORDAN",alhqeqa🇯🇴
@@ -2159,13 +2174,18 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3FHyEcq" group-title="🇪🇬المصرية Egypt",Al Qahera News
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",eXtra News
-https://new.cache-stream.workers.dev/stream/UCUHq39HXLyAjjMPIjsNRLpw/live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Arabic Movies
-https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
+#EXTINF:-1 tvg-id="ExtraLive.eg" tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="🇪🇬المصرية Egypt",eXtra Live
+https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
+#EXTINF:-1 tvg-id="ExtraNews.eg" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="🇪🇬المصرية Egypt",eXtra News
+https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",القاهرة والناس
 https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Arabic Movies
+https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
