@@ -2037,6 +2037,9 @@ https://media.ortas.live/Ortas_VOD/_definst_/mp4:Nour3//Alsabeqoon/SABQOON_27112
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا 
 https://media.ortas.live/Ortas_VOD/_definst_/mp4:Souryana3//Sabah_Souryana/sbah_26112023.mp4/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="سوريةSyria",Al Alam Syria
+http://149.18.45.14:8000/play/a0c8/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="لبنانLEBANON",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="لبنانLEBANON",🇱🇧كيف احصل على الكود
@@ -2069,6 +2072,11 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",ALJADEED TV HD
+http://149.18.45.14:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International
+http://149.18.45.14:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
@@ -2333,6 +2341,30 @@ https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
+http://149.18.45.14:8000/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar One
+http://149.18.45.14:8000/play/a0bm/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",AlHayat HD
+http://149.18.45.14:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat Muslsalat
+http://149.18.45.14:8000/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat We Alnas
+http://149.18.45.14:8000/play/a0c2/index.m3u8
+#EXTINF:0 tvg-id="cbc" group-title="Channels",CBC
+http://149.18.45.14:8000/play/a0bo/index.m3u8
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",CBC Drama
+http://149.18.45.14:8000/play/a0bq/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBC Sofra
+http://149.18.45.14:8000/play/a0bp/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HYA
+http://149.18.45.14:8000/play/a0bv/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
@@ -2444,20 +2476,35 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/JmRh3Xn/helwa.png" group-title="الجزائرALGERIEN",HELWA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="الجزائرALGERIEN",SAMIRA TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="الجزائرALGERIEN",TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="الجزائرALGERIEN",ECHOROUK NEWS
-https://bledflix-echorouk-news.b-cdn.net/master.m3u8
+http://176.65.146.154:8025/play/a09n/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="الجزائرALGERIEN",ECHOROUK TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouktv.m3u8
+http://176.65.146.154:8025/play/a09o/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="الجزائرALGERIEN",EL BILAD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
+http://176.65.146.154:8025/play/a09x/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="الجزائرALGERIEN",Canal Algerie
 http://162.212.178.69:4242/bysid/808
+
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Samira TV
+http://176.65.146.154:8025/play/a09z/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HAYAT TV ALGERIE
+http://176.65.146.154:8025/play/a09s/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HEDDAF TV
+http://176.65.146.154:8025/play/a09t/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL IKTISSADIA OULA
+http://176.65.146.154:8025/play/a09p/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL MAHROUSA TV
+http://176.65.146.154:8025/play/a07f/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",ELMOLED
+http://176.65.146.154:8025/play/a07k/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",El Djazair N1
+http://176.65.146.154:8025/play/a09v/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Elwatania Algerie
+http://176.65.146.154:8025/play/a09r/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Ennahar TV
+http://176.65.146.154:8025/play/a0a0/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
