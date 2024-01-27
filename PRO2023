@@ -1062,16 +1062,19 @@ https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XxIQQ" group-title="رياضية SPORT",DubaiRacing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="رياضية SPORT",Al Kass One
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" group-title="رياضية SPORT",Al Kass 1 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pR3iHm" group-title="رياضية SPORT",Al Kass Two
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="رياضية SPORT",Al Kass 2 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uRhe86" group-title="رياضية SPORT",Al Kass three tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="رياضية SPORT",Al Kass 3 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="رياضية SPORT",Al Kass Four
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgba/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/3hEiyaG" group-title="رياضية SPORT",Al Five tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="رياضية SPORT",Al Kass 4 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="رياضية SPORT",Al Kass 5 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qwoPGY" group-title="رياضية SPORT",ksa الرياضية 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="رياضية SPORT",ksa الرياضية 2
@@ -1577,6 +1580,13 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3izHluV" group-title="أطفال Children",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/246vm7R.png" group-title="أطفال Children",ZooMoo HD
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QfwNoFU.png" group-title="أطفال Children",Moonbug HD
+https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
 https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
@@ -2430,7 +2440,7 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playl
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ziGN3K" group-title="🇦🇪الامارات EMIRATES",DUB-DUBAI Racing 2 🇦🇪
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7p4nW" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi TV 🇦🇪
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FkaYAoc.png" group-title="🇦🇪الامارات EMIRATES",Abu Dhabi TV 🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="🇦🇪الامارات EMIRATES",DUB-AL Emarat HD 🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
@@ -2443,14 +2453,14 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="🇦🇪الامارات EMIRATES",DUB-Aldafrahtv 🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45zD2EX" group-title="🇦🇪الامارات EMIRATES",Al Mashhad
-https://bcovlive-a.akamaihd.net/385ca06841b3430f99327f0c44d6d008/ap-south-1/6313884884001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZTxvW" group-title="🇦🇪الامارات EMIRATES",Yas TV 🇦🇪
-https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/433PAV1" group-title="🇦🇪الامارات EMIRATES",Ajman TV🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",Baynounah TV🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3kjBbBQ" group-title="🇦🇪الامارات EMIRATES",AL-Jaleyah tv🇦🇪
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42hg5WH" group-title="🇦🇪الامارات EMIRATES",AL-Jaleyah tv🇦🇪
 https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45kiVLx" group-title="🇦🇪الامارات EMIRATES",alaan🇦🇪
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
@@ -2482,8 +2492,10 @@ http://82.212.74.3:8000/live/7512.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",🇰🇼كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="🇰🇼الكويت Kuwait",Kuwait Alrai TV SD🇰🇼
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/h9UwGar.png" group-title="🇰🇼الكويت Kuwait",Alrai HD🇰🇼
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
 https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_360p/chunks.m3u8?p=48&s=1701570047&e=1701656447&cf=1701656447&h=dbc42fea7f482e0c82c5d6725c1696d6&hs=93532332
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
