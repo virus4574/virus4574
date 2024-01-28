@@ -1933,16 +1933,24 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",|MBC| 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",|MBC| 2
 http://176.65.146.154:8025/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",|MBC| 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",|MBC| 2
 http://5.253.46.190:7003/play/a0c2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",MBC 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",MBC 2
 http://154.54.220.67:34780/play/a01p
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",MBC Action
+#EXTINF:0 tvg-id="MBC2.net" group-title="أم بي سيMBC VIP",MBC 2
+http://78.40.141.196:8000/play/a009
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",MBC Action
 http://154.54.220.67:34780/play/a01o
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",MBC MAX
+#EXTINF:0 tvg-id="MBCAction.net" group-title="أم بي سيMBC VIP",MBC Action
+http://78.40.141.196:8000/play/a00a
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",MBC MAX
 http://154.54.220.67:34780/play/a01q
+
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3xYLaRh
@@ -2324,7 +2332,7 @@ https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RRrffV" group-title="🇮🇶العراق IRAQ",قناة النجباء الفضائية 🇮🇶
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HH92Nc" group-title="🇮🇶العراق IRAQ",12Arabia
-http://149.62.177.114:8000/play/a032/index.m3u8
+http://176.65.146.154:8025/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uCqWOw" group-title="🇮🇶العراق IRAQ",Al Iraqia
@@ -2387,18 +2395,66 @@ http://149.18.45.14:8000/play/a0c3/index.m3u8
 http://149.18.45.14:8000/play/a0bs/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat We Alnas
 http://149.18.45.14:8000/play/a0c2/index.m3u8
-#EXTINF:0 tvg-id="cbc" group-title="Channels",CBC
+
+
+#EXTINF:0 tvg-id="cbc" group-title="🇪🇬المصرية Egypt",CBC
 http://149.18.45.14:8000/play/a0bo/index.m3u8
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",CBC Drama
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="🇪🇬المصرية Egypt",CBC Drama
 http://149.18.45.14:8000/play/a0bq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBC Sofra
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",CBC Sofra
 http://149.18.45.14:8000/play/a0bp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HYA
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HYA
 http://149.18.45.14:8000/play/a0bv/index.m3u8
 
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AL SALAM TV
+http://78.40.141.196:8000/play/a03n
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALASSEMA TV
+http://78.40.141.196:8000/play/a02i
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALNAHAR ALJADID
+http://78.40.141.196:8000/play/a00m
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALS3YDA MADEEH
+http://78.40.141.196:8000/play/a038
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Ahwas State TV
+http://78.40.141.196:8000/play/a041
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Dolly Mosalsalat
+http://78.40.141.196:8000/play/a02o
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",El Omda Aflam
+http://78.40.141.196:8000/play/a02y
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",El Omda Al yom
+http://78.40.141.196:8000/play/a02a
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",El Omda Drama
+http://78.40.141.196:8000/play/a02z
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Elzaeem Cinema
+http://78.40.141.196:8000/play/a02w
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Elzaeem Drama
+http://78.40.141.196:8000/play/a02u
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Fox Be Elaraby TV
+http://78.40.141.196:8000/play/a023
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="🇪🇬المصرية Egypt",Fox Movies
+http://78.40.141.196:8000/play/a030
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Fox hikayat
+http://78.40.141.196:8000/play/a025
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HAQ TV
+http://78.40.141.196:8000/play/a00j
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HD Cinema
+http://78.40.141.196:8000/play/a02n
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HD Drama
+http://78.40.141.196:8000/play/a02j
+#EXTINF:0 tvg-id="HomeTV.pl" group-title="🇪🇬المصرية Egypt",Home TV
+http://78.40.141.196:8000/play/a033
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",falestinona TV
+http://78.40.141.196:8000/play/a04c
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus cinema
+http://78.40.141.196:8000/play/a02c
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus drama
+http://78.40.141.196:8000/play/a02r
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus elyoum
+http://78.40.141.196:8000/play/a02t
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus hekayat
+http://78.40.141.196:8000/play/a02s
 
 
 
@@ -2541,6 +2597,7 @@ http://176.65.146.154:8025/play/a09v/index.m3u8
 http://176.65.146.154:8025/play/a09r/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Ennahar TV
 http://176.65.146.154:8025/play/a0a0/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
