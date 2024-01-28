@@ -1365,7 +1365,18 @@ https://bit.ly/3DF4NAn
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM
+http://176.65.146.154:8025/play/a074/index.m3u8
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
+http://176.65.146.154:8025/play/a075/index.m3u8
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM+
+http://149.18.45.14:8000/play/a0da/index.m3u8
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN+
+http://149.18.45.14:8000/play/a0db/index.m3u8
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM++
+http://5.253.46.190:7003/play/a0c5
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN++
+http://5.253.46.190:7003/play/a0c6
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
@@ -1922,6 +1933,16 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",|MBC| 2
+http://176.65.146.154:8025/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",|MBC| 2
+http://5.253.46.190:7003/play/a0c2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",MBC 2
+http://154.54.220.67:34780/play/a01p
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",MBC Action
+http://154.54.220.67:34780/play/a01o
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="أم بي سيMBC VIP",MBC MAX
+http://154.54.220.67:34780/play/a01q
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="روتانا ROTANA",ROTANA HD
 https://bit.ly/3xYLaRh
@@ -2312,6 +2333,11 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇮🇶العراق IRAQ",الرابعه
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="🇮🇶العراق IRAQ",IRAQ 24 HD
+http://5.253.46.190:7004/play/a0ap
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="🇮🇶العراق IRAQ",IRAQ EDU KIDS
+http://5.253.46.190:7004/play/a0cx
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇪🇬المصرية Egypt",🇪🇬المصرية
