@@ -3745,8 +3745,30 @@ http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌اسلاميةIslami",Maher Al Meaqli-Kaf🕌
 http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Dua Channel 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Dua Channel  TV🕌
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",AL-resalah TV🕌
+https://daiconnect.com/live/hls/rotana/risalaint/394e9dc91d1af9e46e0fb5b730b54207/.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Iqrabangala TV🕌
+https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Istiqama TV🕌
+http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Sharjahtv2 TV🕌
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Sharjahquran🕌
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Affasy TV🕌
+https://qurango.net/radio/mishary_alafasi.mp3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Huda TV🕌
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Bahrain_Quran TV🕌
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Rehber TV🕌
+https://yayin30.haber100.com/live/rehbertv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🕌اسلاميةIslami",Lalegul TV🕌
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
