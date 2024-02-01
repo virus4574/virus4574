@@ -42,6 +42,8 @@ https://bit.ly/3gj9PK5
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S
 https://stream.live12.ir/hls2/persiana.m3u8
+#EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة Ss
+https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S0
 https://stream.ayas.ir/hls2/bac1.m3u8
@@ -370,6 +372,8 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",ssc 1 SPORT
+https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
