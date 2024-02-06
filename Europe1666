@@ -825,7 +825,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="🇵🇹Portugal" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjMgMjoxNDo1OCBQTSZoYXNoX3ZhbHVlPWN0N3lNTmIxL1AvYUxQaTlxV0JtaEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZWFiN2FlMy05ZWVjLTRjZTYtOWNkNi04YmRkZjdkYmFlYjk=/
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 group-title="🇵🇹Portugal" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist.m3u8
@@ -1797,8 +1797,68 @@ http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 https://ythls.onrender.com/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 
 
-#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="🇬🇧United Kingdom",BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/English%20club%20HD.png",English Club TVᴴᴰ 🇬🇧
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
+http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
+http://94.194.203.85:9981/stream/channelid/831789889?ticket=9B74D75722EF2482F742D11311E34C1A110706CE&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 🇬🇧
+http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 🇬🇧
+http://88.208.226.9:9981/stream/channelid/213933282?ticket=C4C751092BB83BE658FDE456EB3117A3F9BDC6A4&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/ITV3_logo_2022.svg",ITV3 🇬🇧
+http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/ITV3_logo_2022.svg",ITV3 🇬🇧
+http://94.194.203.85:9981/stream/channelid/1834699519?ticket=5C4FC7A15944D975CAE1A7CA9005B99CE9993F8F&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/ITV4_logo_%282022%29.svg",ITV4 🇬🇧
+http://94.175.4.30:9981/stream/channelid/1802252797?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/ITV4_logo_%282022%29.svg",ITV4 🇬🇧
+http://94.194.203.85:9981/stream/channelid/1894175488?ticket=BE3CA74251B8BABD024C640670762662824B8E31&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 1 🇬🇧
+http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
+http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
+http://94.194.203.85:9981/stream/channelid/337248568?ticket=2F8A7278CEA30D81296DEC729A3E0371151794B2&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BBC_Brit.svg",BBC Britᴴᴰ 🇬🇧🇵🇱 
+http://178.219.128.68:64889/BBCBRITHD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://www.legend-tv.co.uk/grfx/stuff/legend-logo-wht.png",Legend sᴅ 🇬🇧
+http://45.153.35.210:8000/play/UK_legend_sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://www.legend-tv.co.uk/grfx/stuff/legend-logo-wht.png",Legend sᴅ 🇬🇧
+http://94.194.203.85:9981/stream/channelid/1943326407?ticket=FD49048D22B6AF0D9F9D50B745F87E777CB0E7D4&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://www.legend-tv.co.uk/grfx/stuff/legend-logo-wht.png",Legend Xtra sᴅ 🇬🇧
+http://45.153.35.210:8000/play/UK_horror_xtra_sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/truecrime.png",True Crime sᴅ 🇬🇧
+http://45.153.35.210:8000/play/UK_cbs_reality_sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/truecrime.png",True Crime+1 sᴅ 🇬🇧
+http://45.153.35.210:8000/play/UK_cbs_reality_1_sd/index.m3u8
+
+#EXTINF:-1 tvg-name="🐴" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://horseandcountry.tv/img/logo/hnc-desktop-white.png",Horse and Countryᴴᴰ 🇬🇧 🟤
+https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
+
+====☛ 🇬🇧 SAMSUNGTV|LG|PLUTO|TLC|XUMO 🇬🇧 ☚====
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/blob/live/Logos/EntertainmentHub.png",Entertainment Hubᴴᴰ 🇬🇧 🟤
+https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TheChatShow.jpg",The ChatShowᴴᴰ 🇬🇧 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="RealStories.uk" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RealStories.webp",Real Storiesᴴᴰ 🇬🇧 🟤
+https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/af/BBC_Home.png/revision/latest?cb=20220214001102",BBC Home 🇬🇧 🟤
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951178
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png",BBC Home & Garden 🇬🇧 🟤
+https://bit.ly/3Hr3qXD?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png",BBC Top Gear 🇬🇧 🟤
+https://bit.ly/3RdZw9d?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HomesUndertheHammer.jpg",Homes Under the Hammer 🇬🇧 🟤
+https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="BeanoTV.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png" group-title="🇬🇧United Kingdom",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇧United Kingdom",Bloomberg TV 
@@ -1821,6 +1881,8 @@ https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇧United Kingdom",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="🇬🇧United Kingdom",ITV1 [ VPN ]
 https://cdnuk001.broadcastcdn.net/KUK-ITV-107/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="🇬🇧United Kingdom",ITV2 [ VPN ]
@@ -1831,6 +1893,8 @@ https://cdnuk001.broadcastcdn.net/KUK-ITV3/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://i.imgur.com/98U4KjU.png" group-title="🇬🇧United Kingdom",ITVBe [ VPN ]
 https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="🇬🇧United Kingdom",Jewelery Maker 
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk" tvg-logo="https://i.imgur.com/w6uXMrK.png" group-title="🇬🇧United Kingdom",Kanshi TV 
