@@ -40,6 +40,11 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3SBY2Ws",BEIN SPORTS NEWS HD⚽️
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="بين سبور BEIN SPORT",beIN SPORTS NEWS
+http://154.58.202.131:8000/play/a034
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="بين سبور BEIN SPORT",beIN SPORTS
+http://154.58.202.131:8000/play/a07s
+
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة S
 https://stream.live12.ir/hls2/persiana.m3u8
 #EXTINF:0 group-title="بين سبور BEIN SPORT" tvg-logo="https://bit.ly/3EMQtXj",تعمل وقت المباريات المهمة Ss
@@ -566,6 +571,8 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 https://freeiptv25.netlify.app/live/stream_1.m3u8
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Ziggo Sports 鉁�
 https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
+#EXTINF:-1, group-title="Various sports" tvg-logo=" ", True Premiere Football 2 ✅
+https://edge2.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Various sports", 鉁� Football Match 鉁� Tudn Sports ARG
 https://mlb.mrgamingstreams.com/tudn.m3u8
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Ziggo Sports 1 鉁�
@@ -2072,7 +2079,7 @@ https://bit.ly/3gj9PK5
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3SvjspP" group-title="سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="سوريةSyria",ALARABY TV HD (1)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="سوريةSyria",ALARABY TV HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -2090,26 +2097,22 @@ https://stream.sama-tv.net/hls/samatv.m3u8
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية +
 http://149.18.45.14:8000/play/a09t/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",Syrian News
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
-http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما+
-http://149.18.45.14:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sliL7L" group-title="سوريةSyria",Syrian Educational TV
 http://149.18.45.14:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام 
-https://media.ortas.live/Ortas_VOD/_definst_/mp4:Nour3//Alsabeqoon/SABQOON_27112023.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا 
-https://media.ortas.live/Ortas_VOD/_definst_/mp4:Souryana3//Sabah_Souryana/sbah_26112023.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
+http://149.18.45.14:8000/play/a09u/index.m3u8
 
+#EXTINF:0 tvg-id="Syria.il" group-title="سوريةSyria",SYRIA
+http://154.58.202.131:8000/play/a08k
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",SYRIA CH1
+http://154.58.202.131:8000/play/a08m
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",Syrian News
+http://154.58.202.131:8000/play/a08n
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",ALALAM SYRIA
+http://154.58.202.131:8000/play/a089
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="سوريةSyria",Al Alam Syria
 http://149.18.45.14:8000/play/a0c8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Souryana
@@ -2120,6 +2123,16 @@ http://37.122.156.107:4000/play/a069/index.m3u8
 http://37.122.156.107:4000/play/a07o/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Satellite
 http://37.122.156.107:4000/play/a07n/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="لبنانLEBANON",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
@@ -2674,6 +2687,9 @@ http://176.65.146.154:8025/play/a09x/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="الجزائرALGERIEN",Canal Algerie
 http://162.212.178.69:4242/bysid/808
 
+#EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Elfadjer drama Dz
+http://154.58.202.131:8000/play/a03l
+
 #EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Samira TV
 http://176.65.146.154:8025/play/a09z/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HAYAT TV ALGERIE
@@ -2715,9 +2731,16 @@ https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
 http://5.253.46.190:7004/play/a0d4
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
+http://154.58.202.131:8000/play/a04e
+#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 2 HD
+http://154.58.202.185:8000/play/a05z
+#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
+http://154.58.202.131:8000/play/a04g
+#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya Ifta TV
+http://154.58.202.131:8000/play/a08y
+#EXTINF:0 tvg-id="ext" group-title="🇱🇾ليبياLIBYA",Libya WTV HD
+http://154.58.202.131:8000/play/a01s
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Al Ahrar HD
 http://5.253.46.190:7002/play/a0bj
 
@@ -2732,7 +2755,10 @@ https://cdn-cf.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇩السودانSUDAN",SUDAN TV
 http://45.65.112.49:8000/play/a0nd
 
-
+#EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Basic Edu
+http://154.58.202.131:8000/play/a02k
+#EXTINF:0 tvg-id="ext" group-title="🇸🇩السودانSUDAN",Sudan Secondary Edu
+http://154.58.202.131:8000/play/a02l
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
 https://bit.ly/3xYLaRh
@@ -2898,32 +2924,40 @@ https://master.starmena-cloud.com/hls/almahriah.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/aictv1/chunks.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Documentary
+http://154.58.202.131:8000/play/a03p
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen Education TV
+http://154.58.202.131:8000/play/a03r
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Yemen TV
+http://154.58.202.131:8000/play/a03u
+#EXTINF:0 tvg-id="ext" group-title="🇾🇪اليمن Yemen",Aden TV
+http://154.58.202.131:8000/play/a03x
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",Kuwait TV🇰🇼
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",🇰🇼كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/h9UwGar.png" group-title="🇰🇼الكويت Kuwait",Alrai HD🇰🇼
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_360p/chunks.m3u8?p=48&s=1701570047&e=1701656447&cf=1701656447&h=dbc42fea7f482e0c82c5d6725c1696d6&hs=93532332
+http://154.58.202.131:8000/play/a014
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
-
+http://154.58.202.131:8000/play/a015
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="🇰🇼الكويت Kuwait",kuwait ETHRAA FHD🇰🇼
-
+http://154.58.202.131:8000/play/a018
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="🇰🇼الكويت Kuwait",Kuwait AL Arabi TV FHD🇰🇼
-
+http://154.58.202.131:8000/play/a019
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="🇰🇼الكويت Kuwait",Al Qurain TV FHD🇰🇼
-
+http://154.58.202.131:8000/play/a01b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="🇰🇼الكويت Kuwait",kuwait S.plus FHD🇰🇼
-
+http://154.58.202.131:8000/play/a017
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="🇰🇼الكويت Kuwait",KTV Sport FHD🇰🇼
-
+http://154.58.202.131:8000/play/a016
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="🇰🇼الكويت Kuwait",Kuwait AL Majlis TV FHD🇰🇼
-
+http://154.58.202.131:8000/play/a01a
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇰🇼الكويت Kuwait",Kuwait Drama
-
+http://154.58.202.131:8000/play/a01c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="🇰🇼الكويت Kuwait",Kuwait MarinaFM🇰🇼
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 
