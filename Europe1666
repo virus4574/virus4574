@@ -5909,34 +5909,10 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
 #EXTM3U
-#EXTINF:0 tvg-id="C8.fr" group-title="|FR|🇫🇷💙 FRANCE",C8
-http://144.217.72.24:80/c8/index.m3u8
-#EXTINF:0 tvg-id="W9.fr" group-title="|FR|🇫🇷💙 FRANCE",W9
-http://144.217.72.24:80/w9/index.m3u8
-#EXTINF:0 tvg-id="M6.fr" group-title="|FR|🇫🇷💙 FRANCE",M6
-http://144.217.72.24:80/m6/index.m3u8
-#EXTINF:0 tvg-id="6ter.fr" group-title="|FR|🇫🇷💙 FRANCE",6Ter
-http://144.217.72.24:80/6ter/index.m3u8
-#EXTINF:0 tvg-id="TFX.fr" group-title="|FR|🇫🇷💙 FRANCE",TFX
-http://144.217.72.24:80/TFX/index.m3u8
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="|FR|🇫🇷💙 FRANCE",Paris Premiere
-http://144.217.72.24:80/parispremiere/index.m3u8
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="|FR|🇫🇷💙 FRANCE",Cherie 25
-http://144.217.72.24:80/cherie25/index.m3u8
 #EXTINF:0 tvg-id="Teva.fr" group-title="|FR|🇫🇷💙 FRANCE",Teva
 http://144.217.72.24/teva/index.m3u8
 #EXTINF:0 tvg-id="RMCStory.fr" group-title="|FR|🇫🇷💙 FRANCE",RMC Story
 http://144.217.72.24/rmcstory/index.m3u8
-#EXTINF:0 tvg-id="France2.fr" group-title="|FR|🇫🇷💙 FRANCE",France 2
-http://69.64.57.208/France2/mono.m3u8
-#EXTINF:0 tvg-id="France3.fr" group-title="|FR|🇫🇷💙 FRANCE",France 3
-http://144.217.72.24:80/france3/index.m3u8
-#EXTINF:0 tvg-id="France4.fr" group-title="|FR|🇫🇷💙 FRANCE",France 4
-http://144.217.72.24:80/france4/index.m3u8
-#EXTINF:0 tvg-id="France5.fr" group-title="|FR|🇫🇷💙 FRANCE",France 5
-http://144.217.72.24:80/france5/index.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",1. TF1
 http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",2. France 2
