@@ -143,6 +143,13 @@ https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="x""ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="🇦🇹Austria",ORF 1 HD ³
+http://195.211.27.149:8887/8271/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="x""ORF 2 HD ³" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="🇦🇹Austria",ORF 2 HD ²
+http://80.252.37.194:5000/udp/233.233.233.1:12000
+#EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="🇦🇹Austria",ORF Sport+ HD ¹
+http://80.252.37.194:5000/udp/233.233.233.2:12000                  
+
 #EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="🇦🇹Austria",Antenne Vorarlberg  
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="🇦🇹Austria",Dorf TV 
