@@ -221,6 +221,14 @@ https://hls.streambtw.com/live/stream_ufc.m3u8
 https://cracksportz.lat/live/stream_ufc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",UFC
 https://sports.freesportstime.com/live/stream_ufc1.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="LIVE EVENT 2",LIVE 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="LIVE EVENT 2",LIVE 2
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="LIVE EVENT 2",LIVE 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="LIVE EVENT 2",LIVE 4
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 1
@@ -271,14 +279,6 @@ https://sports.freesportstime.com/live/stream_nba12.m3u8
 https://sports.freesportstime.com/live/stream_nba13.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SamsungTVPlus LIVE",LIVE 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SamsungTVPlus LIVE",LIVE 2
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SamsungTVPlus LIVE",LIVE 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SamsungTVPlus LIVE",LIVE 4
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
 
@@ -346,19 +346,6 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Live Sports",Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports Sky Sports Cricket
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 1
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 2
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 3
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 4
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports 7
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",TruePremier 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",TruePremier 2
@@ -367,47 +354,29 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",TrueSport 3
 https://edge1.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Claro Sports HD
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Sky Sports Cricket [2]
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",T Sports(BD)
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",PALSAT SPORTS 1
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",TNT SPORTS 1
 http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports Gazi TV
-http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 2
 http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 3
 http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 4
 http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports 15
-https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+
 
 
 
 #EXTINF:-1 group-title="Various sports",鉁� Sky Sports Main Event 鉁�
 https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="http://11plus.live/img/stersports1hd.jpg",鉁� Super Cricket
-https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="Various sports",馃敳CBC Sports HD 馃摱 HD
 https://soccer.freesportstime.com/live/stream_2.m3u8
 #EXTINF:-1 group-title="Various sports",馃敳18 Sports 馃摱 HD
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 HD鉁�
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+
 #EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 1 HD鉁�
 https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2馃摱HD
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sport 3 馃摱
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sport 4 馃摱 HD
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 group-title="Various sports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg",Star Sports 2 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Various sports",馃敳 Fox Sports 1 馃摱 HD
@@ -418,7 +387,6 @@ https://247b.mrgamingstreams.com/mrgamingfs2.m3u8
 https://gettvfree.tech/live/stream_1.m3u8
 #EXTINF:-1 group-title="Various sports",馃敳 VSports Premium
 https://freehdgames.lol/chunklist/hlsch5.m3u8
-
 #EXTINF:-1 group-title="Various sports",馃敳 Event TV 馃摱 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Various sports",馃敳 Event Extra TV 馃摱 HD
@@ -429,29 +397,16 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Various sports",馃敳AFC 2024 馃摱 Jio Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
-
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Various sports",馃敳 Willow Cricket 馃摱
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Various sports", 鉁� Sky Cricket
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Various sports", 鉁� Sky Sports Main Event 鉁�
 https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Various sports", 鉁� Super Cricket
-https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Various sports",馃敳CBC Sports HD 馃摱 HD
 https://soccer.freesportstime.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Various sports",馃敳18 Sports 馃摱 HD
 https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Various sports", TNT Sports 1 HD鉁�
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Various sports", TNT Sports 1 HD鉁�
 https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Various sports", TNT Sports 2馃摱HD
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Various sports", TNT Sport 3 馃摱
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Various sports", TNT Sport 4 馃摱 HD
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Various sports", 鉁� Star Sports 1  馃嚠馃嚦 馃挜HD馃挜 鉁�
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports1hdmac.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Various sports", 鉁� Star Sports 2 HD 馃摵 鉁�
@@ -482,9 +437,6 @@ https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
 https://mlb.mrgamingstreams.com/variety2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Various sports",馃敳 SUPER SPORTS VARIETY 3 馃摱 HD
 https://mlb.mrgamingstreams.com/variety3.m3u8
-
-
-#EXTM3U
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Live Sports Only 鉁�
 https://freeiptv25.netlify.app/live/stream_1.m3u8
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Ziggo Sports 鉁�
@@ -501,8 +453,6 @@ https://corsproxy.pro/https://cakal.click/yayinzirve.m3u8
 https://freehdgames.lol/chunklist/hlsch9.m3u8
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Bein Sports 2 Turkey 鉁�
 https://freehdgames.lol/chunklist/hlsch10.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� BT Sports 1 鉁�
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Amazan Premier 鉁�
 https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:-1, group-title="Various sports" tvg-logo=" ", 鉁� Premier Sports 1 鉁�
@@ -565,7 +515,6 @@ https://mlb.mrgamingstreams.com/prem.m3u8
 https://mlb.mrgamingstreams.com/hubprem.m3u8
 #EXTINF:-1 group-title="Various sports",鉁匬remier Sports 1 鉁�
 https://gettvfree.tech/live/stream_2.m3u8
-
 #EXTINF:-1 group-title="Various sports" tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png",Sony Sports 1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Various sports" tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png",Sony Sports 2 HD
@@ -604,33 +553,6 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Various sports" tvg-logo="http://11plus.live/img/18.png", Xplore 馃摱 饾棛饾棫饾棧 Unique 馃摱
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_1
-https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_2
-https://sportsleading.online/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_3
-https://sportsleading.online/live/stream_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_4
-https://sportsleading.online/live/stream_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_5
-https://sportsleading.online/live/stream_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_6
-https://sportsleading.online/live/stream_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_7
-https://sportsleading.online/live/stream_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_8
-https://sportsleading.online/live/stream_8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_9
-https://sportsleading.online/live/stream_9.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_10
-https://sportsleading.online/live/stream_10.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_11
-https://sportsleading.online/live/stream_11.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3SkZYEv" group-title="SPORT  EN",SPORT_12
-https://sportsleading.online/live/stream_13.m3u8 
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT",VIP SPORT⚽️
