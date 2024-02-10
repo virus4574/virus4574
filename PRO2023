@@ -51,7 +51,6 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 
 
 
-
 #EXTINF:0 tvg-id="ext" group-title="LIVE EVENT 1",BeIN SPORT  AsiaHD
 http://37.122.156.107:4000/play/a0bu/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LIVE EVENT 1",BeIN SPORT  AsiaHD
@@ -320,6 +319,37 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",ssc 1 SPORT
 https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-NEWS-1080
+http://138.201.222.250:1985/stream/SSC-NEWS-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-1-720
+http://138.201.222.250:1985/stream/SSC-1-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-1-1080
+http://138.201.222.250:1985/stream/SSC-1-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-2-720
+http://138.201.222.250:1985/stream/SSC-2-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-2-1080
+http://138.201.222.250:1985/stream/SSC-2-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-4-720
+http://138.201.222.250:1985/stream/SSC-4-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-4-1080
+http://138.201.222.250:1985/stream/SSC-4-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-5-720
+http://138.201.222.250:1985/stream/SSC-5-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-5-1080
+http://138.201.222.250:1985/stream/SSC-5-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-1-720
+http://138.201.222.250:1985/stream/SSC-EXTRA-1-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-1-1080
+http://138.201.222.250:1985/stream/SSC-EXTRA-1-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-2-720
+http://138.201.222.250:1985/stream/SSC-EXTRA-2-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-2-1080
+http://138.201.222.250:1985/stream/SSC-EXTRA-2-1080
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-3-720
+http://138.201.222.250:1985/stream/SSC-EXTRA-3-720
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-3-1080
+http://138.201.222.250:1985/stream/SSC-EXTRA-3-1080
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
@@ -1871,6 +1901,8 @@ https://bit.ly/3gj9PK5
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV+
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="🇵🇸فلسطينPALESTINE",PAL-AlQuds🇵🇸
 https://s1.ettehadlive.com/live/11/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine HD🇵🇸
@@ -2390,13 +2422,18 @@ http://176.65.146.154:8025/play/a0a0/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
 https://bit.ly/3xYLaRh
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/48gBS2a" group-title="🇱🇾ليبياLIBYA",Al Masar TV (576p)
+https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group-title="🇱🇾ليبياLIBYA",سلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="🇱🇾ليبياLIBYA",قناة الوسط - WTV🇱🇾
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40IGz1t" group-title="🇱🇾ليبياLIBYA",Libya alhadath🇱🇾
 http://82.212.74.100:8000/live/hls/8103.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nB6iuk" group-title="🇱🇾ليبياLIBYA",Libya libyas
@@ -2405,6 +2442,41 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48OMM0L" group-title="🇱🇾ليبياLIBYA",Libya Mostakbal
 https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya al Ahrar HD
+http://45.65.112.206:8000/play/a035
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA ALHADATH HD
+http://45.65.112.206:8000/play/a0es
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA ALMASAR SD
+http://45.65.112.206:8000/play/a049
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA ALMASAR TV
+http://45.65.112.206:8000/play/a06e
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Almustaqbal TV
+http://45.65.112.206:8000/play/a09b
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
+http://154.58.202.185:8000/play/a05y
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
+http://154.58.202.131:8000/play/a04g
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
+http://45.65.112.206:8000/play/a0cn
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya
+http://154.58.202.185:8000/play/a05w
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwatnya
+http://154.58.202.185:8000/play/a051
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Education
+http://154.58.202.185:8000/play/a060
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Ifta TV
+http://154.58.202.131:8000/play/a08y
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
+http://154.58.202.185:8000/play/a05x
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA SPORT 1 HD
+http://154.58.202.131:8000/play/a04e
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Sport 2 HD
+http://154.58.202.185:8000/play/a05z
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya WTV HD
+http://154.58.202.131:8000/play/a01s
+#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya WTV SD
+http://45.65.112.206:8000/play/a03o
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
 http://5.253.46.190:7004/play/a0d4
@@ -2565,6 +2637,8 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="🇦🇪الامارات EMIRATES",DUB-Al Wousta HD 🇦🇪
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png" group-title="🇦🇪الامارات EMIRATES",FUJAIRAH TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="🇦🇪الامارات EMIRATES",DUB-Aldafrahtv 🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45zD2EX" group-title="🇦🇪الامارات EMIRATES",Al Mashhad
