@@ -299,14 +299,18 @@ https://bit.ly/3DF4NAn
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="alfajertv",alfajertv_1
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="alfajertv",alfajertv_2
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="alfajertv",alfajertv_3
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="alfajertv",alfajertv_4
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg" group-title="RMC SPORT",RMC 1
+http://145.239.5.177:8080/524/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png" group-title="RMC SPORT",RMC 2
+http://145.239.5.177:8080/525/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" group-title="RMC SPORT",RMC 3
+http://145.239.5.177:8080/526/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
+http://145.239.5.177:8080/512/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="alfajertv",alfajertv_5
 
 
