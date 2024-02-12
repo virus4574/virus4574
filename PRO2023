@@ -1171,10 +1171,6 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 http://176.65.146.154:8025/play/a074/index.m3u8
 #EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
 http://176.65.146.154:8025/play/a075/index.m3u8
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM+
-http://149.18.45.14:8000/play/a0da/index.m3u8
-#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN+
-http://149.18.45.14:8000/play/a0db/index.m3u8
 #EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM++
 http://5.253.46.190:7003/play/a0c5
 #EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN++
@@ -1858,8 +1854,6 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️+
 http://37.122.156.107:4000/play/11/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️++
-http://149.18.45.14:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi SD🏞️
@@ -2384,12 +2378,6 @@ https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
-http://149.18.45.14:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sliL7L" group-title="سوريةSyria",Syrian Educational TV
-http://149.18.45.14:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
-http://149.18.45.14:8000/play/a09u/index.m3u8
 
 #EXTINF:0 tvg-id="Syria.il" group-title="سوريةSyria",SYRIA
 http://154.58.202.131:8000/play/a08k
@@ -2399,8 +2387,6 @@ http://154.58.202.131:8000/play/a08m
 http://154.58.202.131:8000/play/a08n
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",ALALAM SYRIA
 http://154.58.202.131:8000/play/a089
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="سوريةSyria",Al Alam Syria
-http://149.18.45.14:8000/play/a0c8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Souryana
 http://37.122.156.107:4000/play/a07q/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria Drama
@@ -2452,17 +2438,6 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="لبنانLEBANON",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",ALJADEED TV HD
-http://149.18.45.14:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",LBC International
-http://149.18.45.14:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",NBN
-http://149.18.45.14:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",OTV
-http://149.18.45.14:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",Teleliban TV
-http://149.18.45.14:8000/play/a00b/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",ALJADEED TV HD
@@ -2730,39 +2705,6 @@ https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47R9S51" group-title="🇪🇬المصرية Egypt",Bee movies
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zamalek Sports
-http://149.18.45.14:8000/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc
-http://149.18.45.14:8000/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc HD
-http://149.18.45.14:8000/play/a0be/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc drama
-http://149.18.45.14:8000/play/a0bi/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc masraheyat
-http://149.18.45.14:8000/play/a0bk/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama
-http://149.18.45.14:8000/play/a0bn/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Al-Nahar One
-http://149.18.45.14:8000/play/a0bm/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",AlHayat HD
-http://149.18.45.14:8000/play/a0c3/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat Muslsalat
-http://149.18.45.14:8000/play/a0bs/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Alhayat We Alnas
-http://149.18.45.14:8000/play/a0c2/index.m3u8
-
-
-#EXTINF:0 tvg-id="cbc" group-title="🇪🇬المصرية Egypt",CBC
-http://149.18.45.14:8000/play/a0bo/index.m3u8
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="🇪🇬المصرية Egypt",CBC Drama
-http://149.18.45.14:8000/play/a0bq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",CBC Sofra
-http://149.18.45.14:8000/play/a0bp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HYA
-http://149.18.45.14:8000/play/a0bv/index.m3u8
-
 
 
 
