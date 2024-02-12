@@ -2260,15 +2260,11 @@ http://154.54.220.67:34780/play/a01q
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",|MBC| 2
 http://5.253.46.190:7003/play/a0c2
-#EXTINF:0 tvg-id="MBCAction.net" group-title="أم بي سيMBC VIP1",MBC Action
-http://78.40.141.196:8000/play/a00a
 #EXTINF:0 tvg-id="MBCMax.net" group-title="أم بي سيMBC VIP1",MBC Max
 http://37.122.156.107:4000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",MBC 2
 http://154.54.220.67:34780/play/a01p
-#EXTINF:0 tvg-id="MBC2.net" group-title="أم بي سيMBC VIP1",MBC 2
-http://78.40.141.196:8000/play/a009
 #EXTINF:0 tvg-id="MBCAction.net" group-title="أم بي سيMBC VIP1",MBC Action
 http://37.122.156.107:4000/play/a07h/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC VIP1",MBC Max (clone)
@@ -2706,65 +2702,6 @@ https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47R9S51" group-title="🇪🇬المصرية Egypt",Bee movies
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AL SALAM TV
-http://78.40.141.196:8000/play/a03n
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALASSEMA TV
-http://78.40.141.196:8000/play/a02i
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALNAHAR ALJADID
-http://78.40.141.196:8000/play/a00m
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALS3YDA MADEEH
-http://78.40.141.196:8000/play/a038
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Ahwas State TV
-http://78.40.141.196:8000/play/a041
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Dolly Mosalsalat
-http://78.40.141.196:8000/play/a02o
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",El Omda Aflam
-http://78.40.141.196:8000/play/a02y
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",El Omda Al yom
-http://78.40.141.196:8000/play/a02a
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",El Omda Drama
-http://78.40.141.196:8000/play/a02z
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Elzaeem Cinema
-http://78.40.141.196:8000/play/a02w
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Elzaeem Drama
-http://78.40.141.196:8000/play/a02u
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Fox Be Elaraby TV
-http://78.40.141.196:8000/play/a023
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="🇪🇬المصرية Egypt",Fox Movies
-http://78.40.141.196:8000/play/a030
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Fox hikayat
-http://78.40.141.196:8000/play/a025
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HAQ TV
-http://78.40.141.196:8000/play/a00j
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HD Cinema
-http://78.40.141.196:8000/play/a02n
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",HD Drama
-http://78.40.141.196:8000/play/a02j
-#EXTINF:0 tvg-id="HomeTV.pl" group-title="🇪🇬المصرية Egypt",Home TV
-http://78.40.141.196:8000/play/a033
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",falestinona TV
-http://78.40.141.196:8000/play/a04c
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus cinema
-http://78.40.141.196:8000/play/a02c
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus drama
-http://78.40.141.196:8000/play/a02r
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus elyoum
-http://78.40.141.196:8000/play/a02t
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",orpit plus hekayat
-http://78.40.141.196:8000/play/a02s
-
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sukariya Classic
-http://78.40.141.196:8000/play/a02m
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sukariya cinema
-http://78.40.141.196:8000/play/a022
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sukariya drama
-http://78.40.141.196:8000/play/a02v
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sukariya hekayat
-http://78.40.141.196:8000/play/a01z
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sukariya zaman
-http://78.40.141.196:8000/play/a024
 
 
 #EXTINF:0 tvg-id="cbc" group-title="🇪🇬المصرية Egypt",CBC
