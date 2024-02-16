@@ -1148,9 +1148,13 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BOLLYWOOD بوليود",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
-
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM
+http://93.184.10.248/ZeeAflam/index.m3u8
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
+http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
 #EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM
 http://176.65.146.154:8025/play/a074/index.m3u8
 #EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
@@ -2113,6 +2117,16 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49snTaD" group-title="أم بي سيMBC VIP",MBC Action
 http://154.58.202.18:8080/mbc2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",MBC 2
+http://93.184.10.248/MBC2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49snTaD" group-title="أم بي سيMBC VIP",MBC Action
+http://93.184.10.248/MBCAction/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="h" group-title="أم بي سيMBC VIP",MBC Max
+http://93.184.10.248/MBCMax/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أم بي سيMBC",MBC HD
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أم بي سيMBC",كيف احصل على الكود
@@ -2666,6 +2680,29 @@ http://5.253.46.190:7004/play/a0cx
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇪🇬المصرية Egypt",🇪🇬كيف احصل على الكود
 https://bit.ly/3gj9PK5
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileCulture
+http://93.184.10.248/NileCulture/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileLife
+http://93.184.10.248/NileLife/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileDrama
+http://93.184.10.248/NileDrama/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileSport
+http://93.184.10.248/NileSport/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileCinema
+http://93.184.10.248/NileCinema/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileComedy
+http://93.184.10.248/NileComedy/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileNews
+http://93.184.10.248/NileNews/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬CBCSofra
+http://93.184.10.248/CBCSofra/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬CBCDrama
+http://93.184.10.248/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬CBC
+http://93.184.10.248/CBC/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬AlNaharDrama
+http://93.184.10.248/AlNaharDrama/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KjGEn1" group-title="🇪🇬المصرية Egypt",Mekameleen 🇪🇬مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3M5VrCW" group-title="🇪🇬المصرية Egypt",elsharqtv🇪🇬
