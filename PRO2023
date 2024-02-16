@@ -2114,17 +2114,15 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أم بي سيMBC VIP",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49snTaD" group-title="أم بي سيMBC VIP",MBC Action
-http://154.58.202.18:8080/mbc2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP",MBC 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="أم بي سيMBC VIP",MBC 2 HD
 http://93.184.10.248/MBC2/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49snTaD" group-title="أم بي سيMBC VIP",MBC Action
-http://93.184.10.248/MBCAction/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="h" group-title="أم بي سيMBC VIP",MBC Max
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="أم بي سيMBC VIP",MBC MAX HD
 http://93.184.10.248/MBCMax/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="أم بي سيMBC VIP",MBC ACTION
+http://93.184.10.248/MBCAction/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="أم بي سيMBC VIP",MBC ACTION+
+http://154.58.202.18:8080/mbc2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أم بي سيMBC",MBC HD
@@ -2251,24 +2249,25 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",|MBC| 2
-http://176.65.146.154:8025/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",MBC Action
-http://154.54.220.67:34780/play/a01o
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",MBC MAX
-http://154.54.220.67:34780/play/a01q
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",|MBC| 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="أم بي سيMBC VIP1",MBC 2 HD
+http://176.65.146.154:8025/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="أم بي سيMBC VIP1",MBC MAX HD
+http://154.54.220.67:34780/play/a01q
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="أم بي سيMBC VIP1",MBC ACTION
+http://154.54.220.67:34780/play/a01o
+
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="أم بي سيMBC VIP1",MBC 2 HD
 http://5.253.46.190:7003/play/a0c2
-#EXTINF:0 tvg-id="MBCMax.net" group-title="أم بي سيMBC VIP1",MBC Max
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="أم بي سيMBC VIP1",MBC MAX HD
 http://37.122.156.107:4000/play/a07i/index.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC VIP1",MBC 2
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="أم بي سيMBC VIP1",MBC 2 HD
 http://154.54.220.67:34780/play/a01p
-#EXTINF:0 tvg-id="MBCAction.net" group-title="أم بي سيMBC VIP1",MBC Action
-http://37.122.156.107:4000/play/a07h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC VIP1",MBC Max (clone)
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="أم بي سيMBC VIP1",MBC MAX HD
 http://37.122.156.107:4000/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="أم بي سيMBC VIP1",MBC ACTION
+http://37.122.156.107:4000/play/a07h/index.m3u8
 
 
 
@@ -2676,31 +2675,35 @@ http://5.253.46.190:7004/play/a0ap
 http://5.253.46.190:7004/play/a0cx
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇪🇬المصرية Egypt",🇪🇬المصرية
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇪🇬المصرية Egypt",🇪🇬كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileCulture
-http://93.184.10.248/NileCulture/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileLife
-http://93.184.10.248/NileLife/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileDrama
+#EXTINF:-1 tvg-id="" tvg-name="NILE DRAMA TV" tvg-logo="https://logo.iptveditor.com/niledrama.png" group-title="🇪🇬المصرية Egypt",NILE DRAMA TV
 http://93.184.10.248/NileDrama/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileSport
-http://93.184.10.248/NileSport/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileCinema
+#EXTINF:-1 tvg-id="" tvg-name="NILE CIMEMA TV" tvg-logo="https://logo.iptveditor.com/nilecinema.png" group-title="🇪🇬المصرية Egypt",NILE CIMEMA TV
 http://93.184.10.248/NileCinema/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileComedy
+#EXTINF:-1 tvg-id="" tvg-name="NILE COMEDY TV" tvg-logo="https://logo.iptveditor.com/nilecomedy.png" group-title="🇪🇬المصرية Egypt",NILE COMEDY TV
 http://93.184.10.248/NileComedy/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬NileNews
+#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS TV" tvg-logo="https://logo.iptveditor.com/nilenews.png" group-title="🇪🇬المصرية Egypt",NILE NEWS TV
 http://93.184.10.248/NileNews/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬CBCSofra
+#EXTINF:-1 tvg-id="" tvg-name="NILE LIFE TV" tvg-logo="https://logo.iptveditor.com/nilelife.png" group-title="🇪🇬المصرية Egypt",NILE LIFE TV
+http://93.184.10.248/NileLife/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="NILE CULTURE TV" tvg-logo="https://logo.iptveditor.com/nileculture.png" group-title="🇪🇬المصرية Egypt",NILE CULTURE TV
+http://93.184.10.248/NileCulture/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I2e3Re" group-title="🇪🇬المصرية Egypt",🇪🇬NileSport
+http://93.184.10.248/NileSport/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wlhwaX" group-title="🇪🇬المصرية Egypt",🇪🇬CBCSofra
 http://93.184.10.248/CBCSofra/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬CBCDrama
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="CBC DRAMA" tvg-logo="https://logo.iptveditor.com/cbcdrama.png" group-title="🇪🇬المصرية Egypt",CBC DRAMA
 http://93.184.10.248/CBCDrama/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬CBC
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV" tvg-logo="https://logo.iptveditor.com/cbctv8.png" group-title="🇪🇬المصرية Egypt",CBC TV
 http://93.184.10.248/CBC/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬AlNaharDrama
+#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR DRAMA TV" tvg-logo="https://logo.iptveditor.com/alnahardrama.png" group-title="🇪🇬المصرية Egypt",ALNAHAR DRAMA TV
 http://93.184.10.248/AlNaharDrama/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KjGEn1" group-title="🇪🇬المصرية Egypt",Mekameleen 🇪🇬مكملين
