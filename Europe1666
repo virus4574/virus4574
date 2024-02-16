@@ -201,6 +201,54 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
 
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: NPO1 HD
+http://78.130.250.2:7023/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: NPO2 HD
+http://78.130.250.2:7023/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: NPO3 HD
+http://78.130.250.2:7023/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: RTL4 HD
+http://78.130.250.2:7023/play/a012/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: RTL5 HD
+http://78.130.250.2:7023/play/a013/index.m3u8
+#EXTINF:0 tvg-id="RTL7.nl" group-title="🇳🇱Netherlands",NL: RTL7 HD
+http://78.130.250.2:7023/play/a014/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: RTL8 HD
+http://78.130.250.2:7023/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="RTLZ.nl" group-title="🇳🇱Netherlands",RTL Z
+http://78.130.250.2:7023/play/a02j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",E! Entertainment BNL
+http://78.130.250.2:7023/play/a02w/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="🇳🇱Netherlands",FOX Sports 4 HD
+http://78.130.250.2:7023/play/a02s/index.m3u8
+#EXTINF:0 tvg-id="FOX.nl" group-title="🇳🇱Netherlands",FOX Channel
+http://78.130.250.2:7023/play/a027/index.m3u8
+#EXTINF:0 tvg-id="NPOPolitiek101.nl" group-title="🇳🇱Netherlands",NL: NPO Politiek
+http://78.130.250.2:7023/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="🇳🇱Netherlands",24Kitchen
+http://78.130.250.2:7023/play/a02g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: FOX Sports EDL 1 HD
+http://78.130.250.2:7023/play/a010/index.m3u8
+#EXTINF:0 tvg-id="Zes.be" group-title="🇳🇱Netherlands",ZES
+http://78.130.250.2:7023/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="NET5.nl" group-title="🇳🇱Netherlands",NL: NET5 HD
+http://78.130.250.2:7023/play/a01i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: Disney Channel
+http://78.130.250.2:7023/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.us" group-title="🇳🇱Netherlands",ESPN 2 HD
+http://78.130.250.2:7023/play/a030/index.m3u8
+#EXTINF:0 tvg-id="192tv.nl" group-title="🇳🇱Netherlands",192TV
+http://78.130.250.2:7023/play/a02p/index.m3u8
+#EXTINF:0 tvg-id="SBS6.nl" group-title="🇳🇱Netherlands",SBS6 HD
+http://78.130.250.2:7023/play/a02r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",Nautical HD
+http://78.130.250.2:7023/play/a02x/index.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="🇳🇱Netherlands",Mezzo HD
+http://78.130.250.2:7023/play/a03a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: Veronica/DisneyXD HD
+http://78.130.250.2:7023/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="🇳🇱Netherlands",1Twente TV 
 https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
