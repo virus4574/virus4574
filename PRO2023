@@ -297,8 +297,13 @@ http://145.239.5.177:8080/525/index.m3u8
 http://145.239.5.177:8080/526/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
 http://145.239.5.177:8080/512/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="alfajertv",alfajertv_5
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="RMC SPORT",L'Equipe 🇫🇷ᴴᴰ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="RMC SPORT",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
+https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="RMC SPORT",L'Equipe Live 2 🇫🇷ᴴᴰ 🟤
+https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
 
 
 
@@ -436,7 +441,18 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png",Arena 1 Premium 🇭🇷ᴴᴰ
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png",Arena 2 Premium 🇭🇷ᴴᴰ
+http://94.250.2.6:10600/play/LjzYChqCJD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium3.png",Arena 3 Premium 🇭🇷ᴴᴰ
+http://94.250.2.6:10600/play/0QhXJ9nCVj
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena1.png",Arena Sport 1 🇭🇷ᴴᴰ
+http://94.250.2.6:10600/play/sfwZs8fQbA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena2.png",Arena Sport 2 🇭🇷ᴴᴰ
+http://94.250.2.6:10600/play/uOcKOWbtpc
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena3.png",Arena Sport 3 🇭🇷ᴴᴰ
+http://94.250.2.6:10600/play/Fj6334HwK3
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Live Sports",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Live Sports",Arena Sport 2 HD
@@ -467,6 +483,118 @@ http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
 http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 4
 http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
+
+
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://imgur.com/sQqlHQU.png",Globo GE Esporte 🇧🇷ᴴᴰ 🟤
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
+http://89.187.179.242:12397
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 3 🇵🇱 🟡
+http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=65df4b105d30b4b9573333
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZN%202.png",DAZN 2 🇩🇪 🔴
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" group-title="Live Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg",Sky Sports LaLigaᴴᴰ 🇪🇸🇬🇧 🟡
+http://45.5.119.155:8090/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg",M LaLigaᴴᴰ 🇪🇸 🟡
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:7A:FE:9B&extension=m3u8&stream=107564
+#EXTINF:-1 tvg-id="teledeporte.es" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",tdp 🇪🇸ᴴᴰ 🟤
+https://bit.ly/49obbKU?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20231213T032953SQUARE.png_20231213032954.png",La liga Inside 🇪🇸ᴴᴰ 🟤
+https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
+http://91.132.74.4:7374/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport 1ᴴᴰ 🇨🇿
+http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 🇧🇷 🟢
+http://142.54.163.202/premium78/tracks-v1a1/mono.m3u8$OPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 2 🇧🇷 🟢
+http://142.54.163.202:80/premium79/playlist.m3u8$OPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZNDarts.png",DAZN Darts 🇩🇪ᴴᴰ 🟤 
+https://r.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DAZNWomensFootball.png",DAZN Womens Football 🇬🇧ᴴᴰ 🟤
+https://r.mjh.nz/PlutoTV/659bfdc66e4f6a0008ae4a3c-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸ᴴᴰ 🟤
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/NHLonNBC2012logo.png",NBC NHL 🇺🇸ᴴᴰ 🟤
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",MLB 🇺🇸ᴴᴰ 🟤
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Solocalcio.png",SoloCalcioᴴᴰ 🇮🇹 🟤
+https://bit.ly/48XfUCc?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en France 🇫🇷ᴴᴰ 🟤
+https://bit.ly/3OK0jPI?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",CANAL+ Sport 🇫🇷ᴴᴰ 🟢
+https://webudit.hlsjs.ru/lb/premium122/index.m3u8$OPT:http-referrer=https://olalivehdplay.ru/z.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/200px-Sportklub_Logo.svg.png",SK HD 🔵
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium453/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport 🇵🇱ᴴᴰ
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Extra 🇵🇱ᴴᴰ
+http://45.65.112.49:8000/play/a08h
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 🇵🇱ᴴᴰ
+http://89.187.179.242:1969/PolsatSportPremium
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 1 🇵🇱ᴴᴰ
+http://89.187.179.242:12467/PolsatSportPremium1
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 2 🇵🇱ᴴᴰ
+http://89.187.179.242:12468/PolsatSportPremium2
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 3 🇵🇱ᴴᴰ
+http://45.65.112.49:8000/play/a0js
+
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 🇵🇱ᴴᴰ
+http://89.187.179.242:1626/canal+sport
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 2 🇵🇱ᴴᴰ
+http://89.187.179.242:12183/canal+sport2
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 5 🇵🇱ᴴᴰ
+http://89.187.179.242:1531/canal+sport5
+
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MUTV.png",MUTV 🇬🇧ᴴᴰ
+https://bit.ly/3FTAN4y?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",Galatasaray tv 🇬🇷ᴴᴰ
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1 🇩🇪 sᴅ
+http://84.200.70.178:41142/bysid/31200
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1 🇵🇱🇺🇸ᴴᴰ
+http://54.39.17.6:8080/eurosport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 2 🇵🇱🇺🇸ᴴᴰ
+http://89.187.179.242:1635
+#EXTINF:-1 tvg-name=" tvg-id=" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",Telekanal Futbol 🇷🇺ᴴᴰ 🟢🔴
+torrent://INFOHASH=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a
+
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://sck.pm/oAXz",RTSH Sport 🇦🇱ᴴᴰ
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sport 🇹🇷 sᴅ
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",My Padel tv 🇪🇸ᴴᴰ 🟤
+https://bit.ly/47IWFep?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸ᴴᴰ 🟤
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra 🇺🇸ᴴᴰ 🟤
+http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/scoooretv.png",Scooore 🇩🇪ᴴᴰ 🟤
+https://bit.ly/3NCMTnb?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fifa%2B.png",Fifa + 🇺🇸ᴴᴰ 🟤
+https://bit.ly/3QOfvfG?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/womenports.webp",Womens Sports Network 🇺🇸ᴴᴰ 🟤
+https://bit.ly/48MD3qW?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/FTFSports.webp",FTF Sports 🇺🇸ᴴᴰ 🟤
+https://bit.ly/3tUKGwA?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/P12_Insider.webp",Pac 12 Insider 🇺🇸ᴴᴰ 🟤
+https://bit.ly/3u6nprG?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="tracehd.tv.vodafone.pt" group-title="Live Sports" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png",Trace Sports 🇺🇸 🟤
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/stadium.webp",Stadium 🇺🇸ᴴᴰ 🟤
+https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ITSF.png",ITSF 🇺🇸ᴴᴰ 🟤
+https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
 
 
 
@@ -2697,6 +2825,8 @@ http://93.184.10.248/NileNews/index.m3u8
 http://93.184.10.248/NileLife/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="NILE CULTURE TV" tvg-logo="https://logo.iptveditor.com/nileculture.png" group-title="🇪🇬المصرية Egypt",NILE CULTURE TV
 http://93.184.10.248/NileCulture/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3I2e3Re" group-title="🇪🇬المصرية Egypt",🇪🇬NileSport
 http://93.184.10.248/NileSport/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wlhwaX" group-title="🇪🇬المصرية Egypt",🇪🇬CBCSofra
