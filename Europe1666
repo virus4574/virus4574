@@ -201,54 +201,46 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
 
-#EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: NPO1 HD
-http://78.130.250.2:7023/play/a01h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: NPO2 HD
-http://78.130.250.2:7023/play/a00y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: NPO3 HD
-http://78.130.250.2:7023/play/a01k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: RTL4 HD
-http://78.130.250.2:7023/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: RTL5 HD
-http://78.130.250.2:7023/play/a013/index.m3u8
-#EXTINF:0 tvg-id="RTL7.nl" group-title="🇳🇱Netherlands",NL: RTL7 HD
-http://78.130.250.2:7023/play/a014/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: RTL8 HD
-http://78.130.250.2:7023/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="NPO1.nl" group-title="🇳🇱Netherlands",NPO 1
+http://87.215.14.228:55510/play/3656/index.m3u8
+#EXTINF:0 tvg-id="NPO1Extra.nl" group-title="🇳🇱Netherlands",NPO 1 Extra
+http://87.215.14.228:55510/play/3660/index.m3u8
+#EXTINF:0 tvg-id="NPO2.nl" group-title="🇳🇱Netherlands",NPO 2
+http://87.215.14.228:55510/play/3657/index.m3u8
+#EXTINF:0 tvg-id="NPO2Extra.nl" group-title="🇳🇱Netherlands",NPO 2 Extra
+http://87.215.14.228:55510/play/3661/index.m3u8
+#EXTINF:0 tvg-id="NPO3.nl" group-title="🇳🇱Netherlands",NPO 3
+http://87.215.14.228:55510/play/3658/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NPO Nieuws en Politiek
+http://87.215.14.228:55510/play/3659/index.m3u8
+#EXTINF:0 tvg-id="RTL4.nl" group-title="🇳🇱Netherlands",RTL 4
+http://87.215.14.228:55510/play/3663/index.m3u8
+#EXTINF:0 tvg-id="RTL5.nl" group-title="🇳🇱Netherlands",RTL 5
+http://87.215.14.228:55510/play/3664/index.m3u8
+#EXTINF:0 tvg-id="RTL7.nl" group-title="🇳🇱Netherlands",RTL 7
+http://87.215.14.228:55510/play/3665/index.m3u8
+#EXTINF:0 tvg-id="RTL8.nl" group-title="🇳🇱Netherlands",RTL 8
+http://87.215.14.228:55510/play/3666/index.m3u8
 #EXTINF:0 tvg-id="RTLZ.nl" group-title="🇳🇱Netherlands",RTL Z
-http://78.130.250.2:7023/play/a02j/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",E! Entertainment BNL
-http://78.130.250.2:7023/play/a02w/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.nl" group-title="🇳🇱Netherlands",FOX Sports 4 HD
-http://78.130.250.2:7023/play/a02s/index.m3u8
-#EXTINF:0 tvg-id="FOX.nl" group-title="🇳🇱Netherlands",FOX Channel
-http://78.130.250.2:7023/play/a027/index.m3u8
-#EXTINF:0 tvg-id="NPOPolitiek101.nl" group-title="🇳🇱Netherlands",NL: NPO Politiek
-http://78.130.250.2:7023/play/a00v/index.m3u8
-#EXTINF:0 tvg-id="24kitchen.nl" group-title="🇳🇱Netherlands",24Kitchen
-http://78.130.250.2:7023/play/a02g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: FOX Sports EDL 1 HD
-http://78.130.250.2:7023/play/a010/index.m3u8
-#EXTINF:0 tvg-id="Zes.be" group-title="🇳🇱Netherlands",ZES
-http://78.130.250.2:7023/play/a02o/index.m3u8
-#EXTINF:0 tvg-id="NET5.nl" group-title="🇳🇱Netherlands",NL: NET5 HD
-http://78.130.250.2:7023/play/a01i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: Disney Channel
-http://78.130.250.2:7023/play/a00x/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="🇳🇱Netherlands",ESPN 2 HD
-http://78.130.250.2:7023/play/a030/index.m3u8
-#EXTINF:0 tvg-id="192tv.nl" group-title="🇳🇱Netherlands",192TV
-http://78.130.250.2:7023/play/a02p/index.m3u8
-#EXTINF:0 tvg-id="SBS6.nl" group-title="🇳🇱Netherlands",SBS6 HD
-http://78.130.250.2:7023/play/a02r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",Nautical HD
-http://78.130.250.2:7023/play/a02x/index.m3u8
-#EXTINF:0 tvg-id="mezzo-hd" group-title="🇳🇱Netherlands",Mezzo HD
-http://78.130.250.2:7023/play/a03a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇳🇱Netherlands",NL: Veronica/DisneyXD HD
-http://78.130.250.2:7023/play/a01j/index.m3u8
+http://87.215.14.228:55510/play/3667/index.m3u8
+#EXTINF:0 tvg-id="SBS6.nl" group-title="🇳🇱Netherlands",SBS 6
+http://87.215.14.228:55510/play/3670/index.m3u8
+#EXTINF:0 tvg-id="SBS9.nl" group-title="🇳🇱Netherlands",SBS 9
+http://87.215.14.228:55510/play/3673/index.m3u8
+#EXTINF:0 tvg-id="AT5.nl" group-title="🇳🇱Netherlands",AT5
+http://87.215.14.228:55510/play/3777/index.m3u8
+#EXTINF:0 tvg-id="ARTE.de" group-title="🇳🇱Netherlands",Arte
+http://87.215.14.228:55510/play/a009/index.m3u8
+#EXTINF:0 tvg-id="Canvas.be" group-title="🇳🇱Netherlands",Canvas
+http://87.215.14.228:55510/play/3715/index.m3u8
+#EXTINF:0 tvg-id="een.be" group-title="🇳🇱Netherlands",Een
+http://87.215.14.228:55510/play/3716/index.m3u8
+#EXTINF:0 tvg-id="Ketnet.be" group-title="🇳🇱Netherlands",Ketnet
+http://87.215.14.228:55510/play/3717/index.m3u8
+#EXTINF:0 tvg-id="Italia2.it" group-title="🇳🇱Netherlands",Mediaset Italia
+http://87.215.14.228:55510/play/a005/index.m3u8
+#EXTINF:0 tvg-id="NET5.nl" group-title="🇳🇱Netherlands",NET 5
+http://87.215.14.228:55510/play/3671/index.m3u8
 
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="🇳🇱Netherlands",1Twente TV 
 https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
@@ -5902,6 +5894,28 @@ https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="🇷🇴Romania",TVSat
 http://89.38.8.130:39443
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVS
+http://146.59.54.163/TVS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_Filmbox Extra
+http://146.59.54.163/FilmBox-Extra-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_Filmbox Premium
+http://146.59.54.163/Filmbox-Premium-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_Travel
+http://146.59.54.163/Travel-Channel-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TLC
+http://146.59.54.163/TLC-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVP Historia
+http://146.59.54.163/history2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_FightBox
+http://146.59.54.163/Fightbox-Premium-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_MTV
+http://146.59.54.163/MTV-Rocks-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_DeeJay
+http://146.59.54.163/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="🇵🇱Poland",4FUN TV  
 https://stream.4fun.tv:8888/hls/4f.m3u8
