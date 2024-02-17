@@ -297,13 +297,17 @@ http://145.239.5.177:8080/525/index.m3u8
 http://145.239.5.177:8080/526/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
 http://145.239.5.177:8080/512/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="RMC SPORT",L'Equipe 🇫🇷ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 🇫🇷ᴴᴰ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="RMC SPORT",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
 https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" group-title="RMC SPORT",L'Equipe Live 2 🇫🇷ᴴᴰ 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2 🇫🇷ᴴᴰ 🟤
 https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+#EXTINF:-1 group-title="RMC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 1 Fr (89)
+http://89.187.179.242:1626/canal+sport
+#EXTINF:-1 group-title="RMC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 2 Fr (89)
+http://89.187.179.242:12183/canal+sport2
+
 
 
 
@@ -545,21 +549,16 @@ http://89.187.179.242:12467/PolsatSportPremium1
 http://89.187.179.242:12468/PolsatSportPremium2
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 3 🇵🇱ᴴᴰ
 http://45.65.112.49:8000/play/a0js
-
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 🇵🇱ᴴᴰ
 http://89.187.179.242:1626/canal+sport
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 2 🇵🇱ᴴᴰ
 http://89.187.179.242:12183/canal+sport2
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",canal+ sport 5 🇵🇱ᴴᴰ
 http://89.187.179.242:1531/canal+sport5
-
-
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MUTV.png",MUTV 🇬🇧ᴴᴰ
 https://bit.ly/3FTAN4y?profile=inspirationlivetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",Galatasaray tv 🇬🇷ᴴᴰ
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1 🇩🇪 sᴅ
 http://84.200.70.178:41142/bysid/31200
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Eurosport.png",Eurosport 1 🇵🇱🇺🇸ᴴᴰ
@@ -568,7 +567,6 @@ http://54.39.17.6:8080/eurosport/playlist.m3u8
 http://89.187.179.242:1635
 #EXTINF:-1 tvg-name=" tvg-id=" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB.png",Telekanal Futbol 🇷🇺ᴴᴰ 🟢🔴
 torrent://INFOHASH=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a
-
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://sck.pm/oAXz",RTSH Sport 🇦🇱ᴴᴰ
 http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sport 🇹🇷 sᴅ
@@ -597,6 +595,71 @@ https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Live Sports", True Premier 1 (edge)
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Live Sports", True Premier 2 (edge)
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Live Sports", USA Network (38)
+http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="Live Sports", Eleven Sports 1 (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84930
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="Live Sports", Eleven Sports 2 (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84931
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="Live Sports", Eleven Sports 3 (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84932
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png" group-title="Live Sports", Eleven Sports 4 (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84933
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png" group-title="Live Sports", Eleven Sports 5 (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84934
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Live Sports", Sky Sports Main Event (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30496&extension=ts&skysport_main_event
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Live Sports", Sky Sports Premier League (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30493&extension=ts&skysport_pl
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Live Sports", Sky Sports PL (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=971711&extension=ts&skysport_premier_league
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Live Sports", TNT Sports 1 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30567&extension=ts&tntsport_1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Live Sports", TNT Sports 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30567&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Live Sports", TNT Sports 1 (server)
+http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3600
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Live Sports", TNT Sports 2 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30566&extension=ts&tntsport_2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Live Sports", TNT Sports 2 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30566&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Live Sports", TNT Sports 2 (server)
+http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3601
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Live Sports", TNT Sports 3 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30565&extension=ts&tntsport_3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Live Sports", TNT Sports 3 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30565&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Live Sports", TNT Sports 3 (server)
+http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3602
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Live Sports", TNT Sports 4 (mag)
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30564&extension=ts&tntsport_4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Live Sports", TNT Sports 4 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1019935&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Live Sports", TNT Sports 4 (server)
+http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/255
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Live Sports", Polsat Sport Premium 1 (cdn)
+http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Live Sports", Polsat Sport Premium 2 (cdn)
+http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 EPL (7pal)
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 EPL (7pal)
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sports NZ EPL (7pal)
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png", TNT Sports 1 (7pal)
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png", TNT Sports 2 (7pal)
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png", TNT Sports 3 (7pal)
+https://7pal.short.gy/tntspts3
 
 
 
