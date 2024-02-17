@@ -662,6 +662,40 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Live Sports", Sportv 1 (newedge)
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8?|referer=https://futebolplayhd.com/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Live Sports", Sportv 2 (newedge)
+https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8?|referer=https://futebolplayhd.com/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Live Sports", Sony Ten Sport 1 (dai)
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Live Sports", Sony Ten Sport 2 (dai)
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="Live Sports", Sony Ten Sport 3 (dai)
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="Live Sports", Sony Ten Sport 4 (dai)
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Live Sports", Sony Ten Sport 5 (dai)
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Live Sports", BEIN SPORT 1 THAI (ctrl)
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Live Sports", BEIN SPORT 2 THAI (ctrl)
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://i.imgur.com/ETzQJdt.png", Sky Sports Main Event 4K (7pal)
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://media.info/i/lf/0/1689874022/5824.png", TNT Sport Ultimate 4K (7pal)
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Live Sports", Hub Sport PL 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=484466&extension=ts
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="Live Sports", V Sport Ultra 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
+#EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="Live Sports", Bein Sports 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Live Sports", EPL 1 4K @Co Moe (Vpn-UK London)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=661427&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="Live Sports", Sky Sports Main Event UHD @Co Moe (Vpn-UK London)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=494229&extension=ts
+
+
 
 
 #EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 1 HD鉁�
