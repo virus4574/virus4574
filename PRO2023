@@ -1549,10 +1549,7 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 http://176.65.146.154:8025/play/a074/index.m3u8
 #EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
 http://176.65.146.154:8025/play/a075/index.m3u8
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM++
-http://5.253.46.190:7003/play/a0c5
-#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN++
-http://5.253.46.190:7003/play/a0c6
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
@@ -2647,8 +2644,6 @@ http://154.54.220.67:34780/play/a01q
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="أم بي سيMBC VIP1",MBC ACTION
 http://154.54.220.67:34780/play/a01o
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="أم بي سيMBC VIP1",MBC 2 HD
-http://5.253.46.190:7003/play/a0c2
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="أم بي سيMBC VIP1",MBC MAX HD
 http://37.122.156.107:4000/play/a07i/index.m3u8
 
