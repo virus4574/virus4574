@@ -149,6 +149,12 @@ http://195.211.27.149:8887/8271/index.m3u8?token=test
 http://195.211.27.149:8887/8272/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="🇦🇹Austria",ORF Sport+ HD ¹
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 1 HD
+http://176.10.117.3:5000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF 2 HD
+http://176.10.117.3:5000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇹Austria",ORF III HD
+http://176.10.117.3:5000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="🇦🇹Austria",Balkan Radio Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
