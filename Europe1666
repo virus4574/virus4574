@@ -5897,7 +5897,97 @@ http://89.38.8.130:39443
 
 
 
-#EXTM3U
+#EXTINF:0 tvg-id="TVP1.pl" tvg-logo="http://epg.ovh/logo/TVP+1.png" group-title="🇵🇱Poland", TVP 1
+http://free.jokertv.eu:8765/stream-forwarder/TVP1
+#EXTINF:0 tvg-id="TVP2.pl" tvg-logo="http://epg.ovh/logo/TVP+2.png" group-title="🇵🇱Poland", TVP 2
+http://free.jokertv.eu:8765/stream-forwarder/TVP2
+#EXTINF:0 tvg-id="TVPInfo.pl" tvg-logo="http://epg.ovh/logo/TVP+Info.png" group-title="🇵🇱Poland", TVP Info
+http://free.jokertv.eu:8765/stream-forwarder/TVPInfo
+#EXTINF:0 tvg-id="TVPKultura.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura.png" group-title="🇵🇱Poland", TVP Kultura
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura
+#EXTINF:0 tvg-id="TVPKobieta.pl" tvg-logo="http://epg.ovh/logo/TVP+Kobieta.png" group-title="🇵🇱Poland", TVP Kobieta
+http://free.jokertv.eu:8765/stream-forwarder/TVPKobieta
+#EXTINF:0 tvg-id="TVPSport.pl" tvg-logo="http://epg.ovh/logo/TVP+Sport.png" group-title="🇵🇱Poland", TVP Sport
+http://free.jokertv.eu:8765/stream-forwarder/TVPSport
+#EXTINF:0 tvg-id="TVPHistoria.pl" tvg-logo="http://epg.ovh/logo/TVP+Historia.png" group-title="🇵🇱Poland", TVP Historia
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria
+#EXTINF:0 tvg-id="TVPABC.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC.png" group-title="🇵🇱Poland", TVP ABC
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC
+#EXTINF:0 tvg-id="TVPDokument.pl" tvg-logo="http://epg.ovh/logo/TVP+Dokument.png" group-title="🇵🇱Poland", TVP Dokument
+http://free.jokertv.eu:8765/stream-forwarder/TVPDokument
+#EXTINF:0 tvg-id="TVPNauka.pl" tvg-logo="http://epg.ovh/logo/TVP+Nauka.png" group-title="🇵🇱Poland", TVP Nauka
+http://free.jokertv.eu:8765/stream-forwarder/TVPNauka
+#EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" group-title="🇵🇱Poland", TVP Polonia
+http://free.jokertv.eu:8765/stream-forwarder/TVPPolonia
+#EXTINF:0 tvg-id="TVPRozrywka.pl" tvg-logo="http://epg.ovh/logo/TVP+Rozrywka.png" group-title="🇵🇱Poland", TVP Rozrywka
+http://free.jokertv.eu:8765/stream-forwarder/TVPRozrywka
+#EXTINF:0 tvg-id="TVPHistoria2.pl" tvg-logo="http://epg.ovh/logo/TVP+Historia+2.png" group-title="🇵🇱Poland", TVP Historia 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria2
+#EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" group-title="🇵🇱Poland", Alfa TVP
+http://free.jokertv.eu:8765/stream-forwarder/AlfaTVP
+#EXTINF:0 tvg-id="TVPABC2.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC+2.png" group-title="🇵🇱Poland", TVP ABC 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC2
+#EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" group-title="🇵🇱Poland", TVP Kultura 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura2
+#EXTINF:0 tvg-id="BelsatTV.pl" tvg-logo="http://epg.ovh/logo/Belsat+TV.png" group-title="🇵🇱Poland", Belsat TV
+http://free.jokertv.eu:8765/stream-forwarder/BelsatTV
+#EXTINF:0 tvg-id="TVPWilno.pl" tvg-logo="http://epg.ovh/logo/TVP+Wilno.png" group-title="🇵🇱Poland", TVP Wilno
+http://free.jokertv.eu:8765/stream-forwarder/TVPWilno
+#EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" group-title="🇵🇱Poland", TVP World
+http://free.jokertv.eu:8765/stream-forwarder/TVPWorld
+#EXTINF:0 tvg-id="TVP3Bialystok.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Bia%c5%82ystok.png" group-title="🇵🇱Poland", TVP 3 Białystok
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Bialystok
+#EXTINF:0 tvg-id="TVP3Bydgoszcz.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Bydgoszcz.png" group-title="🇵🇱Poland", TVP 3 Bydgoszcz
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Bydgoszcz
+#EXTINF:0 tvg-id="TVP3Gdansk.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Gda%c5%84sk.png" group-title="🇵🇱Poland", TVP 3 Gdańsk
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Gdansk
+#EXTINF:0 tvg-id="TVP3GorzowWielkopolski.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Gorzow+Wielkopolski.png" group-title="🇵🇱Poland", TVP 3 Gorzów Wielkopolski
+http://free.jokertv.eu:8765/stream-forwarder/TVP3GorzowWielkopolski
+#EXTINF:0 tvg-id="TVP3Katowice.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Katowice.png" group-title="🇵🇱Poland", TVP 3 Katowice
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Katowice
+#EXTINF:0 tvg-id="TVP3Kielce.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Kielce.png" group-title="🇵🇱Poland", TVP 3 Kielce
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Kielce
+#EXTINF:0 tvg-id="TVP3Krakow.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Krak%c3%b3w.png" group-title="🇵🇱Poland", TVP 3 Kraków
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Krakow
+#EXTINF:0 tvg-id="TVP3Lodz.pl" tvg-logo="http://epg.ovh/logo/TVP+3+%c5%81%c3%b3d%c5%ba.png" group-title="🇵🇱Poland", TVP 3 Łódź
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Lodz
+#EXTINF:0 tvg-id="TVP3Lublin.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Lublin.png" group-title="🇵🇱Poland", TVP 3 Lublin
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Lublin
+#EXTINF:0 tvg-id="TVP3Olsztyn.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Olsztyn.png" group-title="🇵🇱Poland", TVP 3 Olsztyn
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Olsztyn
+#EXTINF:0 tvg-id="TVP3Opole.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Opole.png" group-title="🇵🇱Poland", TVP 3 Opole
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Opole
+#EXTINF:0 tvg-id="TVP3Poznan.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Poznan.png" group-title="🇵🇱Poland", TVP 3 Poznań
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Poznan
+#EXTINF:0 tvg-id="TVP3Rzeszow.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Rzeszow.png" group-title="🇵🇱Poland", TVP 3 Rzeszów
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Rzeszow
+#EXTINF:0 tvg-id="TVP3Szczecin.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Szczecin.png" group-title="🇵🇱Poland", TVP 3 Szczecin
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Szczecin
+#EXTINF:0 tvg-id="TVP3Warszawa.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Warszawa.png" group-title="🇵🇱Poland", TVP 3 Warszawa
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Warszawa
+#EXTINF:0 tvg-id="TVP3Wroclaw.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Wroc%c5%82aw.png" group-title="🇵🇱Poland", TVP 3 Wrocław
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Wroclaw
+#EXTINF:0 tvg-id="TVPParlamentSEJM.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" group-title="🇵🇱Poland", TVP Parlament SEJM
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
+#EXTINF:0 tvg-id="TVPParlamentSENAT.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" group-title="🇵🇱Poland", TVP Parlament SENAT
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
+
+
+#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="🇵🇱Poland",TVP
+http://78.129.193.20/tsstreamer/TVP_SD.ts
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="🇵🇱Poland",TVP 1 
+https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="🇵🇱Poland",TVP 2 
+https://strims.top/tv/tvp2.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="🇵🇱Poland",TVP3 Warszawa 
+https://cdn-main.lolokoko.tv/TVP3Warszawa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="" group-title="🇵🇱Poland",TVP SERIALE
+https://cdn-main.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVP Historia
+http://146.59.54.163/history2/index.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="🇵🇱Poland",TVP Info 
+https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVS
 http://146.59.54.163/TVS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_Filmbox Extra
@@ -5908,8 +5998,7 @@ http://146.59.54.163/Filmbox-Premium-HD/index.m3u8
 http://146.59.54.163/Travel-Channel-HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TLC
 http://146.59.54.163/TLC-HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVP Historia
-http://146.59.54.163/history2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_FightBox
 http://146.59.54.163/Fightbox-Premium-HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_MTV
@@ -6010,16 +6099,7 @@ http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/TVTrwam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVWielkopolska.pl" tvg-logo="https://i.imgur.com/uh46ZOy.png" group-title="🇵🇱Poland",TV Wielkopolska
 https://stream6.nadaje.com:35308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="🇵🇱Poland",TVP
-http://78.129.193.20/tsstreamer/TVP_SD.ts
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="🇵🇱Poland",TVP 1 
-https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="🇵🇱Poland",TVP 2 
-https://strims.top/tv/tvp2.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="🇵🇱Poland",TVP3 Warszawa 
-https://cdn-main.lolokoko.tv/TVP3Warszawa.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="🇵🇱Poland",TVP Info 
-https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="🇵🇱Poland",TVP Sport 
 https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="🇵🇱Poland",TVT 
