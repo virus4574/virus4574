@@ -148,8 +148,93 @@ http://195.211.27.149:8887/8271/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="x""ORF 2 HD ³" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="🇦🇹Austria",ORF 2 HD ²
 http://195.211.27.149:8887/8272/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="🇦🇹Austria",ORF Sport+ HD ¹
-http://80.252.37.194:5000/udp/233.233.233.2:12000                  
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF III HD
+http://154.58.202.194:8000/play/a0b6
+#EXTINF:0 tvg-id="ORFSport.at" group-title="🇦🇹Austria",ORF SPORT+
+http://154.58.202.194:8000/play/a0ag
+#EXTINF:0 tvg-id="ORFSport.at" group-title="🇦🇹Austria",ORF SPORT+ HD
+http://154.58.202.194:8000/play/a0b7
+#EXTINF:0 tvg-id="ORF1.at" group-title="🇦🇹Austria",ORF1
+http://154.58.202.194:8000/play/a0dl
+#EXTINF:0 tvg-id="ORF1.at" group-title="🇦🇹Austria",ORF1 HD
+http://154.58.202.194:8000/play/a0bi
+#EXTINF:0 tvg-id="ORF2.at" group-title="🇦🇹Austria",ORF2
+http://154.58.202.194:8000/play/a0dm
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 B
+http://154.58.202.194:8000/play/a0dp
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 K
+http://154.58.202.194:8000/play/a0dv
+#EXTINF:0 tvg-id="ORF2.at" group-title="🇦🇹Austria",ORF2 N
+http://154.58.202.194:8000/play/a0do
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 O
+http://154.58.202.194:8000/play/a0dq
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 S
+http://154.58.202.194:8000/play/a0dr
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 St
+http://154.58.202.194:8000/play/a0du
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 T
+http://154.58.202.194:8000/play/a0ds
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2 V
+http://154.58.202.194:8000/play/a0dt
+#EXTINF:0 tvg-id="ORF2.at" group-title="🇦🇹Austria",ORF2 W
+http://154.58.202.194:8000/play/a0dn
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2B HD
+http://154.58.202.194:8000/play/a0b1
+#EXTINF:0 tvg-id="ORF2.at" group-title="🇦🇹Austria",ORF2E
+http://154.58.202.194:8000/play/a0dx
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2K HD
+http://154.58.202.194:8000/play/a0b0
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2N HD
+http://154.58.202.194:8000/play/a0bm
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2O HD
+http://154.58.202.194:8000/play/a0b2
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2S HD
+http://154.58.202.194:8000/play/a0b3
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2St HD
+http://154.58.202.194:8000/play/a0az
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2T HD
+http://154.58.202.194:8000/play/a0b4
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2V HD
+http://154.58.202.194:8000/play/a0b5
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ORF2W HD
+http://154.58.202.194:8000/play/a0bj
+#EXTINF:0 tvg-id="Puls4.at" group-title="🇦🇹Austria",PULS 4 Austria
+http://154.58.202.194:8000/play/a0g4
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="🇦🇹Austria",Pro7 MAXX
+http://154.58.202.194:8000/play/a0lb
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="🇦🇹Austria",Pro7 MAXX HD
+http://154.58.202.194:8000/play/a0cv
+#EXTINF:0 tvg-id="Pro7.de" group-title="🇦🇹Austria",ProSieben
+http://154.58.202.194:8000/play/a0l7
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ProSieben Austria
+http://154.58.202.194:8000/play/a0fz
+#EXTINF:0 tvg-id="Pro7.de" group-title="🇦🇹Austria",ProSieben HD
+http://154.58.202.194:8000/play/a0cs
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ProSieben Schweiz
+http://154.58.202.194:8000/play/a0fy
+#EXTINF:0 tvg-id="QVC.uk" group-title="🇦🇹Austria",QVC
+http://154.58.202.194:8000/play/a0m4
+#EXTINF:0 tvg-id="QVC.it" group-title="🇦🇹Austria",QVC HD
+http://154.58.202.194:8000/play/a037
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",QVC STYLE HD
+http://154.58.202.194:8000/play/a06w
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",QVC UHD
+http://154.58.202.194:8000/play/a0bf
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",QVC ZWEI HD
+http://154.58.202.194:8000/play/a045
+#EXTINF:0 tvg-id="QVC2.us" group-title="🇦🇹Austria",QVC2
+http://154.58.202.194:8000/play/a0kv
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",R9 Oesterreich HD
+http://154.58.202.194:8000/play/a0b9
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",REGIO TV
+http://154.58.202.194:8000/play/a0lk
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",ROCK ANTENNE
+http://154.58.202.194:8000/play/a0n6
+#EXTINF:0 tvg-id="ext" group-title="🇦🇹Austria",RTL Austria
+http://154.58.202.194:8000/play/a0mg
 
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="🇦🇹Austria",Balkan Radio Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
