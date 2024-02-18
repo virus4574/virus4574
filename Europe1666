@@ -6172,6 +6172,44 @@ https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDramaFrance.fr" tvg-logo="https://i.imgur.com/EQZPSZx.png" group-title="|FR|🇫🇷💙 FRANCE",BBC Drama
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",TF1 Séries Films
+http://37.143.55.215:4240/bysid/2561
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",L'Equipe
+http://37.143.55.215:4240/bysid/2562
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Chérie 25
+http://37.143.55.215:4240/bysid/2563
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",RMC Découverte
+http://37.143.55.215:4240/bysid/2564
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",RMC STORY
+http://37.143.55.215:4240/bysid/2565
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",M6
+http://37.143.55.215:4241/bysid/1025
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",W9
+http://37.143.55.215:4241/bysid/1026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Arte
+http://37.143.55.215:4241/bysid/1031
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",France 5
+http://37.143.55.215:4241/bysid/1045
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",6ter
+http://37.143.55.215:4241/bysid/1046
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Arte.Tv
+http://37.143.55.215:4241/bysid/1047
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",CANAL+
+http://37.143.55.215:4242/bysid/769
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",CANAL+ SPORT
+http://37.143.55.215:4242/bysid/771
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",LCI
+http://37.143.55.215:4242/bysid/776
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",PARIS PREMIERE
+http://37.143.55.215:4242/bysid/777
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",CANAL+
+http://37.143.55.215:4242/bysid/778
+
+
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://i.imgur.com/iRsbEpg.png" group-title="|FR|🇫🇷💙 FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Alsace 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
