@@ -297,6 +297,8 @@ http://145.239.5.177:8080/525/index.m3u8
 http://145.239.5.177:8080/526/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1
 http://145.239.5.177:8080/512/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1+
+http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 🇫🇷ᴴᴰ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
@@ -1127,6 +1129,10 @@ https://donelfantastic.github.io/live/skysportsNz5.m3u8
 https://donelfantastic.github.io/live/skysportsNz6.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKYSPORTS 7
 https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKY SPORT8
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKY SPORT9
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/MstKijI.png",[$]МАТЧ! NRPA
 https://bit.ly/3XFMpQs
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/CiBsvEe.png",[$]MATCH! BOEU HD
