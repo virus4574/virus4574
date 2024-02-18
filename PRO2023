@@ -3010,6 +3010,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wVOsn5" group-title="🇲🇦المغربMAROCCO",ASSADISSA🇲🇦
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://gratuittv.free.fr/images/aflamtv.png" group-title="🇲🇦المغربMAROCCO",Aflam TV 🇲🇦
+http://gratuittv.free.fr/Files/aflam7/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398mERs" group-title="🇲🇦المغربMAROCCO",tamazight tv🇲🇦
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398Qbur" group-title="🇲🇦المغربMAROCCO",Medi1tv Maghreb🇲🇦
@@ -3024,6 +3026,8 @@ https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3TokF0M" tvg-country="MA" tvg-url="" group-title="🇲🇦المغربMAROCCO",Chada TV🇲🇦
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
+#EXTINF:17 tvg-id=""  tvg-name="ERE TV" tvg-country="FR"  tvg-language="French" tvg-logo="https://www.free.fr/assets/s3/905_4ed665f2e7.png" group-title="🇲🇦المغربMAROCCO",ERE TV
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇦المغربMAROCCO",Radio Nationale الإذاعة الوطنية 🇲🇦
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sr2jXyj/tamazigh.png" group-title="🇲🇦المغربMAROCCO",Radio Amazigh 🇲🇦الإذاعة الأمازيغية
