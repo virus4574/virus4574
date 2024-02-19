@@ -2225,6 +2225,8 @@ http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 http://95.216.180.111:1935/live/26/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰الاخبارNEWS",Meie TV📰
 https://stream.meietv.de/live/meietv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰الاخبارNEWS",CNBC Arabia
+https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الوثائقية documentary",الوثائقية documentary🏞️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الوثائقية documentary",🏞️كيف احصل على الكود
@@ -3183,7 +3185,7 @@ http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHd6D6" group-title="🇲🇦المغربMAROCCO",M 24 HD🇲🇦
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TpEk1" group-title="🇲🇦المغربMAROCCO",Télé Maroc🇲🇦
-http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3TokF0M" tvg-country="MA" tvg-url="" group-title="🇲🇦المغربMAROCCO",Chada TV🇲🇦
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
 #EXTINF:17 tvg-id=""  tvg-name="ERE TV" tvg-country="FR"  tvg-language="French" tvg-logo="https://www.free.fr/assets/s3/905_4ed665f2e7.png" group-title="🇲🇦المغربMAROCCO",ERE TV
