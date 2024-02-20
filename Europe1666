@@ -5950,6 +5950,8 @@ https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="ZappingMusic.cl" tvg-logo="https://i.imgur.com/2pXVygP.png" group-title="🇨🇱Chile",Zapping Music 
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="🇷🇴Romania",AgroTV
 https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="🇷🇴Romania",Aleph News
@@ -6000,6 +6002,19 @@ https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="🇷🇴Romania",TVPlus Suceava 
 http://85.186.146.34:8080
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSilDzX.png" group-title="🇷🇴Romania",TVR 1
+http://5ghk6txq.megatv.fun/iptv/9TET59XVEVAK5U/5026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSilDzX.png" group-title="🇷🇴Romania",TVR 1
+http://5ghk6txq.megatv.fun/iptv/9TET59XVEVAK5U/6941/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMot2PE.png" group-title="🇷🇴Romania",TVR 2
+http://5ghk6txq.megatv.fun/iptv/9TET59XVEVAK5U/6942/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMot2PE.png" group-title="🇷🇴Romania",TVR 2
+http://5ghk6txq.megatv.fun/iptv/9TET59XVEVAK5U/6943/index.m3u8
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-logo="" group-title="🇷🇴Romania",TVR International RO
+http://5ghk6txq.megatv.fun/iptv/9TET59XVEVAK5U/7000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSilDzX.png" group-title="🇷🇴Romania",TVR 1
+http://5ghk6txq.megatv.fun/iptv/9TET59XVEVAK5U/6998/index.m3u8
 #EXTINF:-1 tvg-id="TVR3.ro" tvg-logo="https://i.imgur.com/JZ6XuED.png" group-title="🇷🇴Romania",TVR 3 
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:-1 tvg-id="TVRCluj.ro" tvg-logo="https://i.imgur.com/RkDra93.png" group-title="🇷🇴Romania",TVR Cluj
@@ -6016,8 +6031,6 @@ https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="🇷🇴Romania",TVSat
 http://89.38.8.130:39443
-
-
 
 
 #EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="🇵🇱Poland",TVP
