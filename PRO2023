@@ -2232,6 +2232,8 @@ http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 http://95.216.180.111:1935/live/26/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰الاخبارNEWS",CNBC Arabia
 https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="📰الاخبارNEWS", روسيا اليوم
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الوثائقية documentary",الوثائقية documentary🏞️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="الوثائقية documentary",🏞️كيف احصل على الكود
@@ -2405,6 +2407,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3izHluV" group-title="أطفال Children",Atfal Wa Mawaheb
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="أطفال Children",Amou Yazid TV
+http://numide.servemp3.com:8089/hls/ay1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/246vm7R.png" group-title="أطفال Children",ZooMoo HD
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
@@ -2886,6 +2890,8 @@ http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 http://htvint.mada.ps:8889//orient/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="Arabic" tvg-logo="https://bit.ly/3nvojdH" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸فلسطينPALESTINE",معًا
+https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3s3hja3" group-title="🇵🇸فلسطينPALESTINE",Post TV
 https://tv.qmedia.ps/hls/post_HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/445c86Y" group-title="🇵🇸فلسطينPALESTINE",Post Sport TV
@@ -3548,7 +3554,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇾🇪اليمن Yemen",🇾🇪كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3G57c98" group-title="🇾🇪اليمن Yemen",Yemen Today🇾🇪
-https://video.yementdy.tv/live/yementoday/index.m3u8
+https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3G6WAGJ" group-title="🇾🇪اليمن Yemen",Almasira TV🇾🇪
 https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 #EXTINF:-1 group-title="🇾🇪اليمن Yemen" tvg-logo="https://i.postimg.cc/zfNYtM3s/0xHb3XM.jpg",Al Masirah Mubacher🇾🇪
