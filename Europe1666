@@ -2,38 +2,140 @@
 
 #EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",Sweden TV
 https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="🇸🇪Sweden",SVT1 [ VPN ]
-https://svt1-c.akamaized.net/se/svt1/master.m3u8
-#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="🇸🇪Sweden",SVT2 [ VPN ]
-https://svt2-c.akamaized.net/se/svt2/master.m3u8
-#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="🇸🇪Sweden",SVT24 [ VPN ]
-https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",SVT Kunskapskanalen [ VPN ]
-https://svtk-c.akamaized.net/se/svtk/master.m3u8
+
+#EXTINF:0 tvg-id="SVT1.se" group-title="🇸🇪Sweden",SVT1 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/7350/index.m3u8
+#EXTINF:0 tvg-id="SVT2.se" group-title="🇸🇪Sweden",SVT2 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/7351/index.m3u8
+#EXTINF:0 tvg-id="svtB.se" group-title="🇸🇪Sweden",SVTB/SVT24 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/7352/index.m3u8
+#EXTINF:0 tvg-id="TV12.se" group-title="🇸🇪Sweden",TV12 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/7353/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",C MORE LIVE 1 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12036/index.m3u8
+#EXTINF:0 tvg-id="CMoreLive2.se" group-title="🇸🇪Sweden",C MORE LIVE 2 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12037/index.m3u8
+#EXTINF:0 tvg-id="CMoreLive3.se" group-title="🇸🇪Sweden",C MORE LIVE 3 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12038/index.m3u8
+#EXTINF:0 tvg-id="CMoreLive4.se" group-title="🇸🇪Sweden",C MORE LIVE 4 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12039/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",C MORE LIVE 5 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12040/index.m3u8
+#EXTINF:0 tvg-id="CMoreSeries.se" group-title="🇸🇪Sweden",C MORE SERIES HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12041/index.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.se" group-title="🇸🇪Sweden",CARTOON NETWORK SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12043/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.se" group-title="🇸🇪Sweden",DISCOVERY SCIENCE SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12044/index.m3u8
+#EXTINF:0 tvg-id="DisneyJr.se" group-title="🇸🇪Sweden",DISNEY JUNIOR SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12045/index.m3u8
+#EXTINF:0 tvg-id="DisneyXD.se" group-title="🇸🇪Sweden",DISNEY XD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12046/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",HORSE & COUNTRY HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12050/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",ID DISCOVERY SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12051/index.m3u8
+#EXTINF:0 tvg-id="Kanal5.se" group-title="🇸🇪Sweden",KANAL 5 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12052/index.m3u8
+#EXTINF:0 tvg-id="Kanal9.se" group-title="🇸🇪Sweden",KANAL 9 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12053/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",KUNSKAPSKANALEN HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12054/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",NATIONAL GEOGRAPHICS HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12056/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",NICK JUNIOR SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12057/index.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.se" group-title="🇸🇪Sweden",NICKELODEON SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12058/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",NICKTOONS SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12059/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",Paramount Network HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12060/index.m3u8
+#EXTINF:0 tvg-id="SFKanalen.se" group-title="🇸🇪Sweden",SF-KANALEN SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12061/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",SJUAN HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12062/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",SVT 1 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12063/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",SVTB  SVT 24 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12064/index.m3u8
+#EXTINF:0 tvg-id="TLCsverige.se" group-title="🇸🇪Sweden",TLC HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12065/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV 3 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12066/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV 4 GULD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12067/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV 6 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12068/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV 4 FILM SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12069/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV 4 FAKTA SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12070/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV 4 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12071/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT FILM HITS HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12072/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT SERIES HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12073/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT FILM ACTION HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12081/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT FILM PREMIER HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12082/index.m3u8
+#EXTINF:0 tvg-id="ViasatFilmFamily.se" group-title="🇸🇪Sweden",VIASAT FILM FAMILY SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12083/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT NATURE HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12084/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT EXPLORE HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12085/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",ATG LIVE SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12086/index.m3u8
+#EXTINF:0 tvg-id="CMoreFirst.se" group-title="🇸🇪Sweden",C MORE FIRST HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12087/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",DI TV HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12088/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",EXPRESSEN TV HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12089/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",HIMLEN SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12090/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",KANAL 10 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12091/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VÄSTMANLANDS TV HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12093/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",HISTORY 2 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12095/index.m3u8
+#EXTINF:0 tvg-id="HistoryHD.se" group-title="🇸🇪Sweden",HISTORY HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12096/index.m3u8
+#EXTINF:0 tvg-id="Boomerang.se" group-title="🇸🇪Sweden",BOOMERANG SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12097/index.m3u8
+#EXTINF:0 tvg-id="BBCEarth.se" group-title="🇸🇪Sweden",BBC EARTH HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12098/index.m3u8
+#EXTINF:0 tvg-id="NatGeo.se" group-title="🇸🇪Sweden",National Geographic SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12099/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT HISTORY HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12101/index.m3u8
+#EXTINF:0 tvg-id="TV8.se" group-title="🇸🇪Sweden",TV8 SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12102/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",TV10 HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12103/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇸🇪Sweden",VIASAT MOTOR HD SE
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/12104/index.m3u8
+
+#EXTINF:-1 tvg-id="AryenTV.se" tvg-logo="https://i.imgur.com/hIhzT7t.png" group-title="🇸🇪Sweden",Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="🇸🇪Sweden",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Bloomberg Quicktake
-https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Bloomberg TV+
-https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Euronews EnglishI
-https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Failarmy International
-https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Filmstream
-https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Fuel TV
-https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Go Usa TV
-https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Guardian
-https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Gusto TV
-https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Mav TV Motorsports Network
-https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",People are Awesome
-https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiTV.se" tvg-logo="https://i.imgur.com/zApTDWn.png" group-title="🇸🇪Sweden",Di TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-id="ExpressenTV.se" tvg-logo="https://i.imgur.com/ai0BIci.png" group-title="🇸🇪Sweden",Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-id="KomalaTV.se" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="🇸🇪Sweden",Komala TV
+https://live.tvkomala.com/live/komala/playlist.m3u8
+#EXTINF:-1 tvg-id="MiracleChannel.se" tvg-logo="https://i.imgur.com/yrt7Rw9.png" group-title="🇸🇪Sweden",Miracle Channel
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 tvg-id="MissionAsia.se" tvg-logo="https://i.imgur.com/B5mKwF6.png" group-title="🇸🇪Sweden",Mission Asia
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Myzen Fit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Radical Docs
 https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Rakuten Action
@@ -48,22 +150,17 @@ https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Tastemade
-https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="🇸🇪Sweden",The Pet Collective International
+#EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="🇸🇪Sweden",SVT1 [Geo-blocked]
+https://svt1-c.akamaized.net/se/svt1/master.m3u8
+#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="🇸🇪Sweden",SVT2 [Geo-blocked]
+https://svt2-c.akamaized.net/se/svt2/master.m3u8
+#EXTINF:-1 tvg-id="SVT24.se" tvg-logo="https://i.imgur.com/Ms6qYIV.png" group-title="🇸🇪Sweden",SVT24 [Geo-blocked]
+https://svtb-c.akamaized.net/se/svtb/master.m3u8
+#EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/512px-Kunskapskanalen_2017.svg.png" group-title="🇸🇪Sweden",SVT Kunskapskanalen [Geo-blocked]
+https://svtk-c.akamaized.net/se/svtk/master.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="🇸🇪Sweden",The Pet Collective Sweden
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Travelxp
-https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="🇸🇪Sweden",TV3CAT
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-id="VastmanlandsTV.se" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="🇸🇪Sweden",Västmanlands TV
-https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",Waterbear
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",WildEarth [ VPN ]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇪Sweden",World Poker Tour
-https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="🇨🇭Switzerland",Alpenland TV 
