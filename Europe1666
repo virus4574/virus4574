@@ -153,46 +153,69 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="🇨🇭Switzerland",Alpenland TV 
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭Switzerland",Canal Alpha Jura
-https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭Switzerland",Canal Alpha Neuchatel 
-https://edge.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="🇨🇭Switzerland",Couleur 3
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24464-1.png" group-title="🇨🇭Switzerland",Die Neue Zeit 
-https://www.onairport.live/die-neue-zeit-tv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://i.imgur.com/13PjEk8.png" group-title="🇨🇭Switzerland",Dieu TV
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="🇨🇭Switzerland",Kanal 9 en Français 
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="🇨🇭Switzerland",Canal 9 en Français 
 https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8
-#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.imgur.com/DdCfl4n.png" group-title="🇨🇭Switzerland",La Télé
-https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭Switzerland",Canal Alpha Jura 
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="🇨🇭Switzerland",Canal Alpha Neuchatel  
+https://edge.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="🇨🇭Switzerland",Couleur 3 
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24464-1.png" group-title="🇨🇭Switzerland",Die Neue Zeit
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DritaTV.ch" tvg-logo="https://i.imgur.com/cvgVmZw.png" group-title="🇨🇭Switzerland",Drita TV 
+https://protokolldns.xyz/dritaweb2023ds/index.m3u8
+#EXTINF:-1 tvg-id="Kanal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="🇨🇭Switzerland",Kanal 9 auf Deutsch 
+https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.imgur.com/DdCfl4n.png" group-title="🇨🇭Switzerland",La Télé 
+https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://i.imgur.com/6ijbSTr.png" group-title="🇨🇭Switzerland",Léman Bleu 
+http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-id="LFMTV.ch" tvg-logo="https://i.imgur.com/0ZiJm7H.png" group-title="🇨🇭Switzerland",LFM TV 
 https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="MLeMedia.ch" tvg-logo="https://i.imgur.com/YkUeGoy.png" group-title="🇨🇭Switzerland",M Le Média  
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/ch/M.m3u8
+#EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://i.imgur.com/13PjEk8.png" group-title="🇨🇭Switzerland",MaxTV/Dieu TV 
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="🇨🇭Switzerland",Meteonews 
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="🇨🇭Switzerland",My Cinema Europe 
+#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="🇨🇭Switzerland",My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://i.imgur.com/7cz52W3.png" group-title="🇨🇭Switzerland",One TV 
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-id="QS24tv.ch" tvg-logo="https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png" group-title="🇨🇭Switzerland",QS24.tv 
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="🇨🇭Switzerland",Radio 3i 
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.ch" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="🇨🇭Switzerland",Rakuten TV Family Switzerland 
+https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyalTV.ch" tvg-logo="https://i.imgur.com/1tK2xsc.png" group-title="🇨🇭Switzerland",Royal TV 
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 tvg-id="SyriTV.ch" tvg-logo="https://i.imgur.com/AtK1v9z.png" group-title="🇨🇭Switzerland",Syri TV  
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-logo="https://i.imgur.com/WIfBbLj.png" group-title="🇨🇭Switzerland",Tele 1 
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="TeleM1.ch" tvg-logo="https://i.imgur.com/oFiixzK.png" group-title="🇨🇭Switzerland",Tele M1 
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-logo="https://i.imgur.com/oFiixzK.png" group-title="🇨🇭Switzerland",Tele M1  
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/YwUbbKA.png" group-title="🇨🇭Switzerland",TeleBärn 
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
 #EXTINF:-1 tvg-id="Telebasel.ch" tvg-logo="https://i.imgur.com/t6HbqgA.png" group-title="🇨🇭Switzerland",Telebasel 
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/512px-TeleBielingue_Logo.svg.png" group-title="🇨🇭Switzerland",TeleBielingue 
-https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+https://edge.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="🇨🇭Switzerland",TeleTicino 
+https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="TeleZuri.ch" tvg-logo="https://i.imgur.com/f8kzNT1.png" group-title="🇨🇭Switzerland",TeleZüri 
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="🇨🇭Switzerland",TVM 3 
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="🇨🇭Switzerland",TVM3 
+https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVO.ch" tvg-logo="https://i.imgur.com/i57Vst6.png" group-title="🇨🇭Switzerland",TVO (CH) 
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇫🇮Finland",Bloomberg TV US 
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
