@@ -1552,12 +1552,6 @@ http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="BOLLYWOOD بوليود",ZEE AFLAM
-http://176.65.146.154:8025/play/a074/index.m3u8
-#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
-http://176.65.146.154:8025/play/a075/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
 https://bit.ly/3xYLaRh
@@ -2648,8 +2642,6 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 
 
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="أم بي سيMBC VIP1",MBC 2 HD
-http://176.65.146.154:8025/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="أم بي سيMBC VIP1",MBC MAX HD
 http://154.54.220.67:34780/play/a01q
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="أم بي سيMBC VIP1",MBC ACTION
@@ -3059,7 +3051,7 @@ https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RRrffV" group-title="🇮🇶العراق IRAQ",قناة النجباء الفضائية 🇮🇶
 https://s1.ettehadlive.com/live/3/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HH92Nc" group-title="🇮🇶العراق IRAQ",12Arabia
-http://176.65.146.154:8025/play/a08y/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3XoPAux" group-title="🇮🇶العراق IRAQ",Assirat TV 🇮🇶
 https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uCqWOw" group-title="🇮🇶العراق IRAQ",Al Iraqia
@@ -3281,36 +3273,11 @@ https://bit.ly/3xYLaRh
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="الجزائرALGERIEN",TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="الجزائرALGERIEN",ECHOROUK NEWS
-http://176.65.146.154:8025/play/a09n/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="الجزائرALGERIEN",ECHOROUK TV
-http://176.65.146.154:8025/play/a09o/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="الجزائرALGERIEN",EL BILAD
-http://176.65.146.154:8025/play/a09x/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="الجزائرALGERIEN",Canal Algerie
 http://162.212.178.69:4242/bysid/808
 
 #EXTINF:0 tvg-id="ext" group-title="الجزائرALGERIEN",Elfadjer drama Dz
 http://154.58.202.131:8000/play/a03l
-
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Samira TV
-http://176.65.146.154:8025/play/a09z/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HAYAT TV ALGERIE
-http://176.65.146.154:8025/play/a09s/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL HEDDAF TV
-http://176.65.146.154:8025/play/a09t/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL IKTISSADIA OULA
-http://176.65.146.154:8025/play/a09p/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",EL MAHROUSA TV
-http://176.65.146.154:8025/play/a07f/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",ELMOLED
-http://176.65.146.154:8025/play/a07k/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",El Djazair N1
-http://176.65.146.154:8025/play/a09v/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Elwatania Algerie
-http://176.65.146.154:8025/play/a09r/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="الجزائرALGERIEN",Ennahar TV
-http://176.65.146.154:8025/play/a0a0/index.m3u8
 
 
 
