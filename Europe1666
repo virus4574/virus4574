@@ -759,8 +759,6 @@ http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-logo="https://i.imgur.com/WEYrIrC.png" group-title="🇬🇷Greece",Μεσσάτιδα TV
 https://vod.streams.ovh:3037/stream/play.m3u8
 
-----------------
-
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="🇦🇿Azerbaijan",Azad TV
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 tvg-id="AzadTVMinus2.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="🇦🇿Azerbaijan",Azad TV -2 
@@ -773,9 +771,6 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="🇦🇿Azerbaijan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-
-----------------
-
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bs/mtel.ba.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="🇷🇸Serbia",BN TV
@@ -830,7 +825,7 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="🇦🇱Albania" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="🇦🇱Albania",RTK 1 HD
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
-#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="🇦🇱Albania" tvg-logo="https://bit.ly/43od1Z0" group-title=""🇦🇱Albania"",RTSH 2 HD
+#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="🇦🇱Albania" tvg-logo="https://bit.ly/43od1Z0" group-title="🇦🇱Albania",RTSH 2 HD
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="🇦🇱Albania" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="🇦🇱Albania",RTK 3
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
@@ -885,9 +880,6 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://mfe01.tring.al/delta/105/out/u/618_13.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="🇦🇱Albania",Zjarr TV
 https://mfe01.tring.al/delta/106/out/u/284_1.m3u8
-
-
-----------------
 
 
 #EXTINF:-1 tvg-id="ACTV.be" tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="🇧🇪Belgium",ACTV [VPN]
@@ -980,8 +972,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 
-----------------
-#EXTM3U
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="🇵🇹Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1  
 http://2.83.73.214/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="🇵🇹Portugal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2  
@@ -1083,8 +1073,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI0IDEyOjI1OjMgQU0maGFzaF92YWx1ZT1KSDB2OGw2MmN3dU1rWVBNOTAxa2xBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDMxZDdmNWMtNzA2OS00MmVmLTlmZDYtNDYzMGJmZjY1MmE2/
 
-
-----------------
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="🇲🇽MEXICO",15 TV SABINAS 
 https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jOJk895V3pzx3VwAYIMG1_h2-vQypKMXmjQ0Xcp3BI2UQ41IgAt1aaT5iIrG7ngGGUU&usqp=CAU" group-title="🇲🇽MEXICO",26 AGUAS CALIENTE
@@ -1151,7 +1139,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" group-title="🇲🇽MEXICO",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-----------------
 
 
 #EXTINF:0 tvg-id="ext" group-title="🇩🇰Denmark",Denmark
@@ -1893,7 +1880,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Parnian
 https://live2.parnian.tv/hls/live/play.m3u8
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" group-title="🇮🇷Iran" tvg-name="" tvg-logo="https://i.imgur.com/srVaOna.png"PMC
+#EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna" tvg-url="" group-title="🇮🇷Iran",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇮🇷Iran",Radio_Javan
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist.m3u8
@@ -2121,8 +2108,6 @@ http://45.153.35.210:8000/play/UK_cbs_reality_1_sd/index.m3u8
 
 #EXTINF:-1 tvg-name="🐴" tvg-id="" group-title="🇬🇧United Kingdom" tvg-logo="https://horseandcountry.tv/img/logo/hnc-desktop-white.png",Horse and Countryᴴᴰ 🇬🇧 🟤
 https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
-
-====☛ 🇬🇧 SAMSUNGTV|LG|PLUTO|TLC|XUMO 🇬🇧 ☚====
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🇬🇧United Kingdom" tvg-logo="https://github.com/inspirationlinks/m3u/blob/live/Logos/EntertainmentHub.png",Entertainment Hubᴴᴰ 🇬🇧 🟤
 https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
