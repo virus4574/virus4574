@@ -906,46 +906,6 @@ http://31.146.176.94:80/setanta1/index.m3u8?
 http://31.146.176.94:80/setanta2/index.m3u8?
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",VIP SPORT EUR⚽️
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",كيف احصل على الكود
-https://bit.ly/3gj9PK5
-
-#EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/Bq7gTT0.png",[$]AUTOMOTO TV 
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8?token=test
-#EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/TnLSwJT.png",[$]CANAL MOTOR
-https://digicom.hls.iptvdc.com/motorstv/index.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/EuRaMuo.png",[$]SPORT PLUS 3HD
-http://217.174.225.146/hls/ch004_720/index.m3u8?token=
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/wjsItZW.png",[$]SPORT PLUS 5HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/4nQiwtk.png",[$]MIX SPORT HD
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/KMOepAc.png",[$]MIX SPORT 2HD
-http://nl01.spr24.net/133/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/CYoN1tl.png",[$]MIX SPORT 3HD
-http://nl01.spr24.net/130/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/f01K5jd.png",[$]MIX SPORT 4HD
-http://nl01.spr24.net/131/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/teREPnh.png",[$]MIX SPORT 5HD
-http://nl01.spr24.net/132/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/vkPN7Wq.png",[$]MIX SPORT 6HD
-http://nl01.spr24.net/162/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="VIP SPORT EUR" tvg-logo="https://i.imgur.com/39p3g4P.png",[$]MIX SPORT 7HD
-http://nl01.spr24.net/106/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:-1 tvg-id="" group-title="VIP SPORT EUR" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",🇫🇷 ⚽️➾ L'Equipe Live 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
-#EXTINF:-1 tvg-id="" group-title="VIP SPORT EUR" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",🇫🇷 ⚽️➾ L'Equipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-
-
-
 
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FIFA SPORTS",SKYSPORTS 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
@@ -979,6 +939,11 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://31.146.176.94:80/setanta1/index.m3u8?
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 2HD
 http://31.146.176.94:80/setanta2/index.m3u8?
+#EXTINF:-1 group-title="FIFA SPORTS" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
 
 
 
@@ -9087,10 +9052,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",AntenaSport (720p) [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
@@ -9260,8 +9221,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL-⚽️ All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL All Sports | BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL RS NEWS SPORTS TV
@@ -9272,10 +9231,6 @@ https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/ch
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL:⚽️ RS NEWS SPORTS TV
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL:ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL-ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL-All Sports | BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BRASIL-Band Sports
