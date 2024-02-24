@@ -970,7 +970,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة NETFLIX",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة NETFLIX",Omg Channel TV
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
+https://201526.global.ssl.fastly.net/647cfcb338286342d6a88374/live_192ddaa0a57b11eeb8b44f6a1475a4a3/tracks-v1/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Bein MEDIA", Bein MEDIA 
@@ -984,8 +984,6 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3DF4NAn
 
 
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="VIP MOVIES AR",ONC Comedy
 http://62.201.210.84:2110/play/a0f9
 #EXTINF:0 tvg-id="ext" group-title="VIP MOVIES AR",ONC Gym
@@ -1236,11 +1234,11 @@ https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Sj376i" group-title="باقة شاهد الأصلية",عادل-امام
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Hala London",SPORT CHANNELS
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Hala London",Hala London
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Hala London",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="باقة Hala London",Hala London
 https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist.m3u8
 #EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="باقة Hala London",Hala London TV Cartoon
@@ -1253,7 +1251,6 @@ https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist.m3u8
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="http://halalondon.com/images/radio1.png" group-title="باقة Hala London",Hala London TV radio
 https://halalondon-live.ercdn.net/radio-halalondon/radio-halalondon.m3u8
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد نت", باقة شاهد نت 
 https://bit.ly/3xYLaRh
@@ -1271,7 +1268,6 @@ http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",النسخة المدفوعة AirMax TV
@@ -1287,9 +1283,6 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة MAJESTIC",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
-
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Rakuten_TV",AfricaNews (EU)
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Rakuten_TV",AFV Family (EU)
@@ -1609,8 +1602,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2659
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3w3iLew" group-title="Rakuten_TV",Movies5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2710
 
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Xiaomi_TV",Action Hollywood Movies
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Xiaomi_TV",Africa News (EU)
@@ -1809,7 +1800,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Xiaomi_TV",YG TV (EU)
 https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🎬films&series", films&series
