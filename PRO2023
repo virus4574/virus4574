@@ -4729,7 +4729,6 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberI
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitFXoCUDvRsanj82H-Fvt0XVaIlpyaMqMa-pycb7jEoGmmUVnd2PHPKH_hh06MiN9-Q6MmNnwbbIyZ1L4_4DLzM6Vv66PCxe69-AY-pefnPdGUh8UpTmW5K8BOQNzzBIzI -VSvu1tbEkWok52T4BdA_dQQEoRKziUGKevdvIJmi5ukLQzNZbUqnyQeWw", VAN GÖLÜ TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪DEUTSCH",Das Erste Ⓖ
@@ -4808,14 +4807,6 @@ https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" group-title="🇩🇪DEUTSCH",NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-
-
-
------------------------------------------------------------------------------------------------------------------------
-
-
-
-
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",RTL
 http://37.18.239.36:8888/RTL_Television/index.m3u8
 #EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTL II" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66610_dark_360w_270h.png" group-title="🇩🇪DEUTSCH",RTL II
@@ -5294,10 +5285,6 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="🇩🇪DEUTSCH",ZWEI2 Music 
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
-
-
-----------------------------------------------------------------------------------------------------------------------
-
 
 
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo="https://www.mavtv.com/site/assets/files/7271/mavtv-1200x628.jpg",MavTV Europe
@@ -8751,10 +8738,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTM3U
-
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",channel-hlsch1.m3u8
 https://freehdgames.lol/chunklist/hlsch1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",channel-hlsch2.m3u8
@@ -9882,7 +9865,3 @@ https://ov.ottera.tv/live/master2300000.m3u8;session=mvg_mv
 https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",🇺🇸 🤼➾ IMPACT! WRESTLING [localnow]
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
