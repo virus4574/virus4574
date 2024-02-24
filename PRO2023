@@ -918,42 +918,16 @@ http://50.7.234.114:82/0162/index.m3u8?token=1kfJMDsTTp
 http://31.146.176.94:80/setanta1/index.m3u8?
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2HD🇷🇺
 http://31.146.176.94:80/setanta2/index.m3u8?
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/GHO2Lvl.png",[$]DTX🇷🇺
-http://50.7.234.114:82/0210/index.m3u8?token=1kfJMDsTTp
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 🇷🇴
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/TnLSwJT.png",[$]CANAL MOTOR🇷🇴
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/MstKijI.png",[$]MATCH! NRPA HD🇷🇺
 http://50.7.234.114:82/0215/index.m3u8?token=1kfJMDsTTp
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/V0HhtDV.jpg",[$]QAZ SPORT HD🇷🇺
-http://92.46.127.146:8080/qazsport/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ECJiorK.png",[$]5 Беларусь HD🇷🇺
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/H5mOw96.png",[$]SPORT 1HD🇷🇺
-http://91.233.215.250:7272/Wetd63YgcVe23Jk
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/Un7akXU.png",[$]M.NPEMBEP HD🇷🇺
-http://91.209.24.89:8091/udp/239.255.13.184:1234
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/MstKijI.png",[$]M.NRPA🇷🇺
-http://91.209.24.89:8091/udp/239.255.13.186:1234
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/jLNZGlK.png",[$]ASTRA SPORT  🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/0CTwrY8/FH.png",[$]FIGHT HUB🇷🇺
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/zl4UUmh.png",[$]KOK FIGHTS HD🇷🇺
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/NwfPl4j.png",[$]FIGHTBOX HD🇷🇺
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/jcJPOsb.png",[$]X SPORT HD🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/x7ztnOP.png",[$]DD SPORTS🇷🇺
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/rYMFJ1I.png",[$]WORLD POKER TOUR🇷🇺
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ezOWA4y.png",[$]SWISS SPORT HD🇷🇺
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/Bq7gTT0.png",[$]AUTOMOTO TV 🇧🇬
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8?token=test
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CaWPiv1.png",[$]SPORT-ITALIA PLUS HD🇮🇹
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8?
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/JUcu9Qv.png",[$]BIKE HD🇮🇹
@@ -966,14 +940,6 @@ http://46.240.143.86/Eurosport2/video.m3u8?token=test
 http://209.222.97.92:16493/
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hUC1h6b.png",[$]SPORTV HD🇧🇷
 http://209.222.97.92:16525/
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/cukfTmp.png",[$]SPORTV 2HD🇧🇷
-http://23.237.10.66:16180/
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CcM0vol.png",[$]SPORTV 3HD🇧🇷
-http://51.159.54.153:14417/
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/9zNhrBg.png",[$]ESPN 3HD🇧🇷
-http://191.37.250.169:8801/live/ESPN3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/jTyEYvI.png",[$]ESPN 4🇧🇷
-http://89.38.96.234:14525/
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/R6738GE.png",[$]PREMIERE 1HD🇧🇷
 http://51.83.238.223:16725
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/R6738GE.png",[$]PREMIERE 2HD🇧🇷
@@ -982,30 +948,14 @@ http://185.150.190.225:16482/
 http://185.150.190.225:16472/
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/zlWcUOd.png",[$]REDBULL TV 🇨🇷
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/3q3XgNs.png",[$]UNIFI SPORT 1HD🇨🇷
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV🇹🇷
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV🇹🇷
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV🇹🇷
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER🇹🇷
-https://live.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER🇹🇷
 https://ythlsgo.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR🇹🇷
-https://live.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR🇹🇷
 https://ythlsgo.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/cUs7TFd.png",[$]IDMAN TV 🇹🇷
-http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/U4mZPbE.png",[$]A SPOR HD🇹🇷
-http://66.160.192.241/aspor/index.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/vYyd6lA.png",[$]TRT SPOR HD🇹🇷
-http://66.160.192.241/trtspor/index.m3u8
-#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/8DV3TxJ/SP.png",[$]SPORTS TV 🇹🇷
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/gk6YDEy.png",[$]TURKMENISTAN SPORT HD 🇹🇷
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD🇹🇷
@@ -1014,6 +964,40 @@ http://46.240.143.86/Eurosport1/index.m3u8?token=test
 http://46.240.143.86/Eurosport2/index.m3u8?token=test
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/KLW9bNk.png",[$]NBA-TV HD🇹🇷
 http://46.240.143.86/NBATV/index.m3u8?token=test
+
+
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPORTS PREMIUM",SKYSPORTS 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORTS PREMIUM",SKYSPORTS 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPORTS PREMIUM",SKYSPORTS 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="SPORTS PREMIUM",SKYSPORTS 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="SPORTS PREMIUM",SKYSPORTS 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SKYSPORTS 6
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SKYSPORTS 7
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SKY SPORT8
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS PREMIUM",SKY SPORT9
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/EuRaMuo.png",[$]SPORT PLUS 3HD
+http://217.174.225.146/hls/ch004_720/index.m3u8?token=
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wjsItZW.png",[$]SPORT PLUS 5HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tJbH505.png",[$]SPORT PLUS 7HD
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]MMN SPORT HD
+http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 1HD
+http://31.146.176.94:80/setanta1/index.m3u8?
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 2HD
+http://31.146.176.94:80/setanta2/index.m3u8?
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="VIP SPORT EUR",VIP SPORT EUR⚽️
@@ -1056,41 +1040,7 @@ https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 
 
 
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/L6ALzLE.png",ARENA SPORT 1
-http://93.155.227.38/m3u8/arenasport1.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/uPiHdsb.png",ARENA SPORT 2
-http://93.155.227.38/m3u8/arenasport2.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/qihKQfe.png",ARENA SPORT 3
-http://93.155.227.38/m3u8/arenasport3.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hng6TCI.png",ARENA SPORT 4
-http://93.155.227.38/m3u8/arenasport4.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",ARENA SPORT 5
-http://93.155.227.38/m3u8/arenasport5.m3u8
 
-
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",DIEMA SPORT HD
-http://93.155.227.38/m3u8/diamasporthd.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",DIEMA SPORT 2 HD
-http://93.155.227.38/m3u8/diemasport2hd.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",DIEMA SPORT 3 HD
-http://93.155.227.38/m3u8/diemasport3hd.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",EURO FOLK HD
-http://93.155.227.38/m3u8/eurofolkhd.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",EUROSPORT HD
-http://93.155.227.38/m3u8/eurosporthd.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",EUROSPORT 2 HD
-http://93.155.227.38/m3u8/eurosport2hd.m3u8
-
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 1
-http://93.155.227.38/m3u8/webmtelsport_web.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 2
-http://93.155.227.38/m3u8/webmtelsport2_web.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 3
-http://93.155.227.38/m3u8/webmtelsport3_web.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="",MAX SPORT 4
-http://93.155.227.38/m3u8/webmtelsport4_web.m3u8
-
-#EXTM3U
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FIFA SPORTS",SKYSPORTS 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
 #EXTINF:0 tvg-id="SkySpCricket.uk" group-title="FIFA SPORTS",SKYSPORTS 2
@@ -1109,22 +1059,6 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKY SPORT9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/MstKijI.png",[$]МАТЧ! NRPA
-https://bit.ly/3XFMpQs
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/CiBsvEe.png",[$]MATCH! BOEU HD
-http://95.217.196.109:8081/russia/match_boets_sd_new/playlist.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/ngEDIQ5.png",[$]VIASAT SPORT HD
-http://nl01.spr24.net/106/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/Un7akXU.png",[$]M.NPEMBEP HD
-http://nl01.spr24.net/133/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.ibb.co/LrgBnCy/m1.png",[$]МАТЧ! ФУТБOЛ 1HD
-http://nl01.spr24.net/130/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.ibb.co/3d8f0j5/m2.png",[$]МАТЧ! ФУТБOЛ 2HD 
-http://nl01.spr24.net/131/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/WvrK5DG.png",[$]МАТЧ! ФУТБOЛ 3HD
-http://nl01.spr24.net/132/mpegts?token=HrxUaQ8f8WVYtH
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/wXUWmoP.png",[$]SPORT 1HD
-http://nl01.spr24.net/162/mpegts?token=HrxUaQ8f8WVYtH
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/EuRaMuo.png",[$]SPORT PLUS 3HD
@@ -1133,16 +1067,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/tJbH505.png",[$]SPORT PLUS 7HD
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]QAZSPORT HD
-http://92.46.127.146:8080/qazsport-L3-TRANS/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 1HD
-http://92.46.127.146:8080/SetantaSport-L3-TRANS/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 2HD
-http://92.46.127.146:8080/SetantaSportPlus-L3-TRANS/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]EUROSPORT 2HD
-http://92.46.127.146:8080/Eurosport2-L3-TRANS/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]MATCH 
-http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]MMN SPORT HD
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 1HD
