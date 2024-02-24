@@ -6625,20 +6625,6 @@ https://outbound-production.explore.org/stream-production-209/.m3u8
 http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Bağcılar-Halk Sarayı - Konuklar
 https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_5941447a83611.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul BÜYÜK ÇAMLICA
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w27132547.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Büyük Çamlıca
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w334538024.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul DRAGOS
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/chunklist_w2055518299.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul EMİR SULTAN
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/chunklist_w714004953.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Emirgan
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul EMİRGAN
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/chunklist_w1232476941.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Eyüp Sultan
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Eyüpsultan-Arifpaşa Parkı 1
 https://eyup.taliavision.com//livestream/hls/arifpasa1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Eyüpsultan-Arifpaşa Parkı 2
@@ -6647,26 +6633,8 @@ https://eyup.taliavision.com//livestream/hls/arifpasa2/index.m3u8
 https://eyup.taliavision.com/livestream/hls/hzhalit1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Eyüpsultan-Hz. Halit Parkı 2
 https://eyup.taliavision.com/livestream/hls/hzhalit2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Hidiv Kasrı
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul HİDİV KASRI
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/chunklist_w1974231243.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Metrohan
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Miniatürk
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Pierre Loti
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Salacak
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Sepetçiler Kasrı
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Sultanahmet 1
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Taksim Meydanı
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Istanbul Ulus Parkı
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/HasBahCa.m3u8
+https://ccam_turistik/cam_trsk_pierloti.stream/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Italy - Chiusdino Airfield
 https://kadath.ivotv.it/reteivo/aviocam1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Italy - Chiusdino Airfield
@@ -6921,14 +6889,6 @@ https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Scharbeutz Ferienwohnung Meersehen
 https://ch-fra-n2.livespotting.com/vpu/azcqykit/qovrg03j_720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Scotland - Обезьяны
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Scotland - Обезьяны
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Scotland - Тигр
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",Scotland - Тигр
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Senhora da Rocha e Praia Nova
 https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",Shark Aquarium
@@ -7036,17 +6996,11 @@ https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/HasBahCa.m
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Polar bear
 http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Schooners Beach Cam
-http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Schooners Beach Cam
 https://5ed7b8fd7bf40.streamlock.net:444/schoonersbeachHDCam/schbeach/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Schooners Hill Bar Cam
 https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Schooners Sunset Cam
 https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Southport
-http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Southport 2
-http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Tiger
 http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live webcam world",USA - Wrightsville Beach
