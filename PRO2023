@@ -5739,32 +5739,16 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Red Booll
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+
+
 #EXTINF:-1 group-title="مصارعه حره WWE" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE
 https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="مصارعه حره WWE",IMPACT! Wrestling | US
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="مصارعه حره WWE",IMPACT! Wrestling | US
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="مصارعه حره WWE",BOXEO
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="مصارعه حره WWE",MMA
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",PLUTO TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/11/cropped-mmajunkie-logo-icon.jpg?w=180",MMA Junkie | US
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Fight_Plus_TV_Network.png" group-title="مصارعه حره WWE",FIGHT PLUS | US
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mma/mma_PNG49.png" group-title="مصارعه حره WWE",MMA TV | US
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch642_425_305" group-title="مصارعه حره WWE",FIGHT SPORTS | US
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="مصارعه حره WWE",ASXTV FIGHTS | US
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="مصارعه حره WWE",FIGHTBOX | US
@@ -5775,6 +5759,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="مصارعه حره WWE",IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇺🇸 🤼➾ IMPACT! WRESTLING [localnow]
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇺🇸 🤼➾ Fight Network 2
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="مصارعه حره WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",🇺🇸 🤼➾ Hard Knock Fighting
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
 
 
 #EXTM3U
@@ -8930,54 +8920,16 @@ https://ia802606.us.archive.org/6/items/Ramadan_1431/Kan_Ya_Makan_Alhayat_25_352
 https://ia902606.us.archive.org/6/items/Ramadan_1431/Kan_Ya_Makan_Alhayat_26_352x288.mp4?/ss/
 
 
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-combate-global.jpg",🇲🇽🇺🇸  Combate Global
-https://stream.ads.ottera.tv/cl/230421ch1eh6e61p3sa7u9e2o0/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2013/11/cropped-mmajunkie-logo-icon.jpg?w=180",🇺🇸 🤼➾ MMA Junkie [Distrotv]
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇺🇸 🤼➾ IMPACT! WRESTLING [localnow]
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇺🇸 🤼➾ Fight Network 2
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇱🇹 🤼➾ KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",🇺🇸 🤼➾ Hard Knock Fighting
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 tvg-id="" group-title="🤼Fight" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇷🇺 🤼➾ Фан Спорт
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png",🇺🇸 🏎️🏍➾ Motorvision [Pluto]
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/2eaebc01-f951-4dc7-a09d-f65ad6a6428d/3.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Motorvision%20HD.png",🇺🇸 🏎️🏍➾ Motorvision [samsungtv]
-https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_motorvisiontv_001.m3u8
 #EXTINF:-1 tvg-id="localnow_MotoAmerica" group-title="🏎️🏍Motors Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6183e99eb7e5f3651b7d0654",🇺🇸 🏎️🏍➾ MotoAmerica [localnow]
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RacingAmerica.png",🇺🇸 🏎️🏍➾ Racing America [Plex]
 https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://www.canalmotor.no/wp-content/uploads/2019/04/canalmotor_header.png",🇺🇸 🏎️🏍➾ Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png",🇺🇸 🏎️🏍➾ Automoto [BumblebeeTV]
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w1703129660.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/FRBA1500004O2_20200923T100326.png",🇫🇷 🏎️🏍➾ MotoRacing
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/93592510-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://sck.pm/a4n5",🇬🇧 🏎️➾ 100 Automoto
-http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",🇺🇸 🏎️🏍➾ Choppertown
 https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG-1675271915254.png",🇺🇸 🏎️🏍➾ Mavtv [Pluto]
-https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://bit.ly/44U7lqc",SKY SPORT_F1🏎️
-http://107.150.62.146/f1_low/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",Eurosport🚲🚲🚲🚲
-http://149.100.19.131:8080/Eurosport/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",AIO Sport 1🚲🚲🚲
-https://af.ayas.ir/hls2/aiosport.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",AIO Sport 2🚲🚲🚲
-https://af.ayas.ir/hls2/aiosport2.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",Eurosport 1🚲🚲🚲🚲
-http://78.26.128.16:8081/89/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="",EuroSport 1🚲🚲🚲🚲
-http://54.39.17.6:8080/eurosport/index.m3u8
 
 
 
@@ -8991,20 +8943,13 @@ https://dgwfm675921lp.cloudfront.net/playlist_1920x1080.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png",🇺🇸 🏄➾  Extrêmeᴴᴰ [Pluto]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",🇺🇸 🏄➾ Outside tvᴴᴰ [Pluto]
-https://outside-tv.samsung.wurl.com/manifest/316fba602419717190792b6b47574254.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",🇺🇸 🏄➾ Outside tvᴴᴰ [localnow]
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",🇺🇸 🏄➾ Outside tvᴴᴰ [stirr]
-https://outsidetvplus-stirr.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",🇺🇸 🏄➾ Outside tvᴴᴰ [roku]
 https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/redbullt.png",🇺🇸 🏄➾ Red Bull TVᴴᴰ
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png",🇺🇸🏄➾ Edge Sportᴴᴰ [plex]
-https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="http://cdn.shopify.com/s/files/1/0053/2034/3616/files/l_1200x1200.png",🇺🇸 🏄➾ Epik M [BumblebeeTV]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
