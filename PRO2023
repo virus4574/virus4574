@@ -3165,12 +3165,30 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇰🇼الكويت Kuwait",🇰🇼كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV ARAB
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV ETHRAA
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV KHALLIK
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV PLUS
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV SPORTS
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV SPORT PLUS
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV SPORT EXTRA
+https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_==.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/h9UwGar.png" group-title="🇰🇼الكويت Kuwait",Alrai HD🇰🇼
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
 http://154.58.202.131:8000/play/a014
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼+++
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
 http://154.58.202.131:8000/play/a015
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="🇰🇼الكويت Kuwait",kuwait ETHRAA FHD🇰🇼
