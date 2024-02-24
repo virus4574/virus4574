@@ -896,47 +896,10 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 http://31.146.176.94:80/setanta1/index.m3u8?
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 2HD
 http://31.146.176.94:80/setanta2/index.m3u8?
-
-
-
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="FIFA SPORTS",SKYSPORTS 1
-https://donelfantastic.github.io/live/skysportsNz1.m3u8
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="FIFA SPORTS",SKYSPORTS 2
-https://donelfantastic.github.io/live/skysportsNz2.m3u8
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="FIFA SPORTS",SKYSPORTS 3
-https://donelfantastic.github.io/live/skysportsNz3.m3u8
-#EXTINF:0 tvg-id="SkySports4.uk" group-title="FIFA SPORTS",SKYSPORTS 4
-https://donelfantastic.github.io/live/skysportsNz4.m3u8
-#EXTINF:0 tvg-id="SkySports5.uk" group-title="FIFA SPORTS",SKYSPORTS 5
-https://donelfantastic.github.io/live/skysportsNz5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKYSPORTS 6
-https://donelfantastic.github.io/live/skysportsNz6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKYSPORTS 7
-https://donelfantastic.github.io/live/skysportsNz7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKY SPORT8
-https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FIFA SPORTS",SKY SPORT9
-https://donelfantastic.github.io/live/skysportsNz9.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/3H4dxhi.png",[$]SPORT PLUS 1HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/EuRaMuo.png",[$]SPORT PLUS 3HD
-http://217.174.225.146/hls/ch004_720/index.m3u8?token=
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/wjsItZW.png",[$]SPORT PLUS 5HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/tJbH505.png",[$]SPORT PLUS 7HD
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]MMN SPORT HD
-http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 1HD
-http://31.146.176.94:80/setanta1/index.m3u8?
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/hBq1bUx.png",[$]SETANTA SPORTS 2HD
-http://31.146.176.94:80/setanta2/index.m3u8?
-#EXTINF:-1 group-title="FIFA SPORTS" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0 group-title="FIFA SPORTS" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD 
+#EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/tb3IZDY.png",[$]ALL SPORTS HD 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-
 
 
 
