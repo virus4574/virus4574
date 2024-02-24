@@ -3170,7 +3170,7 @@ https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
 http://154.58.202.131:8000/play/a014
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼+++
-http://54.167.175.109/index.php/https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
 http://154.58.202.131:8000/play/a015
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="🇰🇼الكويت Kuwait",kuwait ETHRAA FHD🇰🇼
@@ -9002,9 +9002,9 @@ https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8h.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ASIA_INDONESIA-TVRI Sport (720p)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ASIA_KOREA-Swiss Sports Tv
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ASIA_TAIWAN_Macau_Honkong:Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ASIA_THAILAND-TRACE SPORT STARS
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ASIA_THAILAND-T-Sports7
@@ -9126,38 +9126,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-sports/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23018&ads.content_duration=18000&ads.episode_id=71932&ads.show_id=2842&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Swerve%20Sports&ads.episodetitle=Swerve%20Sports&ads.keywords=Swerve%20Sports&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dogs 24/7 [Pluto]
 https://bit.ly/dogs24-7?/3000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Movie
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Racing 2 HD
-http://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Racing 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Racing 3 HD
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 2 FHD
-http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",DUBAI SPORTS 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",Dubai Sports 3 FHD
-http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="EdgeSport.nl" group-title="SPORT VIP",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",EDGE SPORTS
@@ -9339,8 +9307,6 @@ https://mlb.mrgamingstreams.com/hubprem3.m3u8
 https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",INDIA_BANGLA Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",INDONESIA TVRI Sport (720p)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:0 tvg-id="inter" group-title="SPORT VIP",Inter TV (720p)
@@ -9641,12 +9607,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/pl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8
 #EXTINF:0 tvg-id="TeletrakTV.cl" group-title="SPORT VIP",TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",THAILAND DHABI SPORTS HD3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",THAILAND Dubai SPORT 2 HD
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",THAILAND Dubai SPORT 3 HD
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",THAILAND TRACE SPORT STARS
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",The Boat Show
@@ -9741,10 +9701,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:0 tvg-id="TyCSports.ar" group-title="SPORT VIP",TYC SPORTS
 http://45.179.140.242:8000/play/a0k7
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",UAE_Dubai Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",UAE_Dubai Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",ULTRA REX r
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",United Fight Alliance
