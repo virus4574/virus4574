@@ -369,7 +369,7 @@ http://94.250.2.6:10600/play/uOcKOWbtpc
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena3.png",Arena Sport 3 🇭🇷ᴴᴰ
 http://94.250.2.6:10600/play/Fj6334HwK3
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Live Sports",Arena Sport 1 HD
-http://80.252.37.194:5000/udp/233.233.233.3:12000/master.m3u8
+http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Live Sports",Arena Sport 2 HD
 http://80.252.37.194:5000/udp/233.233.233.4:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Live Sports",Arena Sport 3 HD
@@ -3132,8 +3132,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_==.m3u8
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/h9UwGar.png" group-title="🇰🇼الكويت Kuwait",Alrai HD🇰🇼
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇰🇼الكويت Kuwait",Kuwait Drama
-http://154.58.202.131:8000/play/a01c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="🇰🇼الكويت Kuwait",Kuwait MarinaFM🇰🇼
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 
