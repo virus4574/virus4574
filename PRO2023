@@ -1223,7 +1223,7 @@ http://93.184.10.248/ZeeAflam/index.m3u8
 #EXTINF:0 tvg-id="ZeeAlwan.net" group-title="BOLLYWOOD بوليود",ZEE ALWAN
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
 https://bit.ly/3xYLaRh
@@ -2203,7 +2203,7 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC أم بي سي",|MBC| Bollywood SD
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC أم بي سي",mbc action
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uOdmrz" group-title="MBC أم بي سي",|MBC| Action
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QeYubR" group-title="MBC أم بي سي",|MBC| Panorama SD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
