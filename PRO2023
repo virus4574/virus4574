@@ -2863,12 +2863,15 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇩🇿الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
-#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="🇩🇿الجزائرALGERIEN",TV2 ALGERIE
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="🇩🇿الجزائرALGERIEN",TV2 ALGERIE🇩🇿
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie
+#EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie🇩🇿
 http://162.212.178.69:4242/bysid/808
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama Dz
+#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png" group-title="🇩🇿الجزائرALGERIEN",CNA🇩🇿
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
@@ -3153,25 +3156,8 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_==.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV SPORT EXTRA🇰🇼
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_==.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/h9UwGar.png" group-title="🇰🇼الكويت Kuwait",Alrai HD🇰🇼
-https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="🇰🇼الكويت Kuwait",Kuwait 1 TV FHD🇰🇼
-http://154.58.202.131:8000/play/a014
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="🇰🇼الكويت Kuwait",Kuwait 2 TV FHD🇰🇼
-http://154.58.202.131:8000/play/a015
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="🇰🇼الكويت Kuwait",kuwait ETHRAA FHD🇰🇼
-http://154.58.202.131:8000/play/a018
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="🇰🇼الكويت Kuwait",Kuwait AL Arabi TV FHD🇰🇼
-http://154.58.202.131:8000/play/a019
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="🇰🇼الكويت Kuwait",Al Qurain TV FHD🇰🇼
-http://154.58.202.131:8000/play/a01b
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="🇰🇼الكويت Kuwait",kuwait S.plus FHD🇰🇼
-http://154.58.202.131:8000/play/a017
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="🇰🇼الكويت Kuwait",KTV Sport FHD🇰🇼
-http://154.58.202.131:8000/play/a016
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="🇰🇼الكويت Kuwait",Kuwait AL Majlis TV FHD🇰🇼
-http://154.58.202.131:8000/play/a01a
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇰🇼الكويت Kuwait",Kuwait Drama
 http://154.58.202.131:8000/play/a01c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="🇰🇼الكويت Kuwait",Kuwait MarinaFM🇰🇼
