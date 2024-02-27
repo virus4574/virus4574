@@ -319,11 +319,37 @@ http://138.201.222.250:1985/stream/SSC-EXTRA-2-1080/master.m3u8
 http://138.201.222.250:1985/stream/SSC-EXTRA-3-720/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SSC SPORT",SSC-EXTRA-3-1080
 http://138.201.222.250:1985/stream/SSC-EXTRA-3-1080/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 1 FHD
+http://45.129.199.42:1234/stream/alfajertv/alfajer1fhd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 1 HD
+http://45.129.199.42:1234/stream/alfajertv/alfajer1hd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 2 FHD
+http://45.129.199.42:1234/stream/alfajertv/alfajer2fhd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 2 HD
+http://45.129.199.42:1234/stream/alfajertv/alfajer2hd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 3 FHD
+http://45.129.199.42:1234/stream/alfajertv/alfajer3fhd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 3 HD
+http://45.129.199.42:1234/stream/alfajertv/alfajer3hd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 4 FHD
+http://45.129.199.42:1234/stream/alfajertv/alfajer4fhd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 4 HD
+http://45.129.199.42:1234/stream/alfajertv/alfajer4hd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 5 FHD
+http://45.129.199.42:1234/stream/alfajertv/alfajer5fhd/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IaDOii" group-title="AL FAJER TV",AL FAJER 5 HD
+http://45.129.199.42:1234/stream/alfajertv/alfajer5hd/master.m3u8
+
+
 
 #EXTINF:-1 group-title="OdinNSporTR",beIN Sports 1 HD TR🏆
 https://jankdomains.store/panel/pasha/bein1.m3u8
