@@ -2332,12 +2332,23 @@ https://daiconnect.com/live/hls/rotana/romance/.m3u8
 https://daiconnect.com/live/hls/rotana/mplus/.m3u8
 #EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="ROTANA روتانا",Rotana+
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3HysmwD" group-title="ROTANA روتانا",Rotana M+ HD
-http://45.159.14.109:4022/udp/239.100.0.4:1234
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3u1WrBE" group-title="ROTANA روتانا",Rotana Aflam+ HD
-http://45.159.14.109:4022/udp/239.100.0.5:1234
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42fuVwW" group-title="ROTANA روتانا",Rotana Cinema France HD
-http://45.159.14.109:4022/udp/239.100.0.18:1234
+
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema HD
+http://154.54.220.67:34780/play/a06g
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic HD
+http://154.54.220.67:34780/play/a06i
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Clip HD
+http://154.54.220.67:34780/play/a06o
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Comedy HD
+http://154.54.220.67:34780/play/a06h
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Drama HD
+http://154.54.220.67:34780/play/a06k
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Khalijeah HD
+http://154.54.220.67:34780/play/a06j
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music HD
+http://154.54.220.67:34780/play/a06l
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="ROTANA روتانا",ROTANA TARAB HD
 http://188.247.86.67:8008/3
