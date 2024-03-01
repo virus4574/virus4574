@@ -2370,6 +2370,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="Syria سورية",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria سورية",Drama دراما
+http://gineu8.bozztv.com/gin-36bay4/ga-syriandramatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria سورية",LANA TV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD
@@ -2395,7 +2397,6 @@ http://37.122.156.107:4000/play/a069/index.m3u8
 http://154.58.202.131:8000/play/a08k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria سورية",Syrian News
 http://154.58.202.131:8000/play/a08n
-
 #EXTINF:0 tvg-id="ext" group-title="Syria سورية",SYRIA CH1
 http://154.58.202.131:8000/play/a08m
 #EXTINF:0 tvg-id="ext" group-title="Syria سورية",ALALAM SYRIA
