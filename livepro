@@ -306,22 +306,6 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD 🇸🇦
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
 
-#EXTINF:-1 group-title="OdinNSporTR",beIN Sports 1 HD TR🏆
-https://jankdomains.store/panel/pasha/bein1.m3u8
-#EXTINF:-1 group-title="OdinNSporTR",beIN Sports 2 HD TR🏆
-https://jankdomains.store/panel/pasha/bein2.m3u8
-#EXTINF:-1 group-title="OdinNSporTR",beIN Sports 3 HD TR🏆
-https://jankdomains.store/panel/pasha/bein3.m3u8
-#EXTINF:-1 group-title="OdinNSporTR",beIN Sports 4 HD TR🏆
-https://jankdomains.store/panel/pasha/bein4.m3u8
-#EXTINF: -1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="OdinNSporTR",BeIN Sports1 ʜᴅ-ODİN
-https://odin.7545c95540dc.shop/1/chunk_hd.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://odin.3c84d55e127.click/1/chunk_hd.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#https://odin.3c84d55e127.click/1/chunk_hd.m3u8?v=ads2
-#EXTINF: -1 tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OdinNSporTR", BeIN Sports2 ʜᴅ -ODİN
-https://odin.7545c95540dc.shop/2/chunk_hd.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
-#EXTINF: -1 tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="OdinNSporTR",BeIN Sports3 ʜᴅ -ODİN
-https://odin.7545c95540dc.shop/3/chunk_hd.m3u8?|User-Agent=NetSurf/2.0 (RISC OS; armv3l)
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",Live Sports⚽️
 https://bit.ly/3xYLaRh
@@ -2427,7 +2411,9 @@ http://37.122.156.107:4000/play/a05x/index.m3u8
 http://37.122.156.107:4000/play/a063/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LEBANON لبنان",NBN
 http://37.122.156.107:4000/play/a062/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON لبنان",تلفزيون لبنان
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",🇵🇸كيف احصل على الكود
