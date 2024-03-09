@@ -1068,6 +1068,511 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vida
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🇵🇹Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="rtp1.pt" group-title="🇵🇹Portugal",RTP1
+http://213.13.16.138/shls/LIVE%24RTP1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="rtp2.pt" group-title="🇵🇹Portugal",RTP2
+http://213.13.16.138/shls/LIVE%24RTP_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",RTP3
+http://213.13.16.138/shls/LIVE%24RTP_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sic.pt" group-title="🇵🇹Portugal",SIC
+http://213.13.16.138/shls/LIVE%24SIC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVI.pt" group-title="🇵🇹Portugal",TVI
+http://213.13.16.138/shls/LIVE%24TVI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="🇵🇹Portugal",SIC Notícias
+http://213.13.16.138/shls/LIVE%24SIC_Noticias_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVI24.pt" group-title="🇵🇹Portugal",CNN Portugal
+http://213.13.16.138/shls/LIVE%24TVI24_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CMTV.pt" group-title="🇵🇹Portugal",CMTV
+http://213.13.16.138/shls/LIVE%24CMTVHD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="🇵🇹Portugal",SIC Mulher
+http://213.13.16.138/shls/LIVE%24SIC_Mulher_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Globosp.br" group-title="🇵🇹Portugal",Globo
+http://213.13.16.138/shls/LIVE%24Globo_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",11
+http://213.13.16.138/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="🇵🇹Portugal",TVI Ficção
+http://213.13.16.138/shls/LIVE%24TVIFI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="🇵🇹Portugal",A Bola TV
+http://213.13.16.138/shls/LIVE%24ABOLA_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="🇵🇹Portugal",Porto Canal
+http://213.13.16.138/shls/LIVE%24Porto_Canal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="🇵🇹Portugal",RTP Açores
+http://213.13.16.138/shls/LIVE%24RTP_AC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="🇵🇹Portugal",Sport TV +
+http://213.13.16.138/shls/LIVE%24SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SportTV1.svn" group-title="🇵🇹Portugal",Sport TV1
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="🇵🇹Portugal",Sport TV2
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Sportv3.br" group-title="🇵🇹Portugal",Sport TV3
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Sport TV4
+http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Sport TV5
+http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Sport TV6
+http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="NBA.blt" group-title="🇵🇹Portugal",NBA TV
+http://213.13.16.138/shls/LIVE%24NBA_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="baltijos-lt" group-title="🇵🇹Portugal",BTV
+http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 1
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 2
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 3
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 4
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 5
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 6
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="🇵🇹Portugal",Sporting TV HD
+http://213.13.16.138/shls/LIVE%24Sporting_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="esp" group-title="🇵🇹Portugal",Eurosport 1
+http://213.13.16.138/shls/LIVE%24Eurosport_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="esp2" group-title="🇵🇹Portugal",Eurosport 2
+http://213.13.16.138/shls/LIVE%24Eurosport_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="🇵🇹Portugal",Biggs
+http://213.13.16.138/shls/LIVE%24Panda_Biggs/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SicK.pt" group-title="🇵🇹Portugal",SIC K
+http://213.13.16.138/shls/LIVE%24SIC_K_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="🇵🇹Portugal",Nickelodeon
+http://213.13.16.138/shls/LIVE%24Nickelodeon/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="🇵🇹Portugal",Disney Junior
+http://213.13.16.138/shls/LIVE%24Disney_Junior_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Panda.es" group-title="🇵🇹Portugal",Panda
+http://213.13.16.138/shls/LIVE%24Panda_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="baby-tv" group-title="🇵🇹Portugal",Baby TV
+http://213.13.16.138/shls/LIVE%24Baby_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="LollyKids.pt" group-title="🇵🇹Portugal",Lolly Kids
+http://213.13.16.138/shls/LIVE%24Lolly_Kids_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Top
+http://213.13.16.138/shls/LIVE%24TVCine_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Edition
+http://213.13.16.138/shls/LIVE%24TVCine_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Emotion
+http://213.13.16.138/shls/LIVE%24TVCine_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Action
+http://213.13.16.138/shls/LIVE%24TVCine_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="🇵🇹Portugal",Cinemundo
+http://213.13.16.138/shls/LIVE%24Cinemundo_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="hollywood" group-title="🇵🇹Portugal",Hollywood
+http://213.13.16.138/shls/LIVE%24Hollywood_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="🇵🇹Portugal",FOX Movies
+http://213.13.16.138/shls/LIVE%24FOX_Movies_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mgm-int" group-title="🇵🇹Portugal",AMC
+http://213.13.16.138/shls/LIVE%24AMC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AXNMovies.pt" group-title="🇵🇹Portugal",AXN Movies HD
+http://213.13.16.138/shls/LIVE%24AXN_Black_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",MEO VideoClube
+http://213.13.16.138/shls/LIVE%24MEO_VideoClube_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fox-crime" group-title="🇵🇹Portugal",FOX
+http://213.13.16.138/shls/LIVE%24FOX_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fox-life" group-title="🇵🇹Portugal",FOX Life
+http://213.13.16.138/shls/LIVE%24FOX_Life_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fox-crime" group-title="🇵🇹Portugal",FOX Crime
+http://213.13.16.138/shls/LIVE%24FOX_Crime_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="🇵🇹Portugal",FOX Comedy
+http://213.13.16.138/shls/LIVE%24FOX_Comedy_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AXN.it" group-title="🇵🇹Portugal",AXN HD
+http://213.13.16.138/shls/LIVE%24AXN_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="🇵🇹Portugal",AXN White HD
+http://213.13.16.138/shls/LIVE%24AXN_White_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="🇵🇹Portugal",SyFy
+http://213.13.16.138/shls/LIVE%24SyFy_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Promo TVCine HD
+http://213.13.16.138/shls/LIVE%24TVSeries_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",MEO Destaques
+http://213.13.16.138/shls/LIVE%24MEO_Destaques_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="discov_rus" group-title="🇵🇹Portugal",Discovery Channel
+http://213.13.16.138/shls/LIVE%24Discovery_Channel_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="History.uk" group-title="🇵🇹Portugal",História
+http://213.13.16.138/shls/LIVE%24Historia_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="odisseia.pt" group-title="🇵🇹Portugal",Odisseia
+http://213.13.16.138/shls/LIVE%24Odisseia_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="natgeo" group-title="🇵🇹Portugal",National Geographic
+http://213.13.16.138/shls/LIVE%24National_Geographic_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="natgeowild" group-title="🇵🇹Portugal",National Geographic Wild
+http://213.13.16.138/shls/LIVE%24Nat_Geo_Wild_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="🇵🇹Portugal",RTP Memória
+http://213.13.16.138/shls/LIVE%24RTP_Memoria/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Q
+http://213.13.16.138/shls/LIVE%24Canal_Q_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sicradical.pt" group-title="🇵🇹Portugal",SIC Radical
+http://213.13.16.138/shls/LIVE%24SIC_Radical_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="🇵🇹Portugal",MTV Portugal
+http://213.13.16.138/shls/LIVE%24MTV_Portugal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="🇵🇹Portugal",AMC Break
+http://213.13.16.138/shls/LIVE%24Blaze_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="🇵🇹Portugal",Fuel TV
+http://213.13.16.138/shls/LIVE%24Fuel_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Gametoon.eu" group-title="🇵🇹Portugal",Gametoon
+http://213.13.16.138/shls/LIVE%24Game_Toon_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="🇵🇹Portugal",AMC Crime
+http://213.13.16.138/shls/LIVE%24Crime_Investigation_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="tlc-russia" group-title="🇵🇹Portugal",TLC
+http://213.13.16.138/shls/LIVE%24TLC/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Galeria
+http://213.13.16.138/shls/LIVE%24Galeria/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="🇵🇹Portugal",SIC Caras
+http://213.13.16.138/shls/LIVE%24SIC_Caras_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="E.blt" group-title="🇵🇹Portugal",E! Entertainment
+http://213.13.16.138/shls/LIVE%24E_Entertainment_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="🇵🇹Portugal",24Kitchen
+http://213.13.16.138/shls/LIVE%2424Kitchen_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fashion" group-title="🇵🇹Portugal",FTV
+http://213.13.16.138/shls/LIVE%24FTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",S+
+http://213.13.16.138/shls/LIVE%24Saude_Mais_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="vh1-europe" group-title="🇵🇹Portugal",MTV 00s
+http://213.13.16.138/shls/LIVE%24VH1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="🇵🇹Portugal",MTV Live
+http://213.13.16.138/shls/LIVE%24MTV_Live_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="🇵🇹Portugal",Trace Urban
+http://213.13.16.138/shls/LIVE%24Trace_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="🇵🇹Portugal",MCM POP
+http://213.13.16.138/shls/LIVE%24MCM_POP/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mcm-top" group-title="🇵🇹Portugal",MCM Top
+http://213.13.16.138/shls/LIVE%24MCM_TOP_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="🇵🇹Portugal",Clubbing TV
+http://213.13.16.138/shls/LIVE%24Clubbing_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="🇵🇹Portugal",Afro Music
+http://213.13.16.138/shls/LIVE%24Afro_Music/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TraceToca.fr" group-title="🇵🇹Portugal",Trace Toca
+http://213.13.16.138/shls/LIVE%24Trace_Toca_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Trace Brazuca
+http://213.13.16.138/shls/LIVE%24Trace_Brazuca_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Alma Lusa
+http://213.13.16.138/shls/LIVE%24Alma_Lusa_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mezzo-hd" group-title="🇵🇹Portugal",Mezzo Live HD
+http://213.13.16.138/shls/LIVE%24Mezzo_Live_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="StingrayBrava.fr" group-title="🇵🇹Portugal",Stingray Classica
+http://213.13.16.138/shls/LIVE%24Brava_HDTV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="iconcerts_hd" group-title="🇵🇹Portugal",Stingray iConcerts
+http://213.13.16.138/shls/LIVE%24iCONCERTS/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Stingray Loud
+http://213.13.16.138/shls/LIVE%24Stingray_Loud_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Stingray Retro
+http://213.13.16.138/shls/LIVE%24Stingray_Retro_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="🇵🇹Portugal",RTP Açores
+http://213.13.16.138/shls/LIVE%24RTP_AC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ARTV.pt" group-title="🇵🇹Portugal",ARTV
+http://213.13.16.138/shls/LIVE%24AR_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Localvisão TV
+http://213.13.16.138/shls/LIVE%24Localvisao_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",MEO Kanal
+http://213.13.16.138/shls/LIVE%24MEO_Kanal/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="🇵🇹Portugal",Toros TV
+http://213.13.16.138/shls/LIVE%24Toros_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="🇵🇹Portugal",Caça e Pesca
+http://213.13.16.138/shls/LIVE%24Caca_e_Pesca_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="🇵🇹Portugal",Caçavision
+http://213.13.16.138/shls/LIVE%24Cacavision_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",CANAL 180
+http://213.13.16.138/shls/LIVE%24CANAL_180/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Kuriakos TV
+http://213.13.16.138/shls/LIVE%24Kuriakos_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="🇵🇹Portugal",Canção Nova
+http://213.13.16.138/shls/LIVE%24Cancao_Nova_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TV Verdade
+http://213.13.16.138/shls/LIVE%24TV_Verdade_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="DogTV354.us" group-title="🇵🇹Portugal",Dog TV
+http://213.13.16.138/shls/LIVE%24DOGTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="pfc.pt" group-title="🇵🇹Portugal",PFC
+http://213.13.16.138/shls/LIVE%24PFC/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Globonews.br" group-title="🇵🇹Portugal",Globo News
+http://213.13.16.138/shls/LIVE%24Globo_Premium_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RecordTV.uk" group-title="🇵🇹Portugal",Record TV
+http://213.13.16.138/shls/LIVE%24TV_Record_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="euro" group-title="🇵🇹Portugal",Euronews
+http://213.13.16.138/shls/LIVE%24Euronews/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="🇵🇹Portugal",RTP África
+http://213.13.16.138/shls/LIVE%24RTP_Africa/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="tpa.sp" group-title="🇵🇹Portugal",TPA Internacional
+http://213.13.16.138/shls/LIVE%24TPA_INTERNACIONAL/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TCV Internacional
+http://213.13.16.138/shls/LIVE%24TCV_Internacional/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="cnn" group-title="🇵🇹Portugal",CNN
+http://213.13.16.138/shls/LIVE%24CNN/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="bloomberg" group-title="🇵🇹Portugal",Bloomberg
+http://213.13.16.138/shls/LIVE%24Bloomberg/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Skynews.gr" group-title="🇵🇹Portugal",SKY News
+http://213.13.16.138/shls/LIVE%24Sky_News/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="bbc-world" group-title="🇵🇹Portugal",BBC World News
+http://213.13.16.138/shls/LIVE%24BBC_World/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="bbc-entertainment" group-title="🇵🇹Portugal",BBC Entertainment
+http://213.13.16.138/shls/LIVE%24BBC_Entertainment/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="france24" group-title="🇵🇹Portugal",France 24 (I)
+http://213.13.16.138/shls/LIVE%24France_24_I/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Nhk.br" group-title="🇵🇹Portugal",NHK World Japan
+http://213.13.16.138/shls/LIVE%24NHK_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CGTN.cn" group-title="🇵🇹Portugal",CGTN
+http://213.13.16.138/shls/LIVE%24CGTN_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",CGTN Documentary
+http://213.13.16.138/shls/LIVE%24CGTN_Documentary/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="euro" group-title="🇵🇹Portugal",Euronews (I)
+http://213.13.16.138/shls/LIVE%24Euronews_ing_hd/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="dwelle" group-title="🇵🇹Portugal",Deutsche Welle (I)
+http://213.13.16.138/shls/LIVE%24Deutsche_Welle_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="🇵🇹Portugal",Aljazeera
+http://213.13.16.138/shls/LIVE%24AlJazeera_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="🇵🇹Portugal",TRT World
+http://213.13.16.138/shls/LIVE%24TRT_World_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="russia-today" group-title="🇵🇹Portugal",Russia Today
+http://213.13.16.138/shls/LIVE%24RUSSIA_TODAY_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Channel1Russia.se" group-title="🇵🇹Portugal",Channel 1 Russia
+http://213.13.16.138/shls/LIVE%24CHANNEL_1_RUSSIA/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Globovision
+http://213.13.16.138/shls/LIVE%24Globovision/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Cubavision.es" group-title="🇵🇹Portugal",Cubavision
+http://213.13.16.138/shls/LIVE%24Cubavision/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Antena3 Internacional
+http://213.13.16.138/shls/LIVE%24Antena_3_Internacional_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",A3 Series
+http://213.13.16.138/shls/LIVE%24A3_Series_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",A3 Cine
+http://213.13.16.138/shls/LIVE%24A3_Cine_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Somos.es" group-title="🇵🇹Portugal",Somos
+http://213.13.16.138/shls/LIVE%24Somos_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SolMusica.sp" group-title="🇵🇹Portugal",Sol Musica
+http://213.13.16.138/shls/LIVE%24Sol_Musica_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Cocina.es" group-title="🇵🇹Portugal",Canal Cocina
+http://213.13.16.138/shls/LIVE%24Canal_Cocina_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Decasa.es" group-title="🇵🇹Portugal",Decasa
+http://213.13.16.138/shls/LIVE%24Decasa_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="tv5monde" group-title="🇵🇹Portugal",TV5 Monde
+http://213.13.16.138/shls/LIVE%24TV5_Monde_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="🇵🇹Portugal",BFM TV
+http://213.13.16.138/shls/LIVE%24BFM_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="🇵🇹Portugal",BFM Business
+http://213.13.16.138/shls/LIVE%24BFM_Business/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",i24 News (F)
+http://213.13.16.138/shls/LIVE%24i24_News_F/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",France 24 (F)
+http://213.13.16.138/shls/LIVE%24France_24_F/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Deutsche Welle (A)
+http://213.13.16.138/shls/LIVE%24Deutsche_Welle_A/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Euronews (A)
+http://213.13.16.138/shls/LIVE%24Euronews_a/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="BVN.be" group-title="🇵🇹Portugal",BVN
+http://213.13.16.138/shls/LIVE%24BVN/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",PRO TV Internacional
+http://213.13.16.138/shls/LIVE%24PRO_TV_Internacional/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",BNT 4
+http://213.13.16.138/shls/LIVE%24BNT_SAT/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="kbs-world" group-title="🇵🇹Portugal",KBS World
+http://213.13.16.138/shls/LIVE%24KBS_World/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",CCTV4
+http://213.13.16.138/shls/LIVE%24CCTV_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="zee" group-title="🇵🇹Portugal",ZEE TV
+http://213.13.16.138/shls/LIVE%24ZEE_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="🇵🇹Portugal",ZEE CINEMA
+http://213.13.16.138/shls/LIVE%24ZEE_CINEMA/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SonyTVAsia.uk" group-title="🇵🇹Portugal",SET ASIA
+http://213.13.16.138/shls/LIVE%24SET_ASIA/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="🇵🇹Portugal",SET MAX
+http://213.13.16.138/shls/LIVE%24SET_MAX/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="rtp1.pt" group-title="🇵🇹Portugal",RTP1
+http://213.13.16.138/shls/LIVE%24RTP_1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="rtp2.pt" group-title="🇵🇹Portugal",RTP2
+http://213.13.16.138/shls/LIVE%24RTP_2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sic.pt" group-title="🇵🇹Portugal",SIC
+http://213.13.16.138/shls/LIVE%24SIC_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVI.pt" group-title="🇵🇹Portugal",TVI
+http://213.13.16.138/shls/LIVE%24TVI_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="🇵🇹Portugal",SIC Notícias
+http://213.13.16.138/shls/LIVE%24SIC_Noticias/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",RTP3
+http://213.13.16.138/shls/LIVE%24RTP_Informacao/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVI24.pt" group-title="🇵🇹Portugal",CNN Portugal
+http://213.13.16.138/shls/LIVE%24TVI24_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CMTV.pt" group-title="🇵🇹Portugal",CMTV
+http://213.13.16.138/shls/LIVE%24CMTV_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="🇵🇹Portugal",SIC Mulher
+http://213.13.16.138/shls/LIVE%24SIC_Mulher/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Globosp.br" group-title="🇵🇹Portugal",Globo
+http://213.13.16.138/shls/LIVE%24Globo/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",11
+http://213.13.16.138/shls/LIVE%24C11_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="🇵🇹Portugal",TVI Ficção
+http://213.13.16.138/shls/LIVE%24TVI_Ficcao/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="🇵🇹Portugal",A Bola TV
+http://213.13.16.138/shls/LIVE%24ABOLA_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Sport TV+
+http://213.13.16.138/shls/LIVE%24SPORTTV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="🇵🇹Portugal",Porto Canal
+http://213.13.16.138/shls/LIVE%24Porto_Canal/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="🇵🇹Portugal",RTP Açores
+http://213.13.16.138/shls/LIVE%24RTP_Acores/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SportTV1.svn" group-title="🇵🇹Portugal",Sport TV1
+http://213.13.16.138/shls/LIVE%24SPORTTV1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="🇵🇹Portugal",Sport TV2
+http://213.13.16.138/shls/LIVE%24SPORTTV2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Sportv3.br" group-title="🇵🇹Portugal",Sport TV3
+http://213.13.16.138/shls/LIVE%24SPORTTV3/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Sport TV4
+http://213.13.16.138/shls/LIVE%24SPORTTVLive/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Sport TV5
+http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="baltijos-lt" group-title="🇵🇹Portugal",BTV
+http://213.13.16.138/shls/LIVE%24Benfica_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 1
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 2
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 3
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 4
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 5
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Eleven 6
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="🇵🇹Portugal",Sporting TV
+http://213.13.16.138/shls/LIVE%24Sporting_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="esp" group-title="🇵🇹Portugal",Eurosport 1
+http://213.13.16.138/shls/LIVE%24Eurosport/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="esp2" group-title="🇵🇹Portugal",Eurosport 2
+http://213.13.16.138/shls/LIVE%24Eurosport_2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="disney" group-title="🇵🇹Portugal",Disney Channel
+http://213.13.16.138/shls/LIVE%24Disney_Channel/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="cartoon" group-title="🇵🇹Portugal",Cartoon Network
+http://213.13.16.138/shls/LIVE%24Cartoon_Network/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SicK.pt" group-title="🇵🇹Portugal",SIC K
+http://213.13.16.138/shls/LIVE%24SIC_K/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="🇵🇹Portugal",Disney Junior
+http://213.13.16.138/shls/LIVE%24Disney_Junior/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Panda.es" group-title="🇵🇹Portugal",Panda
+http://213.13.16.138/shls/LIVE%24Panda_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Top
+http://213.13.16.138/shls/LIVE%24TVCINE_1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Edition
+http://213.13.16.138/shls/LIVE%24TVCINE_2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",TVCine Emotion
+http://213.13.16.138/shls/LIVE%24TVCINE_3/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="🇵🇹Portugal",TVCine 4
+http://213.13.16.138/shls/LIVE%24TVCINE_4/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="🇵🇹Portugal",Cinemundo
+http://213.13.16.138/shls/LIVE%24CINEMUNDO/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="hollywood" group-title="🇵🇹Portugal",Hollywood
+http://213.13.16.138/shls/LIVE%24Hollywood/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="🇵🇹Portugal",FOX Movies
+http://213.13.16.138/shls/LIVE%24FOX_Movies/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mgm-int" group-title="🇵🇹Portugal",AMC
+http://213.13.16.138/shls/LIVE%24AMC/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="🇵🇹Portugal",AXN Movies
+http://213.13.16.138/shls/LIVE%24AXN_Black/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fox-crime" group-title="🇵🇹Portugal",FOX
+http://213.13.16.138/shls/LIVE%24FOX/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fox-life" group-title="🇵🇹Portugal",FOX Life
+http://213.13.16.138/shls/LIVE%24FOX_Life/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fox-crime" group-title="🇵🇹Portugal",FOX Crime
+http://213.13.16.138/shls/LIVE%24FOX_Crime/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="🇵🇹Portugal",FOX Comedy
+http://213.13.16.138/shls/LIVE%24FX/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AXN.bg" group-title="🇵🇹Portugal",AXN
+http://213.13.16.138/shls/LIVE%24AXN/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="🇵🇹Portugal",AXN White
+http://213.13.16.138/shls/LIVE%24AXN_White/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="🇵🇹Portugal",SyFy
+http://213.13.16.138/shls/LIVE%24SyFy/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Promo TVCine
+http://213.13.16.138/shls/LIVE%24TVSeries/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="discov_rus" group-title="🇵🇹Portugal",Discovery Channel
+http://213.13.16.138/shls/LIVE%24Discovery_Channel/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="History.uk" group-title="🇵🇹Portugal",História
+http://213.13.16.138/shls/LIVE%24Historia/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="odisseia.pt" group-title="🇵🇹Portugal",Odisseia
+http://213.13.16.138/shls/LIVE%24Odisseia/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="natgeo" group-title="🇵🇹Portugal",National Geographic
+http://213.13.16.138/shls/LIVE%24National_Geographic/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="natgeowild" group-title="🇵🇹Portugal",National Geographic Wild
+http://213.13.16.138/shls/LIVE%24Nat_Geo_Wild/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Q
+http://213.13.16.138/shls/LIVE%24Q/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sicradical.pt" group-title="🇵🇹Portugal",SIC Radical
+http://213.13.16.138/shls/LIVE%24SIC_Radical/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="🇵🇹Portugal",MTV Portugal
+http://213.13.16.138/shls/LIVE%24MTV_Portugal/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="🇵🇹Portugal",AMC Crime
+http://213.13.16.138/shls/LIVE%24Crime_Investigation/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="🇵🇹Portugal",SIC Caras
+http://213.13.16.138/shls/LIVE%24SIC_Caras/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="E.blt" group-title="🇵🇹Portugal",E! Entertainment
+http://213.13.16.138/shls/LIVE%24E_Entertainment/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="🇵🇹Portugal",24Kitchen
+http://213.13.16.138/shls/LIVE%2424Kitchen/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="fashion" group-title="🇵🇹Portugal",FTV
+http://213.13.16.138/shls/LIVE%24Fashion_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Maschic.mx" group-title="🇵🇹Portugal",Mas Chic
+http://213.13.16.138/shls/LIVE%24Casa_Club/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="🇵🇹Portugal",Trace Urban
+http://213.13.16.138/shls/LIVE%24Trace_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="mcm-top" group-title="🇵🇹Portugal",MCM TOP
+http://213.13.16.138/shls/LIVE%24MCM_TOP/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="🇵🇹Portugal",Clubbing TV
+http://213.13.16.138/shls/LIVE%24Clubbing_TV_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="🇵🇹Portugal",RTP Açores
+http://213.13.16.138/shls/LIVE%24RTP_AC/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="🇵🇹Portugal",RTP Madeira
+http://213.13.16.138/shls/LIVE%24RTP_Madeira/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="🇵🇹Portugal",RTP Madeira
+http://213.13.16.138/shls/LIVE%24RTP_Madeira/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",Localvisão TV
+http://213.13.16.138/shls/LIVE%24Localvisao_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="🇵🇹Portugal",Toros TV
+http://213.13.16.138/shls/LIVE%24TOROS_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="🇵🇹Portugal",Caça e Pesca
+http://213.13.16.138/shls/LIVE%24Caca_e_Pesca/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="🇵🇹Portugal",Caçavision
+http://213.13.16.138/shls/LIVE%24CACAVISION/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="🇵🇹Portugal",Canção Nova
+http://213.13.16.138/shls/LIVE%24Cancao_Nova/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="🇵🇹Portugal",UM Europa
+http://213.13.16.138/shls/LIVE%24UM_Europa/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="DogTV354.us" group-title="🇵🇹Portugal",Dog TV
+http://213.13.16.138/shls/LIVE%24DOGTV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Globonews.br" group-title="🇵🇹Portugal",Globo News
+http://213.13.16.138/shls/LIVE%24TV_Globo_Portugal/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RecordTV.uk" group-title="🇵🇹Portugal",Record TV
+http://213.13.16.138/shls/LIVE%24TV_Record/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="cnbc" group-title="🇵🇹Portugal",CNBC
+http://213.13.16.138/shls/LIVE%24CNBC_Europe/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="i24News.en.nws" group-title="🇵🇹Portugal",i24 News (I)
+http://213.13.16.138/shls/LIVE%24i24_News_I/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CGTN.cn" group-title="🇵🇹Portugal",CGTN
+http://213.13.16.138/shls/LIVE%24CGTN/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="euro" group-title="🇵🇹Portugal",Euronews (I)
+http://213.13.16.138/shls/LIVE%24Euronews_ing/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="🇵🇹Portugal",Aljazeera
+http://213.13.16.138/shls/LIVE%24AlJazeera/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="TVGalicia.sp" group-title="🇵🇹Portugal",TV Galícia
+http://213.13.16.138/shls/LIVE%24TV_Galicia/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="M6.fr" group-title="🇵🇹Portugal",M6
+http://213.13.16.138/shls/LIVE%24M6_SD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="tv5monde" group-title="🇵🇹Portugal",TV5 Monde
+http://213.13.16.138/shls/LIVE%24TV5_Monde/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="CCTV4.nws" group-title="🇵🇹Portugal",CCTV 4
+http://213.13.16.138/shls/LIVE%24CCTV_4/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="PhoenixCNE.es" group-title="🇵🇹Portugal",Phoenix CNE
+http://213.13.16.138/shls/LIVE%24PHOENIX_CNE/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Rai1.it" group-title="🇵🇹Portugal",RAI 1
+http://213.13.16.138/shls/LIVE%24RAI_1/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Rai2.it" group-title="🇵🇹Portugal",RAI 2
+http://213.13.16.138/shls/LIVE%24RAI_2/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="Rai3.it" group-title="🇵🇹Portugal",RAI 3
+http://213.13.16.138/shls/LIVE%24RAI_3/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RaiNews.it" group-title="🇵🇹Portugal",RAI News
+http://213.13.16.138/shls/LIVE%24RAI_News/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="🇵🇹Portugal",RAI Scuola
+http://213.13.16.138/shls/LIVE%24RAI_Scuola/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="🇵🇹Portugal",RAI Storia
+http://213.13.16.138/shls/LIVE%24RAI_Storia/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1 group-title="🇵🇹Portugal" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
