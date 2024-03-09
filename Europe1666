@@ -6134,146 +6134,161 @@ http://89.38.8.130:39443
 
 #EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="🇵🇱Poland",TVP
 http://78.129.193.20/tsstreamer/TVP_SD.ts
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="🇵🇱Poland",TVP 1 
-https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="🇵🇱Poland",TVP 2 
-https://cdn-main.lolokoko.tv/TVP2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="🇵🇱Poland",TVP3 Warszawa 
-https://cdn-main.lolokoko.tv/TVP3Warszawa.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="" group-title="🇵🇱Poland",TVP SERIALE
-https://cdn-main.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVP Historia
-http://146.59.54.163/history2/index.m3u8
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png" group-title="🇵🇱Poland",TVP Info 
-https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="🇵🇱Poland",Nick Jr. 
-https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇵🇱Poland",Nickelodeon 
-https://cdn-main.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="🇵🇱Poland",Nicktoons 
-https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NutaTV.pl" tvg-logo="https://i.imgur.com/JHFUxDu.png" group-title="🇵🇱Poland",Nuta TV 
-https://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-logo="https://i.imgur.com/GEJZjRB.png" group-title="🇵🇱Poland",Polo TV 
-https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png" group-title="🇵🇱Poland",Polsat 2 
-https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="🇵🇱Poland",Polsat 
-https://cdn-main.lolokoko.tv/Polsat.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="🇵🇱Poland",Polsat Film 
-https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/512px-Polsat_News_2_2021_gradient.svg.png" group-title="🇵🇱Poland",Polsat News 2 
-https://cdn-main.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="🇵🇱Poland",Polsat News 
-https://cdn-main.lolokoko.tv/PolsatNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="🇵🇱Poland",Puls 2 
-https://cdn-main.lolokoko.tv/TVPuls2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="🇵🇱Poland", Polsat Sport Premium 1
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="🇵🇱Poland", Polsat Sport Premium 2
-http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="🇵🇱Poland",TVP Sport 
-https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CBeebies.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="🇵🇱Poland",CBeebies (Poland) 
-https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="🇵🇱Poland",Disney Junior 
-https://cdn-main.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="🇵🇱Poland",Disney XD 
-https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="🇵🇱Poland",BBC First (Poland) 
-https://cdn-main.lolokoko.tv/BBCHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="StopklatkaTV.pl" tvg-logo="https://i.imgur.com/qqNsIkx.png" group-title="🇵🇱Poland",Stopklatka TV 
-https://cdn-main.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="🇵🇱Poland",TV Trwam 
-https://cdn-main.lolokoko.tv/TVTrwam.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPuls.pl" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="🇵🇱Poland",TV Puls 
-https://cdn-main.lolokoko.tv/TVPuls.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",FilmBoxExtra
-https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
-
-
-#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="🇵🇱Poland",FilmBox Action PL
-https://cdn-main.lolokoko.tv/FilmBoxAction.stream/chunks.m3u8
-#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="🇵🇱Poland",FilmBox Family PL
-https://cdn-main.lolokoko.tv/FilmBoxFamily.stream/chunks.m3u8
-#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="🇵🇱Poland",FilmBox Arthouse PL
-https://cdn-main.lolokoko.tv/FilmBoxArthouse.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Cinemax PL
-https://cdn-main.lolokoko.tv/CinemaxHD.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",HBO PL
-https://cdn-main.lolokoko.tv/HBO.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",HBO 2 PL
-https://cdn-main.lolokoko.tv/HBO2.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",HBO 3 PL
-https://cdn-main.lolokoko.tv/HBO3.stream/chunks.m3u8
-#EXTINF:0 tvg-id="Fox.pl" group-title="🇵🇱Poland",FOX PL
-https://cdn-main.lolokoko.tv/FOXPolska.stream/chunks.m3u8
-#EXTINF:0 tvg-id="FoxComedy.pl" group-title="🇵🇱Poland",FOX Comedy PL
-https://cdn-main.lolokoko.tv/FOXComedy.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",WarnerTV PL
-https://cdn-main.lolokoko.tv/TNT.stream/chunks.m3u8
 #EXTINF:0 tvg-id="AMC.pl" group-title="🇵🇱Poland",AMC PL
-https://cdn-main.lolokoko.tv/amc.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",MTV PL
-https://cdn-main.lolokoko.tv/mtvpolska.stream/chunks.m3u8
-#EXTINF:0 tvg-id="13Ulica.pl" group-title="🇵🇱Poland",13 Ulica PL
-https://cdn-main.lolokoko.tv/13Ulica.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Syfy PL
-https://cdn-main.lolokoko.tv/SciFi.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",AXN PL
-https://cdn-main.lolokoko.tv/axnpolska.stream/chunks.m3u8
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="🇵🇱Poland",AXN White
-https://cdn-main.lolokoko.tv/axnwhite.stream/chunks.m3u8
-#EXTINF:0 tvg-id="AXNBlack.pl" group-title="🇵🇱Poland",AXN Black PL
-https://cdn-main.lolokoko.tv/axnblack.stream/chunks.m3u8
-#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="🇵🇱Poland",AXN Spin PL
-https://cdn-main.lolokoko.tv/axnspin.stream/chunks.m3u8
-#EXTINF:0 tvg-id="Filmbox.pl" group-title="🇵🇱Poland",Kino TV PL
-https://cdn-main.lolokoko.tv/filmbox.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Bollywood PL
-https://cdn-main.lolokoko.tv/bollywood.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/amc.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Ale Kino PL
-https://cdn-main.lolokoko.tv/alekino.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="🇵🇱Poland",Comedy Central PL
-https://cdn-main.lolokoko.tv/ComedyCentralPolska.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/alekino.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",AXN PL
+https://cdn-nvm-chicago.lolokoko.tv/axnpolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="🇵🇱Poland",AXN White
+https://cdn-nvm-chicago.lolokoko.tv/axnwhite.stream/chunks.m3u8
+#EXTINF:0 tvg-id="AXNBlack.pl" group-title="🇵🇱Poland",AXN Black PL
+https://cdn-nvm-chicago.lolokoko.tv/axnblack.stream/chunks.m3u8
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="🇵🇱Poland",AXN Spin PL
+https://cdn-nvm-chicago.lolokoko.tv/axnspin.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",BBC First PL
+https://cdn-nvm-chicago.lolokoko.tv/bbcbritpolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Bollywood PL
+https://cdn-nvm-chicago.lolokoko.tv/bollywood.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Film PL
-https://cdn-main.lolokoko.tv/CanalPlusFilm.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusFilm.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Premium PL
-https://cdn-main.lolokoko.tv/CanalPlusHD.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusHD.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Family PL
-https://cdn-main.lolokoko.tv/CanalPlusFamily.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusFamily.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Seriale PL
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusSeriale.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Sport 2 PL
+https://cdn-nvm-chicago.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Sport 3 PL
+https://cdn-nvm-chicago.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Sport 4 PL
+https://cdn-nvm-chicago.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+#EXTINF:0 tvg-id="esp" group-title="🇵🇱Poland",Eurosport 1
+https://cdn-nvm-chicago.lolokoko.tv/Eurosport1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="🇵🇱Poland",Eurosport 2
+https://cdn-nvm-chicago.lolokoko.tv/Eurosport2polska.stream/playlist.m3u8
+#EXTINF:0 tvg-id="fight-box-hd" group-title="🇵🇱Poland",Fightbox HD
+https://cdn-nvm-chicago.lolokoko.tv/Fightbox.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Cinemax PL
+https://cdn-nvm-chicago.lolokoko.tv/CinemaxHD.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="🇵🇱Poland",Comedy Central PL
+https://cdn-nvm-chicago.lolokoko.tv/ComedyCentralPolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="🇵🇱Poland",FilmBox Extra PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="🇵🇱Poland",FilmBox Action PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxAction.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="🇵🇱Poland",FilmBox Family PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxFamily.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="🇵🇱Poland",FilmBox Arthouse PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxArthouse.stream/chunks.m3u8
+#EXTINF:0 tvg-id="Fox.pl" group-title="🇵🇱Poland",FOX PL
+https://cdn-nvm-chicago.lolokoko.tv/FOXPolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="🇵🇱Poland",FOX Comedy PL
+https://cdn-nvm-chicago.lolokoko.tv/FOXComedy.stream/chunks.m3u8
+#EXTINF:0 tvg-id="4fun.pl" group-title="🇵🇱Poland",4Fun TV PL
+https://cdn-nvm-chicago.lolokoko.tv/4funtv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="4FunDance.pl" group-title="🇵🇱Poland",4Fun Dance PL
+https://cdn-nvm-chicago.lolokoko.tv/4fundance.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",HBO PL
+https://cdn-nvm-chicago.lolokoko.tv/HBO.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",HBO 2 PL
+https://cdn-nvm-chicago.lolokoko.tv/HBO2.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",HBO 3 PL
+https://cdn-nvm-chicago.lolokoko.tv/HBO3.stream/chunks.m3u8
+#EXTINF:0 tvg-id="Filmbox.pl" group-title="🇵🇱Poland",Kino TV PL
+https://cdn-nvm-chicago.lolokoko.tv/filmbox.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",MTV PL
+https://cdn-nvm-chicago.lolokoko.tv/mtvpolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Novela TV PL
+https://cdn-nvm-chicago.lolokoko.tv/Novela.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Polonia 1 PL
+https://cdn-nvm-chicago.lolokoko.tv/Polonia1.stream/chunks.m3u8
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="🇵🇱Poland",Polsat Film PL
+https://cdn-nvm-chicago.lolokoko.tv/PolsatFilm.stream/chunks.m3u8
+#EXTINF:0 tvg-id="Polsat.pl" group-title="🇵🇱Poland",Polsat HD PL
+https://cdn-nvm-chicago.lolokoko.tv/Polsat.stream/chunks.m3u8
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="🇵🇱Poland",Polsat 2 PL
+https://cdn-nvm-chicago.lolokoko.tv/Polsat2.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Polsat Music PL
+https://cdn-nvm-chicago.lolokoko.tv/polsatmusic.stream/chunks.m3u8
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="🇵🇱Poland",Polsat Sport PL
+https://cdn-nvm-chicago.lolokoko.tv/polsatsport.stream/chunks.m3u8
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="🇵🇱Poland",Polsat Sport Extra PL
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Polsat Sport 1
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Polsat Sport 2
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Polsat Sport News PL
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Super Polsat PL
 http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Polonia 1 PL
-https://cdn-main.lolokoko.tv/Polonia1.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",TELE 5 HD PL
-http://146.59.54.163/TELE-5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",TELE 5 PL
-https://cdn-main.lolokoko.tv/Tele5.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/Tele5.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",TV PULS PL
-https://cdn-main.lolokoko.tv/TVPuls.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/TVPuls.stream/chunks.m3u8
 #EXTINF:0 tvg-id="TVPSeriale.pl" group-title="🇵🇱Poland",TVP SERIALE
-https://cdn-main.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Canal+ Seriale PL
-https://cdn-main.lolokoko.tv/CanalPlusSeriale.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",TVP PL
-https://cdn-main.lolokoko.tv/tvppolonia.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/tvppolonia.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",TVP 1 PL
-https://cdn-main.lolokoko.tv/TVP1.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/TVP1.stream/chunks.m3u8
 #EXTINF:0 tvg-id="TVP2.pl" group-title="🇵🇱Poland",TVP 2 PL
-https://cdn-main.lolokoko.tv/TVP2.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/TVP2.stream/chunks.m3u8
 #EXTINF:0 tvg-id="TV4.pl" group-title="🇵🇱Poland",TV 4 PL
-https://cdn-main.lolokoko.tv/TV4.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/TV4.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",TV 6 PL
-https://cdn-main.lolokoko.tv/TV6.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/TV6.stream/chunks.m3u8
 #EXTINF:0 tvg-id="TVN.pl" group-title="🇵🇱Poland",TVN PL
-https://cdn-main.lolokoko.tv/tvn.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Novela TV PL
-https://cdn-main.lolokoko.tv/Novela.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Romance TV PL
-https://cdn-main.lolokoko.tv/Romance.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",BBC First PL
-https://cdn-main.lolokoko.tv/bbcbritpolska.stream/chunks.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/tvn.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Romance TV HD PL
+https://cdn-nvm-chicago.lolokoko.tv/Romance.stream/chunks.m3u8
+#EXTINF:0 tvg-id="StarsTV.pl" group-title="🇵🇱Poland",Stars TV PL
+https://cdn-nvm-chicago.lolokoko.tv/starstv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Syfy PL
+https://cdn-nvm-chicago.lolokoko.tv/SciFi.stream/chunks.m3u8
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="🇵🇱Poland",13 Ulica PL
+https://cdn-nvm-chicago.lolokoko.tv/13Ulica.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",WarnerTV PL
+https://cdn-nvm-chicago.lolokoko.tv/TNT.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ViasatHistory.pl" group-title="🇵🇱Poland",Polsat Viasat History HD
+https://cdn-nvm-chicago.lolokoko.tv/ViasatHistory.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ViasatNature.pl" group-title="🇵🇱Poland",Polsat Viasat Nature HD
+https://cdn-nvm-chicago.lolokoko.tv/ViasatNature.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ViasatExplorer.pl" group-title="🇵🇱Poland",Polsat Viasat Explore HD
+https://cdn-nvm-chicago.lolokoko.tv/ViasatExplore.stream/chunks.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="🇵🇱Poland",National Geographic
+https://cdn-nvm-chicago.lolokoko.tv/NationalGeographic.stream/chunks.m3u8
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="🇵🇱Poland",Nat Geo People HD
+https://cdn-nvm-chicago.lolokoko.tv/NatGeoPeople.stream/chunks.m3u8
+#EXTINF:0 tvg-id="TeletoonPlusHD.ge" group-title="🇵🇱Poland",teleTOON+ HD
+https://cdn-nvm-chicago.lolokoko.tv/teleTOON.stream/chunks.m3u8
+#EXTINF:0 tvg-id="NickelodeonHD.pl" group-title="🇵🇱Poland",Nicktoons HD
+https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/chunks.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="🇵🇱Poland",Nickelodeon
+https://cdn-nvm-chicago.lolokoko.tv/Nickelodeon.stream/chunks.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="🇵🇱Poland",Nick Jr
+https://cdn-nvm-chicago.lolokoko.tv/NickJr.stream/chunks.m3u8
+#EXTINF:0 tvg-id="NickMusic.nl" group-title="🇵🇱Poland",Nick Music
+https://cdn-nvm-chicago.lolokoko.tv/NickMusic.stream/chunks.m3u8
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="🇵🇱Poland",Eska TV
+https://cdn-nvm-chicago.lolokoko.tv/Eskatv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="🇵🇱Poland",History
+https://cdn-nvm-chicago.lolokoko.tv/History.stream/chunks.m3u8
+#EXTINF:0 tvg-id="epic-drama" group-title="🇵🇱Poland",Epic Drama
+https://cdn-nvm-chicago.lolokoko.tv/EpicDrama.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="🇵🇱Poland",Nuta
+https://cdn-nvm-chicago.lolokoko.tv/nuta.stream/chunks.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="🇵🇱Poland",MTV
+https://cdn-nvm-chicago.lolokoko.tv/vivapolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="🇵🇱Poland",MTV
+https://cdn-nvm-chicago.lolokoko.tv/mtvpolska.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="🇵🇱Poland",Eleven Sport
+https://cdn-nvm-chicago.lolokoko.tv/Eleven2polska.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_TVS
 http://146.59.54.163/TVS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇱Poland",(PL)_Filmbox Extra
