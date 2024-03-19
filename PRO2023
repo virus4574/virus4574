@@ -2849,6 +2849,8 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 https://radio.shemsfm.net/shems
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36497bW" group-title="🇹🇳تونسTUNISIE",TUNISIE 🇹🇳راديو جوهرة
 http://streaming.toutech.net/live/jfm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TlJdrN" group-title="🇹🇳تونسTUNISIE", قناة الزيتونة
+https://video1.getstreamhosting.com:1936/8320/8320/chunklist.m3u8
 
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="🇹🇳تونسTUNISIE",iFm
 https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
