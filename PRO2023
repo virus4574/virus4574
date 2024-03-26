@@ -2198,7 +2198,7 @@ https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc867
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="Children أطفال ",BEIN :Cartoon_Network العربية
 https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="Children أطفال ",Majid 
+#EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال ",Majid 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a7ZM4N" group-title="Children أطفال ",GULLI-BIL-ARABI
 https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
@@ -2321,7 +2321,7 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC أم بي سي",|MBC| 1 SD
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC أم بي سي",|MBC| 3 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",|MBC| 3 SD
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="MBC أم بي سي",MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
@@ -2524,22 +2524,16 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="Syria سورية",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria سورية",Drama دراما
-http://gineu8.bozztv.com/gin-36bay4/ga-syriandramatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria سورية",LANA TV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria سورية",LANA TV  (1)
-http://5.253.46.190:7003/play/a0c9
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD (1)
 https://ythlsgo.onrender.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="Syria سورية",SYR-قناة اليوم
-https://ikomg1.s.llnwi.net/alyaum-tv/stream_2.m3u8
+https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1 group-title="Syria سورية" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV
 https://stream.sama-tv.net/hls/samatv.m3u8
-#EXTINF:-1 group-title="Syria سورية" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV (1)
-https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="Syria سورية",sham FM
 https://radioshamfm.grtvstream.com:8400/;
 
@@ -2547,7 +2541,7 @@ https://radioshamfm.grtvstream.com:8400/;
 https://vod.ortas.live/oLive/nour05042022/chunklist_w1683254017.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="Syria سورية",Souryana سوريانا 
 http://37.122.156.107:4000/play/a07q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria سورية",Drama دراما
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wDff6o" group-title="Syria سورية",Drama دراما
 http://37.122.156.107:4000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria سورية",Essouriya السورية 
 http://154.58.202.131:8000/play/a08k
