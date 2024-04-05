@@ -2253,6 +2253,17 @@ https://stream.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="Syria سورية",sham FM
 https://radioshamfm.grtvstream.com:8400/;
 
+#EXTINF:-1 group-title="Syria سورية" tvg-logo="",DRAMA 24
+http://80.79.4.232:8000/play/a001
+#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SAKAKER
+http://80.79.4.232:8000/play/a00b
+#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SPORT24
+http://80.79.4.232:8000/play/a00c
+#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SYRIA
+http://80.79.4.232:8000/play/a00e
+#EXTINF:-1 group-title="Syria سورية" tvg-logo="",SYRIA CH1
+http://80.79.4.232:8000/play/a00d
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="Syria سورية",Nour Eshham نور الشام 
 https://vod.ortas.live/oLive/nour05042022/chunklist_w1683254017.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="Syria سورية",Souryana سوريانا 
