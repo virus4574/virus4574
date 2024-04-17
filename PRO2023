@@ -930,9 +930,9 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV🇹🇷
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png",BIS HABER🇹🇷
-https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live/live.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR🇹🇷
-https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q.m3u8
+https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live/live.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/gk6YDEy.png",[$]TURKMENISTAN SPORT HD 🇹🇷
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD🇹🇷
@@ -1894,7 +1894,7 @@ http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" group-title="📰NEWS الاخبار",France 24 Arabic📰
 http://95.216.180.111:1935/live/26/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰NEWS الاخبار",CNBC Arabia
-https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+https://new.cache-stream.workers.dev/stream/UCsHdPPJXT-yKVTLGkn3DSvQ/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="📰NEWS الاخبار", روسيا اليوم
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",الوثائقية documentary🏞️
@@ -2388,7 +2388,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria سورية",LANA TV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD
-https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
+https://new.cache-stream.workers.dev/stream/UCnh5Faqn_r9HxeNd_dsvGHQ/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="Syria سورية",SYR-قناة اليوم
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1 group-title="Syria سورية" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV
@@ -2820,7 +2820,7 @@ https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="🇹🇳تونسTUNISIE",WATANIA 2
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="🇹🇳تونسTUNISIE",WATANIA 2+
-https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="🇹🇳تونسTUNISIE",NESSMA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="🇹🇳تونسTUNISIE",ALqanat9 TV 🇹🇳
@@ -2846,7 +2846,7 @@ https://bit.ly/3xYLaRh
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="🇩🇿الجزائرALGERIEN",TV2 ALGERIE🇩🇿
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="🇩🇿الجزائرALGERIEN",AL MAGHRIBIA2
-https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
+https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3KkxWog" group-title="🇩🇿الجزائرALGERIEN",Canal Algerie🇩🇿
 http://162.212.178.69:4242/bysid/808
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
@@ -4029,7 +4029,7 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="🕌Islami اسلامية",اسلاميةIslami🕌
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://alrahma.tv/images/logo-alrahma.jpg" group-title="🕌Islami اسلامية",Al Rahma
-https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
+https://new.cache-stream.workers.dev/stream/UCY9j0n2-prtlMHUnnLA9dTw/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zN4EZn" group-title="🕌Islami اسلامية",🕌قــاف
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ZP1Jdp" group-title="🕌Islami اسلامية",🕌دعوة
@@ -4037,11 +4037,11 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/41cxPkf" group-title="🕌Islami اسلامية",🕌إقرأ
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43sKOk7" group-title="🕌Islami اسلامية",قناة زاد
-https://new.cache-stream.workers.dev/stream/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
+https://new.cache-stream.workers.dev/stream/UCOll3M-P7oKs5cSrQ9ytt6g/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Md9nOO" group-title="🕌Islami اسلامية",🕌مــكّة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mmmTSn" group-title="🕌Islami اسلامية",Ayaat
-https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
+https://new.cache-stream.workers.dev/stream/UC89SSMnCKzXdZsIs_GB6QBg/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🕌Islami اسلامية",Iqraa Europe Africa🕌
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/43egzx3" group-title="🕌Islami اسلامية",Ssad tv🕌
@@ -4117,7 +4117,7 @@ https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷Turkey",ATV (backup)
 https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"tvg-id="" group-title="🇹🇷Turkey",ATV (backup)
-https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="🇹🇷Turkey",A2 ᵁᴴᴰ⁺
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/60
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="🇹🇷Turkey",STAR TV UHD
