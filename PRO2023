@@ -2399,6 +2399,14 @@ http://154.54.220.67:34780/play/a01p
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
 http://154.58.202.18:8080/mbc2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+http://154.58.202.185:8000/play/a049
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC Action
+http://154.58.202.185:8000/play/a048
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX
+http://154.58.202.185:8000/play/a04a
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",ROTANA HD
 https://bit.ly/3xYLaRh
@@ -2448,6 +2456,21 @@ http://154.54.220.67:34780/play/a06k
 http://154.54.220.67:34780/play/a06j
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music HD
 http://154.54.220.67:34780/play/a06l
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema HD
+http://154.58.202.185:8000/play/a0b4
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic HD
+http://154.58.202.185:8000/play/a0b6
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Clip HD
+http://154.58.202.185:8000/play/a0bc
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Comedy HD
+http://154.58.202.185:8000/play/a0b5
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Drama HD
+http://154.58.202.185:8000/play/a0b8
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Khalijeah HD
+http://154.58.202.185:8000/play/a0b7
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music HD
+http://154.58.202.185:8000/play/a0b9
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="ROTANA روتانا",ROTANA TARAB HD
@@ -2536,8 +2559,20 @@ http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC HD
+http://154.58.202.185:8000/play/a0ba
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC International
+http://154.58.202.185:8000/play/a00r
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD
+http://154.58.202.185:8000/play/a00s
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",MTV Lebanon HD
+http://154.58.202.185:8000/play/a00p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",NBN
+http://154.58.202.185:8000/play/a00u
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",Teleliban TV
+http://154.58.202.185:8000/play/a01u
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",Teleliban TV
+http://154.58.202.185:8000/play/a00x
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
