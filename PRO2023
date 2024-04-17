@@ -2307,14 +2307,14 @@ http://154.54.220.67:34780/play/a01q
 http://154.54.220.67:34780/play/a01o
 
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX HD
-http://37.122.156.107:4000/play/a07i/index.m3u8
+
 
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2 HD
 http://154.54.220.67:34780/play/a01p
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX HD
-http://37.122.156.107:4000/play/a0bb/index.m3u8
+
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC ACTION
-http://37.122.156.107:4000/play/a07h/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",ROTANA HD
@@ -2408,13 +2408,8 @@ http://80.79.4.232:8000/play/a00c
 http://80.79.4.232:8000/play/a00e
 #EXTINF:-1 group-title="Syria سورية" tvg-logo="",SYRIA CH1
 http://80.79.4.232:8000/play/a00d
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="Syria سورية",Nour Eshham نور الشام 
 https://vod.ortas.live/oLive/nour05042022/chunklist_w1683254017.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="Syria سورية",Souryana سوريانا 
-http://37.122.156.107:4000/play/a07q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wDff6o" group-title="Syria سورية",Drama دراما
-http://37.122.156.107:4000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria سورية",Essouriya السورية 
 http://154.58.202.131:8000/play/a08k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria سورية",Syrian News
@@ -2423,10 +2418,7 @@ http://154.58.202.131:8000/play/a08n
 http://154.58.202.131:8000/play/a08m
 #EXTINF:0 tvg-id="ext" group-title="Syria سورية",ALALAM SYRIA
 http://154.58.202.131:8000/play/a089
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Education
-http://37.122.156.107:4000/play/a07o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Satellite
-http://37.122.156.107:4000/play/a07n/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
@@ -2461,12 +2453,8 @@ http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zq6UWh" group-title="LEBANON لبنان",|AR| Ifilm Tv🇱🇧
 http://95.216.180.111:1935/live/15/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",ALJADEED TV HD
-http://37.122.156.107:4000/play/a05x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LEBANON لبنان",LBC International
-http://37.122.156.107:4000/play/a063/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LEBANON لبنان",NBN
-http://37.122.156.107:4000/play/a062/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
@@ -2529,7 +2517,6 @@ https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist.m3u8
 https://streaming2.qou.edu/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="🇵🇸فلسطينPALESTINE",AWDAH TV🇵🇸
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZzOPA4" group-title="🇵🇸فلسطينPALESTINE",Hettin🇵🇸
@@ -2705,34 +2692,7 @@ https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47R9S51" group-title="🇪🇬المصرية Egypt",Bee movies
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
 
-#EXTINF:0 tvg-id="cbc" group-title="🇪🇬المصرية Egypt",CBC
-http://37.122.156.107:4000/play/a085/index.m3u8
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="🇪🇬المصرية Egypt",CBC Drama
-http://37.122.156.107:4000/play/a087/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",CBC Sofra
-http://37.122.156.107:4000/play/a086/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Mix
-http://37.122.156.107:4000/play/a089/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Mix Bel Araby
-http://37.122.156.107:4000/play/a07m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Mix One
-http://37.122.156.107:4000/play/a081/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Cinema
-http://37.122.156.107:4000/play/a080/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Comedy
-http://37.122.156.107:4000/play/a07x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Culture
-http://37.122.156.107:4000/play/a098/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Drama
-http://37.122.156.107:4000/play/a07z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Life
-http://37.122.156.107:4000/play/a07y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile News
-http://37.122.156.107:4000/play/a07w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Sport
-http://37.122.156.107:4000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
@@ -2853,8 +2813,6 @@ https://new.cache-stream.workers.dev/stream/UCwKS2U-DwjPZZvM6mSXPKgA/live.m3u8
 http://162.212.178.69:4242/bysid/808
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk NEWS
 http://45.65.112.206:8000/play/a04i
@@ -8789,20 +8747,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SPILER 2 🇭🇺
 http://163.172.210.95:8000/play/a01c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 1 🇸🇦
-http://37.122.156.107:4000/play/a0c4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 2 🇸🇦
-http://37.122.156.107:4000/play/a0by/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 3 🇸🇦
-http://37.122.156.107:4000/play/a0bz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 4 🇸🇦
-http://37.122.156.107:4000/play/a0c0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 5 🇸🇦
-http://37.122.156.107:4000/play/a0c1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 6 🇸🇦
-http://37.122.156.107:4000/play/a0c2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORTS 7 🇸🇦
-http://37.122.156.107:4000/play/a0c3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",SKY SPORTS LALIGA 🇲🇽
