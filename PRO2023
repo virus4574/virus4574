@@ -2388,9 +2388,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 #EXTINF:0 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria سورية",LANA TV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD
-https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria سورية",SYR-HALAB TODAY SD (1)
-https://ythlsgo.onrender.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
+https://ythls.armelin.one/channel/UCnh5Faqn_r9HxeNd_dsvGHQ.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="Syria سورية",SYR-قناة اليوم
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1 group-title="Syria سورية" tvg-logo="https://i.postimg.cc/nhdD86B9/Bg52GiG.png",Sama TV
@@ -2840,6 +2838,8 @@ https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="🇹🇳تونسTUNISIE",sahel
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="" group-title="🇹🇳تونسTUNISIE",ZitounaTV
+https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇩🇿الجزائرALGERIEN",الجزائرALGERIEN🇩🇿
 https://bit.ly/3xYLaRh
@@ -2938,6 +2938,8 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48OMM0L" group-title="🇱🇾ليبياLIBYA",Libya Mostakbal
 https://media1.livaat.com/Libyah-Mostaqbal/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇱🇾ليبياLIBYA",RTV Lebda
+https://media1.livaat.com/live/Lebda_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya al Ahrar HD
 http://45.65.112.206:8000/play/a035
@@ -3137,7 +3139,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="🇦🇪الامارات EMIRATES",DUB-Al Wousta HD 🇦🇪
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png" group-title="🇦🇪الامارات EMIRATES",FUJAIRAH TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/playlist.m3u8
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lVzRTj" group-title="🇦🇪الامارات EMIRATES",DUB-Aldafrahtv 🇦🇪
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45zD2EX" group-title="🇦🇪الامارات EMIRATES",Al Mashhad
