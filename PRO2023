@@ -2473,6 +2473,25 @@ http://154.58.202.185:8000/play/a0b7
 http://154.58.202.185:8000/play/a0b9
 
 
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY
+http://149.62.177.103:8000/play/a02t
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY HD
+http://149.62.177.103:8000/play/a02x
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema KSA
+http://149.62.177.103:8000/play/a02u
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic
+http://149.62.177.103:8000/play/a02r
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Clip
+http://149.62.177.103:8000/play/a02p
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Drama
+http://149.62.177.103:8000/play/a02s
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Khalijia
+http://149.62.177.103:8000/play/a02q
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music
+http://149.62.177.103:8000/play/a02o
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="ROTANA روتانا",ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="ROTANA روتانا",MUS:AR-RADIO ROTANA
@@ -2573,6 +2592,18 @@ http://154.58.202.185:8000/play/a00u
 http://154.58.202.185:8000/play/a01u
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",Teleliban TV
 http://154.58.202.185:8000/play/a00x
+
+
+#EXTINF:-1,OTV
+http://149.62.177.103:8000/play/a035
+#EXTINF:-1,NBN
+http://149.62.177.103:8000/play/a036
+#EXTINF:-1,LBC International
+http://149.62.177.103:8000/play/a033
+#EXTINF:-1,LBC SAT
+http://149.62.177.103:8000/play/a02v
+#EXTINF:-1,MTV Lebanon HD
+http://149.62.177.103:8000/play/a031
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
 https://bit.ly/3xYLaRh
@@ -2811,6 +2842,20 @@ https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E
+http://149.62.177.103:8000/play/a08f
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Drama
+http://149.62.177.103:8000/play/a08h
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E HD
+http://149.62.177.103:8000/play/a08c
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS
+http://149.62.177.103:8000/play/a08g
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS HD
+http://149.62.177.103:8000/play/a08d
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2
+http://149.62.177.103:8000/play/a08e
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2 HD
+http://149.62.177.103:8000/play/a08b
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
