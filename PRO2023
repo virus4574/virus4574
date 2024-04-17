@@ -2408,6 +2408,19 @@ http://154.58.202.185:8000/play/a04a
 
 
 
+
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+http://45.65.112.206:8000/play/a089
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+http://45.65.112.206:8000/play/a02j
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC Action
+http://45.65.112.206:8000/play/a088
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX
+http://45.65.112.206:8000/play/a08a
+
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",ROTANA HD
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
@@ -2545,6 +2558,14 @@ http://154.58.202.131:8000/play/a08m
 http://154.58.202.131:8000/play/a089
 
 
+#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Drama
+http://45.65.112.206:8000/play/a0eu
+#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Education
+http://45.65.112.206:8000/play/a0ev
+#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Satellite
+http://45.65.112.206:8000/play/a0et
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",🇱🇧كيف احصل على الكود
@@ -2594,15 +2615,15 @@ http://154.58.202.185:8000/play/a01u
 http://154.58.202.185:8000/play/a00x
 
 
-#EXTINF:-1,OTV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",OTV
 http://149.62.177.103:8000/play/a035
-#EXTINF:-1,NBN
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",NBN
 http://149.62.177.103:8000/play/a036
-#EXTINF:-1,LBC International
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC International
 http://149.62.177.103:8000/play/a033
-#EXTINF:-1,LBC SAT
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",LBC SAT
 http://149.62.177.103:8000/play/a02v
-#EXTINF:-1,MTV Lebanon HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="LEBANON لبنان",MTV Lebanon HD
 http://149.62.177.103:8000/play/a031
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",PALESTINE 🇵🇸فلسيطين
@@ -2856,6 +2877,32 @@ http://149.62.177.103:8000/play/a08d
 http://149.62.177.103:8000/play/a08e
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2 HD
 http://149.62.177.103:8000/play/a08b
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Drama
+http://45.65.112.206:8000/play/a0eg
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Drama 2
+http://45.65.112.206:8000/play/a0eh
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Film
+http://45.65.112.206:8000/play/a0ei
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Food
+http://45.65.112.206:8000/play/a0ej
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON  E
+http://45.65.112.206:8000/play/a0fi
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Drama
+http://45.65.112.206:8000/play/a0fk
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E HD
+http://45.65.112.206:8000/play/a0ff
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS
+http://45.65.112.206:8000/play/a0fj
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS HD
+http://45.65.112.206:8000/play/a0fg
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2
+http://45.65.112.206:8000/play/a0fh
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2 HD
+http://45.65.112.206:8000/play/a0fe
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
