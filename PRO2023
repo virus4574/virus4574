@@ -52,7 +52,6 @@ https://zeestb1.online/smart4k.php?id=7789&e=.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT +
 https://zeestb1.online/push4k.php?id=596&e=.m3u8
 
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
@@ -110,6 +109,23 @@ https://cdn1.loly1.site/31.m3u8?t=smsm123456
 https://cdn1.loly1.site/32.m3u8?t=smsm123456
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
 https://cdn1.loly1.site/33.m3u8?t=smsm123456
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1++
+http://cdn.footballii.ir:8080/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2++
+http://cdn.footballii.ir:8080/hls2/bein2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3++
+http://cdn.footballii.ir:8080/hls2/bein3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4++
+http://cdn.footballii.ir:8080/hls2/bein4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5++
+http://cdn.footballii.ir:8080/hls2/bein5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6++
+http://cdn.footballii.ir:8080/hls2/bein6.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
 https://pufa.vercel.app/home/1424
