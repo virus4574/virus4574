@@ -42,24 +42,63 @@ http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3
 https://tv.qmedia.ps/hls/tv_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
 https://cdn1.loly1.site/2.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 LOW
 https://cdn1.loly1.site/3.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 LOW
 https://cdn1.loly1.site/4.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 LOW
 https://cdn1.loly1.site/5.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
 https://cdn1.loly1.site/6.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
 https://cdn1.loly1.site/7.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
 https://cdn1.loly1.site/8.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
 https://cdn1.loly1.site/9.m3u8?t=smsm123456
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
+https://cdn1.loly1.site/15.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 SD
+https://cdn1.loly1.site/16.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
+https://cdn1.loly1.site/17.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
+https://cdn1.loly1.site/18.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
+https://cdn1.loly1.site/19.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
+https://cdn1.loly1.site/20.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 SD
+https://cdn1.loly1.site/21.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 SD
+https://cdn1.loly1.site/22.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
+https://cdn1.loly1.site/23.m3u8?t=smsm123456
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
+https://cdn1.loly1.site/25.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
+https://cdn1.loly1.site/26.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
+https://cdn1.loly1.site/27.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
+https://cdn1.loly1.site/28.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
+https://cdn1.loly1.site/29.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
+https://cdn1.loly1.site/30.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 HD
+https://cdn1.loly1.site/31.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 HD
+https://cdn1.loly1.site/32.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
+https://cdn1.loly1.site/33.m3u8?t=smsm123456
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
 https://pufa.vercel.app/home/1424
@@ -352,11 +391,6 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1+ 🇸🇦
 http://154.58.202.80:1234/stream/SSC-1-SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1+ 🇸🇦
-http://137.184.177.219:7890/api/channel/1397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1+ 🇸🇦
-https://kooralive.gsmelites.workers.dev/channel/1397
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1 🇸🇦
 https://ir14.footballii.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1 🇸🇦+
