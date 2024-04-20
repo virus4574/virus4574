@@ -41,6 +41,10 @@ http://85.237.89.6:9590/ku/Live-Zaxo-Sport/tracks-v1a1/mono.m3u8
 http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3
 https://tv.qmedia.ps/hls/tv_HD/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 
+http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
@@ -1270,17 +1274,13 @@ https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Kj7Z9c" group-title="Shahid TV VIP",Al_Hayba
 https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lGIS5Y" group-title="Shahid TV VIP",Ramez
-https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls.m3u8
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://e.top4top.io/p_2581kcj7y2.png" group-title="Shahid TV VIP",Hassino
-https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://d.top4top.io/p_2581s0z0n1.png" group-title="Shahid TV VIP",Top-Chef
-https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8
+https://shls-live-ak.akamaized.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KgyUlS" group-title="Shahid TV VIP",أفلام
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xw0DYl" group-title="Shahid TV VIP",movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ixthyq" group-title="Shahid TV VIP",WWE
-https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/416oo72" group-title="Shahid TV VIP",Naser_Al_Qassaby
 https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Sj376i" group-title="Shahid TV VIP",عادل-امام
@@ -3465,6 +3465,8 @@ http://baskhd.ddns.net:40/live/Derin/chunklist.m3u8
 http://knntv.ddns.net:40/live/knn/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsY6fKX.png" group-title="KURDISH",Duhok TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN action ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN documentary ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH",MMN radiofarsy ᴴᴰ
