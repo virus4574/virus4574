@@ -5725,9 +5725,11 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT رياضية",Red Booll
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-
-
-#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE
+#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE SD
+https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
+#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE HD
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE+
 https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="WWEمصارعه حره",IMPACT! Wrestling | US
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
