@@ -47,6 +47,8 @@ http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6
 http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7
+https://cdn.footballii.ir/hls2/bein1.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
@@ -478,7 +480,7 @@ http://154.58.202.80:1234/stream/SSC-3-EXTRA-SD/master.m3u8
 http://154.58.202.80:1234/stream/4k-ssc/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1 🇸🇦
-https://ir14.footballii.ir/hls2/ssc1.m3u8
+https://ir14.footballii.ir/hls2/ssc1s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1 🇸🇦+
 http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 2 🇸🇦
