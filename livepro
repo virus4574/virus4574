@@ -2,14 +2,15 @@
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1ᔆᵈ." tvg-logo="" group-title="قسم الدعم الفني للتطبيق",تطبيق airMAX Live TV
 https://bit.ly/3xYLaRh
 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3SBY2Ws",BEIN SPORTS NEWS HD⚽️
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/D9zPQ6k/bein-news.png",BEIN SPORTS NEWS HD⚽️
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BEIN SPORT بين سبور",beIN SPORTS NEWS
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/D9zPQ6k/bein-news.png",beIN SPORTS NEWS
 http://154.58.202.131:8000/play/a034
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS
 http://154.58.202.131:8000/play/a07s
@@ -27,83 +28,121 @@ http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/ndp2zMhjRiQly8bopbsIFo_rUSflTZYW5BRP23DoAawrBNFQodnRdQibAKYsl_4T645TPUyaH5cC6uYXdfjxzQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT +
-https://zeestb1.online/smart4k.php?id=7789&e=.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT +
-https://zeestb1.online/push4k.php?id=596&e=.m3u8
+http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7
+https://cdn.footballii.ir/hls2/bein1.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
 https://cdn1.loly1.site/1.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
 https://cdn1.loly1.site/2.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 LOW
 https://cdn1.loly1.site/3.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 LOW
 https://cdn1.loly1.site/4.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 LOW
 https://cdn1.loly1.site/5.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
 https://cdn1.loly1.site/6.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
 https://cdn1.loly1.site/7.m3u8?t=smsm123456
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
 https://cdn1.loly1.site/8.m3u8?t=smsm123456
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
 https://cdn1.loly1.site/9.m3u8?t=smsm123456
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/1210a745cb5095b85623c80b55f40115.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
 https://cdn1.loly1.site/15.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/ccfb43f324d93f1de1d8d0762c3a5236.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 SD
 https://cdn1.loly1.site/16.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/9bded1e6945161e616123b8923181894.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
 https://cdn1.loly1.site/17.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d24f2e60aa54ee21aaa01b2bc556f74b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
 https://cdn1.loly1.site/18.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/54a4076dfc9d009fe16cfc14201da51b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
 https://cdn1.loly1.site/19.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/7ffd9ece9f7e59e829836f87e8945664.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
 https://cdn1.loly1.site/20.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/eb0e117cce54ec1d8303b56e960df416.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 SD
 https://cdn1.loly1.site/21.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/343481b25c8d2850885038dd80a25f49.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 SD
 https://cdn1.loly1.site/22.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d9feee33174cc89b0c9ce28acc58991d.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
 https://cdn1.loly1.site/23.m3u8?t=smsm123456
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
 https://cdn1.loly1.site/25.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
 https://cdn1.loly1.site/26.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
 https://cdn1.loly1.site/27.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
 https://cdn1.loly1.site/28.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
 https://cdn1.loly1.site/29.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
 https://cdn1.loly1.site/30.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JlLzCA" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 HD
 https://cdn1.loly1.site/31.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 HD
 https://cdn1.loly1.site/32.m3u8?t=smsm123456
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
 https://cdn1.loly1.site/33.m3u8?t=smsm123456
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
+http://cdn.footballii.ir:8080/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+
+http://cdn.footballii.ir:8080/hls2/bein2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+
+http://cdn.footballii.ir:8080/hls2/bein3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/dJ8jk2N/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+
+http://cdn.footballii.ir:8080/hls2/bein4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+
+http://cdn.footballii.ir:8080/hls2/bein5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+
+http://cdn.footballii.ir:8080/hls2/bein6.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1++
+https://a501.gsmelites.workers.dev/channel/1424/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2++
+https://a501.gsmelites.workers.dev/channel/1425/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3++
+https://a501.gsmelites.workers.dev/channel/1426/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4++
+https://a501.gsmelites.workers.dev/channel/1427/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5++
+https://a501.gsmelites.workers.dev/channel/1428/master.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
 https://pufa.vercel.app/home/1424
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
 https://pufa.vercel.app/home/1425
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
 https://pufa.vercel.app/home/1426
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
 https://pufa.vercel.app/home/1427
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
 https://pufa.vercel.app/home/1428
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
 https://pufa.vercel.app/home/1429
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
+http://31.222.238.38/FAMILY_HD_ch01/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
+http://31.222.238.38/FAMILY_HD_ch02/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
+http://31.222.238.38/FAMILY_HD_ch03/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
+http://31.222.238.38/FAMILY_HD_ch04/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
+http://31.222.238.38/FAMILY_HD_ch05/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
+http://31.222.238.38/FAMILY_HD_ch06/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3uSKOxm" group-title="LIVE EVENT 1",Live 1
@@ -441,7 +480,7 @@ http://154.58.202.80:1234/stream/SSC-3-EXTRA-SD/master.m3u8
 http://154.58.202.80:1234/stream/4k-ssc/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1 🇸🇦
-https://ir14.footballii.ir/hls2/ssc1.m3u8
+https://ir14.footballii.ir/hls2/ssc1s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 1 🇸🇦+
 http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 2 🇸🇦
@@ -452,7 +491,6 @@ https://ir14.footballii.ir/hls2/ssc3.m3u8
 https://ir14.footballii.ir/hls2/ssc4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 5 🇸🇦
 https://ir14.footballii.ir/hls2/ssc5.m3u8
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",Live Sports⚽️
 https://bit.ly/3xYLaRh
@@ -2602,10 +2640,12 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇵🇸فلسطينPALESTINE",🇵🇸كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Wf8S8K" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV 🇵🇸
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Wf8S8K" group-title="🇵🇸فلسطينPALESTINE",Ajyal TV+ 🇵🇸
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aca23.png" group-title="🇵🇸فلسطينPALESTINE",قدسنا 🇵🇸
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv_higher.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="🇵🇸فلسطينPALESTINE",PAL-AlQuds🇵🇸
 https://s1.ettehadlive.com/live/11/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine HD🇵🇸
@@ -2616,19 +2656,15 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestine live HD🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestinee TV🇵🇸
-https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="🇵🇸فلسطينPALESTINE",PAL-Palestinee TV🇵🇸+
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="🇵🇸فلسطينPALESTINE",Palestine-AL YAUM🇵🇸
-https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="🇵🇸فلسطينPALESTINE",PAL-Rajeen TV🇵🇸
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qK6t2V" group-title="🇵🇸فلسطينPALESTINE",hala TV🇵🇸
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbsKGz" group-title="🇵🇸فلسطينPALESTINE",Wattan TV🇵🇸
 http://htvmada.mada.ps:8888/wattan/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio-Hayat
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",Radio-Hayat 🇵🇸
 https://flu.systemnet.tv/Radio-Hayat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI6iVN" group-title="🇵🇸فلسطينPALESTINE",Nablus TV🇵🇸
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
@@ -2644,32 +2680,20 @@ https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40p75gL" group-title="🇵🇸فلسطينPALESTINE",orient.tv🇵🇸
 http://htvint.mada.ps:8889//orient/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="Arabic" tvg-logo="https://bit.ly/3nvojdH" group-title="🇵🇸فلسطينPALESTINE",Radio Albalad TV🇵🇸
-http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸فلسطينPALESTINE",معًا
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸فلسطينPALESTINE",معًا 🇵🇸
 https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3s3hja3" group-title="🇵🇸فلسطينPALESTINE",Post TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa71.png" group-title="🇵🇸فلسطينPALESTINE",مكان 🇵🇸
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3s3hja3" group-title="🇵🇸فلسطينPALESTINE",Post TV 🇵🇸
 https://tv.qmedia.ps/hls/post_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/445c86Y" group-title="🇵🇸فلسطينPALESTINE",Post Sport TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/445c86Y" group-title="🇵🇸فلسطينPALESTINE",Post Sport TV 🇵🇸
 https://tv.qmedia.ps/hls/tv_HD/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45r59q3" group-title="🇵🇸فلسطينPALESTINE",Hala Ramallah TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45r59q3" group-title="🇵🇸فلسطينPALESTINE",Hala Ramallah TV 🇵🇸
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3DYSgYG" group-title="🇵🇸فلسطينPALESTINE",Al-Quds Educational
-https://streaming2.qou.edu/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="🇵🇸فلسطينPALESTINE",RayaTV1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4bcKx7V" group-title="🇵🇸فلسطينPALESTINE",RayaTV1 🇵🇸
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="🇵🇸فلسطينPALESTINE",AWDAH TV🇵🇸
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZzOPA4" group-title="🇵🇸فلسطينPALESTINE",Hettin🇵🇸
-https://live.hettin.tv/stream/hls/hettin.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao66.png" group-title="🇵🇸فلسطينPALESTINE",🇵🇸الاقصى
-https://live01.iflex.ps/Aqsa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao66.png" group-title="🇵🇸فلسطينPALESTINE",🇵🇸الاقصى+
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42RFQwF" group-title="🇵🇸فلسطينPALESTINE",Baladna TV🇵🇸
-http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇵🇸فلسطينPALESTINE",radio-9090ONLINE🇵🇸
-http://9090video.mobtada.com:1935/live/9090ONLINE/h.o.s.s.a.m.RADIO.m3u8
 #EXTINF:-1 group-title="🇵🇸فلسطينPALESTINE" tvg-logo="https://i.ibb.co/dLyP0JK/WWW.png", 🇵🇸تلفزيون حكاية
 http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 
@@ -2677,14 +2701,14 @@ http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇯🇴الاردنJORDAN",🇯🇴كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="🇯🇴الاردنJORDAN",Roya TV FHD🇯🇴
-https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2MbqtfQ" group-title="🇯🇴الاردنJORDAN", Roya TV HD🇯🇴
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/images/site/logo.png" group-title="🇯🇴الاردنJORDAN", رؤيا الإخبارية🇯🇴
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.postimg.cc/CMkSy1Pq/siAiiws.jpg" group-title="🇯🇴الاردنJORDAN",JR-Jordan TV🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aca_ao10.png" group-title="🇯🇴الاردنJORDAN",الاردن الرياضية SD🇯🇴
+http://93.184.10.248/JordanSport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv SD🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_480p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="🇯🇴الاردنJORDAN",Amman tv 🇯🇴
@@ -3208,29 +3232,15 @@ https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PInS9o" group-title="🇸🇦السعودية Saudi-Arabia",sbc🇸🇦
-https://edge.taghtia.com/sa/1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PInS9o" group-title="🇸🇦السعودية Saudi-Arabia",sbc🇸🇦 المصدر الثاني
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LYo1Gf" group-title="🇸🇦السعودية Saudi-Arabia",Thikrayat TV🇸🇦
-https://edge.taghtia.com/sa/3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LYo1Gf" group-title="🇸🇦السعودية Saudi-Arabia",Thikrayat TV🇸🇦 المصدر الثاني
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3LYo1Gf" group-title="🇸🇦السعودية Saudi-Arabia",Thikrayat TV🇸🇦 
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="🇸🇦السعودية Saudi-Arabia",Saudi TV 1🇸🇦
-https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="🇸🇦السعودية Saudi-Arabia",Saudi TV 1🇸🇦 المصدر الثاني
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40HBpTq" group-title="🇸🇦السعودية Saudi-Arabia",Al Ekhbariya🇸🇦
-https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40HBpTq" group-title="🇸🇦السعودية Saudi-Arabia",AL Ekhbaria +🇸🇦
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47fGyoS" group-title="🇸🇦السعودية Saudi-Arabia",السعودية الآن
-https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇸🇦السعودية Saudi-Arabia",قناة الواقع الفضائية🇸🇦
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3m0LLeB" group-title="🇸🇦السعودية Saudi-Arabia",Al Quran Al Kareem TV🇸🇦
-https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🇸🇦السعودية Saudi-Arabia",Iqraa🇸🇦
 https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="🇸🇦السعودية Saudi-Arabia",Iqraa Europe Africa🇸🇦
@@ -3243,16 +3253,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NaBoD9" group-title="🇸🇦السعودية Saudi-Arabia",thaqafeyyah 🇸🇦
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wOpK80" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة السعودية
-https://edge.taghtia.com/sa/11.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t03oze" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة الرياض
-https://edge.taghtia.com/sa/12.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GsQWO9" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة القران الكريم السعودية
-https://edge.taghtia.com/sa/13.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wVQW4T" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة نداء الاسلام
-https://edge.taghtia.com/sa/14.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z2GN96" group-title="🇸🇦السعودية Saudi-Arabia",🇸🇦اذاعة جدة
-https://edge.taghtia.com/sa/15.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇦🇪الامارات EMIRATES",الامارات EMIRATES 🇦🇪
 https://bit.ly/3xYLaRh
