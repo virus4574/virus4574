@@ -429,6 +429,18 @@ http://145.239.5.177:8080/526/index.m3u8
 http://145.239.5.177:8080/512/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",BEIN SPORT 1+
 http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="RMC SPORT",TRACE SPORTS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="RMC SPORT",SPORT EN FRANCE
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="RMC SPORT",L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg" group-title="RMC SPORT",RMC TALK SPORT
+https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 🇫🇷ᴴᴰ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="RMC SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
