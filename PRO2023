@@ -2423,6 +2423,11 @@ http://45.65.112.206:8000/play/a08a
 
 
 
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
+http://154.197.91.168:7003/play/a0fh
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",ROTANA HD
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="ROTANA روتانا",كيف احصل على الكود
@@ -2588,6 +2593,12 @@ http://45.65.112.206:8000/play/a0ev
 #EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Satellite
 http://45.65.112.206:8000/play/a0et
 
+#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Drama
+http://154.197.91.168:7002/play/a0dx
+#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Satellite
+http://154.197.91.168:7002/play/a0dw
+#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Education
+http://154.197.91.168:7002/play/a0dy
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="LEBANON لبنان",لبنانLEBANON🇱🇧
 https://bit.ly/3xYLaRh
