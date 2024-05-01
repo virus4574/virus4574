@@ -2461,6 +2461,23 @@ https://daiconnect.com/live/hls/rotana/mplus/.m3u8
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
 
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY
+http://45.65.112.16:8000/play/a02m
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY HD
+http://45.65.112.16:8000/play/a02q
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema KSA
+http://45.65.112.16:8000/play/a02n
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic
+http://45.65.112.16:8000/play/a02k
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Clip
+http://45.65.112.16:8000/play/a02i
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Drama
+http://45.65.112.16:8000/play/a02l
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Khalijia
+http://45.65.112.16:8000/play/a02j
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music
+http://45.65.112.16:8000/play/a02h
+
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema HD
 http://154.54.220.67:34780/play/a06g
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic HD
@@ -2854,6 +2871,45 @@ https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47R9S51" group-title="🇪🇬المصرية Egypt",Bee movies
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Cinema
+http://45.65.112.16:8000/play/a00e
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Comedy
+http://45.65.112.16:8000/play/a009
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Culture
+http://45.65.112.16:8000/play/a03p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Drama
+http://45.65.112.16:8000/play/a00b
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile FM
+http://45.65.112.16:8000/play/a00y
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Family
+http://45.65.112.16:8000/play/a03o
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Life
+http://45.65.112.16:8000/play/a00a
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile News
+http://45.65.112.16:8000/play/a008
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile News HD
+http://45.65.112.16:8000/play/a00d
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Sport
+http://45.65.112.16:8000/play/a00c
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zamalek Sports
+http://45.65.112.16:8000/play/a01s
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zaytouna Radio & TV
+http://45.65.112.16:8000/play/a01k
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",a Konoz Alhayat
+http://45.65.112.16:8000/play/a01l
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc
+http://45.65.112.16:8000/play/a01q
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc HD
+http://45.65.112.16:8000/play/a01p
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc drama
+http://45.65.112.16:8000/play/a01t
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc masraheyat
+http://45.65.112.16:8000/play/a01v
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E
