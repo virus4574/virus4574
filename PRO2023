@@ -2092,7 +2092,8 @@ https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discover
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discovery/animal%20planet/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Animals" tvg-name="" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="documentary الوثائقية",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=666
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="documentary الوثائقية",discoverybengali🏞️
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="documentary الوثائقية",Relax🏞️
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
