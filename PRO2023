@@ -5153,6 +5153,206 @@ http://37.18.239.36:8888/Super_RTL/index.m3u8
 http://37.18.239.36:8888/Sport_1/index.m3u8
 
 
+
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="WELT.de" group-title="🇩🇪DEUTSCH" timeshift="7",Welt HD
+http://rasp.berry-stream.net:80/welt-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ntv.de" group-title="🇩🇪DEUTSCH" timeshift="7",N-TV HD
+http://rasp.berry-stream.net:80/ntv-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="DasErste.de" group-title="🇩🇪DEUTSCH" timeshift="7",Das Erste HD
+http://rasp.berry-stream.net:80/das-erste-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ort-hd" group-title="🇩🇪DEUTSCH" timeshift="7",ONE HD
+http://rasp.berry-stream.net:80/one-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ZDF.de" group-title="🇩🇪DEUTSCH" timeshift="7",ZDF HD
+http://rasp.berry-stream.net:80/zdf-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="🇩🇪DEUTSCH" timeshift="7",ZDF Neo HD
+http://rasp.berry-stream.net:80/zdf-neo-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="🇩🇪DEUTSCH" timeshift="7",ZDF Info HD
+http://rasp.berry-stream.net:80/zdf-info-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Sat1.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sat.1 HD
+http://rasp.berry-stream.net:80/sat1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="RTL.de" group-title="🇩🇪DEUTSCH" timeshift="7",RTL HD
+http://rasp.berry-stream.net:80/rtl-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="RTL2.de" group-title="🇩🇪DEUTSCH" timeshift="7",RTL 2 HD
+http://rasp.berry-stream.net:80/rtl2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Pro7.de" group-title="🇩🇪DEUTSCH" timeshift="7",ProSieben HD
+http://rasp.berry-stream.net:80/prosieben-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="🇩🇪DEUTSCH" timeshift="7",ProSieben Maxx HD
+http://rasp.berry-stream.net:80/prosieben-maxx-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Kabel.de" group-title="🇩🇪DEUTSCH" timeshift="7",Kabel Eins HD
+http://rasp.berry-stream.net:80/kabel-eins-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Sixx.de" group-title="🇩🇪DEUTSCH" timeshift="7",SIXX HD
+http://rasp.berry-stream.net:80/sixx-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="3sat.de" group-title="🇩🇪DEUTSCH" timeshift="7",3sat HD
+http://rasp.berry-stream.net:80/3sat-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ORF1.at" group-title="🇩🇪DEUTSCH" timeshift="7",ORF 1 HD
+http://rasp.berry-stream.net:80/orf1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ORF2.at" group-title="🇩🇪DEUTSCH" timeshift="7",ORF 2 HD
+http://rasp.berry-stream.net:80/orf2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",ORF III HD
+http://rasp.berry-stream.net:80/orf-iii-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ATV.de" group-title="🇩🇪DEUTSCH" timeshift="7",ATV HD DE
+http://rasp.berry-stream.net:80/atv-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="BR.de" group-title="🇩🇪DEUTSCH" timeshift="7",BR HD
+http://rasp.berry-stream.net:80/br-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="HR.de" group-title="🇩🇪DEUTSCH" timeshift="7",HR HD
+http://rasp.berry-stream.net:80/hr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="🇩🇪DEUTSCH" timeshift="7",RBB HD
+http://rasp.berry-stream.net:80/rbb-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",MDR HD
+http://rasp.berry-stream.net:80/mdr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ndr.de" group-title="🇩🇪DEUTSCH" timeshift="7",NDR HD
+http://rasp.berry-stream.net:80/ndr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="WDR.de" group-title="🇩🇪DEUTSCH" timeshift="7",WDR HD
+http://rasp.berry-stream.net:80/wdr-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyCinemaPremiere.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Cinema Premiere HD
+http://rasp.berry-stream.net:80/sky-cinema-premieren-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyCinemaAction.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Cinema Action HD
+http://rasp.berry-stream.net:80/sky-cinema-action-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Cinema Highlights HD
+http://rasp.berry-stream.net:80/sky-cinema-special-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyCinemaClassic.it" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Cinema Classics HD
+http://rasp.berry-stream.net:80/sky-cinema-best-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyCinemaFamily.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Cinema Family HD
+http://rasp.berry-stream.net:80/sky-cinema-family-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Cinema Atlantic HD
+http://rasp.berry-stream.net:80/sky-atlantic-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Sky1.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky One HD
+http://rasp.berry-stream.net:80/sky-one-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Krimi HD
+http://rasp.berry-stream.net:80/sky-krimi-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyReplay.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Replay HD
+http://rasp.berry-stream.net:80/sky-replay-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Warner Film HD
+http://rasp.berry-stream.net:80/warner-film-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Warner Serie HD
+http://rasp.berry-stream.net:80/warner-serie-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Warner Comedy HD
+http://rasp.berry-stream.net:80/warner-comedy-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="🇩🇪DEUTSCH" timeshift="7",AXN White HD
+http://rasp.berry-stream.net:80/sony-chanel-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Syfy HD
+http://rasp.berry-stream.net:80/syfy-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="🇩🇪DEUTSCH" timeshift="7",AXN Black HD
+http://rasp.berry-stream.net:80/axn-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Universal.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Universal HD
+http://rasp.berry-stream.net:80/universal-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="13thStreet.de" group-title="🇩🇪DEUTSCH" timeshift="7",13th Street HD
+http://rasp.berry-stream.net:80/13th-street-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",DF1 HD
+http://rasp.berry-stream.net:80/servus-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="🇩🇪DEUTSCH" timeshift="7",Romance TV HD
+http://rasp.berry-stream.net:80/romance-tv-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="🇩🇪DEUTSCH" timeshift="7",Discovery HD DE
+http://rasp.berry-stream.net:80/discovery-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="🇩🇪DEUTSCH" timeshift="7",Nat Geo HD DE
+http://rasp.berry-stream.net:80/nat-geo-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="🇩🇪DEUTSCH" timeshift="7",NatGeo Wild HD DE
+http://rasp.berry-stream.net:80/nat-geo-wild-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyNature.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Nature HD
+http://rasp.berry-stream.net:80/sky-nature-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="GeoTV.de" group-title="🇩🇪DEUTSCH" timeshift="7",GEO TV HD
+http://rasp.berry-stream.net:80/geo-tv-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Waidwerk.de" group-title="🇩🇪DEUTSCH" timeshift="7",Waidwerk HD
+http://rasp.berry-stream.net:80/waidwerk-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="phoenix.de" group-title="🇩🇪DEUTSCH" timeshift="7",Phoenix HD
+http://rasp.berry-stream.net:80/phoenix-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="alpha.gr" group-title="🇩🇪DEUTSCH" timeshift="7",Alpha HD
+http://rasp.berry-stream.net:80/alpha-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="HistoryHD.de" group-title="🇩🇪DEUTSCH" timeshift="7",History HD DE
+http://rasp.berry-stream.net:80/history-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyDocumentaries.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Documentaries HD
+http://rasp.berry-stream.net:80/sky-doc-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SpiegelTV.de" group-title="🇩🇪DEUTSCH" timeshift="7",Spiegel TV Wissen HD
+http://rasp.berry-stream.net:80/spiegel-wissen-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Kabel Eins Doku HD
+http://rasp.berry-stream.net:80/kabel-eins-doku-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ARTE.de" group-title="🇩🇪DEUTSCH" timeshift="7",Arte HD DE
+http://rasp.berry-stream.net:80/arte-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="DMax.de" group-title="🇩🇪DEUTSCH" timeshift="7",DMAX HD DE
+http://rasp.berry-stream.net:80/dmax-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="TLC.de" group-title="🇩🇪DEUTSCH" timeshift="7",TLC HD DE
+http://rasp.berry-stream.net:80/tlc-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyCrime.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Crime HD
+http://rasp.berry-stream.net:80/sky-crime-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Crime + Investigation HD
+http://rasp.berry-stream.net:80/crime-plus-investigation-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="🇩🇪DEUTSCH" timeshift="7",RTL Nitro HD
+http://rasp.berry-stream.net:80/rtl-nitro-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",RTLup HD
+http://rasp.berry-stream.net:80/rtlup-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Vox.de" group-title="🇩🇪DEUTSCH" timeshift="7",VOX HD
+http://rasp.berry-stream.net:80/vox-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="VOXup.de" group-title="🇩🇪DEUTSCH" timeshift="7",VOXup HD
+http://rasp.berry-stream.net:80/voxup-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Tele5 HD
+http://rasp.berry-stream.net:80/tele5-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport Premier League HD
+http://rasp.berry-stream.net:80/sky-sport-premier-league-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport Top Event HD
+http://rasp.berry-stream.net:80/sky-sport1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySportTennis.it" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport Tennis HD
+http://rasp.berry-stream.net:80/sky-sport2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySportGolf.it" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport Golf HD
+http://rasp.berry-stream.net:80/sky-sport-golf-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySportMix.it" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport Mix HD
+http://rasp.berry-stream.net:80/sky-sport-mix-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport News HD
+http://rasp.berry-stream.net:80/sky-sport-news-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySportUHD.de" group-title="🇩🇪DEUTSCH",Sky Sport UHD
+http://rasp.berry-stream.net:80/sky-sport-de-4k/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport Bundesliga HD
+http://rasp.berry-stream.net:80/sky-sport-bundesliga-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Sky Sport Bundesliga UHD (Live Event)
+http://rasp.berry-stream.net:80/sky-sport-bundesliga-de-4k/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Sky Sport Bundesliga 1 HD (Live Event)
+http://rasp.berry-stream.net:80/sky-sport-bundesliga1-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="🇩🇪DEUTSCH",Sky Sport Bundesliga 2 HD (Live Event)
+http://rasp.berry-stream.net:80/sky-sport-bundesliga2-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="🇩🇪DEUTSCH",Sky Sport Bundesliga 3 HD (Live Event)
+http://rasp.berry-stream.net:80/sky-sport-bundesliga3-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="🇩🇪DEUTSCH",Sky Sport Bundesliga 4 HD (Live Event)
+http://rasp.berry-stream.net:80/sky-sport-bundesliga4-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="🇩🇪DEUTSCH",Sky Sport Bundesliga 5 HD (Live Event)
+http://rasp.berry-stream.net:80/sky-sport-bundesliga5-de-hd/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",Sportdigital Fussball HD
+http://rasp.berry-stream.net:80/sportdigital-fussbal-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="DAZN209.it" group-title="🇩🇪DEUTSCH" timeshift="7",DAZN 1 HD
+http://rasp.berry-stream.net:80/dazn1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="DAZN212.it" group-title="🇩🇪DEUTSCH" timeshift="7",DAZN 2 HD
+http://rasp.berry-stream.net:80/dazn2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sport 1 HD DE
+http://rasp.berry-stream.net:80/sport1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="🇩🇪DEUTSCH" timeshift="7",Sport1+ HD
+http://rasp.berry-stream.net:80/sport1-plus-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="🇩🇪DEUTSCH" timeshift="7",Eurosport 1 HD DE
+http://rasp.berry-stream.net:80/eurosport1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="🇩🇪DEUTSCH" timeshift="7",Eurosport 2 HD DE
+http://rasp.berry-stream.net:80/eurosport2-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="🇩🇪DEUTSCH" timeshift="7",Sky Sport F1 HD
+http://rasp.berry-stream.net:80/sky-sport-f1-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH" timeshift="7",ORF Sport + HD
+http://rasp.berry-stream.net:80/orf-sport-plus-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="disneychannel.de" group-title="🇩🇪DEUTSCH" timeshift="7",Disney HD DE
+http://rasp.berry-stream.net:80/disney-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="🇩🇪DEUTSCH" timeshift="7",Nickelodeon HD DE
+http://rasp.berry-stream.net:80/nickelodeon-hd-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="Kika.de" group-title="🇩🇪DEUTSCH" timeshift="7",KIKA HD
+http://rasp.berry-stream.net:80/kika-de-hd-orig/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="🇩🇪DEUTSCH" timeshift="7",Super RTL HD
+http://rasp.berry-stream.net:80/super-rtl-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="🇩🇪DEUTSCH" timeshift="7",Comedy Central HD DE
+http://rasp.berry-stream.net:80/comedy-central-hd-orig-de/mpegts?token=r9gnlegj
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="🇩🇪DEUTSCH",Deluxe Music HD
+http://rasp.berry-stream.net:80/deluxe-music-de-hd-orig/mpegts?token=r9gnlegj
+
+
+
+
+
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/bein.com.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml"
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="🇩🇪DEUTSCH",1-2-3 TV (270p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
