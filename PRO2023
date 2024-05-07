@@ -89,24 +89,55 @@ http://50.7.89.234:1234/stream/beinsportssdlow/beinsports8sd/master.m3u8?u=stark
 http://50.7.89.234:1234/stream/beinsportssdlow/beinsports9sd/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 1 -FR-1080p
+http://50.7.89.234:1234/stream/beinsports/beinsports1fr1080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 1 1080P
+http://50.7.89.234:1234/stream/beinsports/beinsports11080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 1-720P
+http://50.7.89.234:1234/stream/beinsports/beinsports1720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 2 -1080p
+http://50.7.89.234:1234/stream/beinsports/beinsports21080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 2-720p
+http://50.7.89.234:1234/stream/beinsports/beinsports2720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",Bein Sports 3-1080p
+http://50.7.89.234:1234/stream/beinsports/beinsports31080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BeIN SPORTS 4-720p
+http://50.7.89.234:1234/stream/beinsports/beinsports4720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 5 -720p
+http://50.7.89.234:1234/stream/beinsports/beinsports5720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 6-720p
+http://50.7.89.234:1234/stream/beinsports/beinsports6720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 7-720p
+http://50.7.89.234:1234/stream/beinsports/beinsports7720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 8-720p
+http://50.7.89.234:1234/stream/beinsports/beinsports8720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 9 -720p
+http://50.7.89.234:1234/stream/beinsports/beinsports9720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 1 sD
+http://50.7.89.234:1234/stream/beinsportssdlow/beinsports1sd/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",beIN SPORTS 2 sD
+http://50.7.89.234:1234/stream/beinsportssdlow/beinsports2sd/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports1eg1080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports2eg1080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports3720p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports41080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports51080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports61080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports71080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports81080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
-
+http://50.7.89.234:1234/stream/beinsports/beinsports91080p/master.m3u8?u=stark&p=353c7229ca8c92f6e6172ca3f7c1d31864e68e8adf50d146f4dfa9cb90bc88a2
 
 
 
