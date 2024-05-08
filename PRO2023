@@ -1416,15 +1416,6 @@ https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/documentaries/playl
 https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Hala London TV",Hala London
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Hala London TV",كيف احصل على الكود
-https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="HalaLondonTVSeries.uk" tvg-logo="http://halalondon.com/images/Production2.png" group-title="Hala London TV",Hala London TV Production
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
-#EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="http://halalondon.com/images/radio1.png" group-title="Hala London TV",Hala London TV radio
-https://halalondon-live.ercdn.net/radio-halalondon/radio-halalondon.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid Net VIP", باقة شاهد نت 
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid Net VIP",النسخة المدفوعة AirMax TV
@@ -1440,7 +1431,8 @@ http://93.184.10.248/ZeeAflam/index.m3u8
 http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
+#EXTINF:-1 tvg-id="HalaLondonTVSeries.uk" tvg-logo="http://halalondon.com/images/Production2.png" group-title="BOLLYWOOD بوليود",Hala London TV Production
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",قنوات المجد
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Al Majd قنوات المجد",النسخة المدفوعة AirMax TV
