@@ -49,34 +49,15 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7
 https://cdn.footballii.ir/hls2/bein1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8
-https://bee.fun:2087/premium1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
-https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports6.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/1210a745cb5095b85623c80b55f40115.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
-
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/ccfb43f324d93f1de1d8d0762c3a5236.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 SD
-
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/9bded1e6945161e616123b8923181894.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
-
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d24f2e60aa54ee21aaa01b2bc556f74b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/54a4076dfc9d009fe16cfc14201da51b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
@@ -91,16 +72,12 @@ https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports6.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
-
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 HD
-
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
-
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
@@ -139,27 +116,45 @@ http://31.222.238.38/appleSA-bein-3-fhd/video.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️⚽️
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️⚽️
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️⚽️
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 https://pufa.vercel.app/home/1424
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
 https://pufa.vercel.app/home/1425
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
 https://pufa.vercel.app/home/1426
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4
 https://pufa.vercel.app/home/1427
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5
 https://pufa.vercel.app/home/1428
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6
 https://pufa.vercel.app/home/1429
 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 LOW
+https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2 LOW
+https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 LOW
+https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 LOW
+https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 LOW
+https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
+https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports6.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
 http://31.222.238.38/FAMILY_HD_ch01/index.m3u8
