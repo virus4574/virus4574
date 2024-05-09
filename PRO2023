@@ -1117,62 +1117,59 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT رياضية",كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="SPORT رياضية",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="SPORT رياضية",Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ujLfv6" group-title="SPORT رياضية",Abu Dhabi Sports Yas TV
-https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="SPORT رياضية",Dubai SPORT 1
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="SPORT رياضية",Dubai SPORT 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="SPORT رياضية",Dubai SPORT 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SPORT رياضية",DubaiRacing 1
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SPORT رياضية",DubaiRacing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XxIQQ" group-title="SPORT رياضية",DubaiRacing 3
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="SPORT رياضية",Dubai Racing 2 
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="SPORT رياضية",Dubai Racing 3 
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Sports",Dubai Racing
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="SPORT رياضية",Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="SPORT رياضية",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="SPORT رياضية",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://i.imgur.com/B7OiXCB.png" group-title="SPORT رياضية",Yas TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" group-title="SPORT رياضية",Al Kass 1 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="SPORT رياضية",Al Kass 2 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="SPORT رياضية",Al Kass 3 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="SPORT رياضية",Al Kass 4 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="SPORT رياضية",Al Kass 5 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qwoPGY" group-title="SPORT رياضية",ksa الرياضية 1
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="SPORT رياضية",ksa الرياضية 2
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="SPORT رياضية",KSA Sports 3 
-https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="SPORT رياضية",KSA Sports 4
-https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MFLTfi" group-title="SPORT رياضية",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="SPORT رياضية",Oman SPORT
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3worBEp" group-title="SPORT رياضية",Oman SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="SPORT رياضية",Maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="SPORT رياضية",Sharjah Sports
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JUMk60" group-title="SPORT رياضية",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",Nile sport
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4b7Nh6V" group-title="SPORT رياضية",Nile sport
 http://93.184.10.248/NileSport/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",Jordan sport
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4btQoWj" group-title="SPORT رياضية",Jordan sport
 http://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",Ksa sport 1
-http://93.184.10.248/KSASport1/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",Ksa sport 2
-http://93.184.10.248/KSASport2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SPORT رياضية",ALRabiaa Sport
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3UQGhFy" group-title="SPORT رياضية",ALRabiaa Sport
 http://162.212.178.70:4842/bysid/205
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qwoPGY" group-title="SPORT رياضية",ksa الرياضية 1
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="SPORT رياضية",ksa الرياضية 2
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="SPORT رياضية",KSA Sports 3 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iwOuef" group-title="SPORT رياضية",KSA Sports 4
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="NETFLIX VIP", باقة NETFLIX 
 https://bit.ly/3xYLaRh
