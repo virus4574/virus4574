@@ -5707,12 +5707,6 @@ https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 
-#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE SD
-https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
-#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE HD
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="WWEمصارعه حره" tvg-logo="https://bit.ly/3Ixthyq",[$]WWE+
-https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="WWEمصارعه حره",IMPACT! Wrestling | US
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" group-title="WWEمصارعه حره" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting | US
@@ -5729,10 +5723,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="WWEمصارعه حره",IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="" group-title="WWEمصارعه حره" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇺🇸 🤼➾ IMPACT! WRESTLING [localnow]
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="WWEمصارعه حره" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/UFC.PNG",🇺🇸 🤼➾ Fight Network 2
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="WWEمصارعه حره" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",🇺🇸 🤼➾ Hard Knock Fighting
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
 
