@@ -1056,7 +1056,11 @@ https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Sj376i" group-title="Shahid TV VIP",عادل-امام
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
 
-#EXTM3U
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Roya TV",  باقة شاهد الأصلية 
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة Roya TV",  النسخة المدفوعة AirMax TV
+https://bit.ly/3DF4NAn
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV", Roya Drama
 https://playlist.fasttvcdn.com:443/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ydKOJy" group-title="باقة Roya TV", Roya Comedy
