@@ -633,6 +633,7 @@ https://bit.ly/3gj9PK5
 https://bit.ly/3DF4NAn
 
 
+
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Live Sports",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Live Sports",Arena Sport 2 HD
@@ -663,7 +664,6 @@ http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
 http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",Live Sports TNT Sports 4
 http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
-
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://imgur.com/sQqlHQU.png",Globo GE Esporte 🇧🇷ᴴᴰ 🟤
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
@@ -764,8 +764,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Live Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ITSF.png",ITSF 🇺🇸ᴴᴰ 🟤
 https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
-
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Live Sports", True Premier 1 (edge)
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Live Sports", True Premier 2 (edge)
@@ -802,7 +800,6 @@ http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=30564&extensio
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1019935&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Live Sports", TNT Sports 4 (server)
 http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/255
-
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sports NZ EPL (7pal)
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png", TNT Sports 1 (7pal)
@@ -811,166 +808,30 @@ https://7pal.short.gy/tntspts1
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png", TNT Sports 3 (7pal)
 https://7pal.short.gy/tntspts3
-
-
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="Live Sports", V Sport Ultra 4K @Co Moe (Vpn-Germany)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
 #EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="Live Sports", Bein Sports 4K @Co Moe (Vpn-Germany)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
 
 
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 1 HD
-https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 group-title="Various sports", Event TVHD
-https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Various sports", Sports TVHD
-https://gettvfree.tech/live/stream_1.m3u8
-#EXTINF:-1 group-title="Various sports", Event Extra TVHD
-https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png", SUPER SPORTS VARIETY 2HD
-https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png", SUPER SPORTS VARIETY 3HD
-https://mlb.mrgamingstreams.com/variety3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",AFC 2024Jio Live
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Various sports", Willow Cricket 
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Sky Sports Main Event 
-https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",CBC Sports HDHD
-https://soccer.freesportstime.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",18 SportsHD
+
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",18 SportsHD
 https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Various sports",Star Sports 1
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports1hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Star Sports 2 HD
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports2hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Star Sports 3
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Star Sports Select 1 HD
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Star Sports Select 2 HD
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
-#EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Various sports",Star Sports 2 HD
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports", Fox Sports 1HD
-https://247b.mrgamingstreams.com/mrgamingfs1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports", Fox Sports 2HD
-https://247b.mrgamingstreams.com/mrgamingfs2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports", Sports TVHD
-https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports", VSports Premium
-https://freehdgames.lol/chunklist/hlsch5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Sukan RTM  Malaiysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="Various sports", Event TVHD
-https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports", Event Extra TVHD
-https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="Various sports", SUPER SPORTS VARIETY 2HD
-https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Various sports", SUPER SPORTS VARIETY 3HD
-https://mlb.mrgamingstreams.com/variety3.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Live Sports Only 
-https://freeiptv25.netlify.app/live/stream_1.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Ziggo Sports 
-https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ", True Premiere Football 2
-https://edge2.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Various sports",Football MatchTudn Sports ARG
-https://mlb.mrgamingstreams.com/tudn.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Ziggo Sports 1 
-https://freehdgames.lol/chunklist/hlsch6.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Bein Sports 1 Turkey 
-https://corsproxy.pro/https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Bein Sports Turkey 
-https://freehdgames.lol/chunklist/hlsch9.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Bein Sports 2 Turkey 
-https://freehdgames.lol/chunklist/hlsch10.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Amazan Premier 
-https://mlb.mrgamingstreams.com/prem.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",Premier Sports 1 
-https://mlb.mrgamingstreams.com/hubprem.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",remier Sports 1 
-https://gettvfree.tech/live/stream_2.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png",Saudi Pro League SSC 1 
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",yas Sports
-https://stream.ayas.ir/hls2/ayas1.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",EIN sports 1
-https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",EIN sports 2
-https://edge1.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo="https:\/\/seeklogo.com\/images\/B\/bein-sports-3-logo-42227D7D66-seeklogo.com.png",EIN sports 3
-https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo=" ",EIN sports 4
-https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1, group-title="Various sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Various sports", Bein Sports 2 Turkey 
-https://freehdgames.lol/chunklist/hlsch10.m3u8
-#EXTINF:-1 group-title="Various sports", Amazan Premier 
-https://mlb.mrgamingstreams.com/prem.m3u8
-#EXTINF:-1 group-title="Various sports", Premier Sports 1 
-https://mlb.mrgamingstreams.com/hubprem.m3u8
-#EXTINF:-1 group-title="Various sports",remier Sports 1 
-https://gettvfree.tech/live/stream_2.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png",Sony Sports 1 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png",Sony Sports 2 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png",Sony Sports 5 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://i.imgur.com/ZbPFZOV.png",Adventure Sports Network
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://i.imgur.com/5CdW62M.png",ATG 
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81448/s81448_h3_aa.png",Fight Network
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81448/s81448_h3_aa.png",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://i.imgur.com/VJyUVQ2.png",Football Daily
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://i.imgur.com/AQbc1ER.jpg",Glory Kickboxing
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://i.imgur.com/AQbc1ER.jpg",Glory Kickboxing
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg",Nitro Circus
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://i.imgur.com/d3EaS41.png",Players TV 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png",Pluto TV Bellator MMA 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",Pluto TV Deportes
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",Pluto TV Deportes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png",Pluto TV Extrme 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png",Pluto TV Extrme 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 group-title="Various sports" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",Pluto TV MLB 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",Pluto TV MLB 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Various sports", Green TVHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live Sports", Green TVHD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Various sports",Sony Sports 1 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png" group-title="Various sports",Sony Sports 2 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Various sports",Sony Sports 5 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Various sports" tvg-logo="http://11plus.live/img/18.png", Xplore Unique 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="http://11plus.live/img/18.png", Xplore Unique 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="WWEمصارعه حره",WWE
 https://bit.ly/3xYLaRh
@@ -8883,32 +8744,30 @@ https://ia902606.us.archive.org/6/items/Ramadan_1431/Kan_Ya_Makan_Alhayat_26_352
 #EXTINF:-1 tvg-id="localnow_MotoAmerica" group-title="🏎️🏍Motors Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6183e99eb7e5f3651b7d0654",🇺🇸 🏎️🏍➾ MotoAmerica [localnow]
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RacingAmerica.png",🇺🇸 🏎️🏍➾ Racing America [Plex]
-https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+https://racingamerica-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://www.canalmotor.no/wp-content/uploads/2019/04/canalmotor_header.png",🇺🇸 🏎️🏍➾ Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/FRBA1500004O2_20200923T100326.png",🇫🇷 🏎️🏍➾ MotoRacing
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/93592510-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" group-title="🏎️🏍Motors Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",🇺🇸 🏎️🏍➾ Choppertown
-https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist_1280x720.m3u8
+https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="localnow_Ski TV" group-title="🏄Radical sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92",🇺🇸 🏄➾ Ski TV [localnow]
-https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png",🇪🇸 🏄➾ Surf Channelᴴᴰ [Pluto]
-https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png",🇺🇸 🏄➾ Surf Now tvᴴᴰ [Pluto]
-https://dgwfm675921lp.cloudfront.net/playlist_1920x1080.m3u8
+https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png",🇺🇸 🏄➾ Extreme Plusᴴᴰ [Pluto]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Extremeplus.png",🇺🇸 🏄➾Extrêmeᴴᴰ [Pluto]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",🇺🇸 🏄➾ Outside tvᴴᴰ [localnow]
-https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+https://outsidetv-outside-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",🇺🇸 🏄➾ Outside tvᴴᴰ [roku]
-https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🏄Radical sports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/redbullt.png",🇺🇸 🏄➾ Red Bull TVᴴᴰ
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
