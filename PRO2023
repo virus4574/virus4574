@@ -395,6 +395,7 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",SPORT VIP
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SPORT VIP",⚽️كيف احصل على الكود
@@ -508,6 +509,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="http://11plus.live/img/18.png", Xplore Unique 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 3
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 4
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="", PREMIER SPORTS 5
+http://202.21.104.6:88/sps-plus/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="WWEمصارعه حره",WWE
