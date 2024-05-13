@@ -96,8 +96,6 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
 
 
-
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+
@@ -121,11 +119,21 @@ http://31.222.238.38/appleSA-bein-3-fhd/video.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️⚽️
-
+http://hamidfm2024.ddns.net:1988/Bein1HD-Hamidfm2024/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️⚽️
-
+http://hamidfm2024.ddns.net:1988/Bein2HD-Hamidfm2024/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️⚽️
+http://hamidfm2024.ddns.net:1988/Bein3HD-Hamidfm2024/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1⚽️⚽️⚽️
+http://hamidfm2024.ddns.net:1988/Bein1Sd-Hamidfm2024/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 2⚽️⚽️⚽️
+http://hamidfm2024.ddns.net:1988/Bein2Sd-Hamidfm2024/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3⚽️⚽️⚽️
+http://hamidfm2024.ddns.net:1988/Bein3Sd-Hamidfm2024/index.m3u8
 
 
 
