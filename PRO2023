@@ -1639,6 +1639,8 @@ http://45.65.112.206:8000/play/a07d
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
 http://95.216.180.111:1935/live/111/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
+https://s1.ettehadlive.com/live/111/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="documentary الوثائقية",ASHARQ DOCS🏞️
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="documentary الوثائقية",ASHARQ DOCS 2🏞️
