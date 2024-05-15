@@ -33,9 +33,7 @@ http://154.58.202.131:8000/play/a034
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="BEIN SPORT بين سبور",beIN SPORTS
 http://154.58.202.131:8000/play/a07s
 #EXTINF:-1 tvg-logo="" group-title="BEIN SPORT بين سبور", ✅ Bein Sports-Haber✅
-https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/beinsports-haber.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT بين سبور", ✅ Bein Sports-Haber✅
-https://github.com/ZazerConer/YouTube-to-M3U8/raw/8fd4bc5c868ac17297e5388c4f17f71e6b78dcdf/beinsports-haber.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1
 http://85.237.89.6:9590/ku/Live-Zaxo-Sport/tracks-v1a1/mono.m3u8
@@ -53,8 +51,8 @@ http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
 https://cdn.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8
 http://130.193.165.162/lbengine/+ph/sc8yZL__ih__ufPG1__hi__By1rVqHDKtu4Q12sNB5bzOpCs1HMkXfuMAUp2A11cH6WulSza2L0pAQrP6__hi__Xydd2tF54jFRDzXiN__ih____ih__MR9QDhtq__hi__3ErjdWgaLdY466bZD0t1mlxPdNMWI7A913em0aF9xXdWZYR9kE7__hi__zQNksJurzCVy__hi____ih__p83NQdL9AT__hi__N1Xc12UwrDHOuc9Rj1mwK5UYrkyabyYe__hi__rKGzJx8xuhXbEfcQIE9C7j7XdxqiALSgHKStZLAMD5Ej9YH7OSJ9DTZ0kbGaxob3PA6Q0OcrYkBpWc5pnMEo0gM8__ih__k=---/cache/AVA-Sport-HD-LB/master.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9
-http://13.60.67.25/HamidFM2024/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/1210a745cb5095b85623c80b55f40115.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 SD
