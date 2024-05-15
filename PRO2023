@@ -4656,15 +4656,13 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪DEUTSCH",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLZWEI
+#EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪DEUTSCH",RTL Zwei
 http://176.10.117.3:5000/play/a00o/index.m3u8
+#EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪DEUTSCH",RTLZWEI +
+http://154.58.202.194:8000/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪DEUTSCH",ZDF DE
 http://37.18.239.36:8888/ZDF/index.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="🇩🇪DEUTSCH",Das Erste Ⓖ
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="🇩🇪DEUTSCH",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="🇩🇪DEUTSCH",3sat Ⓖ
@@ -5133,8 +5131,6 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ARTE  
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MTV Germany  
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MyTVplus (Dresden) (576p)
