@@ -74,6 +74,12 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d9feee33174cc89b0c9ce28acc58991d.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 1 HD
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
