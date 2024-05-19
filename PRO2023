@@ -1640,10 +1640,6 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 http://95.216.180.111:1935/live/106/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="📰NEWS الاخبار",BBC Arabic HD
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News US HD
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="📰NEWS الاخبار",AL ALAM HD📰
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="📰NEWS الاخبار",WATAN HD📰
@@ -1693,7 +1689,11 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZhKTPO.png" group-title="📰NEWS الاخبار",RT News HD
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2fCRg5.png" group-title="📰NEWS الاخبار"",NBC News Now HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News US HD
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2fCRg5.png" group-title="📰NEWS الاخبار",NBC News Now HD
 https://lnc-nbc-news-now.tubi.video/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qysand6.png" group-title="📰NEWS الاخبار",ABC News Live HD
 https://lnc-abc-news.tubi.video/index.m3u8
