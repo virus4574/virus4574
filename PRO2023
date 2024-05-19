@@ -1674,6 +1674,8 @@ http://95.216.180.111:1935/live/26/chunklist.m3u8
 https://new.cache-stream.workers.dev/stream/UCsHdPPJXT-yKVTLGkn3DSvQ/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="📰NEWS الاخبار", روسيا اليوم
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",الوثائقية documentary🏞️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",🏞️كيف احصل على الكود
@@ -1686,16 +1688,45 @@ https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 http://95.216.180.111:1935/live/111/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
 https://s1.ettehadlive.com/live/111/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="documentary الوثائقية",ASHARQ DOCS🏞️
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" group-title="documentary الوثائقية",Asharq Documentary HD
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png" group-title="documentary الوثائقية",ASHARQ DOCS 2🏞️
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="documentary الوثائقية",Asharq Discovery HD
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="documentary الوثائقية",Oman 🏞️الوثائقية
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="documentary الوثائقية",Kaifa TV🏞️
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8yoawo.png" group-title="documentary الوثائقية",Love Natrue 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lezbxwH.png" group-title="documentary الوثائقية",Natrue Time HD
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhwf8Mo.png" group-title="documentary الوثائقية",Al Jazeera Documentary HD
+https://live-hls-web-ajd.getaj.net/AJD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pOBtetb.png" group-title="documentary الوثائقية",RT Documentary HD
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePQkceL.png" group-title="documentary الوثائقية",NASA TV 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePQkceL.png" group-title="documentary الوثائقية",NASA TV 1 HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePQkceL.png" group-title="documentary الوثائقية",NASA TV 2 HD
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PckxGL9.png" group-title="documentary الوثائقية",Clarity 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOGowIn.png" group-title="documentary الوثائقية",Animal Planet HD
+http://45.88.92.3:80/tr3_AnimalPlanet_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOGowIn.png" group-title="documentary الوثائقية",Animal Planet SD
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="documentary الوثائقية",Outdoor Channel HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="documentary الوثائقية",Outdoor America HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cltzGd4.png" group-title="documentary الوثائقية",History HD
+http://170.254.18.106/HISTORY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULfeXDk.png" group-title="documentary الوثائقية",National Geographic Abu Dhabi HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY--CHANNEL-HD.png" group-title="documentary الوثائقية",Discovery Channel HD
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discovery/discovery%20channel/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="documentary الوثائقية",Discovery Science (Auto)
@@ -1719,10 +1750,6 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="documentary الوثائقية",Animaux🏞️
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://go.nasa.gov/3qa9N9B" group-title="documentary الوثائقية",NASA TV🏞️
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://bit.ly/3g76he0" group-title="documentary الوثائقية", Nature 4k🏞️
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="documentary الوثائقية",Nasa TV🏞️
 https://piratesiptv.shortcm.li/nasa.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3x5rFVQ" group-title="documentary الوثائقية",Animal Planet India
@@ -1733,8 +1760,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://iptv.prosto.tv:7000/ch93/video.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="documentary الوثائقية", Inwild
 https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="documentary الوثائقية", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="documentary الوثائقية", NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="documentary الوثائقية", Nat Geo Wild
@@ -1747,10 +1772,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.co
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_Drone TV" group-title="documentary الوثائقية" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png", ➾ Drone TVᴴᴰ
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1 tvg-id="NASA TV Public" group-title="documentary الوثائقية" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",🇺🇸 ➾ NASA TV ᴴᴰ
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASA TV Public" group-title="documentary الوثائقية" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",🇺🇸 ➾ NASA TV ² ᴴᴰ
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="TheBoatShow.us" group-title="documentary الوثائقية" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="documentary الوثائقية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",🇪🇸 ➾ CGTN Espanhol
@@ -1795,8 +1816,6 @@ https://timeline-samsung-uk.amagi.tv/playlist720-p.m3u8
 https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="DistroTV_True History"group-title="documentary الوثائقية" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg",🇺🇸 ➾ True History [Distrotv]
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",🇺🇸 ➾ Love Natureᴴᴰ
-https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png",🇫🇷 ➾ Nature Time [Pluto]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="documentary الوثائقية" tvg-logo="https://bit.ly/wildplanett",🇺🇸 ➾ Wild Planetᴴᴰ [Plex]
@@ -4279,10 +4298,6 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",SÜPER7 TV 
 http://91.134.203.253:30124/super/super/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",NASA TV [HD]
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",NASA TV 2 HD
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",TEK RUMELİ TV
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo=""tvg-id="" group-title="🇹🇷Turkey",BURSA ASTV
