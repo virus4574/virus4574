@@ -791,7 +791,7 @@ https://new.cache-stream.workers.dev/stream/UCClRc-NLQmr3HnON4HjHKew/live.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="https://bit.ly/3TSkAEA", قرآن كريم قبل النوم
 https://new.cache-stream.workers.dev/stream/UCN8xLGIfvYYKzhnOYW_9esA/live.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="https://bit.ly/3wnr1Xk",  Nat Geo WILD
-https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="https://bit.ly/3WvrRMv",  تلفزيون سوريا البث المباشر
 https://livestream.zazerconer.workers.dev/channel/UCJsZ22yL1IW0R2u0jnnyYog.m3u8
 #EXTINF:-6 tvg-id="dai3a" group-title="بث مباشر يوتيوب" tvg-logo="https://bit.ly/3QF4w7r", AlHadath
@@ -1610,6 +1610,8 @@ https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="📰NEWS الاخبار",AL JAZEERA MUBASHER SD📰
 https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39ELqAP.png" group-title="📰NEWS الاخبار",Al Jazeera English HD
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="📰NEWS الاخبار",AL ARABIYA 📰
@@ -1632,23 +1634,31 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="📰NEWS الاخبار",SKY NEWS ARABIC 📰
 https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="📰NEWS الاخبار",Sky News HD
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="📰NEWS الاخبار",BBC ARABIC 📰
 http://95.216.180.111:1935/live/106/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png" group-title="📰NEWS الاخبار",BBC Arabic HD
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News UK HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuwiABC.png" group-title="📰NEWS الاخبار",BBC News US HD
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="📰NEWS الاخبار",AL ALAM HD📰
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="📰NEWS الاخبار",WATAN HD📰
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j27VuW" group-title="📰NEWS الاخبار",DW ARABIC HD📰
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lRUGXdU.png" group-title="📰NEWS الاخبار",DW HD
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="📰NEWS الاخبار",AL KHALIJ HD📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36u7Xqk" group-title="📰NEWS الاخبار",TRT ARABIC HD📰
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT World HD
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN الاخبارNEWS📰
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN News SD📰
 https://livear.cgtn.com/500a/prog_index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="📰NEWS الاخبار",ALARABY TV HD📰
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqMfXqB.png" group-title="📰NEWS الاخبار",Al Araby HD
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="📰NEWS الاخبار",ALARABY 2 TV HD📰
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -1668,12 +1678,72 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3QKCRSP" group-title="📰NEWS الاخبار",Al Etejah TV📰
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" group-title="📰NEWS الاخبار",France 24 Arabic📰
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnhxgBz.png" group-title="📰NEWS الاخبار",France 24 Arabic HD
 http://95.216.180.111:1935/live/26/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="📰NEWS الاخبار",CNBC Arabia
-https://new.cache-stream.workers.dev/stream/UCsHdPPJXT-yKVTLGkn3DSvQ/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="📰NEWS الاخبار", روسيا اليوم
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnhxgBz.png" group-title="📰NEWS الاخبار",France 24 Arabic HD+
+https://livestream.zazerconer.workers.dev/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtgHPlQ.png" group-title="📰NEWS الاخبار",CNBC Arabia HD
+https://livestream.zazerconer.workers.dev/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNB0ppx.png" group-title="📰NEWS الاخبار",AL Mashhad HD
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwvFJyj.png" group-title="📰NEWS الاخبار",RT Arabic HD
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+                                      -------EN-------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZhKTPO.png" group-title="📰NEWS الاخبار",RT News HD
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2fCRg5.png" group-title="📰NEWS الاخبار"",NBC News Now HD
+https://lnc-nbc-news-now.tubi.video/master_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qysand6.png" group-title="📰NEWS الاخبار",ABC News Live HD
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHUe1il.png" group-title="📰NEWS الاخبار",ABC News 7 HD
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H20CNib.png" group-title="📰NEWS الاخبار", CBSN HD
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbIl9vB.png" group-title="📰NEWS الاخبار",CBSN New York HD
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyzedsk.png" group-title="📰NEWS الاخبار",CBSN Los Angeles HD
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png" group-title="📰NEWS الاخبار",CNN International HD
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLniv0y.png" group-title="📰NEWS الاخبار",CNN USA HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yspEfw4.png" group-title="📰NEWS الاخبار",HLN HD
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSIyAwT.png" group-title="📰NEWS الاخبار",Fox News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEpPVUR.png" group-title="📰NEWS الاخبار",Fox News Now HD
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exm0htD.png" group-title="📰NEWS الاخبار",Fox Weather HD
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="📰NEWS الاخبار",EarthTV HD
+https://livestream.zazerconer.workers.dev/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRvndfa.png" group-title="📰NEWS الاخبار",Euronews HD
+https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnhxgBz.png" group-title="📰NEWS الاخبار",France 24 HD
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uq88tvE.png" group-title="📰NEWS الاخبار",ABC News HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8JDkh2.png" group-title="📰NEWS الاخبار",Global News HD
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85bZZAU.png" group-title="📰NEWS الاخبار",Bloomberg TV HD
+https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85bZZAU.png" group-title="📰NEWS الاخبار",Bloomberg HD
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85bZZAU.png" group-title="📰NEWS الاخبار",Bloomberg Plus HD
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7QlUrf.png" group-title="📰NEWS الاخبار",Bloomberg Quicktake HD
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyDXhY0.png" group-title="📰NEWS الاخبار",Yahoo! Finance HD
+https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gK3WrSw.png" group-title="📰NEWS الاخبار",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgGVlY.png" group-title="📰NEWS الاخبار",NHK World Japan HD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjR1vDY.png" group-title="📰NEWS الاخبار",CNA HD
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",الوثائقية documentary🏞️
@@ -5131,7 +5201,7 @@ https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Aristo TV (360p)
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Artı TV  
-https://ythls.armelin.one/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 #EXTINF:0 tvg-id="BibelTV.de" group-title="🇩🇪DEUTSCH",Bibel TV 
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Bibel TV Impuls 
@@ -5169,7 +5239,7 @@ https://media.finest.tv/hls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Franken Fernsehen (Nürnberg)  
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Friesischer Rundfunk Friedeburg  
-https://ythls.armelin.one/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
 #EXTINF:0 tvg-id="Hamburg1.de" group-title="🇩🇪DEUTSCH",Hamburg 1 
 https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Handystar (404p) 
@@ -5297,7 +5367,7 @@ https://oeins.de/live/studio.m3u8
 #EXTINF:0 tvg-id="One.de" group-title="🇩🇪DEUTSCH",One  
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Pearl TV (2160p) 
-https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
 #EXTINF:0 tvg-id="phoenix.de" group-title="🇩🇪DEUTSCH",Phoenix  
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Pluto TV Comedy Central (Made in Germany) 
@@ -5353,7 +5423,7 @@ https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playl
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RheinMain TV  
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:0 tvg-id="RiC.de" group-title="🇩🇪DEUTSCH",RiC   
-https://ythls.armelin.one/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RNF 
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Rock Antenne 
@@ -5465,7 +5535,7 @@ https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",H1 Fernsehen 
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Kanal 9 Erzgebirge  
-https://ythls.armelin.one/channel/UCtd99m_W5wsyd4YFyQMb7ig.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCtd99m_W5wsyd4YFyQMb7ig.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Kanal12 Spremberg TV (404p) 
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RFH 
@@ -5519,7 +5589,7 @@ http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",iSTUFF  
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",AstroTV  
-https://ythls.armelin.one/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Der Aktionär TV 
 https://live2.telvi.de/hls/aktionaertv.m3u8
 #EXTINF:0 tvg-id="dwelle" group-title="🇩🇪DEUTSCH" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Deutsche Welle 
@@ -5527,9 +5597,9 @@ http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RT DE  
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:0 tvg-id="WELT.de" group-title="🇩🇪DEUTSCH",WELT  
-https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",earthTV  
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",EbS+ Live (Europe by Satellite) 
 https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Parlamentsfernsehen 1  
