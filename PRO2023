@@ -1942,8 +1942,8 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nuo4gY" group-title="Children أطفال ",Rotana Kids HD
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="Children أطفال ",BEIN :Cartoon_Network العربية
-https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="Children أطفال ",BEIN :Cartoon_Network AR
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://bit.ly/3PFq9Up" group-title="Children أطفال ",Majid 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3izHluV" group-title="Children أطفال ",Atfal Wa Mawaheb
@@ -2059,6 +2059,8 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC أم بي سي",|MBC| 1 SD
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC أم بي سي",|MBC| 2 SD
+https://05-24.onlinehdhls.ru/fls/cdn/dwqpWxVkFR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC أم بي سي",|MBC| 3 SD
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5677.png" group-title="MBC أم بي سي",MBC 4
