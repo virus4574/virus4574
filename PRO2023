@@ -3270,6 +3270,10 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/GLfhYSH.png"tvg-country="IQ"tvg-url="" group-title="KURDISH",Kurdistan TV
 http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mph0Uu"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ronahi TV
+https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wPebBl"tvg-country="IQ"tvg-url="" group-title="KURDISH",Rojava TV
+https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mph0Uu"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ronahi TV
 https://ca-rt.onetv.app/Ronahi/index-0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3mph0Uu"tvg-country="IQ"tvg-url="" group-title="KURDISH",Ronahi TV (1)
 https://ikomg1.s.llnwi.net/ronahi-tv/ronahi-tv.m3u8
