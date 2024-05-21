@@ -1784,8 +1784,10 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",🏞️كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️
 http://45.65.112.206:8000/play/a07d
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️+
+http://78.40.141.246:8002/play/a041
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
@@ -2280,6 +2282,28 @@ https://daiconnect.com/live/hls/rotana/romance/.m3u8
 https://daiconnect.com/live/hls/rotana/mplus/.m3u8
 #EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="ROTANA روتانا",Rotana+
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",AL Resala
+http://78.40.141.246:8005/play/a00a
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",LBC SAT
+http://78.40.141.246:8005/play/a009
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY
+http://78.40.141.246:8005/play/a007
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY HD
+http://78.40.141.246:8005/play/a00b
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema KSA
+http://78.40.141.246:8005/play/a008
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic
+http://78.40.141.246:8005/play/a005
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Clip
+http://78.40.141.246:8005/play/a003
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Drama
+http://78.40.141.246:8005/play/a006
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Khalijia
+http://78.40.141.246:8005/play/a004
+#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music
+http://78.40.141.246:8005/play/a002
 
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY
