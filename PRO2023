@@ -1762,8 +1762,7 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",🏞️كيف احصل على الكود
 https://bit.ly/3gj9PK5
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️
-http://45.65.112.206:8000/play/a07d
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️+
 http://78.40.141.246:8002/play/a041
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera 🏞️الجزيرة الوثائقية
@@ -2208,16 +2207,6 @@ http://154.58.202.185:8000/play/a048
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX
 http://154.58.202.185:8000/play/a04a
 
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
-http://45.65.112.206:8000/play/a089
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
-http://45.65.112.206:8000/play/a02j
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC ACTION" tvg-logo="https://logo.iptveditor.com/mbcaction.png" group-title="MBC VIP1 أم بي سي",MBC Action
-http://45.65.112.206:8000/play/a088
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC MAX HD" tvg-logo="https://logo.iptveditor.com/mbcmax.png" group-title="MBC VIP1 أم بي سي",MBC MAX
-http://45.65.112.206:8000/play/a08a
-
-
 
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MBC 2 HD" tvg-logo="https://logo.iptveditor.com/mbc2.png" group-title="MBC VIP1 أم بي سي",MBC 2
 http://154.197.91.168:7003/play/a0fh
@@ -2403,13 +2392,6 @@ http://154.58.202.131:8000/play/a08m
 #EXTINF:0 tvg-id="ext" group-title="Syria سورية",ALALAM SYRIA
 http://154.58.202.131:8000/play/a089
 
-
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Drama
-http://45.65.112.206:8000/play/a0eu
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Education
-http://45.65.112.206:8000/play/a0ev
-#EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Satellite
-http://45.65.112.206:8000/play/a0et
 
 #EXTINF:0 tvg-id="ext" group-title="Syria سورية",Syria Drama
 http://154.197.91.168:7002/play/a0dx
@@ -2767,31 +2749,6 @@ http://149.62.177.103:8000/play/a08e
 http://149.62.177.103:8000/play/a08b
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Drama
-http://45.65.112.206:8000/play/a0eg
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Drama 2
-http://45.65.112.206:8000/play/a0eh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Film
-http://45.65.112.206:8000/play/a0ei
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Panorama Food
-http://45.65.112.206:8000/play/a0ej
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON  E
-http://45.65.112.206:8000/play/a0fi
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON Drama
-http://45.65.112.206:8000/play/a0fk
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E HD
-http://45.65.112.206:8000/play/a0ff
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS
-http://45.65.112.206:8000/play/a0fj
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS HD
-http://45.65.112.206:8000/play/a0fg
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2
-http://45.65.112.206:8000/play/a0fh
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS2 HD
-http://45.65.112.206:8000/play/a0fe
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇲🇦المغربMAROCCO",المغربMAROCCO 🇲🇦
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="🇲🇦المغربMAROCCO",AL_Aoula_InterTV🇲🇦
@@ -2917,32 +2874,14 @@ http://162.212.178.69:4242/bysid/808
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elfadjer drama🇩🇿
 http://154.58.202.131:8000/play/a03l
 
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk NEWS
-http://45.65.112.206:8000/play/a04i
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Echorouk TV
-http://45.65.112.206:8000/play/a04j
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Egyptian TV HD
-http://45.65.112.206:8000/play/a0hb
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Ekta TV
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Barlamaniya
-http://45.65.112.206:8000/play/a0aa
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL BILAD
-http://45.65.112.206:8000/play/a04s
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Djazair N1
-http://45.65.112.206:8000/play/a04q
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Eiman TV
 http://154.58.202.131:8000/play/a03y
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL HAYAT TV ALGERIE
-http://45.65.112.206:8000/play/a04n
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL HEDDAF TV
-http://45.65.112.206:8000/play/a04o
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL IKTISSADIA OULA
-http://45.65.112.206:8000/play/a04k
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Mahadra
 http://154.58.202.185:8000/play/a0a7
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",EL MAHROUSA TV
-http://45.65.112.206:8000/play/a03x
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Medina
 http://154.58.202.185:8000/play/a0ai
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Mourabitoune
@@ -2959,8 +2898,7 @@ http://154.58.202.131:8000/play/a03o
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",El Wataniya
 http://154.58.202.185:8000/play/a0ad
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elasema Welnas TV
-http://45.65.112.206:8000/play/a09o
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elbeshara Tv
@@ -2971,16 +2909,13 @@ http://154.58.202.131:8000/play/a03l
 http://154.58.202.131:8000/play/a01t
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR
 http://154.58.202.131:8000/play/a04h
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR
-http://45.65.112.206:8000/play/a0hf
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMEHWAR-HD
 http://154.58.202.131:8000/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",ELMOLED
-http://45.65.112.206:8000/play/a045
+
 #EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elmouritania HD
 http://154.58.202.185:8000/play/a0a4
-#EXTINF:0 tvg-id="ext" group-title="🇩🇿الجزائرALGERIEN",Elwatania Algerie
-http://45.65.112.206:8000/play/a04m
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
@@ -3001,22 +2936,12 @@ https://media1.livaat.com/live/Lebda_TV/index.m3u8
 https://media1.livaat.com/NEW_LIBYA_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA", قناة الوطنيه
 http://162.212.178.70:4442/bysid/7.ts
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya al Ahrar HD
-http://45.65.112.206:8000/play/a035
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA ALHADATH HD
-http://45.65.112.206:8000/play/a0es
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA ALMASAR SD
-http://45.65.112.206:8000/play/a049
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",LIBYA ALMASAR TV
-http://45.65.112.206:8000/play/a06e
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Almustaqbal TV
-http://45.65.112.206:8000/play/a09b
+
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
 http://154.58.202.185:8000/play/a05y
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
 http://154.58.202.131:8000/play/a04g
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alrasmia
-http://45.65.112.206:8000/play/a0cn
+
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwataniya
 http://154.58.202.185:8000/play/a05w
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya Alwatnya
@@ -3033,8 +2958,7 @@ http://154.58.202.131:8000/play/a04e
 http://154.58.202.185:8000/play/a05z
 #EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya WTV HD
 http://154.58.202.131:8000/play/a01s
-#EXTINF:-1 tvg-logo="" group-title="🇱🇾ليبياLIBYA",Libya WTV SD
-http://45.65.112.206:8000/play/a03o
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RT7i7p" group-title="🇱🇾ليبياLIBYA",Libya Almasar🇱🇾
 http://5.253.46.190:7004/play/a0d4
