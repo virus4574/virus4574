@@ -1763,14 +1763,27 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="documentary الوثائقية",🏞️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi 🏞️+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi Backup 1)
 http://78.40.141.246:8002/play/a041
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="documentary الوثائقية",National Geographic Abu Dhabi Backup 2)
+http://175.107.244.52:4457/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
 http://95.216.180.111:1935/live/111/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",ALJazeera الجزيرة الوثائقية (Backup 2)🏞️
 https://s1.ettehadlive.com/live/111/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 3)🏞️
+http://45.65.112.49:8000/play/a0lr
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 4)🏞️
+http://154.58.202.131:8000/play/a00l
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 5)🏞️
+http://154.54.220.67:34780/play/a024
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="documentary الوثائقية",Al Jazeera Documentary (Backup 6)🏞️
+http://154.58.202.185:8000/play/a095
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL22wwo.png" group-title="documentary الوثائقية",Asharq Documentary HD
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yszVEyu.png" group-title="documentary الوثائقية",Asharq Discovery HD
@@ -2273,22 +2286,7 @@ http://78.40.141.246:8005/play/a004
 http://78.40.141.246:8005/play/a002
 
 
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY
-http://45.65.112.16:8000/play/a02m
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema EGY HD
-http://45.65.112.16:8000/play/a02q
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema KSA
-http://45.65.112.16:8000/play/a02n
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Classic
-http://45.65.112.16:8000/play/a02k
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Clip
-http://45.65.112.16:8000/play/a02i
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Drama
-http://45.65.112.16:8000/play/a02l
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Khalijia
-http://45.65.112.16:8000/play/a02j
-#EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Music
-http://45.65.112.16:8000/play/a02h
+
 
 #EXTINF:-1 tvg-id="LBC.sa" tvg-logo="" group-title="ROTANA روتانا",Rotana Cinema HD
 http://154.54.220.67:34780/play/a06g
@@ -2686,54 +2684,6 @@ https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/47R9S51" group-title="🇪🇬المصرية Egypt",Bee movies
 https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Cinema
-http://45.65.112.16:8000/play/a00e
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Comedy
-http://45.65.112.16:8000/play/a009
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Culture
-http://45.65.112.16:8000/play/a03p
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Drama
-http://45.65.112.16:8000/play/a00b
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile FM
-http://45.65.112.16:8000/play/a00y
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Family
-http://45.65.112.16:8000/play/a03o
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Life
-http://45.65.112.16:8000/play/a00a
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile News
-http://45.65.112.16:8000/play/a008
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile News HD
-http://45.65.112.16:8000/play/a00d
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Nile Sport
-http://45.65.112.16:8000/play/a00c
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zamalek Sports
-http://45.65.112.16:8000/play/a01s
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Zaytouna Radio & TV
-http://45.65.112.16:8000/play/a01k
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",a Konoz Alhayat
-http://45.65.112.16:8000/play/a01l
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc
-http://45.65.112.16:8000/play/a01q
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc HD
-http://45.65.112.16:8000/play/a01p
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc drama
-http://45.65.112.16:8000/play/a01t
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",dmc masraheyat
-http://45.65.112.16:8000/play/a01v
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Extra Live
-http://45.65.112.16:8000/play/a01r
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Extra Live SD
-http://45.65.112.16:8000/play/a01u
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Extra News
-http://45.65.112.16:8000/play/a041
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",Extra News HD
-http://45.65.112.16:8000/play/a02s
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",ON E
