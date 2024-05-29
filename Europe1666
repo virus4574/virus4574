@@ -5417,14 +5417,88 @@ http://37.18.239.36:8888/VH1/index.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 
 
-#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/1UkxzGL.png" group-title="🇸🇳Senegal",A2i Music 
+
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" group-title="🇸🇳Senegal",A2i Music  
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="🇸🇳Senegal",A2i Religion 
+#EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" group-title="🇸🇳Senegal",A2i Naija  
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/54WrwyN.jpg" group-title="🇸🇳Senegal",A2i Religion  
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇸🇳Senegal",A2i TV
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmaniTV.sn" tvg-logo="https://i.imgur.com/0cY4K7G.png" group-title="🇸🇳Senegal",Amani TV  
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-id="CNMTV.sn" tvg-logo="https://i.ibb.co/0cfdGKv/1630802325205.jpg" group-title="🇸🇳Senegal",CNM TV  
+https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="DakarTVInternational.sn" tvg-logo="https://i.imgur.com/VGm2Kjq.png" group-title="🇸🇳Senegal",Dakar TV International
+https://live3.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8
+#EXTINF:-1 tvg-id="IMTV.sn" tvg-logo="https://i.imgur.com/B19cWx1.jpg" group-title="🇸🇳Senegal",Islam TV Sénégal 
+https://tv.imediasn.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="LeralTV.sn" tvg-logo="https://i.imgur.com/BUxzHmO.png" group-title="🇸🇳Senegal",Leral TV 
+https://live3.acangroup.org:1929/acanabr/leraltv_all/acanabr/leraltv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" group-title="🇸🇳Senegal",Louga TV 
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MADERTV.sn" tvg-logo="https://i.imgur.com/aFzTA2t.jpg" group-title="🇸🇳Senegal",Mader TV 
+https://goccn.cloud/hls/Madertv/index.m3u8
+#EXTINF:-1 tvg-id="MourideTV.sn" tvg-logo="https://cdn-radiotime-logos.tunein.com/s202038d.png" group-title="🇸🇳Senegal",Mouride TV 
+http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneNationTV.sn" tvg-logo="https://i.imgur.com/RGHbkZU.png" group-title="🇸🇳Senegal",One Nation TV  
+https://endour.net/hls/One_nationtv/index.m3u8
+#EXTINF:-1 tvg-id="PublicSnTV.sn" tvg-logo="https://i.imgur.com/P4higEz.jpg" group-title="🇸🇳Senegal",PublicSn TV 
+https://goccn.cloud/hls/publictv/index.m3u8
+#EXTINF:-1 tvg-id="RewmiTV.sn" tvg-logo="https://i.imgur.com/HSpj83I.png" group-title="🇸🇳Senegal",Rewmi TV 
+https://mamoch.me/hls/rewmitv/index.m3u8
+#EXTINF:-1 tvg-id="RFM.sn" tvg-logo="https://i.imgur.com/QeLdzTC.png" group-title="🇸🇳Senegal",RFM 
+https://senrtmp.com/hls/rfm.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn" tvg-logo="https://i.imgur.com/HHGktpF.png" group-title="🇸🇳Senegal",RTS 1 
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn" tvg-logo="https://i.imgur.com/YypHsF4.png" group-title="🇸🇳Senegal",RTS 2 
+http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/1BLXnHB.png" group-title="🇸🇳Senegal",Sen TV 
- https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" group-title="🇸🇳Senegal",SenJeunes TV  
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMusikSenegal.sn" tvg-logo="https://i.imgur.com/dPAPLsd.png" group-title="🇸🇳Senegal",TeleMusik Sénégal 
+https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/IJ3ZX1F.png" group-title="🇸🇳Senegal",TFM 
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8
+#EXTINF:-1 tvg-id="WalfTV.sn" tvg-logo="https://i.imgur.com/WMvSKki.png" group-title="🇸🇳Senegal",Walf TV 
+https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="YakaarTV.sn" tvg-logo="https://i.ibb.co/ftjTryD/yakaar-logo-single.jpg" group-title="🇸🇳Senegal",Yakaar TV 
+https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AhlouMourideTV.sn" tvg-logo="https://i.imgur.com/db3Yhif.jpg" group-title="🇸🇳Senegal",Ahlou Mouride TV  
+https://livestream.zazerconer.workers.dev/channel/UCuFSrdYq5td__h886cSTmVw.m3u8
+#EXTINF:-1 tvg-id="AlKhadimiyyahTV.sn" tvg-logo="https://i.imgur.com/xMYkX8d.jpg" group-title="🇸🇳Senegal",Al Khadimiyyah TV  
+https://livestream.zazerconer.workers.dev/channel/UCqbQTS505CVDNNmPI0KwoYA.m3u8
+#EXTINF:-1 tvg-id="AsfiyahiTV.sn" tvg-logo="https://i.imgur.com/tDuvfsh.png" group-title="🇸🇳Senegal",Asfiyahi TV  
+https://livestream.zazerconer.workers.dev/channel/UCLAOTbXfGlOL0gBXcqFU7Dg.m3u8
+#EXTINF:-1 tvg-id="BichriTV.sn" tvg-logo="https://i.imgur.com/mNiWJi8.jpg" group-title="🇸🇳Senegal",Bichri TV  
+https://livestream.zazerconer.workers.dev/channel/UCrtdAWf9y1D2by4ruhWbllA.m3u8
+#EXTINF:-1 tvg-id="DakarActuTV.sn" tvg-logo="https://i.imgur.com/jSTCJYu.png" group-title="🇸🇳Senegal",DakarActu TV  
+https://livestream.zazerconer.workers.dev/channel/UCG0t6XiAHui-ziz7SwFTN0g.m3u8
+#EXTINF:-1 tvg-id="DRTSTV.sn" tvg-logo="https://i.ibb.co/nzjmJVP/unnamed-2.jpg" group-title="🇸🇳Senegal",DRTS TV  
+https://livestream.zazerconer.workers.dev/channel/UC-6dz560kcpeLmxceZzn44A.m3u8
+#EXTINF:-1 tvg-id="IstikhamaTV.sn" tvg-logo="https://i.imgur.com/Sqs6qyJ.jpg" group-title="🇸🇳Senegal",Istikhama TV  
+https://livestream.zazerconer.workers.dev/channel/UCIpj2Vtw2GkXEfhevrAbkCQ.m3u8
+#EXTINF:-1 tvg-id="LouBessTV.sn" tvg-logo="https://i.imgur.com/eZTAYNc.jpg" group-title="🇸🇳Senegal",Lou'Bess TV  
+https://livestream.zazerconer.workers.dev/channel/UCkEyFrOg61vOOEfG6pdRINg.m3u8
+#EXTINF:-1 tvg-id="MalikiaTV.sn" tvg-logo="https://i.imgur.com/ZyMdBek.png" group-title="🇸🇳Senegal",Malikia TV  
+https://livestream.zazerconer.workers.dev/channel/UC0V1TlLFybhr0MJzxxXgdWw.m3u8
+#EXTINF:-1 tvg-id="MourchidTV.sn" tvg-logo="https://i.imgur.com/ZEWytcF.png" group-title="🇸🇳Senegal",Mourchid TV  
+https://livestream.zazerconer.workers.dev/channel/UCd4M7knaiPnAtfN28qm7Q9w.m3u8
+#EXTINF:-1 tvg-id="PrestigeThiesTV.sn" tvg-logo="https://i.ibb.co/nsyFkfx/unnamed-1.jpg" group-title="🇸🇳Senegal",Prestige Thies TV  
+https://livestream.zazerconer.workers.dev/channel/UCAdTkVp8jmHQc0R0p4XH2DA.m3u8
+#EXTINF:-1 tvg-id="Sunugal24.sn" tvg-logo="https://i.imgur.com/7ynSfen.png" group-title="🇸🇳Senegal",Sunugal 24  
+https://livestream.zazerconer.workers.dev/channel/UCAUXyESHY44j2QOLUsm5fAg.m3u8
+#EXTINF:-1 tvg-id="TeleSenegalTV.sn" tvg-logo="https://i.imgur.com/X8SDLD2.jpg" group-title="🇸🇳Senegal",Télé Sénégal  
+https://livestream.zazerconer.workers.dev/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8
+#EXTINF:-1 tvg-id="2ATV.sn" tvg-logo="https://i.imgur.com/JouRiqm.png" group-title="🇸🇳Senegal",2A TV  
+https://livestream.zazerconer.workers.dev/channel/UCh57LRfcD3Z4TK6WrzL39GA.m3u8
+#EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="🇸🇳Senegal",2S TV  
+https://livestream.zazerconer.workers.dev/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
+#EXTINF:-1 tvg-id="313Digital.sn" tvg-logo="https://i.imgur.com/qplFaTa.jpg" group-title="🇸🇳Senegal",313 Digital  
+https://livestream.zazerconer.workers.dev/channel/UCkfPKgTSJljrXmwm1m0iY8Q.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="🇹🇼Taiwan",CTi News (中天新聞台)
