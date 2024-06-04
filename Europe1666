@@ -6236,6 +6236,12 @@ https://ythls.armelin.one/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8
 
 
 
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷💙 FRANCE",FRANCE TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="|FR|🇫🇷💙 FRANCE",Arte Ⓖ
@@ -6269,40 +6275,46 @@ https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", TF1
+https://www.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", France 2
+https://www.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", France 3
+https://www.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", France 5
+https://www.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", M6
+https://www.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", Arte
+https://www.tntendirect.com/arte/live/playlist.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/C8.png" group-title="|FR|🇫🇷💙 FRANCE", C8
+https://www.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/W9%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", W9
+https://www.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TMC%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", TMC
+https://www.tntendirect.com/tmc/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TFX.png" group-title="|FR|🇫🇷💙 FRANCE", TFX
+https://www.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/NRJ%2012%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", NRJ 12
+https://www.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20HD.png" group-title="|FR|🇫🇷💙 FRANCE", France 4
+https://www.tntendirect.com/france4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="|FR|🇫🇷💙 FRANCE", BFM TV
+https://www.tntendirect.com/bmftv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CStar.png" group-title="|FR|🇫🇷💙 FRANCE", CStar
+https://www.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="|FR|🇫🇷💙 FRANCE", TF1 Séries Films
+https://www.tntendirect.com/hd1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/L'Équipe.png" group-title="|FR|🇫🇷💙 FRANCE", L'Équipe TV
+https://www.tntendirect.com/lequipe21/live/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/6ter.png" group-title="|FR|🇫🇷💙 FRANCE", 6ter
+https://www.tntendirect.com/6ter/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RMC%20Découverte.png" group-title="|FR|🇫🇷💙 FRANCE", RMC Découverte
+https://www.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Chérie%2025.png" group-title="|FR|🇫🇷💙 FRANCE", Chérie 25
+https://www.tntendirect.com/cherie25/live/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",TF1 Séries Films
-http://37.143.55.215:4240/bysid/2561
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",L'Equipe
-http://37.143.55.215:4240/bysid/2562
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Chérie 25
-http://37.143.55.215:4240/bysid/2563
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",RMC Découverte
-http://37.143.55.215:4240/bysid/2564
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",RMC STORY
-http://37.143.55.215:4240/bysid/2565
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",M6
-http://37.143.55.215:4241/bysid/1025
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",W9
-http://37.143.55.215:4241/bysid/1026
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Arte
-http://37.143.55.215:4241/bysid/1031
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",France 5
-http://37.143.55.215:4241/bysid/1045
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",6ter
-http://37.143.55.215:4241/bysid/1046
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",Arte.Tv
-http://37.143.55.215:4241/bysid/1047
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",CANAL+
-http://37.143.55.215:4242/bysid/769
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",CANAL+ SPORT
-http://37.143.55.215:4242/bysid/771
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",LCI
-http://37.143.55.215:4242/bysid/776
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",PARIS PREMIERE
-http://37.143.55.215:4242/bysid/777
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|FR|🇫🇷💙 FRANCE",CANAL+
-http://37.143.55.215:4242/bysid/778
 
 
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://i.imgur.com/iRsbEpg.png" group-title="|FR|🇫🇷💙 FRANCE" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Alsace 
