@@ -41,16 +41,18 @@ http://85.237.89.6:9590/ku/Live-Zaxo-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 2
 http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 3
-https://tv.qmedia.ps/hls/tv_HD/index.m3u8
+http://88.99.167.201:1935/live/ldsportchek/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 4
-http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
+https://tv.qmedia.ps/hls/tv_HD/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 5
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6
-http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7
-https://cdn.footballii.ir/hls2/bein1.m3u8
+http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8
+https://cdn.footballii.ir/hls2/bein1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9
 https://cdn.footballii.ir/hls2/bein2.m3u8
 
 
