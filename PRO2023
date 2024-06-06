@@ -299,7 +299,62 @@ http://homeip.biz/KSA_SSC4/index.m3u8
 http://homeip.biz/KSA_SSC5/index.m3u8
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",ssc-news
+http://154.58.202.80:1234/stream/ssc-news
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-1-1080
+http://154.58.202.80:1234/stream/SSC-1-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-1-720
+http://154.58.202.80:1234/stream/SSC-1-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-1-SD
+http://154.58.202.80:1234/stream/SSC-1-SD
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-2-1080
+http://154.58.202.80:1234/stream/SSC-2-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-2-720
+http://154.58.202.80:1234/stream/SSC-2-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-2-sd
+http://154.58.202.80:1234/stream/SSC-2-sd
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC3-1080
+http://154.58.202.80:1234/stream/SSC3-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC3-720
+http://154.58.202.80:1234/stream/SSC3-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC3-SD
+http://154.58.202.80:1234/stream/SSC3-SD
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC_3_4K
+http://154.58.202.80:1234/stream/SSC_3_4K
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC_3_HD
+http://154.58.202.80:1234/stream/SSC_3_HD
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC_3_SD
+http://154.58.202.80:1234/stream/SSC_3_SD
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-4-1080
+http://154.58.202.80:1234/stream/SSC-4-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-4-720
+http://154.58.202.80:1234/stream/SSC-4-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-4-sd
+http://154.58.202.80:1234/stream/SSC-4-sd
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-5-1080
+http://154.58.202.80:1234/stream/SSC-5-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-5-720
+http://154.58.202.80:1234/stream/SSC-5-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-5-sd
+http://154.58.202.80:1234/stream/SSC-5-sd
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-EXTRA-1
+http://154.58.202.80:1234/stream/SSC-EXTRA-1
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-EXTRA-1-720
+http://154.58.202.80:1234/stream/SSC-EXTRA-1-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-EXTRA-1-SD
+http://154.58.202.80:1234/stream/SSC-EXTRA-1-SD
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SC-2-EXTRA-1080
+http://154.58.202.80:1234/stream/SC-2-EXTRA-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SC-2-EXTRA-720
+http://154.58.202.80:1234/stream/SC-2-EXTRA-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC_2_Extra_HD
+http://154.58.202.80:1234/stream/SSC_2_Extra_HD
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-3-EXTRA-1080
+http://154.58.202.80:1234/stream/SSC-3-EXTRA-1080
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-3-EXTRA-720
+http://154.58.202.80:1234/stream/SSC-3-EXTRA-720
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC-3-EXTRA-SD
+http://154.58.202.80:1234/stream/SSC-3-EXTRA-SD
 #EXTM3U
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport 1 HD
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
