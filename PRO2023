@@ -378,7 +378,7 @@ http://5.153.180.133:8000/play/a03h
 http://5.153.180.133:8000/play/a03g
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Футбол 3 1920x1080
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12202
-#EXTINF:0 tvg-id="ntv-football-3" group-title="SPORT VIP 🏆",Футбол 3 720x576
+#EXTINF:0 tvg-id="ntv-football-3" group-title="SPORT VIP 🏆 Plus",Футбол 3 720x576
 http://5.153.180.133:8000/play/a03i
 #EXTINF:0 tvg-id="start" group-title="SPORT VIP 🏆",Старт
 http://5.153.180.133:8000/play/a054
@@ -554,6 +554,168 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP 🏆",Arena Sport 6 [hr]
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="tsn1.ca" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tsn1.ca.png",TSN 1 CA
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tsn1.ca.m3u8
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="tsn2.ca" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tsn2.ca.png",TSN 2 CA
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tsn2.ca.m3u8
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="tsn3.ca" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tsn3.ca.png",TSN 3 CA
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tsn3.ca.m3u8
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="tsn4.ca" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tsn4.ca.png",TSN 4 CA
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tsn4.ca.m3u8
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tsn5.ca.m3u8
+#EXTINF:-1 tvg-id="tvg.2.horse.racing.us" tvg-name="tvg.2.horse.racing.us" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tvg.2.horse.racing.us.png",TVG 2 Horse Racing US
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tvg.2.horse.racing.us.m3u8
+#EXTINF:-1 tvg-id="tvg.television.games.network.us" tvg-name="tvg.television.games.network.us" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tvg.television.games.network.us.png",TVG Television Games Network US
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tvg.television.games.network.us.m3u8
+#EXTINF:-1 tvg-id="ss.1.al" tvg-name="ss.1.al" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/ss.1.al.png",SuperSport 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/ss.1.al.m3u8
+#EXTINF:-1 tvg-id="ss.2.al" tvg-name="ss.2.al" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/ss.2.al.png",SuperSport 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/ss.2.al.m3u8
+#EXTINF:-1 tvg-id="ss.3.al" tvg-name="ss.3.al" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/ss.3.al.png",SuperSport 3
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/ss.3.al.m3u8
+#EXTINF:-1 tvg-id="ss.4.al" tvg-name="ss.4.al" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/ss.4.al.png",SuperSport 4
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/ss.4.al.m3u8
+#EXTINF:-1 tvg-id="ss.5.al" tvg-name="ss.5.al" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/ss.5.al.png",SuperSport 5
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/ss.5.al.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="paramount.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/paramount.br.png",Paramount Channel
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/paramount.br.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="premiere.2.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.2.br.png",Premiere 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.2.br.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="premiere.3.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.3.br.png",Premiere 3
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.3.br.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="premiere.4.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.4.br.png",Premiere 4
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.4.br.m3u8
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="premiere.5.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.5.br.png",Premiere 5
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.5.br.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="premiere.6.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.6.br.png",Premiere 6
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.6.br.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.7.br.png",Premiere 7
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.7.br.m3u8
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="premiere.8.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.8.br.png",Premiere 8
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.8.br.m3u8
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="premiere.clubes.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.clubes.br.png",Premiere Clubes
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.clubes.br.m3u8
+#EXTINF:-1 tvg-id="premiere.futebol.br" tvg-name="premiere.futebol.br" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/premiere.futebol.br.png",Premiere FC
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/premiere.futebol.br.m3u8
+#EXTINF:-1 tvg-id="arena.sport.1.rs" tvg-name="arena.sport.1.rs" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.1.rs.png",Arena Sport 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.1.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.1.hr" tvg-name="arena.sport.1.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.1.hr.png",Arena Sport 1 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.1.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.10.hr" tvg-name="arena.sport.10.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.10.hr.png",Arena Sport 10 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.10.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.2.rs" tvg-name="arena.sport.2.rs" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.2.rs.png",Arena Sport 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.2.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.2.hr" tvg-name="arena.sport.2.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.2.hr.png",Arena Sport 2 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.2.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.3.rs" tvg-name="arena.sport.3.rs" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.3.rs.png",Arena Sport 3
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.3.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.3.hr" tvg-name="arena.sport.3.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.3.hr.png",Arena Sport 3 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.3.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.4.rs" tvg-name="arena.sport.4.rs" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.4.rs.png",Arena Sport 4
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.4.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.4.hr" tvg-name="arena.sport.4.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.4.hr.png",Arena Sport 4 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.4.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.5.hr" tvg-name="arena.sport.5.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.5.hr.png",Arena Sport 5 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.5.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.6.hr" tvg-name="arena.sport.6.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.6.hr.png",Arena Sport 6 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.6.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.7.hr" tvg-name="arena.sport.7.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.7.hr.png",Arena Sport 7 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.7.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.8.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.9.hr" tvg-name="arena.sport.9.hr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/arena.sport.9.hr.png",Arena Sport 9 HR
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/arena.sport.9.hr.m3u8
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="sky.sport.1.de" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.1.de.png",Sky Sport 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.1.de.m3u8
+#EXTINF:-1 tvg-id="sky.sport.2.de" tvg-name="sky.sport.2.de" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.2.de.png",Sky Sport 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.2.de.m3u8
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="sky.sport.austria.de" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.austria.de.png",Sky Sport Austria
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.austria.de.m3u8
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="sky.sport.bundesliga.1.de" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.bundesliga.1.de.png",Sky Sport Bundesliga 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.bundesliga.1.de.m3u8
+#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="sky.sport.news.de" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.news.de.png",Sky Sport News
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.news.de.m3u8
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv1.pt.png",Sport TV 1 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv1.pt.m3u8
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="sport.tv2.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv2.pt.png",Sport TV 2 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv2.pt.m3u8
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="sport.tv3.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv3.pt.png",Sport TV 3 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv3.pt.m3u8
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="sport.tv4.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv4.pt.png",Sport TV 4 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv4.pt.m3u8
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="sport.tv5.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv5.pt.png",Sport TV 5 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv5.pt.m3u8
+#EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="sport.tv6.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv6.pt.png",Sport TV 6
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv6.pt.m3u8
+#EXTINF:-1 tvg-id="sport.tv.pt" tvg-name="sport.tv.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sport.tv.pt.png",Sport TV Plus PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sport.tv.pt.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="eleven.sports.1.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eleven.sports.1.pt.png",Eleven Sports 1 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eleven.sports.1.pt.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="eleven.sports.2.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eleven.sports.2.pt.png",Eleven Sports 2 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eleven.sports.2.pt.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="eleven.sports.3.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eleven.sports.3.pt.png",Eleven Sports 3 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eleven.sports.3.pt.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="eleven.sports.4.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eleven.sports.4.pt.png",Eleven Sports 4 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eleven.sports.4.pt.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="eleven.sports.5.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eleven.sports.5.pt.png",Eleven Sports 5 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eleven.sports.5.pt.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="eleven.sports.6.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eleven.sports.6.pt.png",Eleven Sports 6 PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eleven.sports.6.pt.m3u8
+#EXTINF:-1 tvg-id="benfica.pt" tvg-name="benfica.pt" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/benfica.pt.png",Benfica TV PT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/benfica.pt.m3u8
+#EXTINF:-1 tvg-id="digi.sport.1.ro" tvg-name="digi.sport.1.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/digi.sport.1.ro.png",DIGI Sport 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/digi.sport.1.ro.m3u8
+#EXTINF:-1 tvg-id="digi.sport.2.ro" tvg-name="digi.sport.2.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/digi.sport.2.ro.png",DIGI Sport 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/digi.sport.2.ro.m3u8
+#EXTINF:-1 tvg-id="digi.sport.3.ro" tvg-name="digi.sport.3.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/digi.sport.3.ro.png",DIGI Sport 3
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/digi.sport.3.ro.m3u8
+#EXTINF:-1 tvg-id="digi.sport.4.ro" tvg-name="digi.sport.4.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/digi.sport.4.ro.png",DIGI Sport 4
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/digi.sport.4.ro.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.ro" tvg-name="eurosport.1.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eurosport.1.ro.png",Eurosport 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eurosport.1.ro.m3u8
+#EXTINF:-1 tvg-id="eurosport.2.ro" tvg-name="eurosport.2.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/eurosport.2.ro.png",Eurosport 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/eurosport.2.ro.m3u8
+#EXTINF:-1 tvg-id="extreme.sports.channel.ro" tvg-name="extreme.sports.channel.ro" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/extreme.sports.channel.ro.png",Extreme Sport
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/extreme.sports.channel.ro.m3u8
+#EXTINF:-1 tvg-id="tvp.sport.pl" tvg-name="tvp.sport.pl" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/tvp.sport.pl.png",TVP Sport
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/tvp.sport.pl.m3u8
+#EXTINF:-1 tvg-id="polsat.sport.pl" tvg-name="polsat.sport.pl" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/polsat.sport.pl.png",POLSAT Sport
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/polsat.sport.pl.m3u8
+#EXTINF:-1 tvg-id="polsat.sport.news.pl" tvg-name="polsat.sport.news.pl" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/polsat.sport.news.pl.png",Polsat Sport News
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/polsat.sport.news.pl.m3u8
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="bein.sports.1.fr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/bein.sports.1.fr.png",beIN SPORTS 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/bein.sports.1.fr.m3u8
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="bein.sports.2.fr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/bein.sports.2.fr.png",beIN SPORTS 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/bein.sports.2.fr.m3u8
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="bein.sports.3.fr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/bein.sports.3.fr.png",beIN SPORTS 3
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/bein.sports.3.fr.m3u8
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="canal.plus.sport.fr" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/canal.plus.sport.fr.png",Canal+ Sport
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/canal.plus.sport.fr.m3u8
+#EXTINF:-1 tvg-id="sky.calcio.it" tvg-name="sky.calcio.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.calcio.it.png",Sky Calcio
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.calcio.it.m3u8
+#EXTINF:-1 tvg-id="sky.calcio.1.it" tvg-name="sky.calcio.1.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.calcio.1.it.png",Sky Calcio 1
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.calcio.1.it.m3u8
+#EXTINF:-1 tvg-id="sky.calcio.2.it" tvg-name="sky.calcio.2.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.calcio.2.it.png",Sky Calcio 2
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.calcio.2.it.m3u8
+#EXTINF:-1 tvg-id="sky.calcio.3.it" tvg-name="sky.calcio.3.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.calcio.3.it.png",Sky Calcio 3
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.calcio.3.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport24.it" tvg-name="sky.sport24.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport24.it.png",Sky Sport 24
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport24.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.collection.it" tvg-name="sky.sport.collection.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.collection.it.png",Sky Sport Collection
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.collection.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="sky.sport.football.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.football.it.png",Sky Sport Football IT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.football.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="sky.sport.serie.a.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.serie.a.it.png",Sky Sport Serie A IT
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.serie.a.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="sky.sport.uno.it" tvg-type="live" group-title="SPORT VIP 🏆 Plus" tvg-logo="https://media.tv4.live/sky.sport.uno.it.png",Sky Sport Uno
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/sky.sport.uno.it.m3u8
 
 
 
