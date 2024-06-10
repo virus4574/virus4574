@@ -5157,7 +5157,10 @@ http://154.58.202.194:8000/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪DEUTSCH",ZDF DE
 http://37.18.239.36:8888/ZDF/index.m3u8
 
-
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪DEUTSCH",rtl
+https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪DEUTSCH",rtl2
+https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
 
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="🇩🇪DEUTSCH",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
