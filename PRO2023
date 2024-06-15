@@ -55,8 +55,12 @@ https://cdn.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9
 https://cdn.footballii.ir/hls2/bein2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 10
-https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1Max.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 11
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2Max.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 12
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 13
 https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
 
 
