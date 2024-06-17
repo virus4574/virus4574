@@ -67,7 +67,14 @@ https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
 https://homeip.biz/AR_AFC1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX SD2
 https://homeip.biz/AR_AFC2/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX 1
+https://ir11.livekadeh.com/hls2/beinmx1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX 2
+https://ir11.livekadeh.com/hls2/beinmx2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 14
+https://hw1.jemtv.com/app/trt1/chunks.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 15
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 
 
 
