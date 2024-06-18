@@ -8,6 +8,13 @@ https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",BEIN SPORT⚽️
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT بين سبور",⚽️كيف احصل على الكود
+https://bit.ly/3gj9PK5
+
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/D9zPQ6k/bein-news.png",BEIN SPORTS NEWS HD⚽️
 http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://i.ibb.co/D9zPQ6k/bein-news.png",beIN SPORTS NEWS
@@ -36,11 +43,26 @@ https://cdn.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9
 https://cdn.footballii.ir/hls2/bein2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 10
-https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1Max.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 11
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2Max.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 12
+https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 13
 https://yapp2.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
 
-
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX SD1
+https://homeip.biz/AR_AFC1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX SD2
+https://homeip.biz/AR_AFC2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX 1
+https://ir11.livekadeh.com/hls2/beinmx1.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",BEIN SPORT MAX 2
+https://ir11.livekadeh.com/hls2/beinmx2.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 14
+https://hw1.jemtv.com/app/trt1/chunks.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 15
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 
 
 
@@ -286,7 +308,12 @@ https://www.sportina.app/SSC-3-HQ/index.m3u8
 https://www.sportina.app/SSC-4-HQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",ssc 5 🇸🇦+
 https://www.sportina.app/SSC-5-HQ/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",SSC-EXTRA-1 🇸🇦
+https://sportina.app/SSC-EXTRA-1-HQ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",SSC-EXTRA-2 🇸🇦
+https://sportina.app/SSC-EXTRA-2-HQ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3VV4prH" group-title="SSC SPORT",SSC-EXTRA-3 🇸🇦
+https://sportina.app/SSC-EXTRA-3-HQ/tracks-v1a1/mono.m3u8
 
 
 
@@ -5128,12 +5155,14 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪DEUTSCH",RTL Zwei
 http://176.10.117.3:5000/play/a00o/index.m3u8
-#EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="🇩🇪DEUTSCH",RTLZWEI +
-http://154.58.202.194:8000/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="" group-title="🇩🇪DEUTSCH",ZDF DE
 http://37.18.239.36:8888/ZDF/index.m3u8
+https://bit.ly/3yTrykO
 
-
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/3KD5a1H" group-title="🇩🇪DEUTSCH",rtl
+https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://bit.ly/4eeIDWB" group-title="🇩🇪DEUTSCH",rtl2
+https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
 
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="🇩🇪DEUTSCH",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
@@ -5211,361 +5240,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="PeerTV.de" group-title="🇩🇪DEUTSCH",Peer TV Südtirol
 https://iptv.peer.biz/live/peertv.m3u8
-
-
-
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="3sat.de" group-title="🇩🇪DEUTSCH",3sat HD
-http://154.58.202.194:8000/play/a0c3/index.m3u8
-#EXTINF:0 tvg-id="AnixeHD.de" group-title="🇩🇪DEUTSCH",ANIXE HD
-http://154.58.202.194:8000/play/a036/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ANIXE+
-http://154.58.202.194:8000/play/a0m0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ANTENNE BAYERN
-http://154.58.202.194:8000/play/a0n8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ARD alpha HD
-http://154.58.202.194:8000/play/a07j/index.m3u8
-#EXTINF:0 tvg-id="ATV.am" group-title="🇩🇪DEUTSCH",ATV HD
-http://154.58.202.194:8000/play/a0an/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ATV2 HD
-http://154.58.202.194:8000/play/a0ai/index.m3u8
-#EXTINF:0 tvg-id="AstroTV.de" group-title="🇩🇪DEUTSCH",AstroTV
-http://154.58.202.194:8000/play/a0lp/index.m3u8
-#EXTINF:0 tvg-id="BildTV.de" group-title="🇩🇪DEUTSCH",BILD HD
-http://154.58.202.194:8000/play/a06s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Baden TV
-http://154.58.202.194:8000/play/a0ln/index.m3u8
-#EXTINF:0 tvg-id="BibelTV.de" group-title="🇩🇪DEUTSCH",Bibel TV
-http://154.58.202.194:8000/play/a0kx/index.m3u8
-#EXTINF:0 tvg-id="BibelTV.de" group-title="🇩🇪DEUTSCH",Bibel TV HD
-http://154.58.202.194:8000/play/a0aj/index.m3u8
-#EXTINF:0 tvg-id="Channel21.de" group-title="🇩🇪DEUTSCH",Channel21
-http://154.58.202.194:8000/play/a0nb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Channel21 HD
-http://154.58.202.194:8000/play/a06v/index.m3u8
-#EXTINF:0 tvg-id="ClipMyHorseTV.de" group-title="🇩🇪DEUTSCH",ClipMyHorse.TV
-http://154.58.202.194:8000/play/a0a2/index.m3u8
-#EXTINF:0 tvg-id="CrimeTime.de" group-title="🇩🇪DEUTSCH",Crime Time
-http://154.58.202.194:8000/play/a0jw/index.m3u8
-#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="🇩🇪DEUTSCH",DELUXE MUSIC
-http://154.58.202.194:8000/play/a0n3/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="🇩🇪DEUTSCH",DMAX
-http://154.58.202.194:8000/play/a0lm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",DMAX Austria
-http://154.58.202.194:8000/play/a0n5/index.m3u8
-#EXTINF:0 tvg-id="DasErste.de" group-title="🇩🇪DEUTSCH",Das Erste HD
-http://154.58.202.194:8000/play/a0gm/index.m3u8
-#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="🇩🇪DEUTSCH",Deluxe Music HD
-http://154.58.202.194:8000/play/a044/index.m3u8
-#EXTINF:0 tvg-id="DeluxeRap.de" group-title="🇩🇪DEUTSCH",Deluxe Rap
-http://154.58.202.194:8000/play/a0jr/index.m3u8
-#EXTINF:0 tvg-id="DeluxeRock.de" group-title="🇩🇪DEUTSCH",Deluxe Rock
-http://154.58.202.194:8000/play/a0jq/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="🇩🇪DEUTSCH",Disney Channel
-http://154.58.202.194:8000/play/a0m3/index.m3u8
-#EXTINF:0 tvg-id="Disney.uk" group-title="🇩🇪DEUTSCH",Disney Channel HD
-http://154.58.202.194:8000/play/a041/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",EURONEWS GERMAN SD
-http://154.58.202.194:8000/play/a0cc/index.m3u8
-#EXTINF:0 tvg-id="EWTN.de" group-title="🇩🇪DEUTSCH",EWTN katholisches TV
-http://154.58.202.194:8000/play/a0lw/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Eurosport 1 Deutschland
-http://154.58.202.194:8000/play/a0ml/index.m3u8
-#EXTINF:0 tvg-id="esp-hd" group-title="🇩🇪DEUTSCH",Eurosport 1 HD
-http://154.58.202.194:8000/play/a094/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",FOLX MUSIC TELEVISION
-http://154.58.202.194:8000/play/a0nc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Flimmit
-http://154.58.202.194:8000/play/a0b8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Genius Trend
-http://154.58.202.194:8000/play/a0lq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Genius exklusiv
-http://154.58.202.194:8000/play/a0n1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Genius family
-http://154.58.202.194:8000/play/a06e/index.m3u8
-#EXTINF:0 tvg-id="hgtv" group-title="🇩🇪DEUTSCH",HGTV
-http://154.58.202.194:8000/play/a06g/index.m3u8
-#EXTINF:0 tvg-id="HitradioOE3.at" group-title="🇩🇪DEUTSCH",HITRADIO OE3
-http://154.58.202.194:8000/play/a0jx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",HSE Extra
-http://154.58.202.194:8000/play/a0mm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",HSE Extra HD
-http://154.58.202.194:8000/play/a042/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",HSE HD
-http://154.58.202.194:8000/play/a038/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",HSE SD
-http://154.58.202.194:8000/play/a0li/index.m3u8
-#EXTINF:0 tvg-id="HSETrend.de" group-title="🇩🇪DEUTSCH",HSE Trend SD
-http://154.58.202.194:8000/play/a0lo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Handystar TV
-http://154.58.202.194:8000/play/a0ly/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Handystar TV 2
-http://154.58.202.194:8000/play/a0lj/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Handystar TV HD
-http://154.58.202.194:8000/play/a06t/index.m3u8
-#EXTINF:0 tvg-id="Heimatkanal.de" group-title="🇩🇪DEUTSCH",Heimatkanal
-http://154.58.202.194:8000/play/a0nf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Hope TV
-http://154.58.202.194:8000/play/a0am/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",I24 Francis
-http://154.58.202.194:8000/play/a07r/index.m3u8
-#EXTINF:0 tvg-id="insight-tv-hd" group-title="🇩🇪DEUTSCH",INSIGHT TV HD
-http://154.58.202.194:8000/play/a0aa/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Immer etwas Neues TV
-http://154.58.202.194:8000/play/a0n9/index.m3u8
-#EXTINF:0 tvg-id="JustCooking.de" group-title="🇩🇪DEUTSCH",Just Cooking
-http://154.58.202.194:8000/play/a0ju/index.m3u8
-#EXTINF:0 tvg-id="JustFishing.de" group-title="🇩🇪DEUTSCH",Just Fishing
-http://154.58.202.194:8000/play/a0jv/index.m3u8
-#EXTINF:0 tvg-id="SchauTV.at" group-title="🇩🇪DEUTSCH",KURIER TV
-http://154.58.202.194:8000/play/a0ak/index.m3u8
-#EXTINF:0 tvg-id="Kabel1.at" group-title="🇩🇪DEUTSCH",Kabel 1 Austria
-http://154.58.202.194:8000/play/a0g1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Kabel 1 Schweiz
-http://154.58.202.194:8000/play/a0g0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Kabel Eins Doku HD
-http://154.58.202.194:8000/play/a0fq/index.m3u8
-#EXTINF:0 tvg-id="Kika.de" group-title="🇩🇪DEUTSCH",KiKA HD
-http://154.58.202.194:8000/play/a0c4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MDR S-Anhalt HD
-http://154.58.202.194:8000/play/a061/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MDR Sachsen HD
-http://154.58.202.194:8000/play/a060/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MDR Thüringen HD
-http://154.58.202.194:8000/play/a062/index.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="🇩🇪DEUTSCH",MTV HD
-http://154.58.202.194:8000/play/a06u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MediaShop- Meine Einkaufswelt
-http://154.58.202.194:8000/play/a0nd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",MediaShop- Neuheiten
-http://154.58.202.194:8000/play/a0lr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Melodie TV NEU
-http://154.58.202.194:8000/play/a0bd/index.m3u8
-#EXTINF:0 tvg-id="N24Doku.de" group-title="🇩🇪DEUTSCH",N24 DOKU
-http://154.58.202.194:8000/play/a0lv/index.m3u8
-#EXTINF:0 tvg-id="RTLNitro.de" group-title="🇩🇪DEUTSCH",NITRO
-http://154.58.202.194:8000/play/a0mx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",NITRO HD
-http://154.58.202.194:8000/play/a07y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Nick/Comedy Central Austria
-http://154.58.202.194:8000/play/a0n2/index.m3u8
-#EXTINF:0 tvg-id="ort-hd" group-title="🇩🇪DEUTSCH",ONE HD
-http://154.58.202.194:8000/play/a07i/index.m3u8
-#EXTINF:0 tvg-id="Puls4.at" group-title="🇩🇪DEUTSCH",PULS 4 Austria
-http://154.58.202.194:8000/play/a0g4/index.m3u8
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="🇩🇪DEUTSCH",Pro7 MAXX
-http://154.58.202.194:8000/play/a0lb/index.m3u8
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="🇩🇪DEUTSCH",Pro7 MAXX HD
-http://154.58.202.194:8000/play/a0cv/index.m3u8
-#EXTINF:0 tvg-id="Pro7.de" group-title="🇩🇪DEUTSCH",ProSieben
-http://154.58.202.194:8000/play/a0l7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ProSieben Austria
-http://154.58.202.194:8000/play/a0fz/index.m3u8
-#EXTINF:0 tvg-id="Pro7.de" group-title="🇩🇪DEUTSCH",ProSieben HD
-http://154.58.202.194:8000/play/a0cs/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ProSieben Schweiz
-http://154.58.202.194:8000/play/a0fy/index.m3u8
-#EXTINF:0 tvg-id="QVC.uk" group-title="🇩🇪DEUTSCH",QVC
-http://154.58.202.194:8000/play/a0m4/index.m3u8
-#EXTINF:0 tvg-id="QVC.it" group-title="🇩🇪DEUTSCH",QVC HD
-http://154.58.202.194:8000/play/a037/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",QVC STYLE HD
-http://154.58.202.194:8000/play/a06w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",QVC UHD
-http://154.58.202.194:8000/play/a0bf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",QVC ZWEI HD
-http://154.58.202.194:8000/play/a045/index.m3u8
-#EXTINF:0 tvg-id="QVC2.us" group-title="🇩🇪DEUTSCH",QVC2
-http://154.58.202.194:8000/play/a0kv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",R9 Oesterreich HD
-http://154.58.202.194:8000/play/a0b9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",REGIO TV
-http://154.58.202.194:8000/play/a0lk/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ROCK ANTENNE
-http://154.58.202.194:8000/play/a0n6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTL Austria
-http://154.58.202.194:8000/play/a0mg/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTL Bayern
-http://154.58.202.194:8000/play/a0mr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTL HB NDS
-http://154.58.202.194:8000/play/a0mq/index.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="🇩🇪DEUTSCH",RTL HD
-http://154.58.202.194:8000/play/a04k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTL HH SH
-http://154.58.202.194:8000/play/a0ms/index.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="🇩🇪DEUTSCH",RTL Regional NRW
-http://154.58.202.194:8000/play/a0mp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTL Television
-http://154.58.202.194:8000/play/a0mo/index.m3u8
-#EXTINF:0 tvg-id="RTLUHD.de" group-title="🇩🇪DEUTSCH",RTL UHD
-http://154.58.202.194:8000/play/a0cg/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLZWEI
-http://154.58.202.194:8000/play/a0mt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLZWEI Austria
-http://154.58.202.194:8000/play/a0mi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLZWEI HD
-http://154.58.202.194:8000/play/a04n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLup
-http://154.58.202.194:8000/play/a0my/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLup Austria
-http://154.58.202.194:8000/play/a0ao/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",RTLup HD
-http://154.58.202.194:8000/play/a04o/index.m3u8
-#EXTINF:0 tvg-id="RiC.de" group-title="🇩🇪DEUTSCH",RiC
-http://154.58.202.194:8000/play/a0k0/index.m3u8
-#EXTINF:0 tvg-id="RomanceTV.pl" group-title="🇩🇪DEUTSCH",Romance TV HD
-http://154.58.202.194:8000/play/a0ng/index.m3u8
-#EXTINF:0 tvg-id="SachsenEins.de" group-title="🇩🇪DEUTSCH",SACHSEN EINS
-http://154.58.202.194:8000/play/a07s/index.m3u8
-#EXTINF:0 tvg-id="Sat1.de" group-title="🇩🇪DEUTSCH",SAT.1
-http://154.58.202.194:8000/play/a0l6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SAT.1 A
-http://154.58.202.194:8000/play/a0g2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SAT.1 Bayern
-http://154.58.202.194:8000/play/a0ld/index.m3u8
-#EXTINF:0 tvg-id="Sat1.ch" group-title="🇩🇪DEUTSCH",SAT.1 CH
-http://154.58.202.194:8000/play/a0g3/index.m3u8
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="🇩🇪DEUTSCH",SAT.1 Gold
-http://154.58.202.194:8000/play/a0la/index.m3u8
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="🇩🇪DEUTSCH",SAT.1 Gold HD
-http://154.58.202.194:8000/play/a093/index.m3u8
-#EXTINF:0 tvg-id="Sat1.de" group-title="🇩🇪DEUTSCH",SAT.1 HD
-http://154.58.202.194:8000/play/a0cr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SAT.1 HH/SH
-http://154.58.202.194:8000/play/a0g5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SAT.1 NRW
-http://154.58.202.194:8000/play/a0le/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SAT.1 NS/Bremen
-http://154.58.202.194:8000/play/a0g6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SAT.1 RhlPf/Hessen
-http://154.58.202.194:8000/play/a0g7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SBN International
-http://154.58.202.194:8000/play/a0l4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SENDER NEU JERUSALEM
-http://154.58.202.194:8000/play/a07q/index.m3u8
-#EXTINF:0 tvg-id="Sixx.de" group-title="🇩🇪DEUTSCH",SIXX
-http://154.58.202.194:8000/play/a0m2/index.m3u8
-#EXTINF:0 tvg-id="Sixx.de" group-title="🇩🇪DEUTSCH",SIXX HD
-http://154.58.202.194:8000/play/a0cu/index.m3u8
-#EXTINF:0 tvg-id="sport1_rus" group-title="🇩🇪DEUTSCH",SPORT1
-http://154.58.202.194:8000/play/a0lt/index.m3u8
-#EXTINF:0 tvg-id="sport1_hd" group-title="🇩🇪DEUTSCH",SPORT1 HD
-http://154.58.202.194:8000/play/a046/index.m3u8
-#EXTINF:0 tvg-id="SPORT1plus.de" group-title="🇩🇪DEUTSCH",SPORT1+
-http://154.58.202.194:8000/play/a09y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SPORTDIGITAL FUSSBALL HD
-http://154.58.202.194:8000/play/a09x/index.m3u8
-#EXTINF:0 tvg-id="SRFernsehen.de" group-title="🇩🇪DEUTSCH",SR Fernsehen
-http://154.58.202.194:8000/play/a0mc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SR Fernsehen HD
-http://154.58.202.194:8000/play/a07k/index.m3u8
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="🇩🇪DEUTSCH",SUPER RTL
-http://154.58.202.194:8000/play/a0mv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",SUPER RTL A
-http://154.58.202.194:8000/play/a0mj/index.m3u8
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="🇩🇪DEUTSCH",SUPER RTL HD
-http://154.58.202.194:8000/play/a07w/index.m3u8
-#EXTINF:0 tvg-id="SWR.de" group-title="🇩🇪DEUTSCH",SWR BW HD
-http://154.58.202.194:8000/play/a0go/index.m3u8
-#EXTINF:0 tvg-id="SWR-rp.de" group-title="🇩🇪DEUTSCH",SWR RP HD
-http://154.58.202.194:8000/play/a0gp/index.m3u8
-#EXTINF:0 tvg-id="SchlagerDeluxe.de" group-title="🇩🇪DEUTSCH",Schlager Deluxe
-http://154.58.202.194:8000/play/a06f/index.m3u8
-#EXTINF:0 tvg-id="ServusHD.de" group-title="🇩🇪DEUTSCH",ServusTV HD Deutschland
-http://154.58.202.194:8000/play/a0bl/index.m3u8
-#EXTINF:0 tvg-id="ServusHD.de" group-title="🇩🇪DEUTSCH",ServusTV HD Oesterreich
-http://154.58.202.194:8000/play/a0bk/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Sonnenklar TV
-http://154.58.202.194:8000/play/a0lh/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",StarParadies D
-http://154.58.202.194:8000/play/a0ah/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Stimmungsgarten TV
-http://154.58.202.194:8000/play/a0bc/index.m3u8
-#EXTINF:0 tvg-id="Tele5.pl" group-title="🇩🇪DEUTSCH",TELE 5
-http://154.58.202.194:8000/play/a0ll/index.m3u8
-#EXTINF:0 tvg-id="tlc-russia" group-title="🇩🇪DEUTSCH",TLC
-http://154.58.202.194:8000/play/a0m1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",TLC Austria
-http://154.58.202.194:8000/play/a0n4/index.m3u8
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="🇩🇪DEUTSCH",TLC HD
-http://154.58.202.194:8000/play/a06r/index.m3u8
-#EXTINF:0 tvg-id="TOGGOplus.de" group-title="🇩🇪DEUTSCH",TOGGO plus
-http://154.58.202.194:8000/play/a0mu/index.m3u8
-#EXTINF:0 tvg-id="TVtrwam.pl" group-title="🇩🇪DEUTSCH",TV Trwam
-http://154.58.202.194:8000/play/a0bg/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",TV1 OOE NEU
-http://154.58.202.194:8000/play/a0k3/index.m3u8
-#EXTINF:0 tvg-id="Telesur.es" group-title="🇩🇪DEUTSCH",Telesur HD
-http://154.58.202.194:8000/play/a07p/index.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="🇩🇪DEUTSCH",VOX
-http://154.58.202.194:8000/play/a0mw/index.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="🇩🇪DEUTSCH",VOX Austria
-http://154.58.202.194:8000/play/a0mh/index.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="🇩🇪DEUTSCH",VOX HD
-http://154.58.202.194:8000/play/a04l/index.m3u8
-#EXTINF:0 tvg-id="VOXup.de" group-title="🇩🇪DEUTSCH",VOXup
-http://154.58.202.194:8000/play/a0mk/index.m3u8
-#EXTINF:0 tvg-id="VOXup.de" group-title="🇩🇪DEUTSCH",VOXup HD
-http://154.58.202.194:8000/play/a04p/index.m3u8
-#EXTINF:0 tvg-id="VolksmusikTV.de" group-title="🇩🇪DEUTSCH",Volksmusik.TV
-http://154.58.202.194:8000/play/a0jz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",Volksmusik.TV NEU
-http://154.58.202.194:8000/play/a0np/index.m3u8
-#EXTINF:0 tvg-id="Waidwerk.de" group-title="🇩🇪DEUTSCH",WAIDWERK
-http://154.58.202.194:8000/play/a0a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",WDR Düsseldorf
-http://154.58.202.194:8000/play/a0m8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",WDR Wuppertal
-http://154.58.202.194:8000/play/a0kr/index.m3u8
-#EXTINF:0 tvg-id="WELT.de" group-title="🇩🇪DEUTSCH",WELT
-http://154.58.202.194:8000/play/a0l9/index.m3u8
-#EXTINF:0 tvg-id="WELT.de" group-title="🇩🇪DEUTSCH",WELT HD
-http://154.58.202.194:8000/play/a03a/index.m3u8
-#EXTINF:0 tvg-id="XPLORE.de" group-title="🇩🇪DEUTSCH",Xplore
-http://154.58.202.194:8000/play/a0jn/index.m3u8
-#EXTINF:0 tvg-id="ZDF.de" group-title="🇩🇪DEUTSCH",ZDF HD
-http://154.58.202.194:8000/play/a0c7/index.m3u8
-#EXTINF:0 tvg-id="ZDFinfo.de" group-title="🇩🇪DEUTSCH",ZDFinfo HD
-http://154.58.202.194:8000/play/a0c5/index.m3u8
-#EXTINF:0 tvg-id="ARTE.de" group-title="🇩🇪DEUTSCH",arte HD
-http://154.58.202.194:8000/play/a0gn/index.m3u8
-#EXTINF:0 tvg-id="HR.de" group-title="🇩🇪DEUTSCH",hr-fernsehen HD
-http://154.58.202.194:8000/play/a063/index.m3u8
-#EXTINF:0 tvg-id="Kabel.de" group-title="🇩🇪DEUTSCH",kabel eins
-http://154.58.202.194:8000/play/a0l8/index.m3u8
-#EXTINF:0 tvg-id="KabelEinsDoku.de" group-title="🇩🇪DEUTSCH",kabel eins Doku
-http://154.58.202.194:8000/play/a0lf/index.m3u8
-#EXTINF:0 tvg-id="Kabel.de" group-title="🇩🇪DEUTSCH",kabel eins HD
-http://154.58.202.194:8000/play/a0fp/index.m3u8
-#EXTINF:0 tvg-id="krone.tv.at" group-title="🇩🇪DEUTSCH",krone.tv
-http://154.58.202.194:8000/play/a0ba/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",meinTVshop
-http://154.58.202.194:8000/play/a0ls/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="🇩🇪DEUTSCH",ntv
-http://154.58.202.194:8000/play/a0mz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",ntv Austria
-http://154.58.202.194:8000/play/a0k1/index.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="🇩🇪DEUTSCH",ntv HD
-http://154.58.202.194:8000/play/a04m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",oe24.TV HD
-http://154.58.202.194:8000/play/a0bb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",pearl.tv Shop
-http://154.58.202.194:8000/play/a0na/index.m3u8
-#EXTINF:0 tvg-id="rbbBerlin.de" group-title="🇩🇪DEUTSCH",rbb Berlin HD
-http://154.58.202.194:8000/play/a05z/index.m3u8
-#EXTINF:0 tvg-id="rbbBerlin.de" group-title="🇩🇪DEUTSCH",rbb Brandenburg HD
-http://154.58.202.194:8000/play/a05y/index.m3u8
-#EXTINF:0 tvg-id="Sixx.de" group-title="🇩🇪DEUTSCH",sixx
-http://154.58.202.194:8000/play/a0lc/index.m3u8
-#EXTINF:0 tvg-id="SunshineLive.de" group-title="🇩🇪DEUTSCH",sunshine live
-http://154.58.202.194:8000/play/a0n7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="🇩🇪DEUTSCH",tagesschau24 HD
-http://154.58.202.194:8000/play/a07h/index.m3u8
-#EXTINF:0 tvg-id="ZDFneo.de" group-title="🇩🇪DEUTSCH",zdf_neo HD
-http://154.58.202.194:8000/play/a0c8/index.m3u8
-
 
 #EXTINF:0 tvg-id="ZDF.de" group-title="🇩🇪DEUTSCH",ZDF  
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
