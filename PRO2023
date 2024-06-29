@@ -4527,9 +4527,9 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
-https://trt2.blutv.com/blutv_trt2/live.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="🇹🇷Turkey",TRT TÜRK
@@ -4537,15 +4537,15 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900367.png" group-title="🇹🇷Turkey",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900403.png" group-title="🇹🇷Turkey",TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/13085587.png" group-title="🇹🇷Turkey",TRT COKUK
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/14812639.png" group-title="🇹🇷Turkey",TRT Kürdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtarabi.png" group-title="🇹🇷Turkey",TRT ARABIC
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900434.png" group-title="🇹🇷Turkey",TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/14760647.png" group-title="🇹🇷Turkey",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014035.png" group-title="🇹🇷Turkey",TRT EBA TV ELKOKUL
