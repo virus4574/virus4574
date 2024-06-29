@@ -18,13 +18,23 @@ http://154.58.202.131:8000/play/a07s
 #EXTINF:-1 tvg-logo="" group-title="BEIN SPORT بين سبور", ✅ Bein Sports-Haber✅
 https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 1
+https://tv.qmedia.ps/hls/webs.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 2
+https://tv.qmedia.ps/hls/webs2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
-https://tv.qmedia.ps/hls/web1.m3u8
+https://live1.beinconnect.us:5443/YallaGoalApp/streams/beINSports1Max.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0
-https://tv.qmedia.ps/hls/web2.m3u8
+https://live1.beinconnect.us:5443/YallaGoalApp/streams/beINSports2Max.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0+
+https://kora-sa.live/hls/0/stream.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0+
+https://dvrfl07.bozztv.com/astv-bein1hdar/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0+
+https://dvrfl07.bozztv.com/astv-bein2hdar/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0++
 https://cdn.footballii.ir/hls2/bein1.m3u8
-#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 0++
 https://cdn.footballii.ir/hls2/bein2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 1
 http://85.237.89.6:9590/ku/Live-Zaxo-Sport/tracks-v1a1/mono.m3u8
@@ -39,19 +49,50 @@ http://stream.nubar.tv:1935/private/NUBARSport/hawezHD.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 6
 http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 7
-https://hw1.jemtv.com/app/trt1/chunks.m3u8
+https://tv.qmedia.ps/hls/web1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8
-https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
+https://tv.qmedia.ps/hls/web2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9
-https://cdn.live12.ir/hls2/bein1.m3u8
+https://hw1.jemtv.com/app/trt1/chunks.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 10
-https://cdn.live12.ir/hls2/bein2.m3u8
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 11
-http://88.99.167.201:1935/live/ldsportchek/playlist.m3u8
+https://cdn.live12.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 12
-https://tv.qmedia.ps/hls/tv_HD/index.m3u8
+https://cdn.live12.ir/hls2/bein2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 13
+http://88.99.167.201:1935/live/ldsportchek/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 14
+https://tv.qmedia.ps/hls/tv_HD/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 15
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 16
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 17
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 18
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 19
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 20
+https://live.teleradiocom.tj/8/3m.m3u8
+
+
+
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+1
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+2
+http://188.113.190.15/305/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+3
+http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+4
+https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+5
+http://194.143.148.28:8080/MatchFutbol1/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+6
+http://179.124.14.153:8080/19/index.m3u8
+#EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+7
+http://tv.streams.baikal-telecom.net:8080/MatchArena/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",beIN SPORTS 1
 http://homeip.biz/IN_AE1/index.m3u8
@@ -75,6 +116,18 @@ http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/9bded1e6945161e616123b8923181894.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 SD
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d24f2e60aa54ee21aaa01b2bc556f74b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 SD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/54a4076dfc9d009fe16cfc14201da51b.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 SD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/7ffd9ece9f7e59e829836f87e8945664.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 SD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/eb0e117cce54ec1d8303b56e960df416.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 SD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/343481b25c8d2850885038dd80a25f49.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 SD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://img.iptvmate.net/d9feee33174cc89b0c9ce28acc58991d.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 SD
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
@@ -90,6 +143,18 @@ http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEIN SPORT بين سبور",BEIN SPORT 3 HD
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 4 HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 5 HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 HD
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
@@ -144,6 +209,12 @@ https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
 https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 6 LOW
 https://app4.bein-kora.live:5443/YallaGoalApp/streams/beINSports6.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="BEIN SPORT بين سبور",BEIN SPORT 7 LOW
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xDwycC" group-title="BEIN SPORT بين سبور",BEIN SPORT 8 LOW
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44570kL" group-title="BEIN SPORT بين سبور",BEIN SPORT 9 LOW
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1
 https://pufa.vercel.app/home/1424
@@ -176,12 +247,29 @@ https://pufa.vercel.app/home/1422
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORT XTRA SD2
 https://pufa.vercel.app/home/22
 
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",BEIN SPORT⚽️
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",⚽️كيف احصل على الكود
 https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BEIN SPORT VIP بين سبور",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg" group-title="RMC SPORT",RMC 1
@@ -221,6 +309,25 @@ http://89.187.179.242:12183/canal+sport2
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="SSC SPORT",كيف احصل على الكود
 https://bit.ly/3gj9PK5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vakfc0h.png" group-title="SSC SPORT",SSC NEWS HD
+http://164.132.206.27:8000/stream/ssc/sscnewshd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKTlyT3.png" group-title="SSC SPORT",SSC 1 HD
+http://164.132.206.27:8000/stream/ssc/ssc1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3ggxmk.png" group-title="SSC SPORT",SSC 2 HD
+http://164.132.206.27:8000/stream/ssc/ssc2hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WES4hOT.png" group-title="SSC SPORT",SSC 3 HD
+http://164.132.206.27:8000/stream/ssc/ssc3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0pSMsaX.png" group-title="SSC SPORT",SSC 4 HD
+http://164.132.206.27:8000/stream/ssc/ssc4hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0pVvvh.png" group-title="SSC SPORT",SSC 5 HD
+http://164.132.206.27:8000/stream/ssc/ssc5hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SgalaJK.png" group-title="SSC SPORT",SSC Extra 1 HD
+http://164.132.206.27:8000/stream/ssc/sscextra1fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hK5xf7t.png" group-title="SSC SPORT",SSC Extra 2 HD
+http://164.132.206.27:8000/stream/ssc/sscextra2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2xDvYM.png" group-title="SSC SPORT",SSC Extra 3 HD
+http://164.132.206.27:8000/stream/ssc/sscextra3fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport 1 HD
@@ -1150,6 +1257,14 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Shahid TV VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Top CHEF
+https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",WRESTLE MANIA
+https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",RSL
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP", راجل-وست-ستات
+https://shls-live-ak.akamaized.net/out/v1/8328464750f04ec6bb512585e6941631/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wt6pwW" group-title="Shahid TV VIP", اللقاء-من-الصفر
 https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",رمضان-معانا_خليجي
@@ -1160,24 +1275,16 @@ https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index
 https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="Shahid TV VIP",Desi-play
 https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uVcpNR" group-title="Shahid TV VIP",Al_Hisn
-https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40O5RfN" group-title="Shahid TV VIP",قناة-اللعبة
 https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ujjzLv" group-title="Shahid TV VIP",أصلي-و-حصري
-https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3R2BI9o" group-title="Shahid TV VIP",الكبير-أوي
 https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/411XMV5" group-title="Shahid TV VIP",قناة-واي-فاي
 https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/46mOVhR" group-title="Shahid TV VIP",Selfie
 https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MkGr3i" group-title="Shahid TV VIP",Bollywood-HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45RBFBs" group-title="Shahid TV VIP",Bollywood-Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ZTlEJO" group-title="Shahid TV VIP",Ragel_We_Set_Settat
-https://cdxaws-ak.akamaized.net/v1/channel/Ragel_We_Set_Settat_Channel/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3RzSw8r" group-title="Shahid TV VIP",Nature-Time
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48uElHy" group-title="Shahid TV VIP",الثقافية
@@ -1208,8 +1315,6 @@ https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index
 https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Kj7Z9c" group-title="Shahid TV VIP",Al_Hayba
 https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3lGIS5Y" group-title="Shahid TV VIP",Ramez
-https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://e.top4top.io/p_2581kcj7y2.png" group-title="Shahid TV VIP",Hassino
 https://shls-live-ak.akamaized.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KgyUlS" group-title="Shahid TV VIP",أفلام
@@ -1332,6 +1437,106 @@ https://bit.ly/3DF4NAn
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="MAJESTIC VIP",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dqTyvr.png" group-title="vip channels",IT Sky Uno 
+http://164.132.206.27:8000/stream/skyitalia/skyunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nhy5n6r.png" group-title="vip channels",IT Sky Atlantic 
+http://164.132.206.27:8000/stream/skyitalia/skyatlanticfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfefbav.png" group-title="vip channels",IT Sky Serie 
+http://164.132.206.27:8000/stream/skyitalia/skyseriefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZUYQBT.png" group-title="vip channels",IT Sky Investigation 
+http://164.132.206.27:8000/stream/skyitalia/skyinvestigationfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A0rUHhh.png" group-title="vip channels",IT Sky Arte 
+http://164.132.206.27:8000/stream/skyitalia/skyartefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKAb6Vn.png" group-title="vip channels",IT Sky Documentaries 
+http://164.132.206.27:8000/stream/skyitalia/skydocumentariesfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lWKYSpI.png" group-title="vip channels",IT Sky Nature 
+http://164.132.206.27:8000/stream/skyitalia/skynaturefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5stStdG.png" group-title="vip channels",IT Sky Cinema Uno 
+http://164.132.206.27:8000/stream/skyitalia/skycinemaunofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idfWLPx.png" group-title="vip channels",IT Sky Cinema Action 
+http://164.132.206.27:8000/stream/skyitalia/skycinemaactionfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dTdIji.png" group-title="vip channels",IT Sky Cinema Comedy 
+http://164.132.206.27:8000/stream/skyitalia/skycinemacomedyfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TzcoBJX.png" group-title="vip channels",IT Sky TG24 
+http://164.132.206.27:8000/stream/skyitalia/skytg24fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/grBYK1c.png" group-title="vip channels",IT Sky Sport 24 
+http://164.132.206.27:8000/stream/skyitalia/skysport24fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f978Rp2.png" group-title="vip channels",IT Sky Sport Calcio
+http://164.132.206.27:8000/stream/skyitalia/skysportcalciofhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxCtUUY.png" group-title="vip channels",IT Sky Sport Arena 
+http://164.132.206.27:8000/stream/skyitalia/skysportarenafhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exWoQAo.png" group-title="vip channels",IT Sky Sport Tennis 
+http://164.132.206.27:8000/stream/skyitalia/skysporttennisfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTzXdd8.png" group-title="vip channels",IT Sky Sport F1 
+http://164.132.206.27:8000/stream/skyitalia/skysportf1fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsCahTC.png" group-title="vip channels",IT Sky Sport MotoGP 
+http://164.132.206.27:8000/stream/skyitalia/skysportmotogpfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WjcX463.png" group-title="vip channels",IT Sky Sport Golf 
+http://164.132.206.27:8000/stream/skyitalia/skysportgolffhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lu7nYzv.png" group-title="vip channels",IT Sky Sport NBA 
+http://164.132.206.27:8000/stream/skyitalia/skysportnbafhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nHBa8k.png" group-title="vip channels",IT Sky Sport Max 
+http://164.132.206.27:8000/stream/skyitalia/skysportmaxfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6XQ9ESk.png" group-title="vip channels",IT Sky Sport 251 
+http://164.132.206.27:8000/stream/skyitalia/skysport251fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZhualO.png" group-title="vip channels",Eurosport 1 
+http://164.132.206.27:8000/stream/skyitalia/eurosportfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PJFBG4.png" group-title="vip channels",Eurosport 2
+http://164.132.206.27:8000/stream/skyitalia/eurosport2fhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9j8QDSh.png" group-title="vip channels",ES La 1 
+http://164.132.206.27:8000/stream/csat/la14k?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyxEwBz.png" group-title="vip channels",ES La 2 
+http://164.132.206.27:8000/stream/csat/la2fhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SL2Y6ag.png" group-title="vip channels",ES Antena 3 
+http://164.132.206.27:8000/stream/csat/antena3hd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuOzmsT.png" group-title="vip channels",ES Cuatro 
+http://164.132.206.27:8000/stream/csat/cuatro?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lwA9JT9.png" group-title="vip channels",ES Telecinco 
+http://164.132.206.27:8000/stream/csat/telecincofhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPBc8KY.png" group-title="vip channels",ES La sexta 
+http://164.132.206.27:8000/stream/csat/lasextafhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZzu1tr.png" group-title="vip channels",ES Gol Play 
+http://164.132.206.27:8000/stream/csat/goltv?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzp0dYj.png" group-title="vip channels",ES teledeporte 
+http://164.132.206.27:8000/stream/csat/teledeportehd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmrzdHq.png" group-title="vip channels",ES 24h 
+http://164.132.206.27:8000/stream/csat/24hhd?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIwJInl.png" group-title="vip channels",ES Energy 
+http://164.132.206.27:8000/stream/csat/energy?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQC0Y4Z.png" group-title="vip channels",ES Nova 
+http://164.132.206.27:8000/stream/csat/nova?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zol8hH8.png" group-title="vip channels",ES Calle 13 
+http://164.132.206.27:8000/stream/csat/calle13?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsOYv1Q.png" group-title="vip channels",ES Comedy Central
+http://164.132.206.27:8000/stream/csat/comedycentral?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TamqLhT.png" group-title="vip channels",ES DAZN 1 
+http://164.132.206.27:8000/stream/tv/dazn1es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btOUo6P.png" group-title="vip channels",ES DAZN 2 
+http://164.132.206.27:8000/stream/tv/dazn2es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KUuOwb.png" group-title="vip channels",ES DAZN F1 
+http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzp196G.png" group-title="vip channels",ES DAZN LALIGA 
+http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93p0tGZ.png" group-title="vip channels",ES DAZN HyperMotion 
+http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="vip channels",DE FussballTV 1 
+http://164.132.206.27:8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="vip channels",DE FussballTV 2 
+http://164.132.206.27:8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SDF_Logo.png" group-title="vip channels",DE Sportdigital fussball 
+http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SDF2_Logo.png" group-title="vip channels",DE Sportdigital fussball 2***
+http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SCOOORE_Logo.png" group-title="vip channels",DE Scooore*** 
+http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:0 tvg-id="ext" group-title="Rakuten_TV",AfricaNews (EU)
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1910,19 +2115,6 @@ http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬VIP افلام أجنبية" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/09/GBBA3300059BU_20210310T011210.png",🇧🇷🇺🇸 🎬➾ My time movie networkᴴᴰ [Pluto]
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3WSunwB" group-title="HBO_TV",HBO XTREME
-http://170.254.18.109/HBO_XTREME/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ykUiT8" group-title="HBO_TV",HBO PLUS
-http://170.254.18.106:80/HBO_PLUS/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4bNm35v" group-title="HBO_TV",HBO POP
-http://170.254.18.109/HBO_POP/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wFZXTo" group-title="HBO_TV",HBO Mundi
-http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/4ax4eGt" group-title="HBO_TV",HBO Family
-http://170.254.18.106:80/HBO_FAMILY/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KsvjQV" group-title="HBO_TV",LOVE NATURE FHD
-http://170.254.18.106:80/LOVE_NATURE/manifest.m3u8
-
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="📰NEWS الاخبار",الاخبارNEWS📰
 https://bit.ly/3xYLaRh
@@ -1974,8 +2166,8 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="📰NEWS الاخبار",AL KHALIJ HD📰
 https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT World HD
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zw34rP.png" group-title="📰NEWS الاخبار",TRT Arabi HD
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN الاخبارNEWS📰
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="📰NEWS الاخبار",CGTN News SD📰
@@ -3449,9 +3641,9 @@ https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist.m3u8
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmFkaGZ.png" group-title="🇰🇼الكويت Kuwait",Kuwait Ethraa HD🇰🇼
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="Sports",Kuwait Sports HD🇰🇼
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="🇰🇼الكويت Kuwait",Kuwait Sports HD🇰🇼
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="Sports",Kuwait Sports 2 HD🇰🇼
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="🇰🇼الكويت Kuwait",Kuwait Sports 2 HD🇰🇼
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="🇰🇼الكويت Kuwait",KUWAIT TV SPORT EXTRA🇰🇼
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
@@ -4317,9 +4509,9 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
-https://trt2.blutv.com/blutv_trt2/live.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/12037070.png" group-title="🇹🇷Turkey",TRT TÜRK
@@ -4327,17 +4519,19 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900367.png" group-title="🇹🇷Turkey",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900403.png" group-title="🇹🇷Turkey",TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/13085587.png" group-title="🇹🇷Turkey",TRT COKUK
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/14812639.png" group-title="🇹🇷Turkey",TRT Kürdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtarabi.png" group-title="🇹🇷Turkey",TRT ARABIC
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900434.png" group-title="🇹🇷Turkey",TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/14760647.png" group-title="🇹🇷Turkey",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="" group-title="🇹🇷Turkey",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014035.png" group-title="🇹🇷Turkey",TRT EBA TV ELKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8014037.png" group-title="🇹🇷Turkey",TRT EBA TV ORTAOKUL
