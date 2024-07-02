@@ -112,6 +112,20 @@ http://179.124.14.153:8080/19/index.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+7
 http://tv.streams.baikal-telecom.net:8080/MatchArena/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 1+
+https://stream1.freetv.fun/bein-1-sports-1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 2+
+https://stream1.freetv.fun/bein-2-sports-1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 3+
+https://stream1.freetv.fun/bein-3-sports-1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 4+
+https://stream1.freetv.fun/bein-4-sports-1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 5
+https://stream1.freetv.fun/bein-5-sports-1.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",beIN SPORTS 1
 http://homeip.biz/IN_AE1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",beIN SPORTS 2
