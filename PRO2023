@@ -113,18 +113,30 @@ http://179.124.14.153:8080/19/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/MatchArena/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="BEIN SPORT بين سبور",beIN SPORTS News HD
+http://181.215.205.43:1234/stream/me/beinews?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3QkHbQ.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
+http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1 HD
+http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2 HD
+http://181.215.205.43:1234/stream/me/bein2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7cDjwX.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 3 HD
+http://181.215.205.43:1234/stream/me/bein3?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 1+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
 https://stream1.freetv.fun/bein-1-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 2+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
 https://stream1.freetv.fun/bein-2-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 3+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
 https://stream1.freetv.fun/bein-3-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 4+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
 https://stream1.freetv.fun/bein-4-sports-1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN sports 5
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
 https://stream1.freetv.fun/bein-5-sports-1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",beIN SPORTS 1
 http://homeip.biz/IN_AE1/index.m3u8
@@ -279,19 +291,6 @@ https://pufa.vercel.app/home/1422
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="BEIN SPORT بين سبور",BEIN SPORT XTRA SD2
 https://pufa.vercel.app/home/22
 
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",BEIN SPORT 2+++
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",BEIN SPORT 3+++
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",BEIN SPORT 4+++
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",BEIN SPORT 5+++
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JpLJso" group-title="BEIN SPORT بين سبور",BEIN SPORT 6+++
 
 
 
