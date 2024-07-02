@@ -368,6 +368,16 @@ http://181.215.205.43:1234/stream/me/abd1?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3
 http://181.215.205.43:1234/stream/me/abd2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport_1_HD
+http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eleven_Sports_1_HD
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",TVP_Sport HD
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",ELEVEN_SPORTS_4 HD
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+
 #EXTINF:0 tvg-id="esp-hd" group-title="SPORT VIP 🏆",Eurosport 1 HD
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 #EXTINF:0 tvg-id="esp2" group-title="SPORT VIP 🏆",Eurosport 2
