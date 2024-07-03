@@ -113,16 +113,21 @@ http://179.124.14.153:8080/19/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/MatchArena/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="BEIN SPORT بين سبور",beIN SPORTS News HD
 http://181.215.205.43:1234/stream/me/beinews?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3QkHbQ.png" group-title="BEIN SPORT بين سبور",beIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrr8W6y/beinsportsmax1hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1 HD
 http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1 HD
-http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf5D3JR/beinsportsmax2hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2 HD
 http://181.215.205.43:1234/stream/me/bein2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K7cDjwX.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpXCZjw/beinsportsmax3hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 3 HD
 http://181.215.205.43:1234/stream/me/bein3?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1
+http://181.215.205.43:1234/stream/me/beinsd?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2
+http://181.215.205.43:1234/stream/me/bein2sd?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQ5SDm7/beinsportsnba.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NBA
+http://181.215.205.43:1234/stream/me/beinnba?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
