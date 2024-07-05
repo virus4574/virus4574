@@ -81,7 +81,7 @@ https://tv.qmedia.ps/hls/web1.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 8
 https://tv.qmedia.ps/hls/web2.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 9
-https://hw1.jemtv.com/app/trt1/chunks.m3u8
+https://hw1.jemtv.com/app/1/chunks.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 10
 https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT 11
@@ -4663,7 +4663,7 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
@@ -9216,7 +9216,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TELEDEPORTE 🇪🇸
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",TRT1 🇹🇷
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 1 MAX 🇶🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT VIP",BEIN SPORT 1 MAX 🇶🇦
