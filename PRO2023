@@ -1479,6 +1479,16 @@ http://181.215.205.107:1234/stream/sct/stctvfamily?u=uae02&p=c1c0fafc22209e4f81d
 http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm49tRb.png" group-title="Stc TV VIP",beIN Series 1 HD
+http://181.215.205.107:1234/stream/tod/beinsr1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FUjTO4.png" group-title="Stc TV VIP",beIN Series 2 HD
+http://181.215.205.107:1234/stream/tod/beinsr2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1Zpjy/beinmovies1.png" group-title="Stc TV VIP",beIN Moveis 1 HD
+http://181.215.205.107:1234/stream/tod/beinmv1?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3DxnWS/beinmovies2.png" group-title="Stc TV VIP",beIN Moveis 2 HD
+http://181.215.205.107:1234/stream/tod/beinmv2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eg3g0E3.png" group-title="Stc TV VIP",beIN Movies 3 HD
+http://181.215.205.107:1234/stream/tod/beinmv3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
@@ -1515,21 +1525,22 @@ https://bit.ly/3xYLaRh
 https://bit.ly/3DF4NAn
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="vip channels", VIP channels
+https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="vip channels",  النسخة المدفوعة AirMax TV
+https://bit.ly/3DF4NAn
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cFDFxG3/eurosport1.png" group-title="vip channels", EUROSPORT 1
-http://185.135.157.72:1234/stream/sky-uk/eurosports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGvpSds/eurosport2.png" group-title="vip channels", EUROSPORT 2 
-http://185.135.157.72:1234/stream/sky-uk/eurosports-2-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jL7VRjd/skysportsaction.png" group-title="vip channels", SKY SPORTS ACTION
-http://185.135.157.72:1234/stream/sky-uk/sky-sports-action-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WSDxTg/skysportsnews.png" group-title="vip channels", SKY SPORTS NEWS
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-news-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxZqHVd/skysports-PREMIERLEAGUE.png" group-title="vip channels", SKY SPORTS PREMIER LEAGUE
 http://185.135.157.72:1234/stream/sky-uk/sky-sports-premier-league-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S5VP2dC/skysportsracing.png" group-title="vip channels", SKY SPORTS RACING
-http://185.135.157.72:1234/stream/sky-uk/sky-sports-racing-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/471Yt87/skysportsfootball.png" group-title="vip channels", SKY SPORTS FOOTBALL
 http://31.200.241.16:1234/stream/skyuk/skyukfootball?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jL7VRjd/skysportsaction.png" group-title="vip channels", SKY SPORTS ACTION
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-action-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5VP2dC/skysportsracing.png" group-title="vip channels", SKY SPORTS RACING
+http://185.135.157.72:1234/stream/sky-uk/sky-sports-racing-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fthRThZ/skysportstennis.png" group-title="vip channels", SKY SPORTS TENNIS
 http://31.200.241.16:1234/stream/skyuk/skyuktennis?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSV94hx/skysportsgolf.png" group-title="vip channels", SKY SPORTS GOLF
@@ -1542,7 +1553,10 @@ http://185.135.157.72:1234/stream/sky-uk/bt-sports-2-hd?u=drm03&p=c1c0fafc22209e
 http://185.135.157.72:1234/stream/sky-uk/bt-sports-3-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VttYQjh/tntsports4.png" group-title="vip channels", TNT SPORTS 4
 http://185.135.157.72:1234/stream/sky-uk/bt-sports-4-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cFDFxG3/eurosport1.png" group-title="vip channels", EUROSPORT 1
+http://185.135.157.72:1234/stream/sky-uk/eurosports-1-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGvpSds/eurosport2.png" group-title="vip channels", EUROSPORT 2 
+http://185.135.157.72:1234/stream/sky-uk/eurosports-2-hd?u=drm03&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrwnYtN/beinsports1.png" group-title="vip channels",beIN SPORTS 1 HD
@@ -1555,6 +1569,10 @@ http://31.200.241.16:1234/stream/movistar/bein3?u=drm02&p=c1c0fafc22209e4f81d172
 http://31.200.241.16:1234/stream/movistar/bein4?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcLDywS/beinsports5.png" group-title="vip channels",beIN SPORTS MAX 5 HD
 http://31.200.241.16:1234/stream/movistar/bein5?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bJMGZJ0/infosportplus.png" group-title="vip channels",InfoSport+ HD
+http://31.200.241.16:1234/stream/movistar/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOFyBP6.png" group-title="vip channels",Le Equipe HD
+http://31.200.241.16:1234/stream/movistar/lequipe?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtY8PQk/tf1.png" group-title="vip channels",TF1 HD
 http://31.200.241.16:1234/stream/movistar/tf1?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkFKtF2/frtf14k.png" group-title="vip channels",TF1 4K
@@ -1563,21 +1581,21 @@ http://31.200.241.16:1234/stream/movistar/tf14K?u=drm02&p=c1c0fafc22209e4f81d172
 http://31.200.241.16:1234/stream/movistar/m6?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqrVQcc/frm64k.png" group-title="vip channels",M6 4K
 http://31.200.241.16:1234/stream/movistar/m64k?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bJMGZJ0/infosportplus.png" group-title="vip channels",InfoSport+ HD
-http://31.200.241.16:1234/stream/movistar/infosport?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zllIHou.png" group-title="vip channels",13 Emerue HD
+http://31.200.241.16:1234/stream/movistar/13emerue?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGJv1Pv.png" group-title="vip channels",Paris Premiere HD
+http://31.200.241.16:1234/stream/movistar/parispremiere?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bL4VBD0/discoverychannel.png" group-title="vip channels",Discovery Channel HD
 http://31.200.241.16:1234/stream/movistar/discovery?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnd2s32/defussballtv1.png" group-title="vip channels",DE FussballTV1 HD
-http://164.132.206.27:8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="vip channels",DE FussballTV2 HD
-http://164.132.206.27:8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlX9Tew.png" group-title="vip channels",DE Sportdigital fussball HD
-http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N6eTBws.png" group-title="vip channels",DE Sportdigital fussball 2 HD
-http://164.132.206.27:8000/stream/tv/sportdigitalfussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9ncqJt.png" group-title="vip channels",DE Scooore HD
-http://164.132.206.27:8000/stream/tv/scooore?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnd2s32/defussballtv1.png" group-title="vip channels",FussballTV1 HD
+http://164.132.206.27:8000/stream/tv/fussball1?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ghx1dl.png" group-title="vip channels",FussballTV2 HD
+http://164.132.206.27:8000/stream/tv/fussball2?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4kcRj0.png" group-title="vip channels",Sportdigital fussball HD
+http://164.132.206.27:8000/stream/tv/sportdigitalfussball?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 
@@ -1589,7 +1607,7 @@ http://164.132.206.27:8000/stream/skyitalia/skyatlanticfhd/master.m3u8?u=skyit&p
 http://164.132.206.27:8000/stream/skyitalia/skyseriefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWQFsCk/skyinvestigation.png" group-title="vip channels",IT Sky Investigation HD
 http://164.132.206.27:8000/stream/skyitalia/skyinvestigationfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A0rUHhh.png" group-title="vip channels",IT Sky Arte HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgny0LM/skyarte.png" group-title="vip channels",IT Sky Arte HD
 http://164.132.206.27:8000/stream/skyitalia/skyartefhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vVwd8hJ/skydocumentaries.png" group-title="vip channels",IT Sky Documentaries HD
 http://164.132.206.27:8000/stream/skyitalia/skydocumentariesfhd/master.m3u8?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
@@ -1666,33 +1684,30 @@ http://164.132.206.27:8000/stream/tv/daznf1es?u=skyit&p=c1c0fafc22209e4f81d172e9
 http://164.132.206.27:8000/stream/tv/daznlaliga?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NFxX8H4/laligatvbar.png" group-title="vip channels",LALIGA BAR HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GbSsRRH.png" group-title="vip channels",LaLiga TV BAR  HD
 http://31.200.241.16:1234/stream/movistar/bartv?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3Lx9S5/laligatvhypermotion.png" group-title="vip channels",LALIGA Tv HyperMotion HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyqhTb4.png" group-title="vip channels",LaLiga TV Hypermotion HD
 http://164.132.206.27:8000/stream/tv/daznhyper?u=skyit&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G9GLTgx/laligatvpormplus.png" group-title="vip channels",M+ LALIGA Tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/McDDar0.png" group-title="vip channels",M+ LaLiga TV HD
 http://31.200.241.16:1234/stream/movistar/mlaliga?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="vip channels",M+ Copa América HD
-http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfBBRjC/copaamericapormplus.png" group-title="vip channels",M+ Copa América 2 HD
-http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/cxx.png" group-title="vip channels", M+ VAMOS HD
-http://31.200.241.16:1234/stream/movistar/vamos?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/cxxx.png" group-title="vip channels", M+ DEPORTES HD
-http://31.200.241.16:1234/stream/movistar/mdeportes?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxxx/xxxx.png" group-title="vip channels", M+ DEPORTES 2 HD
-http://31.200.241.16:1234/stream/movistar/mdeportes2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ddd/xx.png" group-title="vip channels", M+ LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnWgXxb.png" group-title="vip channels",M+ Liga de Campeones HD
 http://31.200.241.16:1234/stream/movistar/lcampeones?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xx/xx.png" group-title="vip channels", M+ ACCI?N HD
-http://31.200.241.16:1234/stream/movistar/maction?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxxx.png" group-title="vip channels", M+ SERIES HD
-http://31.200.241.16:1234/stream/movistar/mseries?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xxx/xxxx.png" group-title="vip channels", M+ Cine HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAAFZe7.png" group-title="vip channels",M+ Copa America 1 HD
+http://31.200.241.16:1234/stream/movistar/movistarcopaamerica?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBpa0Ph.png" group-title="vip channels",M+ Copa America 2 HD
+http://31.200.241.16:1234/stream/movistar/copaamerica2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKxVLk0.png" group-title="vip channels",M+ Vamos HD
+http://31.200.241.16:1234/stream/movistar/vamos?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDw1YE0.png" group-title="vip channels",M+ Deportes HD
+http://31.200.241.16:1234/stream/movistar/mdeportes?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceLVyjr.png" group-title="vip channels",M+ Deportes 2 HD
+http://31.200.241.16:1234/stream/movistar/mdeportes2?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSe9maL.png" group-title="vip channels",M+ Cine HD
 http://31.200.241.16:1234/stream/movistar/mcine?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlQSinK.png" group-title="vip channels",M+ Series HD
+http://31.200.241.16:1234/stream/movistar/mseries?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6jIhnI.png" group-title="vip channels",M+ Accion HD
+http://31.200.241.16:1234/stream/movistar/maction?u=drm02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 #EXTINF:0 tvg-id="ext" group-title="Rakuten_TV",AfricaNews (EU)
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
