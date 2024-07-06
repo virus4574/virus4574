@@ -127,19 +127,17 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3D8dTE.png" group-title="BEIN SPORT بين سبور",beIN SPORTS News HD
-http://181.215.205.43:1234/stream/me/beinews?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://181.215.205.107:1234/stream/tod/beinews?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nrr8W6y/beinsportsmax1hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1 HD
-http://181.215.205.43:1234/stream/me/bein?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://181.215.205.107:1234/stream/tod/bein?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf5D3JR/beinsportsmax2hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2 HD
-http://181.215.205.43:1234/stream/me/bein2?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://181.215.205.107:1234/stream/tod/bein2?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpXCZjw/beinsportsmax3hd.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 3 HD
-http://181.215.205.43:1234/stream/me/bein3?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://181.215.205.107:1234/stream/tod/bein3?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LtLVqan.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 1
-http://181.215.205.43:1234/stream/me/beinsd?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://181.215.205.107:1234/stream/tod/beinsd?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJRy2Ya.png" group-title="BEIN SPORT بين سبور",beIN SPORTS MAX 2
-http://181.215.205.43:1234/stream/me/bein2sd?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQ5SDm7/beinsportsnba.png" group-title="BEIN SPORT بين سبور",beIN SPORTS NBA
-http://181.215.205.43:1234/stream/me/beinnba?u=drm04&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+http://181.215.205.107:1234/stream/tod/bein2sd?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",BEIN SPORT 1+++
@@ -1479,6 +1477,7 @@ http://181.215.205.107:1234/stream/sct/stctvdrama?u=uae02&p=c1c0fafc22209e4f81d1
 http://181.215.205.107:1234/stream/sct/stctvfamily?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrMi096.png" group-title="Stc TV VIP",Stctv kids HD
 http://181.215.205.107:1234/stream/sct/stctvkids?u=uae02&p=c1c0fafc22209e4f81d172e9a3c3c9e6b763c9769a0ac7e6c59887dcf324b3c2
+
 
 
 
@@ -4668,7 +4667,8 @@ https://bit.ly/3xYLaRh
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?=&sid=6jgw33gr1hl1&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ SD
+https://trt.daioncdn.net/trt-1/master_480p.m3u8?=&sid=6jgw33gr1hl1&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
