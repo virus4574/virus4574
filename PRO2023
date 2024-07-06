@@ -4678,6 +4678,8 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇹🇷Turkey",TURKEY TV
 https://bit.ly/3xYLaRh
+#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR | TRT 4K (1080)" tvg-logo="https://ia801404.us.archive.org/6/items/tvlogopack/trt4k.jpg" group-title="🇹🇷Turkey",TRT4K ⁴ᴷ⁺™
+https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
@@ -4736,6 +4738,8 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="🇹🇷Turkey",TV8 UHD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="🇹🇷Turkey",TV8 ᴴᴰ⁺™
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="🇹🇷Turkey",TV8.5 UHD
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="🇹🇷Turkey",TV8 INT
@@ -4750,6 +4754,50 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="🇹🇷Turkey",TEVE2 UHD
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="🇹🇷Turkey", YEŞİLÇAM sine 1 ʜᴅ 
+http://bozztv.com:80/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1218.jpg" group-title="🇹🇷Turkey", YEŞİLÇAM sine 2  ʜᴅ
+http://bozztv.com:80/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1219.jpg" group-title="🇹🇷Turkey", YEŞİLÇAM sine 3  ʜᴅ
+http://bozztv.com:80/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/207.png" group-title="🇹🇷Turkey", YEŞİLÇAM 1  ʜᴅ
+http://bozztv.com:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1215.png" group-title="🇹🇷Turkey", YEŞİLÇAM 2  ʜᴅ
+http://bozztv.com:80/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1216.png" group-title="🇹🇷Turkey", YEŞİLÇAM 3  ʜᴅ
+http://bozztv.com:80/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="🇹🇷Turkey", YEŞİLÇAM sine1 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="🇹🇷Turkey", YEŞİLÇAM sine2 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.elahmad.com/tv/images/gin/1217.jpg" group-title="🇹🇷Turkey", YEŞİLÇAM sine3 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 4 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 5 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 6 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 7 ᴴᴰ
+http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 8 ᴴᴰ 
+http://stream.tvcdn.net/diger-eglence/malkocoglu-murat-film.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 9 ᴴᴰ 
+http://stream.tvcdn.net/diger-eglence/film-atolyesi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 10 ᴴᴰ 
+http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 11 ᴴᴰ 
+http://stream.tvcdn.net/diger-eglence/doganay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 12 ᴴᴰ 
+http://stream.tvcdn.net/diger-eglence/cansuyu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 13 ᴴᴰ 
+http://stream.tvcdn.net/diger-muzik/nef-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" group-title="🇹🇷Turkey", YESILCAM 14 ᴴᴰ 
+http://stream.tvcdn.net/diger-eglence/turk-filmleri.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷Turkey" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.STAR ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
