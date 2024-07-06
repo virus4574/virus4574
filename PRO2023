@@ -4683,6 +4683,8 @@ https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="🇹🇷Turkey",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="🇹🇷Turkey",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png" group-title="🇹🇷Turkey",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/8971131.png" group-title="🇹🇷Turkey",TRT HABER
