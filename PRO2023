@@ -91,6 +91,9 @@ https://tv.qmedia.ps/hls/webs2.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://sctvonline.vn/
 
+#EXTINF:-1 group-title="BEIN SPORT بين سبور" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/110.jpg",المتوحش 
+https://fvideo6d.ddns.me/2vod5n/motawa7sh-10.mp4/chunk.m3u8|Referer=https://mobile.farfeshplus.online/
+
 
 
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT+1
