@@ -47,6 +47,14 @@ https://sportina.app/osat-max1/tracks-v1a1/mono.m3u8
 https://sportina.app/osat-max2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="BEIN SPORT بين سبور" tvg-logo="https://bit.ly/3EMQtXj",LIVE 24 SPORT MAX 1
 https://kooraliveml.xyz/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono.bein" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png" group-title="BEIN SPORT بين سبور",EURO2024-beIN_Sports_Max1
+https://7pal.short.gy/binmax1
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png" group-title="BEIN SPORT بين سبور",EURO2024-beIN_Sports_Max2
+https://7pal.short.gy/binmax2
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.128.png" group-title="BEIN SPORT بين سبور",EURO2024-beIN_Sports_Max3
+https://7pal.short.gy/binmax3
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/11064246.png" group-title="BEIN SPORT بين سبور",TRT 1
 https://bozztv.com/inim03/live1/trt1eu/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="BEIN SPORT بين سبور",TRT1 ᴴᴰ⁺ʏᴇᴅᴇᴋ
@@ -612,6 +620,10 @@ https://bit.ly/3gj9PK5
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Live Sports",النسخة المدفوعة AirMax TV
 https://bit.ly/3DF4NAn
 
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Live Sports",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Live Sports",Arena Sport 2 HD
@@ -624,6 +636,22 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Live Sports",Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Live Sports"",StarSports 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="Live Sports",StarSports 2
+http://103.120.172.74:4500
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="Live Sports",StarSports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="Live Sports",StarSports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="Live Sports",SonySports Ten 1 HD
+http://103.120.172.74:1140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Live Sports",SonySports Ten 5
+http://103.120.172.74:5300
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Live Sports" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-1.png",Eleven sports 2 🇵🇱
 http://89.187.179.242:12397
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" group-title="Live Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
